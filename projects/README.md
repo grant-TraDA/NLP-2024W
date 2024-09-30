@@ -1,0 +1,1 @@
+This folder is for each team to creat subfolder with a title - keyword - of their project to submit all the deliverables for their work.
