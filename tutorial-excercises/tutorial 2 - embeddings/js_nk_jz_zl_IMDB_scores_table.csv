@@ -1,0 +1,5 @@
+"",model,f1,accuracy,precision,recall
+0,TextBlob,0.750198,0.68516,0.621758,0.945520
+0,distilbert-base-uncased-finetuned-sst-2-english,0.884697,0.88852,0.916117,0.855360
+0,slim-sentiment,0.901526,0.90060,0.887978,0.915493
+0,Vader,0.733529,0.69180,0.643117,0.853521
