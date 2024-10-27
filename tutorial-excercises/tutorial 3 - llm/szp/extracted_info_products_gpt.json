@@ -1,0 +1,973 @@
+{
+    "simple_prompt": [
+        {
+            "product_category": "Wireless Music System",
+            "brand": "Bose",
+            "other_keywords": [
+                "SoundTouch 10",
+                "Model 416776",
+                "Black",
+                "for sale online"
+            ],
+            "source": "Bose SoundTouch 10 Wireless Music System Model 416776 - Black for sale online"
+        },
+        {
+            "product_category": "gaming console",
+            "brand": "Sony",
+            "other_keywords": [
+                "PS5",
+                "Digital Edition",
+                "White"
+            ],
+            "source": "Sony PS5 Digital Edition Console - White for sale online"
+        },
+        {
+            "product_category": "Bookshelf Speakers",
+            "brand": "Bose",
+            "other_keywords": [
+                "301 Series IV",
+                "Direct Reflecting",
+                "Black",
+                "Pair Matched Set"
+            ],
+            "source": "Bose 301 Series IV Direct Reflecting Bookshelf Speakers Black Pair Matched Set!"
+        },
+        {
+            "product_category": "lamp",
+            "brand": "Deluxlite",
+            "other_keywords": [
+                "Xenon",
+                "GY6.35",
+                "24V",
+                "150W",
+                "XJC"
+            ],
+            "source": "Deluxlite Xenon Lamp GY6.35 24V 150W XJC"
+        },
+        {
+            "product_category": "",
+            "brand": "Landis & Gyr",
+            "other_keywords": [
+                "programmer",
+                "rwb252",
+                "very rare",
+                "buy it now",
+                "just bid"
+            ],
+            "source": "Landis & Gyr programmer rwb252 very rare (buy it now just bid)"
+        },
+        {
+            "product_category": "earbuds",
+            "brand": "Bass",
+            "other_keywords": [
+                "Microbud",
+                "EP-2800-2",
+                "Pink",
+                "Aluminum",
+                "Earphones",
+                "Headphones",
+                "3.5mm Jack"
+            ],
+            "source": "Bass Microbud EP-2800-2 Pink Aluminum Earbuds Earphones Headphones 3.5mm Jack"
+        },
+        {
+            "product_category": "C\u00e1mara de vigilancia",
+            "brand": "",
+            "other_keywords": [
+                "32gb",
+                "camuflado",
+                "mini",
+                "V\u00eddeo",
+                "Visi\u00f3n nocturna"
+            ],
+            "source": "32gb camuflado mini C\u00e1mara de vigilancia V\u00eddeo Visi\u00f3n nocturna for sale online"
+        },
+        {
+            "product_category": "Earphone",
+            "brand": "Bluedio",
+            "other_keywords": [
+                "Wireless",
+                "Bluetooth 5.0",
+                "In-Ear",
+                "Headset",
+                "Stereo",
+                "B8E5"
+            ],
+            "source": "Bluedio Hi Wireless Bluetooth 5.0 Earphone For Phone In-Ear Headset Stereo B8E5"
+        },
+        {
+            "product_category": "smart watch",
+            "brand": "Fossil",
+            "other_keywords": [
+                "Gen 4",
+                "Authentic",
+                "Digital Dial",
+                "Custom Band",
+                "FTW4019",
+                "CR54"
+            ],
+            "source": "Fossil Gen 4 Authentic Digital Dial Smart Watch Custom Band FTW4019 CR54"
+        },
+        {
+            "product_category": "earbuds",
+            "brand": "Jlab",
+            "other_keywords": [
+                "Metal",
+                "Neon",
+                "Aluminum",
+                "Mic",
+                "Track Control",
+                "Blue",
+                "Orange",
+                "New",
+                "Sealed"
+            ],
+            "source": "Jlab Metal Neon Aluminum Earbuds with Mic & Track Control Blue Orange New Sealed"
+        },
+        {
+            "product_category": "headphones",
+            "brand": "Beats",
+            "other_keywords": [
+                "Solo 2"
+            ],
+            "source": "Beats Solo 2 Headphones"
+        },
+        {
+            "product_category": "AUX Cable",
+            "brand": "Krystal Kable",
+            "other_keywords": [
+                "6-Feet",
+                "Mp3",
+                "iPod",
+                "iPhone",
+                "3.5mm Male",
+                "1 8-Inch",
+                "RCA Stereo Adapter"
+            ],
+            "source": "Krystal Kable 6-Feet Mp3/iPod/iPhone AUX Cable 3.5mm Male 1 8-Inch to RCA Stereo Adapter for sale online"
+        },
+        {
+            "product_category": "Watch Band Strap",
+            "brand": "Garmin",
+            "other_keywords": [
+                "Silicone",
+                "Pin",
+                "Forerunner 220",
+                "Forerunner 230",
+                "Forerunner 235",
+                "Forerunner 620",
+                "Forerunner 630"
+            ],
+            "source": "Silicone Watch Band Strap with Pin for Garmin Forerunner 220 230 235 620 630"
+        },
+        {
+            "product_category": "gaming console",
+            "brand": "Sony",
+            "other_keywords": [
+                "PlayStation 2",
+                "Spring Bundle",
+                "Sakura Pink",
+                "for sale online"
+            ],
+            "source": "Sony PlayStation 2 Spring Bundle Sakura Pink Console for sale online"
+        },
+        {
+            "product_category": "Smart Watch Charger",
+            "brand": "",
+            "other_keywords": [
+                "Charging Dock Cable",
+                "Fenix 5",
+                "5S",
+                "5X",
+                "Super"
+            ],
+            "source": "Smart Watch Charger Charging Dock Cable for good 3 Fenix 5 5S 5X Super"
+        },
+        {
+            "product_category": "bracelet",
+            "brand": "",
+            "other_keywords": [
+                "remplacement",
+                "apparence concise",
+                "mode",
+                "facile \u00e0 porter"
+            ],
+            "source": "2x bracelet de remplacement apparence concise mode et facile \u00e0 porter"
+        },
+        {
+            "product_category": "headphones",
+            "brand": "Beats by Dre",
+            "other_keywords": [
+                "Solo 3",
+                "On-Ear",
+                "Wireless",
+                "Rose Gold",
+                "New",
+                "Sealed"
+            ],
+            "source": "Beats by Dre Solo 3 On-Ear Wireless Headphones - Rose Gold New and Sealed"
+        },
+        {
+            "product_category": "Terminal de Altavoces",
+            "brand": "",
+            "other_keywords": [
+                "Propia Conjunto",
+                "Cajas",
+                "180x130mm",
+                "Weichenhalterung"
+            ],
+            "source": "Terminal de Altavoces Para Propia Conjunto An Cajas 180x130mm Weichenhalterung"
+        },
+        {
+            "product_category": "Fitbit Band",
+            "brand": "Fitbit",
+            "other_keywords": [
+                "Soft Pink",
+                "M/L"
+            ],
+            "source": "Soft Pink Fitbit Band M/L"
+        },
+        {
+            "product_category": "Smart Speaker",
+            "brand": "Amazon",
+            "other_keywords": [
+                "Echo Dot",
+                "4th Gen",
+                "Charcoal"
+            ],
+            "source": "Amazon Echo Dot (4th Gen.) Smart Speaker - Charcoal for sale online"
+        }
+    ],
+    "playrole_prompt": [
+        {
+            "product_category": "Wireless Music System",
+            "brand": "Bose",
+            "other_keywords": [
+                "SoundTouch 10",
+                "Model 416776",
+                "Black"
+            ],
+            "source": "Bose SoundTouch 10 Wireless Music System Model 416776 - Black for sale online"
+        },
+        {
+            "product_category": "gaming console",
+            "brand": "Sony",
+            "other_keywords": [
+                "PS5",
+                "Digital Edition",
+                "White",
+                "for sale online"
+            ],
+            "source": "Sony PS5 Digital Edition Console - White for sale online"
+        },
+        {
+            "product_category": "Bookshelf Speakers",
+            "brand": "Bose",
+            "other_keywords": [
+                "301 Series IV",
+                "Direct Reflecting",
+                "Black",
+                "Pair",
+                "Matched Set"
+            ],
+            "source": "Bose 301 Series IV Direct Reflecting Bookshelf Speakers Black Pair Matched Set!"
+        },
+        {
+            "product_category": "lamp",
+            "brand": "Deluxlite",
+            "other_keywords": [
+                "Xenon",
+                "GY6.35",
+                "24V",
+                "150W",
+                "XJC"
+            ],
+            "source": "Deluxlite Xenon Lamp GY6.35 24V 150W XJC"
+        },
+        {
+            "product_category": "programmer",
+            "brand": "Landis & Gyr",
+            "other_keywords": [
+                "rwb252",
+                "very rare",
+                "buy it now",
+                "just bid"
+            ],
+            "source": "Landis & Gyr programmer rwb252 very rare (buy it now just bid)"
+        },
+        {
+            "product_category": "Earbuds",
+            "brand": "Bass",
+            "other_keywords": [
+                "Microbud",
+                "EP-2800-2",
+                "Pink",
+                "Aluminum",
+                "Earphones",
+                "Headphones",
+                "3.5mm Jack"
+            ],
+            "source": "Bass Microbud EP-2800-2 Pink Aluminum Earbuds Earphones Headphones 3.5mm Jack"
+        },
+        {
+            "product_category": "C\u00e1mara de vigilancia",
+            "brand": "",
+            "other_keywords": [
+                "32gb",
+                "camuflado",
+                "mini",
+                "V\u00eddeo",
+                "Visi\u00f3n nocturna"
+            ],
+            "source": "32gb camuflado mini C\u00e1mara de vigilancia V\u00eddeo Visi\u00f3n nocturna for sale online"
+        },
+        {
+            "product_category": "Earphone",
+            "brand": "Bluedio",
+            "other_keywords": [
+                "Wireless",
+                "Bluetooth 5.0",
+                "In-Ear",
+                "Headset",
+                "Stereo",
+                "B8E5"
+            ],
+            "source": "Bluedio Hi Wireless Bluetooth 5.0 Earphone For Phone In-Ear Headset Stereo B8E5"
+        },
+        {
+            "product_category": "smart watch",
+            "brand": "Fossil",
+            "other_keywords": [
+                "Gen 4",
+                "Authentic",
+                "Digital Dial",
+                "Custom Band",
+                "FTW4019",
+                "CR54"
+            ],
+            "source": "Fossil Gen 4 Authentic Digital Dial Smart Watch Custom Band FTW4019 CR54"
+        },
+        {
+            "product_category": "earbuds",
+            "brand": "Jlab",
+            "other_keywords": [
+                "Metal",
+                "Neon",
+                "Aluminum",
+                "Mic",
+                "Track Control",
+                "Blue",
+                "Orange",
+                "New",
+                "Sealed"
+            ],
+            "source": "Jlab Metal Neon Aluminum Earbuds with Mic & Track Control Blue Orange New Sealed"
+        },
+        {
+            "product_category": "headphones",
+            "brand": "Beats",
+            "other_keywords": [
+                "Solo 2"
+            ],
+            "source": "Beats Solo 2 Headphones"
+        },
+        {
+            "product_category": "AUX Cable",
+            "brand": "Krystal Kable",
+            "other_keywords": [
+                "6-Feet",
+                "Mp3",
+                "iPod",
+                "iPhone",
+                "3.5mm Male",
+                "1 8-Inch",
+                "RCA Stereo Adapter"
+            ],
+            "source": "Krystal Kable 6-Feet Mp3/iPod/iPhone AUX Cable 3.5mm Male 1 8-Inch to RCA Stereo Adapter for sale online"
+        },
+        {
+            "product_category": "Watch Band Strap",
+            "brand": "Garmin",
+            "other_keywords": [
+                "Silicone",
+                "Pin",
+                "Forerunner 220",
+                "Forerunner 230",
+                "Forerunner 235",
+                "Forerunner 620",
+                "Forerunner 630"
+            ],
+            "source": "Silicone Watch Band Strap with Pin for Garmin Forerunner 220 230 235 620 630"
+        },
+        {
+            "product_category": "gaming console",
+            "brand": "Sony",
+            "other_keywords": [
+                "PlayStation 2",
+                "Spring Bundle",
+                "Sakura Pink",
+                "for sale online"
+            ],
+            "source": "Sony PlayStation 2 Spring Bundle Sakura Pink Console for sale online"
+        },
+        {
+            "product_category": "Smart Watch Charger",
+            "brand": "",
+            "other_keywords": [
+                "Charging Dock Cable",
+                "Fenix 5",
+                "5S",
+                "5X",
+                "Super"
+            ],
+            "source": "Smart Watch Charger Charging Dock Cable for good 3 Fenix 5 5S 5X Super"
+        },
+        {
+            "product_category": "bracelet",
+            "brand": "",
+            "other_keywords": [
+                "remplacement",
+                "apparence concise",
+                "mode",
+                "facile \u00e0 porter"
+            ],
+            "source": "2x bracelet de remplacement apparence concise mode et facile \u00e0 porter"
+        },
+        {
+            "product_category": "Headphones",
+            "brand": "Beats by Dre",
+            "other_keywords": [
+                "Solo 3",
+                "On-Ear",
+                "Wireless",
+                "Rose Gold",
+                "New",
+                "Sealed"
+            ],
+            "source": "Beats by Dre Solo 3 On-Ear Wireless Headphones - Rose Gold New and Sealed"
+        },
+        {
+            "product_category": "Speaker Terminal",
+            "brand": "",
+            "other_keywords": [
+                "Propia Conjunto",
+                "Cajas",
+                "180x130mm",
+                "Weichenhalterung"
+            ],
+            "source": "Terminal de Altavoces Para Propia Conjunto An Cajas 180x130mm Weichenhalterung"
+        },
+        {
+            "product_category": "fitness tracker accessory",
+            "brand": "Fitbit",
+            "other_keywords": [
+                "soft",
+                "pink",
+                "band",
+                "M/L"
+            ],
+            "source": "Soft Pink Fitbit Band M/L"
+        },
+        {
+            "product_category": "Smart Speaker",
+            "brand": "Amazon",
+            "other_keywords": [
+                "Echo Dot",
+                "4th Gen",
+                "Charcoal"
+            ],
+            "source": "Amazon Echo Dot (4th Gen.) Smart Speaker - Charcoal for sale online"
+        }
+    ],
+    "prompt_with_example": [
+        {
+            "product_category": "Wireless Music System",
+            "brand": "Bose",
+            "other_keywords": [
+                "SoundTouch 10",
+                "Model 416776",
+                "Black",
+                "for sale online"
+            ],
+            "source": "Bose SoundTouch 10 Wireless Music System Model 416776 - Black for sale online"
+        },
+        {
+            "product_category": "Gaming Console",
+            "brand": "Sony",
+            "other_keywords": [
+                "PS5",
+                "Digital Edition",
+                "White",
+                "for sale",
+                "online"
+            ],
+            "source": "Sony PS5 Digital Edition Console - White for sale online"
+        },
+        {
+            "product_category": "Bookshelf Speakers",
+            "brand": "Bose",
+            "other_keywords": [
+                "Direct Reflecting",
+                "Black",
+                "Pair Matched Set",
+                "Series IV"
+            ],
+            "source": "Bose 301 Series IV Direct Reflecting Bookshelf Speakers Black Pair Matched Set!"
+        },
+        {
+            "product_category": "Lamps",
+            "brand": "Deluxlite",
+            "other_keywords": [
+                "Xenon",
+                "GY6.35",
+                "24V",
+                "150W",
+                "XJC"
+            ],
+            "source": "Deluxlite Xenon Lamp GY6.35 24V 150W XJC"
+        },
+        {
+            "product_category": "Programmer",
+            "brand": "Landis & Gyr",
+            "other_keywords": [
+                "rwb252",
+                "very rare",
+                "buy it now",
+                "just bid"
+            ],
+            "source": "Landis & Gyr programmer rwb252 very rare (buy it now just bid)"
+        },
+        {
+            "product_category": "Earbuds",
+            "brand": "Bass",
+            "other_keywords": [
+                "Microbud",
+                "EP-2800-2",
+                "Pink",
+                "Aluminum",
+                "Earphones",
+                "Headphones",
+                "3.5mm Jack"
+            ],
+            "source": "Bass Microbud EP-2800-2 Pink Aluminum Earbuds Earphones Headphones 3.5mm Jack"
+        },
+        {
+            "product_category": "Surveillance Cameras",
+            "brand": "",
+            "other_keywords": [
+                "32gb",
+                "camuflado",
+                "mini",
+                "V\u00eddeo",
+                "Visi\u00f3n nocturna",
+                "for sale online"
+            ],
+            "source": "32gb camuflado mini C\u00e1mara de vigilancia V\u00eddeo Visi\u00f3n nocturna for sale online"
+        },
+        {
+            "product_category": "Earphone",
+            "brand": "Bluedio",
+            "other keywords": [
+                "Wireless",
+                "Bluetooth 5.0",
+                "In-Ear",
+                "Headset",
+                "Stereo",
+                "B8E5"
+            ],
+            "source": "Bluedio Hi Wireless Bluetooth 5.0 Earphone For Phone In-Ear Headset Stereo B8E5"
+        },
+        {
+            "product_category": "Smart Watch",
+            "brand": "Fossil",
+            "other keywords": [
+                "Gen 4",
+                "Authentic",
+                "Digital Dial",
+                "Custom Band",
+                "FTW4019",
+                "CR54"
+            ],
+            "source": "Fossil Gen 4 Authentic Digital Dial Smart Watch Custom Band FTW4019 CR54"
+        },
+        {
+            "product_category": "Earbuds",
+            "brand": "Jlab",
+            "other_keywords": [
+                "Metal",
+                "Neon",
+                "Aluminum",
+                "Mic",
+                "Track Control",
+                "Blue",
+                "Orange",
+                "New",
+                "Sealed"
+            ],
+            "source": "Jlab Metal Neon Aluminum Earbuds with Mic & Track Control Blue Orange New Sealed"
+        },
+        {
+            "product_category": "Headphones",
+            "brand": "Beats",
+            "other keywords": [
+                "Solo 2"
+            ],
+            "source": "Beats Solo 2 Headphones"
+        },
+        {
+            "product_category": "AUX Cable",
+            "brand": "Krystal Kable",
+            "other_keywords": [
+                "6-Feet",
+                "Mp3",
+                "iPod",
+                "iPhone",
+                "3.5mm Male",
+                "1 8-Inch",
+                "RCA Stereo Adapter"
+            ],
+            "source": "Krystal Kable 6-Feet Mp3/iPod/iPhone AUX Cable 3.5mm Male 1 8-Inch to RCA Stereo Adapter for sale online"
+        },
+        {
+            "product_category": "Watch Bands",
+            "brand": "",
+            "other keywords": [
+                "Silicone",
+                "Pin",
+                "Garmin Forerunner 220",
+                "Garmin Forerunner 230",
+                "Garmin Forerunner 235",
+                "Garmin Forerunner 620",
+                "Garmin Forerunner 630"
+            ],
+            "source": "Silicone Watch Band Strap with Pin for Garmin Forerunner 220 230 235 620 630"
+        },
+        {
+            "product_category": "Gaming Console",
+            "brand": "Sony",
+            "other keywords": [
+                "PlayStation 2",
+                "Spring Bundle",
+                "Sakura Pink",
+                "for sale online"
+            ],
+            "source": "Sony PlayStation 2 Spring Bundle Sakura Pink Console for sale online"
+        },
+        {
+            "product_category": "Smart Watch Charger",
+            "brand": "",
+            "other_keywords": [
+                "Charging Dock",
+                "Cable",
+                "Fenix 5",
+                "5S",
+                "5X",
+                "Super"
+            ],
+            "source": "Smart Watch Charger Charging Dock Cable for good 3 Fenix 5 5S 5X Super"
+        },
+        {
+            "product_category": "Bracelets",
+            "brand": "",
+            "other keywords": [
+                "replacement",
+                "concise appearance",
+                "fashionable",
+                "easy to wear"
+            ],
+            "source": "2x bracelet de remplacement apparence concise mode et facile \u00e0 porter"
+        },
+        {
+            "product_category": "Headphones",
+            "brand": "Beats by Dre",
+            "other_keywords": [
+                "Solo 3",
+                "On-Ear",
+                "Wireless",
+                "Rose Gold",
+                "New",
+                "Sealed"
+            ],
+            "source": "Beats by Dre Solo 3 On-Ear Wireless Headphones - Rose Gold New and Sealed"
+        },
+        {
+            "product_category": "Speaker Terminal",
+            "brand": "",
+            "other keywords": [
+                "Conjunto",
+                "Cajas",
+                "Weichenhalterung",
+                "180x130mm"
+            ],
+            "source": "Terminal de Altavoces Para Propia Conjunto An Cajas 180x130mm Weichenhalterung"
+        },
+        {
+            "product_category": "Fitbit Band",
+            "brand": "Fitbit",
+            "other keywords": [
+                "Soft Pink",
+                "M/L"
+            ],
+            "source": "Soft Pink Fitbit Band M/L"
+        },
+        {
+            "product_category": "Smart Speaker",
+            "brand": "Amazon",
+            "other_keywords": [
+                "Echo Dot",
+                "4th Gen",
+                "Charcoal",
+                "for sale online"
+            ],
+            "source": "Amazon Echo Dot (4th Gen.) Smart Speaker - Charcoal for sale online"
+        }
+    ],
+    "playrole_prompt_with_example": [
+        {
+            "product_category": "Wireless Music System",
+            "brand": "Bose",
+            "other_keywords": [
+                "SoundTouch 10",
+                "Model 416776",
+                "Black",
+                "for sale online"
+            ],
+            "source": "Bose SoundTouch 10 Wireless Music System Model 416776 - Black for sale online"
+        },
+        {
+            "product_category": "Gaming Console",
+            "brand": "Sony",
+            "other_keywords": [
+                "PS5",
+                "Digital Edition",
+                "White",
+                "for sale online"
+            ],
+            "source": "Sony PS5 Digital Edition Console - White for sale online"
+        },
+        {
+            "product_category": "Bookshelf Speakers",
+            "brand": "Bose",
+            "other_keywords": [
+                "Direct Reflecting",
+                "Series IV",
+                "Black",
+                "Pair Matched Set"
+            ],
+            "source": "Bose 301 Series IV Direct Reflecting Bookshelf Speakers Black Pair Matched Set!"
+        },
+        {
+            "product_category": "Lighting",
+            "brand": "Deluxlite",
+            "other_keywords": [
+                "Xenon",
+                "Lamp",
+                "GY6.35",
+                "24V",
+                "150W",
+                "XJC"
+            ],
+            "source": "Deluxlite Xenon Lamp GY6.35 24V 150W XJC"
+        },
+        {
+            "product_category": "Programmer",
+            "brand": "Landis & Gyr",
+            "other_keywords": [
+                "rwb252",
+                "very rare",
+                "buy it now",
+                "just bid"
+            ],
+            "source": "Landis & Gyr programmer rwb252 very rare (buy it now just bid)"
+        },
+        {
+            "product_category": "Earbuds",
+            "brand": "Bass",
+            "other_keywords": [
+                "Microbud",
+                "EP-2800-2",
+                "Pink",
+                "Aluminum",
+                "Earphones",
+                "Headphones",
+                "3.5mm Jack"
+            ],
+            "source": "Bass Microbud EP-2800-2 Pink Aluminum Earbuds Earphones Headphones 3.5mm Jack"
+        },
+        {
+            "product_category": "Surveillance Cameras",
+            "brand": "",
+            "other_keywords": [
+                "32gb",
+                "camuflado",
+                "mini",
+                "V\u00eddeo",
+                "Visi\u00f3n nocturna"
+            ],
+            "source": "32gb camuflado mini C\u00e1mara de vigilancia V\u00eddeo Visi\u00f3n nocturna for sale online"
+        },
+        {
+            "product_category": "Earphones",
+            "brand": "Bluedio",
+            "other_keywords": [
+                "Wireless",
+                "Bluetooth 5.0",
+                "In-Ear",
+                "Headset",
+                "Stereo",
+                "B8E5"
+            ],
+            "source": "Bluedio Hi Wireless Bluetooth 5.0 Earphone For Phone In-Ear Headset Stereo B8E5"
+        },
+        {
+            "product_category": "Smart Watch",
+            "brand": "Fossil",
+            "other_keywords": [
+                "Gen 4",
+                "Authentic",
+                "Digital Dial",
+                "Custom Band",
+                "FTW4019",
+                "CR54"
+            ],
+            "source": "Fossil Gen 4 Authentic Digital Dial Smart Watch Custom Band FTW4019 CR54"
+        },
+        {
+            "product_category": "Earbuds",
+            "brand": "Jlab",
+            "other_keywords": [
+                "Metal",
+                "Neon",
+                "Aluminum",
+                "Mic",
+                "Track Control",
+                "Blue",
+                "Orange",
+                "New",
+                "Sealed"
+            ],
+            "source": "Jlab Metal Neon Aluminum Earbuds with Mic & Track Control Blue Orange New Sealed"
+        },
+        {
+            "product_category": "Headphones",
+            "brand": "Beats",
+            "other_keywords": [
+                "Solo 2"
+            ],
+            "source": "Beats Solo 2 Headphones"
+        },
+        {
+            "product_category": "Audio Cables",
+            "brand": "Krystal Kable",
+            "other_keywords": [
+                "6-Feet",
+                "Mp3",
+                "iPod",
+                "iPhone",
+                "AUX Cable",
+                "3.5mm Male",
+                "1 8-Inch",
+                "RCA Stereo Adapter"
+            ],
+            "source": "Krystal Kable 6-Feet Mp3/iPod/iPhone AUX Cable 3.5mm Male 1 8-Inch to RCA Stereo Adapter for sale online"
+        },
+        {
+            "product_category": "Watch Bands",
+            "brand": "Garmin",
+            "other_keywords": [
+                "silicone",
+                "strap",
+                "pin",
+                "Forerunner 220",
+                "Forerunner 230",
+                "Forerunner 235",
+                "Forerunner 620",
+                "Forerunner 630"
+            ],
+            "source": "Silicone Watch Band Strap with Pin for Garmin Forerunner 220 230 235 620 630"
+        },
+        {
+            "product_category": "Gaming Console",
+            "brand": "Sony",
+            "other_keywords": [
+                "PlayStation 2",
+                "Spring Bundle",
+                "Sakura Pink",
+                "for sale online"
+            ],
+            "source": "Sony PlayStation 2 Spring Bundle Sakura Pink Console for sale online"
+        },
+        {
+            "product_category": "Smart Watch Accessories",
+            "brand": "",
+            "other_keywords": [
+                "charger",
+                "charging dock",
+                "cable",
+                "Fenix 5",
+                "5S",
+                "5X",
+                "Super"
+            ],
+            "source": "Smart Watch Charger Charging Dock Cable for good 3 Fenix 5 5S 5X Super"
+        },
+        {
+            "product_category": "Bracelets",
+            "brand": "",
+            "other_keywords": [
+                "replacement",
+                "concise appearance",
+                "fashionable",
+                "easy to wear"
+            ],
+            "source": "2x bracelet de remplacement apparence concise mode et facile \u00e0 porter"
+        },
+        {
+            "product_category": "Headphones",
+            "brand": "Beats by Dre",
+            "other_keywords": [
+                "Solo 3",
+                "On-Ear",
+                "Wireless",
+                "Rose Gold",
+                "New",
+                "Sealed"
+            ],
+            "source": "Beats by Dre Solo 3 On-Ear Wireless Headphones - Rose Gold New and Sealed"
+        },
+        {
+            "product_category": "Speaker Terminals",
+            "brand": "",
+            "other_keywords": [
+                "Propia",
+                "Conjunto",
+                "Cajas",
+                "180x130mm",
+                "Weichenhalterung"
+            ],
+            "source": "Terminal de Altavoces Para Propia Conjunto An Cajas 180x130mm Weichenhalterung"
+        },
+        {
+            "product_category": "Fitness Tracker Accessories",
+            "brand": "Fitbit",
+            "other_keywords": [
+                "Soft",
+                "Pink",
+                "Band",
+                "M/L"
+            ],
+            "source": "Soft Pink Fitbit Band M/L"
+        },
+        {
+            "product_category": "Smart Speaker",
+            "brand": "Amazon",
+            "other_keywords": [
+                "Echo Dot",
+                "4th Gen",
+                "Charcoal",
+                "for sale online"
+            ],
+            "source": "Amazon Echo Dot (4th Gen.) Smart Speaker - Charcoal for sale online"
+        }
+    ]
+}
