@@ -1,0 +1,190 @@
+{
+  "products": {
+    "Electric Bike": {
+        "reviews": [{
+          "review_content": "The main thing: on the battery itself, driving calmly, not exceeding 30 km/h, you can do 60-70km.",
+          "golden_answer": {
+            "product_category": "Electic bicycle",
+            "product_attributes": [
+              "battery",
+              "calmly",
+              "30 km/h",
+              "60-70km"
+            ],
+            "other_keywords": [
+              "battery",
+              "calmly"
+            ]
+          }
+        },{
+          "review_content": "Super contact, the bike looks like in the pictures plus accessories, the first sensational ride, I do not yet know what range on the battery but you ride perfectly, feel the power.",
+          "golden_answer": {
+            "product_category": "Electic bicycle",
+            "product_attributes": [
+              "contact",
+              "bike",
+              "pictures",
+              "accessories",
+              "sensational",
+              "ride",
+              "range",
+              "battery",
+              "ride",
+              "power"
+            ],
+            "other_keywords": [
+              "battery",
+              "accessories",
+              "sensational",
+              "super",
+              "power"
+            ]
+          }
+        },{
+          "review_content": "The bike is great. We'll see how it works, but I think it'll be okay",
+          "golden_answer": {
+            "product_category": "Electic bicycle",
+            "product_attributes": [
+              "bike",
+              "great",
+              "works",
+              "okay"
+            ],
+            "other_keywords": [
+              "great",
+              "okay"
+            ]
+          }
+        }     
+        ],
+        "offers": [
+            "DUOTTS for adults for urban and mountain driving.",
+            "NCM ASPEN Plus FatBike - Bicycle suitable for height 165 - 185 cm",
+            "MTB Cheevalry - 4.0 Off-road metals off-road bike",
+            "Bicycle Electric Oil Brake ORZEL - famous for its reliable quality, excellent workmanship and world-class design."
+        ]
+    },
+    "Refrigirator": {
+      "reviews": [{
+        "review_content": "Super refrigerator and actually it works fruits and vegetables can fly much longer while keeping fresh as it works in the description I recommend",
+        "golden_answer": {
+          "product_category": "Refrigirator",
+          "product_attributes": [
+            "refrigerator",
+            "fruits",
+            "vegetables",
+            "fresh",
+            "description",
+            "recommend"
+          ],
+          "other_keywords": [
+            "super",
+            "fresh",
+            "recommend"
+          ]
+        }
+      },{
+        "review_content": "Very capauous refrigerator, super muted advertised refrigerators of the legated Korean manufacturer beats on the head!",
+        "golden_answer": {
+          "product_category": "Refrigirator",
+          "product_attributes": [
+            "refrigerator",
+            "capauous",
+            "muted",
+            "Korean"
+          ],
+          "other_keywords": [
+            "capauous",
+            "muted",
+            "Korean"
+          ]
+        }
+      },{
+        "review_content": "I've had the Refrigerator recently, but for now, I can only recommend it.",
+        "golden_answer": {
+          "product_category": "Refrigirator",
+          "product_attributes": [
+            "Refrigerator",
+            "recommend"
+          ],
+          "other_keywords": [
+            "recently",
+            "recommend"
+          ]
+        }
+      }
+      ],
+      "offers": [
+        "Double-door refrigerator Amica AKG - Cooling zone capacity 109l (up to top).",
+        "Refrigerator BEKO - equipped with: 3 drawers, ice cube container.",
+        "Refrigerator MPM - Very beautiful live practically silent",
+        "Refrigerator Bosch - NoFrost refrigerator and freezer with MultiBox container: plenty of space for food products."
+      ]
+    },
+    "The LEGO": {
+      "reviews": [{
+        "review_content": "The whole series of architecture is great, it makes an impression after folding.",
+        "golden_answer": {
+          "product_category": "The Blocks",
+          "product_attributes": [
+            "series",
+            "architecture",
+            "great",
+            "impression",
+            "folding"
+          ],
+          "other_keywords": [
+            "great",
+            "impression"
+          ]
+        }
+      },{
+        "review_content": "Great LEGO bricks. Many elements are movable, everything is refined and aesthetic. I really recommend it.",
+        "golden_answer": {
+          "product_category": "The Blocks",
+          "product_attributes": [
+            "LEGO bricks",
+            "movable",
+            "refined",
+            "aesthetic",
+            "recommend"
+          ],
+          "other_keywords": [
+            "movable",
+            "refined",
+            "aesthetic",
+            "recommend"
+          ]
+        }
+      },{
+        "review_content": "Super set with super two models. A large number of blocks. Detail and mapping at the highest level. The son is pleased.",
+        "golden_answer": {
+          "product_category": "The Blocks",
+          "product_attributes": [
+            "set",
+            "models",
+            "large",
+            "blocks",
+            "detail",
+            "mapping",
+            "highest",
+            "pleased"
+          ],
+          "other_keywords": [
+            "super",
+            "large",
+            "highest",
+            "pleased"
+          ]
+        }
+      }
+      ],
+      "offers": [
+        "LEGO Architecture Paris - explore and recreate the most beautiful cities in the world.",
+        "LEGO Creator Retro-style Camera - has a movable lens, shutter buttons at the top and the back open with a film space built from blocks.",
+        "LEGO Speed Champions Mercedes-AMG - includes two stylish car models and is ideal for children, fans of Mercedes and adult collectors.",
+        "LEGO Creator Train - Train lovers can invent exciting stories by taking over cities and rural areas with an incredibly detailed high-speed train."
+      ]
+    }
+  }
+}
