@@ -1,0 +1,4989 @@
+[
+    {
+        "review": "Keeps my coffee hot for hours\u2014just what I need for long workdays. Thanks, Contigo.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "coffee",
+                "hot",
+                "hours",
+                "long workdays"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "coffee",
+                "hot",
+                "long workdays"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "coffee",
+                "long workdays"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "coffee",
+                "hot",
+                "long-lasting",
+                "insulated"
+            ]
+        }
+    },
+    {
+        "review": "The lid isn\u2019t leak-proof, but it keeps drinks warm for a decent amount of time.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "leak-proof",
+                "warm",
+                "drinks"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "leak-proof",
+                "keeps drinks warm"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "lid",
+                "leak-proof",
+                "drinks",
+                "warm"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "lid",
+                "leak",
+                "warm drinks",
+                "insulation"
+            ]
+        }
+    },
+    {
+        "review": "Love the sleek design of my Zojirushi mug, and it fits perfectly in my car cup holder!",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "sleek design",
+                "car cup holder"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "sleek design",
+                "car cup holder"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "sleek design",
+                "car cup holder"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "sleek design",
+                "car cup holder",
+                "fits"
+            ]
+        }
+    },
+    {
+        "review": "It\u2019s lightweight but keeps my drinks at the right temperature for hours with Hydro Flask.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "Hydro Flask",
+            "other keywords": [
+                "lightweight",
+                "temperature",
+                "hours"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "Hydro Flask",
+            "other keywords": [
+                "lightweight",
+                "keeps drinks at the right temperature",
+                "hours"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "Hydro Flask",
+            "other keywords": [
+                "lightweight",
+                "temperature control"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "Hydro Flask",
+            "other keywords": [
+                "lightweight",
+                "temperature retention",
+                "insulated",
+                "drinks"
+            ]
+        }
+    },
+    {
+        "review": "No more cold coffee! This Yeti thermal mug does the job.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "Yeti",
+            "other keywords": [
+                "cold coffee",
+                "thermal mug"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "Yeti",
+            "other keywords": [
+                "cold coffee",
+                "thermal"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "Yeti",
+            "other keywords": [
+                "thermal",
+                "mug",
+                "coffee"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "Yeti",
+            "other keywords": [
+                "cold coffee",
+                "thermal",
+                "temperature retention"
+            ]
+        }
+    },
+    {
+        "review": "It\u2019s easy to clean, and the thermal insulation works like a charm.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "thermal insulation",
+                "easy to clean"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "easy to clean",
+                "thermal insulation"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "thermal insulation",
+                "cleaning",
+                "easy to clean"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "clean",
+                "thermal insulation",
+                "easy maintenance"
+            ]
+        }
+    },
+    {
+        "review": "The handle makes it easy to carry, and it doesn\u2019t spill.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "handle",
+                "carry",
+                "spill"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "handle",
+                "easy to carry",
+                "doesn't spill"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "handle",
+                "spill-proof",
+                "portable container",
+                "liquid container",
+                "mug",
+                "cup"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "handle",
+                "carry",
+                "no spill",
+                "portable"
+            ]
+        }
+    },
+    {
+        "review": "Not great for keeping drinks cold, but excellent for hot beverages.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "keeping drinks cold",
+                "hot beverages"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "cold drinks",
+                "hot beverages"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "drinks",
+                "hot beverages",
+                "cold"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "hot beverages",
+                "cold drinks",
+                "temperature retention"
+            ]
+        }
+    },
+    {
+        "review": "I wish it were bigger, but it\u2019s perfect for my morning tea.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "morning tea"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "morning tea",
+                "wish it were bigger"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "morning",
+                "tea"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "tea",
+                "size",
+                "morning drink"
+            ]
+        }
+    },
+    {
+        "review": "I accidentally dropped it, and it didn\u2019t dent! Very sturdy.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "sturdy"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "sturdy",
+                "dropped",
+                "didn\u2019t dent"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "sturdy",
+                "durable"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "durable",
+                "sturdy",
+                "drop-resistant"
+            ]
+        }
+    },
+    {
+        "review": "The rubber seal around the lid came loose after a few weeks. Disappointing.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "rubber seal",
+                "lid",
+                "loose",
+                "disappointing"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "rubber seal",
+                "lid",
+                "loose",
+                "disappointing"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "lid",
+                "rubber seal"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "rubber seal",
+                "lid",
+                "loose",
+                "defective"
+            ]
+        }
+    },
+    {
+        "review": "Great for both coffee and soup\u2014keeps them warm for hours.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "coffee",
+                "soup",
+                "warm"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "coffee",
+                "soup",
+                "warm",
+                "hours"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "coffee",
+                "soup",
+                "keeps warm",
+                "hours"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "coffee",
+                "soup",
+                "temperature retention",
+                "warm",
+                "hours"
+            ]
+        }
+    },
+    {
+        "review": "The exterior stays cool, even when my drink is piping hot inside.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "hot",
+                "insulated",
+                "exterior",
+                "cool"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "exterior stays cool",
+                "drink is hot",
+                "insulated"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "exterior",
+                "drink",
+                "hot",
+                "cool"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "cool exterior",
+                "hot drinks",
+                "insulation"
+            ]
+        }
+    },
+    {
+        "review": "I love the color options, and it\u2019s great for on-the-go.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "color options",
+                "on-the-go"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "color options",
+                "on-the-go"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "portable",
+                "color options"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "color options",
+                "portable",
+                "on-the-go"
+            ]
+        }
+    },
+    {
+        "review": "Keeps ice water cold for hours, even in hot weather!",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "ice water",
+                "cold",
+                "hot weather"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "ice",
+                "cold",
+                "hours",
+                "hot weather"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "insulated",
+                "cold",
+                "hot weather",
+                "ice water"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "ice water",
+                "cold retention",
+                "insulation",
+                "temperature control",
+                "hot weather"
+            ]
+        }
+    },
+    {
+        "review": "It\u2019s a little tricky to open one-handed, but overall, a great mug.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "one-handed",
+                "great"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "mug",
+                "one-handed",
+                "tricky",
+                "great"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "mug",
+                "one-handed"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "one-handed operation",
+                "difficult to open",
+                "mug"
+            ]
+        }
+    },
+    {
+        "review": "The size is perfect for travel, and it keeps drinks hot all day.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "travel",
+                "hot drinks"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "travel",
+                "keeps drinks hot",
+                "size"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "travel",
+                "drinks",
+                "hot"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "travel",
+                "hot drinks",
+                "portable",
+                "insulated"
+            ]
+        }
+    },
+    {
+        "review": "It doesn\u2019t leak, even when I toss it in my bag. Highly recommend Contigo.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "leak",
+                "bag",
+                "highly recommend"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "leak",
+                "recommend",
+                "bag"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "leak-proof",
+                "bag-friendly"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "leak-proof",
+                "portable",
+                "travel mug"
+            ]
+        }
+    },
+    {
+        "review": "The lid is a little tight, but the mug works well for keeping drinks warm.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "lid",
+                "warm"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "lid",
+                "tight",
+                "mug",
+                "keeping drinks warm"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "mug",
+                "drinks",
+                "warm",
+                "lid"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "lid",
+                "tight",
+                "keeps drinks warm"
+            ]
+        }
+    },
+    {
+        "review": "Very stylish and functional! I get compliments all the time.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "stylish",
+                "functional",
+                "compliments"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "stylish",
+                "functional",
+                "compliments"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "stylish",
+                "functional"
+            ]
+        },
+        "anthropic": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "stylish",
+                "functional",
+                "compliments"
+            ]
+        }
+    },
+    {
+        "review": "Keeps my coffee scalding hot for longer than any mug I\u2019ve owned with Zojirushi.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "coffee",
+                "hot",
+                "scalding",
+                "longer"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "coffee",
+                "scalding hot",
+                "mug"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "coffee",
+                "mug",
+                "scalding hot"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "coffee",
+                "hot",
+                "scalding",
+                "mug"
+            ]
+        }
+    },
+    {
+        "review": "Great value for the price. Works just as well as more expensive brands.",
+        "mistral": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "value",
+                "price",
+                "expensive brands"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "value",
+                "price",
+                "more expensive brands"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "value",
+                "expensive brands"
+            ]
+        },
+        "anthropic": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "value",
+                "price",
+                "affordable"
+            ]
+        }
+    },
+    {
+        "review": "The mug is lightweight and easy to carry around.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "lightweight",
+                "easy to carry"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "lightweight",
+                "easy to carry"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "mug",
+                "lightweight"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "lightweight",
+                "portable",
+                "easy to carry"
+            ]
+        }
+    },
+    {
+        "review": "It fits perfectly under my single-serve coffee machine!",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "single-serve",
+                "coffee machine"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "single-serve coffee machine",
+                "fits perfectly",
+                "coffee"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "coffee machine",
+                "single-serve"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "coffee",
+                "single-serve coffee machine",
+                "cup size",
+                "fit"
+            ]
+        }
+    },
+    {
+        "review": "Durable, sleek, and it does exactly what it\u2019s supposed to.",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "N/A",
+            "other keywords": [
+                "durable",
+                "sleek"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "durable",
+                "sleek",
+                "functional"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "Durable",
+                "Sleek"
+            ]
+        },
+        "anthropic": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "durable",
+                "sleek"
+            ]
+        }
+    },
+    {
+        "review": "My dishes come out sparkling clean every time with Cascade. Love this detergent!",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "dishes",
+                "sparkling clean",
+                "detergent"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "dishes",
+                "sparkling clean",
+                "detergent"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "dishes",
+                "detergent",
+                "sparkling clean"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "sparkling clean",
+                "dishes",
+                "clean"
+            ]
+        }
+    },
+    {
+        "review": "It works well on glass, but I\u2019ve noticed spots on my silverware.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "glass",
+                "spots",
+                "silverware"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "glass",
+                "spots",
+                "silverware"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "glass",
+                "silverware",
+                "dishwasher detergent",
+                "spots"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "glass cleaning",
+                "silverware",
+                "spots",
+                "cleaning performance"
+            ]
+        }
+    },
+    {
+        "review": "Great for tough, greasy messes. Leaves no residue! Thanks, Finish.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "tough",
+                "greasy",
+                "messes",
+                "residue"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "tough",
+                "greasy messes",
+                "leaves no residue"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "tough messes",
+                "greasy messes",
+                "no residue"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "grease cleaning",
+                "no residue",
+                "tough stains"
+            ]
+        }
+    },
+    {
+        "review": "This detergent smells amazing and leaves my dishwasher fresh.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "smells amazing",
+                "leaves my dishwasher fresh"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "smells amazing",
+                "leaves dishwasher fresh"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "detergent",
+                "fresh",
+                "dishwasher"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "fresh smell",
+                "cleaning",
+                "dishwasher"
+            ]
+        }
+    },
+    {
+        "review": "It\u2019s a little pricey, but my dishes have never looked better with Cascade Platinum.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "Platinum",
+                "pricey",
+                "dishes"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade Platinum",
+            "other keywords": [
+                "dishes",
+                "pricey",
+                "better"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "Platinum",
+                "dishes",
+                "dishwasher detergent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "platinum",
+                "expensive",
+                "clean dishes",
+                "effective"
+            ]
+        }
+    },
+    {
+        "review": "Gets rid of even the most stubborn baked-on food. Highly recommend Finish Quantum.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "Quantum",
+                "stubborn baked-on food"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "Quantum",
+                "stubborn",
+                "baked-on food"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "Finish Quantum",
+                "baked-on food",
+                "stubborn food",
+                "dishwasher detergent tablets"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "Quantum",
+                "baked-on food",
+                "stubborn stains",
+                "effective cleaning"
+            ]
+        }
+    },
+    {
+        "review": "Not the best on hard water stains, but otherwise it works great.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "hard water stains"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "hard water stains",
+                "works great"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "hard water stains",
+                "dishwasher detergent",
+                "cleaning product"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "hard water stains",
+                "cleaning performance"
+            ]
+        }
+    },
+    {
+        "review": "My dishes have never been so spotless after a wash!",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "spotless",
+                "wash",
+                "dishes"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "spotless",
+                "dishes"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "dishes",
+                "spotless",
+                "wash"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "clean",
+                "spotless",
+                "dishes",
+                "washing"
+            ]
+        }
+    },
+    {
+        "review": "It\u2019s very effective, but I wish it came in a fragrance-free version.",
+        "mistral": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "effective",
+                "fragrance-free"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "effective",
+                "fragrance-free"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "fragrance-free"
+            ]
+        },
+        "anthropic": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "effective",
+                "fragrance",
+                "scented"
+            ]
+        }
+    },
+    {
+        "review": "Cuts through grease like a dream. No more pre-rinsing with Cascade Complete.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "grease",
+                "pre-rinsing",
+                "Complete"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "Complete",
+                "grease",
+                "pre-rinsing"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "Grease",
+                "Pre-rinsing",
+                "Dishwasher Detergent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "grease-cutting",
+                "no pre-rinsing",
+                "Complete"
+            ]
+        }
+    },
+    {
+        "review": "This detergent doesn\u2019t leave any residue on plastic, which I love.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "residue",
+                "plastic"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "residue",
+                "plastic"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "detergent",
+                "plastic",
+                "residue-free"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "no residue",
+                "plastic",
+                "cleaning"
+            ]
+        }
+    },
+    {
+        "review": "My glasses come out clear and sparkling every single time.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "glasses",
+                "clear",
+                "sparkling"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "glasses",
+                "clear",
+                "sparkling"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "glasses"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "clean",
+                "glasses",
+                "sparkling",
+                "clear"
+            ]
+        }
+    },
+    {
+        "review": "It doesn\u2019t work well with my eco dishwasher. Dishes aren\u2019t as clean.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "eco dishwasher",
+                "clean",
+                "dishes"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "eco dishwasher",
+                "dishes",
+                "clean"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "dishwasher",
+                "eco dishwasher",
+                "dishes"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "eco dishwasher",
+                "cleaning performance",
+                "poor results"
+            ]
+        }
+    },
+    {
+        "review": "Very efficient\u2014gets rid of food stains and smells with no problem.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "food stains",
+                "smells"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "efficient",
+                "food stains",
+                "smells"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "efficient",
+                "food stains",
+                "smells"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "food stains",
+                "odor removal",
+                "efficient",
+                "cleaning"
+            ]
+        }
+    },
+    {
+        "review": "I noticed some streaks on my glassware, but overall it works well.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "glassware",
+                "streaks"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "streaks",
+                "glassware"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "glassware",
+                "streaks"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "glassware",
+                "streaks",
+                "cleaning performance"
+            ]
+        }
+    },
+    {
+        "review": "Leaves my dishes spotless and my machine smelling fresh.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "spotless",
+                "fresh",
+                "machine"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "dishes",
+                "spotless",
+                "machine",
+                "smelling fresh"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "dishes",
+                "machine",
+                "fresh",
+                "spotless",
+                "cleaning"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "spotless",
+                "clean",
+                "fresh smell",
+                "dishwashing",
+                "machine cleaning"
+            ]
+        }
+    },
+    {
+        "review": "A great, eco-friendly option that actually works!",
+        "mistral": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "eco-friendly",
+                "works"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "eco-friendly",
+                "actually works"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "eco-friendly"
+            ]
+        },
+        "anthropic": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "eco-friendly",
+                "effective"
+            ]
+        }
+    },
+    {
+        "review": "It\u2019s a little hard on some of my delicate dishware.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "delicate",
+                "dishware"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "delicate dishware",
+                "hard"
+            ]
+        },
+        "together": null,
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "harsh",
+                "delicate dishes",
+                "dishware"
+            ]
+        }
+    },
+    {
+        "review": "This is the only detergent that works on my hard water stains.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "hard water",
+                "stains"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "hard water stains",
+                "detergent"
+            ]
+        },
+        "together": {
+            "product category": "Laundry Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "hard water stains",
+                "detergent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "hard water",
+                "stains",
+                "cleaning",
+                "laundry"
+            ]
+        }
+    },
+    {
+        "review": "No need to rewash dishes after using this\u2014so efficient!",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "efficient"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "efficient",
+                "rewash",
+                "dishes"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "efficient",
+                "dishes",
+                "dishwasher detergent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "efficient",
+                "clean dishes",
+                "no rewashing"
+            ]
+        }
+    },
+    {
+        "review": "Perfect for everyday use. My dishes are clean and shiny.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "everyday use",
+                "clean",
+                "shiny"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "everyday use",
+                "clean",
+                "shiny"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "dishes",
+                "clean",
+                "shiny",
+                "everyday use"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "clean",
+                "shiny",
+                "dishes"
+            ]
+        }
+    },
+    {
+        "review": "Leaves a chemical smell, but it\u2019s effective at cleaning.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "chemical smell",
+                "effective",
+                "cleaning"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "chemical smell",
+                "effective",
+                "cleaning"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "cleaning",
+                "chemical smell",
+                "cleaner",
+                "detergent",
+                "effective"
+            ]
+        },
+        "anthropic": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "chemical smell",
+                "cleaning",
+                "effective"
+            ]
+        }
+    },
+    {
+        "review": "A bit expensive, but worth it for the spotless results.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "spotless",
+                "expensive"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "expensive",
+                "spotless",
+                "results"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "spotless results",
+                "expensive"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "spotless",
+                "expensive",
+                "clean"
+            ]
+        }
+    },
+    {
+        "review": "No more streaks or water spots! Best dishwasher detergent ever.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "streaks",
+                "water spots",
+                "best"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "streaks",
+                "water spots",
+                "best"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "streaks",
+                "water spots"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "streak-free",
+                "water spots",
+                "clean dishes"
+            ]
+        }
+    },
+    {
+        "review": "My silverware and dishes look brand new after every wash.",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "silverware",
+                "dishes",
+                "wash"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "silverware",
+                "dishes",
+                "brand new",
+                "wash"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "silverware",
+                "dishes",
+                "wash",
+                "cleaning",
+                "dishwasher detergent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "silverware",
+                "dishes",
+                "clean",
+                "washing performance"
+            ]
+        }
+    },
+    {
+        "review": "Absorbs quickly and doesn\u2019t leave a greasy residue. Great for daily use with Neutrogena.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "absorbs quickly",
+                "non-greasy",
+                "daily use"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "absorbs quickly",
+                "non-greasy",
+                "daily use"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "absorbs quickly",
+                "daily use",
+                "greasy residue"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "quick absorption",
+                "non-greasy",
+                "daily use"
+            ]
+        }
+    },
+    {
+        "review": "The scent is a little strong, but it protects well with Coppertone.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Coppertone",
+            "other keywords": [
+                "scent",
+                "protects well"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Coppertone",
+            "other keywords": [
+                "scent",
+                "protects well"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "Coppertone",
+            "other keywords": [
+                "scent",
+                "protects"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Coppertone",
+            "other keywords": [
+                "strong scent",
+                "protection"
+            ]
+        }
+    },
+    {
+        "review": "Perfect for sensitive skin! No breakouts or irritation with La Roche-Posay.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "sensitive skin",
+                "breakouts",
+                "irritation"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "sensitive skin",
+                "no breakouts",
+                "no irritation"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "sensitive skin"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "sensitive skin",
+                "no breakouts",
+                "no irritation"
+            ]
+        }
+    },
+    {
+        "review": "A bit thick to apply, but once it\u2019s on, it stays all day.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "all day",
+                "stays"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "thick",
+                "all day",
+                "apply"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "makeup",
+                "cosmetics"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "thick consistency",
+                "long-lasting",
+                "sun protection",
+                "daily wear"
+            ]
+        }
+    },
+    {
+        "review": "I love the lightweight formula of CeraVe, perfect for wearing under makeup.",
+        "mistral": {
+            "product category": "Others",
+            "brand": "CeraVe",
+            "other keywords": [
+                "lightweight formula",
+                "under makeup"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "CeraVe",
+            "other keywords": [
+                "lightweight formula",
+                "under makeup"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "CeraVe",
+            "other keywords": [
+                "lightweight formula",
+                "makeup"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "CeraVe",
+            "other keywords": [
+                "lightweight",
+                "formula",
+                "makeup-friendly",
+                "skincare"
+            ]
+        }
+    },
+    {
+        "review": "Doesn\u2019t leave a white cast, even on darker skin tones.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "white cast",
+                "darker skin tones"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "white cast",
+                "darker skin tones"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "non-whitening",
+                "darker skin tones"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "no white cast",
+                "suitable for dark skin",
+                "cosmetics",
+                "skincare"
+            ]
+        }
+    },
+    {
+        "review": "The spray bottle makes it super easy to apply on the go.",
+        "mistral": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "spray bottle",
+                "easy to apply",
+                "on the go"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "spray bottle",
+                "easy to apply",
+                "on the go"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "spray bottle"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "spray bottle",
+                "easy application",
+                "portable",
+                "on the go"
+            ]
+        }
+    },
+    {
+        "review": "This sunscreen saved me from burning on a beach vacation with Banana Boat!",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Banana Boat",
+            "other keywords": [
+                "beach vacation",
+                "burning"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Banana Boat",
+            "other keywords": [
+                "beach",
+                "vacation",
+                "burning"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "Banana Boat",
+            "other keywords": [
+                "sunscreen",
+                "beach",
+                "vacation"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Banana Boat",
+            "other keywords": [
+                "beach",
+                "sun protection",
+                "burn prevention",
+                "vacation"
+            ]
+        }
+    },
+    {
+        "review": "It\u2019s waterproof, which is a must for pool days. Highly recommend Hawaiian Tropic.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Hawaiian Tropic",
+            "other keywords": [
+                "waterproof",
+                "pool days"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Hawaiian Tropic",
+            "other keywords": [
+                "waterproof",
+                "pool days",
+                "recommend"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "Hawaiian Tropic",
+            "other keywords": [
+                "waterproof"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Hawaiian Tropic",
+            "other keywords": [
+                "waterproof",
+                "pool",
+                "swimming"
+            ]
+        }
+    },
+    {
+        "review": "A bit pricey, but the protection it provides is worth every penny with Supergoop.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Supergoop",
+            "other keywords": [
+                "protection",
+                "pricey"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Supergoop",
+            "other keywords": [
+                "protection",
+                "pricey",
+                "worth every penny"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "Supergoop",
+            "other keywords": [
+                "protection"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Supergoop",
+            "other keywords": [
+                "protection",
+                "pricey"
+            ]
+        }
+    },
+    {
+        "review": "This is my go-to sunscreen for both my face and body with Neutrogena.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "face",
+                "body"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "face",
+                "body",
+                "go-to"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "face",
+                "body",
+                "go-to sunscreen"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "face",
+                "body"
+            ]
+        }
+    },
+    {
+        "review": "It\u2019s a little greasy, but it gets the job done in strong sun.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "greasy",
+                "strong sun"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "greasy",
+                "strong sun"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "greasy",
+                "strong sun"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "greasy",
+                "strong sun",
+                "sun protection"
+            ]
+        }
+    },
+    {
+        "review": "No weird scent, and it goes on smooth. Love this product!",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "smooth",
+                "no scent"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "smooth",
+                "no weird scent",
+                "love"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "scent",
+                "smooth"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "smooth application",
+                "unscented",
+                "texture"
+            ]
+        }
+    },
+    {
+        "review": "Perfect for outdoor activities\u2014no sunburn, even after hours outside.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "outdoor activities",
+                "sunburn",
+                "hours outside"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "outdoor activities",
+                "no sunburn",
+                "hours outside"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "outdoor activities",
+                "sunburn protection"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "outdoor",
+                "protection",
+                "sun protection",
+                "long-lasting"
+            ]
+        }
+    },
+    {
+        "review": "It\u2019s great for kids! No irritation, and it\u2019s easy to apply with Blue Lizard.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Blue Lizard",
+            "other keywords": [
+                "kids",
+                "no irritation",
+                "easy to apply"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Blue Lizard",
+            "other keywords": [
+                "kids",
+                "no irritation",
+                "easy to apply"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "Blue Lizard",
+            "other keywords": [
+                "kids",
+                "easy to apply",
+                "no irritation"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Blue Lizard",
+            "other keywords": [
+                "kids",
+                "no irritation",
+                "easy to apply"
+            ]
+        }
+    },
+    {
+        "review": "A little too heavy for my face, but works perfectly for the body.",
+        "mistral": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "face",
+                "body"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "face",
+                "body",
+                "heavy"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "heavy",
+                "face",
+                "body"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "heavy texture",
+                "face",
+                "body",
+                "sun protection"
+            ]
+        }
+    },
+    {
+        "review": "The texture is nice and light, not sticky at all.",
+        "mistral": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "nice",
+                "light",
+                "texture",
+                "not sticky"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "texture",
+                "nice",
+                "light",
+                "not sticky"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "texture",
+                "light",
+                "not sticky"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "light texture",
+                "non-sticky"
+            ]
+        }
+    },
+    {
+        "review": "This sunscreen doesn\u2019t clog my pores, which is a huge plus with EltaMD.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "EltaMD",
+            "other keywords": [
+                "doesn\u2019t clog",
+                "pores"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "EltaMD",
+            "other keywords": [
+                "pores",
+                "clog"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "EltaMD",
+            "other keywords": [
+                "pores",
+                "non-comedogenic"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "EltaMD",
+            "other keywords": [
+                "non-comedogenic",
+                "pores",
+                "skincare"
+            ]
+        }
+    },
+    {
+        "review": "I\u2019ve tried a lot of sunscreens, and this one offers the best protection with La Roche-Posay.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "protection"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "protection"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "protection"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "protection",
+                "sunscreen"
+            ]
+        }
+    },
+    {
+        "review": "It leaves a slight sheen, but I love how protected my skin feels.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "sheen",
+                "skin protection"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "sheen",
+                "protected",
+                "skin"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "skin protection",
+                "sheen"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "sheen",
+                "skin protection",
+                "moisturizing"
+            ]
+        }
+    },
+    {
+        "review": "This formula doesn\u2019t dry out my skin like others do.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "skin",
+                "dry"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "formula",
+                "skin",
+                "dry out"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "formula",
+                "skin",
+                "moisturizing"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "moisturizing",
+                "skin care",
+                "non-drying"
+            ]
+        }
+    },
+    {
+        "review": "It\u2019s great under makeup\u2014no pilling or greasiness.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "makeup",
+                "pilling",
+                "greasiness"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "under makeup",
+                "no pilling",
+                "no greasiness"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "makeup",
+                "primer"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "makeup-compatible",
+                "non-greasy",
+                "no pilling",
+                "lightweight"
+            ]
+        }
+    },
+    {
+        "review": "I wish it were more affordable, but it\u2019s worth it for the protection.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "protection"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "protection",
+                "affordable",
+                "worth"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "protection",
+                "affordable"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "expensive",
+                "protection",
+                "price"
+            ]
+        }
+    },
+    {
+        "review": "Very effective, even after swimming for hours.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "effective",
+                "swimming",
+                "hours"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "effective",
+                "swimming",
+                "hours"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "water-resistant"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "N/A",
+            "other keywords": [
+                "water resistant",
+                "swimming",
+                "effective",
+                "long-lasting"
+            ]
+        }
+    },
+    {
+        "review": "My skin stays soft and protected all day with Neutrogena sunscreen.Gets my clothes fresh and clean every time. No lingering odor with Tide.",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "soft",
+                "protected",
+                "fresh",
+                "clean",
+                "Tide",
+                "no lingering odor"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "soft",
+                "protected",
+                "skin"
+            ]
+        },
+        "together": null,
+        "anthropic": {
+            "product category": "Others",
+            "brand": "Neutrogena, Tide",
+            "other keywords": [
+                "sunscreen",
+                "skin protection",
+                "soft skin",
+                "clean clothes",
+                "fresh clothes",
+                "no odor"
+            ]
+        }
+    },
+    {
+        "review": "It dissolves well, even in cold water. My whites have never been brighter thanks to Ariel.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Ariel",
+            "other keywords": [
+                "dissolves well",
+                "cold water",
+                "whites",
+                "brighter"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Ariel",
+            "other keywords": [
+                "dissolves well",
+                "cold water",
+                "whites",
+                "brighter"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Ariel",
+            "other keywords": [
+                "dissolves well",
+                "cold water",
+                "whites",
+                "brighter"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Ariel",
+            "other keywords": [
+                "dissolves well",
+                "cold water",
+                "whites",
+                "bright",
+                "laundry"
+            ]
+        }
+    },
+    {
+        "review": "A little pricey, but worth it for the excellent stain removal power of Persil.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Persil",
+            "other keywords": [
+                "stain removal",
+                "excellent"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Persil",
+            "other keywords": [
+                "stain removal",
+                "pricey",
+                "worth it"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Persil",
+            "other keywords": [
+                "excellent stain removal power",
+                "laundry detergent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Persil",
+            "other keywords": [
+                "stain removal",
+                "expensive",
+                "effective"
+            ]
+        }
+    },
+    {
+        "review": "This powder leaves a residue on darker clothes. Not a fan of OMO.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "OMO",
+            "other keywords": [
+                "residue",
+                "darker clothes"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "OMO",
+            "other keywords": [
+                "residue",
+                "darker clothes"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "OMO",
+            "other keywords": [
+                "laundry",
+                "powder",
+                "detergent",
+                "clothes"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "OMO",
+            "other keywords": [
+                "residue",
+                "darker clothes",
+                "powder"
+            ]
+        }
+    },
+    {
+        "review": "Great for sensitive skin! No itching or redness after using Seventh Generation.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Seventh Generation",
+            "other keywords": [
+                "sensitive skin",
+                "no itching",
+                "no redness"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "Seventh Generation",
+            "other keywords": [
+                "sensitive skin",
+                "no itching",
+                "no redness"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "Seventh Generation",
+            "other keywords": [
+                "sensitive skin",
+                "no itching",
+                "no redness"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Seventh Generation",
+            "other keywords": [
+                "sensitive skin",
+                "no itching",
+                "no redness",
+                "gentle"
+            ]
+        }
+    },
+    {
+        "review": "I love how eco-friendly this detergent is. It\u2019s a big plus for me with Ecover.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Ecover",
+            "other keywords": [
+                "eco-friendly"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Ecover",
+            "other keywords": [
+                "eco-friendly"
+            ]
+        },
+        "together": {
+            "product category": "Laundry Detergent",
+            "brand": "Ecover",
+            "other keywords": [
+                "eco-friendly"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Ecover",
+            "other keywords": [
+                "eco-friendly",
+                "detergent"
+            ]
+        }
+    },
+    {
+        "review": "I don\u2019t need fabric softener anymore\u2014this leaves my clothes so soft!",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "soft",
+                "clothes"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "softener",
+                "soft",
+                "clothes"
+            ]
+        },
+        "together": {
+            "product category": "Laundry Detergent",
+            "brand": "N/A",
+            "other keywords": [
+                "Fabric Softener Alternative",
+                "Laundry",
+                "Clothes Softener"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "fabric softening",
+                "laundry",
+                "clothes",
+                "softness"
+            ]
+        }
+    },
+    {
+        "review": "My laundry has never smelled so fresh, and it lasts for days with Gain.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Gain",
+            "other keywords": [
+                "fresh",
+                "lasts for days"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Gain",
+            "other keywords": [
+                "fresh",
+                "long-lasting",
+                "scent"
+            ]
+        },
+        "together": {
+            "product category": "Laundry Detergent",
+            "brand": "Gain",
+            "other keywords": [
+                "fresh",
+                "laundry"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Gain",
+            "other keywords": [
+                "fresh scent",
+                "long-lasting fragrance",
+                "laundry",
+                "cleaning"
+            ]
+        }
+    },
+    {
+        "review": "It\u2019s not the best for heavy stains but works great for daily washes.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "heavy stains",
+                "daily washes"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "heavy stains",
+                "daily washes"
+            ]
+        },
+        "together": {
+            "product category": "Laundry Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "daily washes",
+                "heavy stains"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "daily wash",
+                "stains",
+                "cleaning performance"
+            ]
+        }
+    },
+    {
+        "review": "Great value for the price. This box lasts forever! Thanks, Arm & Hammer.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Arm & Hammer",
+            "other keywords": [
+                "value",
+                "price",
+                "lasts forever"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "Arm & Hammer",
+            "other keywords": [
+                "value",
+                "box",
+                "lasts forever",
+                "price"
+            ]
+        },
+        "together": null,
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Arm & Hammer",
+            "other keywords": [
+                "value for money",
+                "long lasting",
+                "box"
+            ]
+        }
+    },
+    {
+        "review": "Perfect for my workout gear\u2014gets rid of all the sweat smells.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "workout gear",
+                "sweat smells"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "workout gear",
+                "sweat smells",
+                "gets rid of"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "workout gear",
+                "sweat smells"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "workout gear",
+                "sweat",
+                "odor removal",
+                "sports clothing"
+            ]
+        }
+    },
+    {
+        "review": "Leaves a bit of powder behind in the machine, but it cleans well.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "powder",
+                "machine",
+                "cleans"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "powder",
+                "cleans well"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "N/A",
+            "other keywords": [
+                "powder",
+                "cleans well"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "powder residue",
+                "cleaning performance",
+                "washing machine"
+            ]
+        }
+    },
+    {
+        "review": "I\u2019ve been using it for years, and Tide never disappoints.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Tide",
+            "other keywords": [
+                "years",
+                "never disappoints"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Tide",
+            "other keywords": [
+                "laundry",
+                "clean",
+                "detergent"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Tide",
+            "other keywords": [
+                "laundry detergent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Tide",
+            "other keywords": [
+                "laundry",
+                "reliable",
+                "long-term use"
+            ]
+        }
+    },
+    {
+        "review": "Not as effective in hard water areas, but still decent.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "hard water",
+                "decent"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "hard water",
+                "effective",
+                "decent"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "water",
+                "hard water"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "hard water",
+                "cleaning effectiveness",
+                "laundry"
+            ]
+        }
+    },
+    {
+        "review": "My go-to detergent for all of my family\u2019s laundry needs.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "family",
+                "laundry"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "laundry",
+                "family",
+                "detergent"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "detergent",
+                "laundry"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "family",
+                "laundry"
+            ]
+        }
+    },
+    {
+        "review": "I noticed some fading in my darker clothes after a few washes.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "fading",
+                "darker clothes",
+                "washes"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "fading",
+                "clothes",
+                "washes"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "clothes",
+                "fading",
+                "laundry detergent",
+                "wash",
+                "color loss"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "dark clothes",
+                "fading",
+                "washing",
+                "laundry",
+                "color protection"
+            ]
+        }
+    },
+    {
+        "review": "It\u2019s gentle on my baby\u2019s clothes and skin with Dreft.",
+        "mistral": {
+            "properties": {
+                "product category": "Powder Detergents for Laundry",
+                "brand": "Dreft",
+                "other keywords": [
+                    "gentle",
+                    "baby's clothes",
+                    "skin"
+                ]
+            }
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Dreft",
+            "other keywords": [
+                "gentle",
+                "baby's clothes",
+                "skin"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Dreft",
+            "other keywords": [
+                "gentle",
+                "baby\u2019s clothes",
+                "skin"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Dreft",
+            "other keywords": [
+                "baby-friendly",
+                "gentle",
+                "clothes",
+                "skin-safe"
+            ]
+        }
+    },
+    {
+        "review": "Very effective at removing mud and grass stains from the kids\u2019 clothes.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "mud",
+                "grass stains",
+                "kids' clothes"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "mud",
+                "grass stains",
+                "kids' clothes",
+                "removing stains"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "mud",
+                "grass",
+                "stain remover",
+                "laundry detergent",
+                "kids clothes"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "stain removal",
+                "mud stains",
+                "grass stains",
+                "children's clothes",
+                "effective cleaning"
+            ]
+        }
+    },
+    {
+        "review": "I like the scent, but it might be too strong for some.",
+        "mistral": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "scent",
+                "strong"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "scent",
+                "strong"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "scent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "scent",
+                "fragrance",
+                "strong smell"
+            ]
+        }
+    },
+    {
+        "review": "No complaints so far! My clothes feel clean and fresh.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "clean",
+                "fresh"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "clean",
+                "fresh",
+                "clothes"
+            ]
+        },
+        "together": {
+            "product category": "Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "clean",
+                "fresh",
+                "clothes"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "clean",
+                "fresh",
+                "clothes",
+                "laundry"
+            ]
+        }
+    },
+    {
+        "review": "Works just as well as liquid detergents but at a lower cost.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "liquid detergents",
+                "lower cost"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "cost-effective",
+                "alternative to liquid detergents"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "laundry",
+                "detergent",
+                "cost-effective"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "liquid detergents",
+                "cost-effective",
+                "powder"
+            ]
+        }
+    },
+    {
+        "review": "A bit too perfumed for my taste, but it gets the job done.",
+        "mistral": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "perfumed"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "perfumed",
+                "gets the job done"
+            ]
+        },
+        "together": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "perfumed"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "perfumed",
+                "fragrance",
+                "cleaning",
+                "laundry"
+            ]
+        }
+    },
+    {
+        "review": "My clothes are noticeably softer and smell better than before.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "soft",
+                "smell",
+                "clothes"
+            ]
+        },
+        "openai": {
+            "product category": "Others",
+            "brand": "N/A",
+            "other keywords": [
+                "soft",
+                "smell"
+            ]
+        },
+        "together": {
+            "product category": "Laundry products",
+            "brand": "N/A",
+            "other keywords": [
+                "softener",
+                "detergent",
+                "laundry",
+                "fresh smell",
+                "fabric softener"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "soft clothes",
+                "fresh scent",
+                "laundry",
+                "softness",
+                "fragrance"
+            ]
+        }
+    },
+    {
+        "review": "The box is hard to pour from, but the detergent works well.",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "hard to pour",
+                "works well"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "box",
+                "pour",
+                "detergent"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "detergent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "box",
+                "pour",
+                "laundry"
+            ]
+        }
+    },
+    {
+        "review": "This is my new favorite detergent. So much better than the leading brand!",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "favorite",
+                "better",
+                "leading brand"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "favorite",
+                "better than leading brand"
+            ]
+        },
+        "together": {
+            "product category": "Laundry Detergent",
+            "brand": "N/A",
+            "other keywords": [
+                "detergent",
+                "leading brand",
+                "laundry detergent",
+                "household",
+                "cleaning supplies"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "N/A",
+            "other keywords": [
+                "detergent",
+                "cleaning"
+            ]
+        }
+    },
+    {
+        "product": "Contigo Workday Travel Mug \u2013 Keeps Coffee Hot for Hours!",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "Workday",
+                "Travel Mug",
+                "Hot",
+                "Coffee",
+                "Hours"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "Travel Mug",
+                "Keeps Coffee Hot",
+                "Hours"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "travel",
+                "coffee",
+                "mug",
+                "insulated",
+                "keeps coffee hot"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "travel mug",
+                "coffee",
+                "hot drinks",
+                "workday",
+                "insulated"
+            ]
+        }
+    },
+    {
+        "product": "Zojirushi Sleek Travel Mug \u2013 Perfect Fit for Car Holders",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "Sleek",
+                "Travel Mug",
+                "Perfect Fit",
+                "Car Holders"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "Sleek",
+                "Travel Mug",
+                "Perfect Fit",
+                "Car Holders"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "Travel",
+                "Sleek",
+                "Car Holders"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "travel mug",
+                "car holder compatible",
+                "sleek"
+            ]
+        }
+    },
+    {
+        "product": "Hydro Flask Lightweight Insulation Mug \u2013 Stay Warm for Hours",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "Hydro Flask",
+            "other keywords": [
+                "Lightweight",
+                "Insulation",
+                "Stay Warm",
+                "Hours"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "Hydro Flask",
+            "other keywords": [
+                "Lightweight",
+                "Insulation",
+                "Stay Warm",
+                "Hours"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "Hydro Flask",
+            "other keywords": [
+                "Lightweight",
+                "Insulation",
+                "Mug",
+                "Stay Warm for Hours"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "Hydro Flask",
+            "other keywords": [
+                "lightweight",
+                "insulation",
+                "mug",
+                "stay warm",
+                "hours"
+            ]
+        }
+    },
+    {
+        "product": "Yeti Thermal Mug \u2013 No More Cold Coffee!",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "Yeti",
+            "other keywords": [
+                "No More Cold Coffee"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "Yeti",
+            "other keywords": [
+                "No More Cold Coffee"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "Yeti",
+            "other keywords": [
+                "Thermal",
+                "Mug",
+                "Coffee",
+                "No More Cold Coffee"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "Yeti",
+            "other keywords": [
+                "coffee",
+                "cold drinks",
+                "temperature retention",
+                "insulation"
+            ]
+        }
+    },
+    {
+        "product": "Contigo All-Day Heat Retention Mug \u2013 Ideal for Travel",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "All-Day",
+                "Heat Retention",
+                "Ideal for Travel"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "Heat Retention",
+                "Travel",
+                "All-Day"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "All-Day Heat Retention",
+                "Travel Mug"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "travel mug",
+                "heat retention",
+                "all-day",
+                "travel"
+            ]
+        }
+    },
+    {
+        "product": "Contigo Leak-Proof Mug \u2013 Toss in Your Bag with Confidence",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "Leak-Proof",
+                "Mug",
+                "Toss",
+                "Bag",
+                "Confidence"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "Leak-Proof",
+                "Mug",
+                "Toss in Your Bag",
+                "Confidence"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "Leak-Proof"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "Contigo",
+            "other keywords": [
+                "leak-proof",
+                "travel mug",
+                "bag-friendly",
+                "portable"
+            ]
+        }
+    },
+    {
+        "product": "Zojirushi Scalding Hot Coffee Mug \u2013 Best Insulation Yet",
+        "mistral": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "Scalding Hot",
+                "Coffee Mug",
+                "Best Insulation"
+            ]
+        },
+        "openai": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "Scalding Hot",
+                "Coffee Mug",
+                "Best Insulation Yet"
+            ]
+        },
+        "together": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "Scalding Hot Coffee Mug",
+                "Insulation"
+            ]
+        },
+        "anthropic": {
+            "product category": "Thermal Mugs",
+            "brand": "Zojirushi",
+            "other keywords": [
+                "coffee mug",
+                "insulation",
+                "hot beverage",
+                "scalding"
+            ]
+        }
+    },
+    {
+        "product": "Cascade Sparkling Clean Detergent \u2013 Your Dishes Will Shine",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "Sparkling Clean",
+                "Dishes",
+                "Shine"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "Sparkling Clean",
+                "Detergent",
+                "Dishes",
+                "Shine"
+            ]
+        },
+        "together": null,
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "sparkling clean",
+                "dishes",
+                "shine"
+            ]
+        }
+    },
+    {
+        "product": "Finish Detergent \u2013 Tough on Grease, No Residue Left",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "Tough on Grease",
+                "No Residue Left"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "Tough on Grease",
+                "No Residue Left"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "Tough on Grease",
+                "No Residue Left",
+                "Detergent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "grease removal",
+                "no residue",
+                "cleaning",
+                "dishwashing"
+            ]
+        }
+    },
+    {
+        "product": "Cascade Platinum Detergent \u2013 Pricey, But Worth It for Results",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "Platinum",
+                "Pricey",
+                "Worth It",
+                "Results"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "Platinum",
+                "Pricey",
+                "Results"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "Platinum",
+                "Detergent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "platinum",
+                "pricey",
+                "expensive",
+                "effective",
+                "good results"
+            ]
+        }
+    },
+    {
+        "product": "Finish Quantum Detergent \u2013 Stubborn Food Stains Gone",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "Quantum",
+                "Stubborn Food Stains"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "Quantum",
+                "Stubborn Food Stains",
+                "Gone"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Finish",
+            "other keywords": [
+                "Quantum Detergent",
+                "Stubborn Food Stains"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Finish",
+            "other keywords": [
+                "quantum",
+                "detergent",
+                "food stains",
+                "cleaning",
+                "dishwashing"
+            ]
+        }
+    },
+    {
+        "product": "Cascade Complete Detergent \u2013 No Pre-Rinsing Needed for Grease",
+        "mistral": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "Complete",
+                "Detergent",
+                "No Pre-Rinsing",
+                "Grease"
+            ]
+        },
+        "openai": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "Complete",
+                "No Pre-Rinsing",
+                "Grease"
+            ]
+        },
+        "together": null,
+        "anthropic": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Cascade",
+            "other keywords": [
+                "complete",
+                "no pre-rinsing",
+                "grease cleaning",
+                "detergent"
+            ]
+        }
+    },
+    {
+        "product": "Neutrogena Daily Sunscreen \u2013 Quick Absorption, No Grease",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "Daily",
+                "Quick Absorption",
+                "No Grease"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "Daily",
+                "Quick Absorption",
+                "No Grease"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "Daily",
+                "Quick Absorption",
+                "No Grease"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "quick absorption",
+                "no grease",
+                "daily"
+            ]
+        }
+    },
+    {
+        "product": "Coppertone Suncream \u2013 Strong Scent, Strong Protection",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Coppertone",
+            "other keywords": [
+                "Suncream",
+                "Strong Scent",
+                "Strong Protection"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Coppertone",
+            "other keywords": [
+                "Strong Scent",
+                "Strong Protection"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "Coppertone",
+            "other keywords": [
+                "Suncream",
+                "Strong Scent",
+                "Strong Protection"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Coppertone",
+            "other keywords": [
+                "suncream",
+                "strong scent",
+                "protection",
+                "sunblock"
+            ]
+        }
+    },
+    {
+        "product": "La Roche-Posay Sensitive Skin Sunscreen \u2013 No Breakouts",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "Sensitive Skin",
+                "No Breakouts"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "Sensitive Skin",
+                "No Breakouts"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "Sensitive Skin"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "sensitive skin",
+                "no breakouts",
+                "skincare"
+            ]
+        }
+    },
+    {
+        "product": "CeraVe Lightweight Sunscreen \u2013 Perfect Under Makeup",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "CeraVe",
+            "other keywords": [
+                "Lightweight",
+                "Under Makeup"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "CeraVe",
+            "other keywords": [
+                "Lightweight",
+                "Under Makeup"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "CeraVe",
+            "other keywords": [
+                "Lightweight",
+                "Under Makeup"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "CeraVe",
+            "other keywords": [
+                "lightweight",
+                "makeup-friendly",
+                "under makeup"
+            ]
+        }
+    },
+    {
+        "product": "Banana Boat Beach-Saver Sunscreen \u2013 No Burns, Just Fun",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Banana Boat",
+            "other keywords": [
+                "Beach-Saver",
+                "No Burns",
+                "Fun"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Banana Boat",
+            "other keywords": [
+                "Beach-Saver",
+                "No Burns",
+                "Just Fun"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "Banana Boat",
+            "other keywords": [
+                "Beach-Saver",
+                "Sunscreen",
+                "No Burns",
+                "Just Fun"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Banana Boat",
+            "other keywords": [
+                "beach",
+                "sun protection",
+                "burn prevention",
+                "Beach-Saver"
+            ]
+        }
+    },
+    {
+        "product": "Hawaiian Tropic Waterproof Sunscreen \u2013 Pool Day Essential",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Hawaiian Tropic",
+            "other keywords": [
+                "Waterproof",
+                "Pool Day Essential"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Hawaiian Tropic",
+            "other keywords": [
+                "Waterproof",
+                "Pool Day Essential"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "Hawaiian Tropic",
+            "other keywords": [
+                "Waterproof",
+                "Pool Day Essential"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Hawaiian Tropic",
+            "other keywords": [
+                "waterproof",
+                "pool",
+                "swimming",
+                "sun protection"
+            ]
+        }
+    },
+    {
+        "product": "Supergoop Premium Sunscreen \u2013 Worth Every Penny",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Supergoop",
+            "other keywords": [
+                "Premium",
+                "Worth",
+                "Every Penny"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Supergoop",
+            "other keywords": [
+                "Premium",
+                "Worth Every Penny"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "Supergoop",
+            "other keywords": [
+                "Premium Sunscreen"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Supergoop",
+            "other keywords": [
+                "premium",
+                "sunscreen"
+            ]
+        }
+    },
+    {
+        "product": "Neutrogena Face & Body Sunscreen \u2013 All-Purpose Protection",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "Face",
+                "Body",
+                "All-Purpose",
+                "Protection"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "Face & Body",
+                "All-Purpose Protection"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "Face",
+                "Body",
+                "All-Purpose",
+                "Protection",
+                "Sunscreen"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "face",
+                "body",
+                "all-purpose",
+                "protection"
+            ]
+        }
+    },
+    {
+        "product": "EltaMD Pore-Friendly Sunscreen \u2013 Protection Without Clogging",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "EltaMD",
+            "other keywords": [
+                "Pore-Friendly",
+                "Protection",
+                "Clogging"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "EltaMD",
+            "other keywords": [
+                "Pore-Friendly",
+                "Protection",
+                "Clogging"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "EltaMD",
+            "other keywords": [
+                "Pore-Friendly",
+                "Non-Comedogenic"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "EltaMD",
+            "other keywords": [
+                "pore-friendly",
+                "non-clogging",
+                "protection",
+                "skincare"
+            ]
+        }
+    },
+    {
+        "product": "La Roche-Posay Suncream \u2013 The Best in Sun Protection",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "Suncream",
+                "Sun Protection"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "suncream",
+                "sun protection",
+                "best"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "suncream",
+                "sun protection"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "La Roche-Posay",
+            "other keywords": [
+                "sun protection",
+                "suncream",
+                "sunscreen"
+            ]
+        }
+    },
+    {
+        "product": "Neutrogena Sunscreen \u2013 Soft, Protected Skin All Day",
+        "mistral": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "Soft",
+                "Protected",
+                "All Day"
+            ]
+        },
+        "openai": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "Soft Skin",
+                "Protected Skin",
+                "All Day"
+            ]
+        },
+        "together": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "Soft",
+                "Protected Skin All Day"
+            ]
+        },
+        "anthropic": {
+            "product category": "Sunscreens",
+            "brand": "Neutrogena",
+            "other keywords": [
+                "soft",
+                "protected",
+                "skin protection",
+                "all day"
+            ]
+        }
+    },
+    {
+        "product": "Tide Powder Detergent \u2013 Fresh, Clean Clothes Every Time",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Tide",
+            "other keywords": [
+                "Fresh",
+                "Clean",
+                "Clothes"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Tide",
+            "other keywords": [
+                "Fresh",
+                "Clean Clothes",
+                "Every Time"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Tide",
+            "other keywords": [
+                "Fresh",
+                "Clean Clothes",
+                "Detergent",
+                "Laundry"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Tide",
+            "other keywords": [
+                "fresh",
+                "clean",
+                "laundry",
+                "cleaning",
+                "powder"
+            ]
+        }
+    },
+    {
+        "product": "Ariel Powder Detergent \u2013 Whites Brighter, Even in Cold Water",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Ariel",
+            "other keywords": [
+                "Whites Brighter",
+                "Cold Water"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Ariel",
+            "other keywords": [
+                "Whites Brighter",
+                "Cold Water"
+            ]
+        },
+        "together": null,
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Ariel",
+            "other keywords": [
+                "whites",
+                "brighter",
+                "cold water",
+                "laundry"
+            ]
+        }
+    },
+    {
+        "product": "Persil Powder Detergent \u2013 Powerful Stain Removal",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Persil",
+            "other keywords": [
+                "Powerful Stain Removal"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Persil",
+            "other keywords": [
+                "Powerful Stain Removal"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Persil",
+            "other keywords": [
+                "Powerful Stain Removal",
+                "Detergent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Persil",
+            "other keywords": [
+                "stain removal",
+                "laundry",
+                "cleaning",
+                "powder"
+            ]
+        }
+    },
+    {
+        "product": "OMO Powder Detergent \u2013 Leaves Residue on Dark Clothes",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "OMO",
+            "other keywords": [
+                "residue",
+                "dark clothes"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "OMO",
+            "other keywords": [
+                "residue",
+                "dark clothes"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "OMO",
+            "other keywords": [
+                "Leaves Residue",
+                "Dark Clothes",
+                "Detergent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "OMO",
+            "other keywords": [
+                "powder",
+                "detergent",
+                "laundry",
+                "dark clothes",
+                "residue"
+            ]
+        }
+    },
+    {
+        "product": "Seventh Generation Powder Detergent \u2013 Great for Sensitive Skin",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Seventh Generation",
+            "other keywords": [
+                "Great for Sensitive Skin"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Seventh Generation",
+            "other keywords": [
+                "Great for Sensitive Skin"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Seventh Generation",
+            "other keywords": [
+                "Sensitive Skin",
+                "Laundry Detergent"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Seventh Generation",
+            "other keywords": [
+                "sensitive skin",
+                "laundry",
+                "powder"
+            ]
+        }
+    },
+    {
+        "product": "Ecover Eco-Friendly Detergent \u2013 Perfect for the Eco-Conscious",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Ecover",
+            "other keywords": [
+                "Eco-Friendly",
+                "Detergent",
+                "Eco-Conscious"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Ecover",
+            "other keywords": [
+                "Eco-Friendly",
+                "Eco-Conscious"
+            ]
+        },
+        "together": {
+            "product category": "Dishwasher Detergents",
+            "brand": "Ecover",
+            "other keywords": [
+                "Eco-Friendly",
+                "Detergent",
+                "Eco-Conscious"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Ecover",
+            "other keywords": [
+                "eco-friendly",
+                "eco-conscious",
+                "laundry detergent"
+            ]
+        }
+    },
+    {
+        "product": "Gain Powder Detergent \u2013 Fresh-Smelling Laundry for Days",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Gain",
+            "other keywords": [
+                "Fresh-Smelling",
+                "Laundry",
+                "Days"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Gain",
+            "other keywords": [
+                "fresh-smelling",
+                "laundry"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Gain",
+            "other keywords": [
+                "Fresh-Smelling",
+                "Laundry"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Gain",
+            "other keywords": [
+                "fresh smell",
+                "laundry",
+                "detergent",
+                "powder",
+                "long-lasting fragrance"
+            ]
+        }
+    },
+    {
+        "product": "Arm & Hammer Powder Detergent \u2013 Great Value, Lasts Forever",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Arm & Hammer",
+            "other keywords": [
+                "Great Value",
+                "Lasts Forever"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Arm & Hammer",
+            "other keywords": [
+                "Great Value",
+                "Lasts Forever"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Arm & Hammer",
+            "other keywords": [
+                "Great Value",
+                "Lasts Forever",
+                "Laundry Detergent",
+                "Cleaning Supplies"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Arm & Hammer",
+            "other keywords": [
+                "value",
+                "long lasting",
+                "powder",
+                "laundry detergent"
+            ]
+        }
+    },
+    {
+        "product": "Dreft Baby Powder Detergent \u2013 Gentle on Baby Clothes",
+        "mistral": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Dreft",
+            "other keywords": [
+                "Baby",
+                "Gentle",
+                "Clothes"
+            ]
+        },
+        "openai": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Dreft",
+            "other keywords": [
+                "Baby",
+                "Gentle",
+                "Clothes"
+            ]
+        },
+        "together": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Dreft",
+            "other keywords": [
+                "Baby",
+                "Gentle",
+                "Clothes"
+            ]
+        },
+        "anthropic": {
+            "product category": "Powder Detergents for Laundry",
+            "brand": "Dreft",
+            "other keywords": [
+                "baby",
+                "gentle",
+                "baby clothes",
+                "powder detergent"
+            ]
+        }
+    }
+]
