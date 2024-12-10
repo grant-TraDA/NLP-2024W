@@ -1,0 +1,120 @@
+<HTML>
+
+<HEAD>
+	<TITLE>
+		Defense Advanced Research Projects Agency
+	</TITLE>
+
+	
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- begin
+// global variables
+var id,pause=0,position=0;
+function edoscroller() {
+        // variables declaration
+        var i,k,msg="                The next Systems and Technology Symposium is set for May 22-24, 1996 in Atlanta, Georgia.  Check the ARPATech information at the bottom of this page.                            ";
+
+        // increase msg
+        k=(150/msg.length)+1;
+        for(i=0;i<=k;i++) msg+=" "+msg;
+
+        // show it to the window
+        document.form2.edoscroller.value=msg.substring(position,position+250);
+
+        // set new position
+        if(position++==250) position=0;
+
+        // repeat at entered speed 
+        id=setTimeout("edoscroller()",100); }
+// end -->
+
+</SCRIPT>
+<P>
+</HEAD>
+
+<BODY BGCOLOR="dedede" BACKGROUND="images/darpa_back.gif" ONLOAD="edoscroller()">
+
+<CENTER>
+	<IMG HEIGHT="70" WIDTH="468" BORDER="0" ALT="Defense Advanced Research Projects Agency" SRC="images/darpa.gif">
+</CENTER>
+<H2>Defense Advanced Research Projects Agency</H2>
+
+<HR>
+
+<CENTER>
+<FORM NAME="form2">
+<INPUT TYPE="text" NAME="edoscroller" SIZE="70" VALUE="Check the ARPATech Symposium information at the bottom of this page.">
+</FORM>
+</CENTER>
+
+The Defense Advanced Research Projects Agency (DARPA) is the central research and
+development organization for the <A HREF="http://www.dtic.mil/defenselink/">Department of Defense (DoD)</A>. It
+manages and directs selected basic and applied research and development projects
+for DoD, and pursues research and technology where risk and payoff are both very
+high and where success may provide dramatic advances for traditional military
+roles and missions and dual-use applications.<P>
+
+
+This website is divided into several tracks. Please select from the following list.
+<DL>
+<DT>
+	<DD><A HREF="mission.html"><IMG BORDER="0" WIDTH="14" HEIGHT="14" SRC="images/redball.gif"><B>Mission</B></A> - Describes what DARPA does
+	<DD><A HREF="organization.html"><IMG BORDER="0" WIDTH="14" HEIGHT="14" SRC="images/redball.gif"><B>Organization</B></A> - DARPA's offices and links to their individual web sites
+	<DD><DL>
+		<DT>
+			<DD><A HREF="organization.html"><IMG BORDER="0" WIDTH="14" HEIGHT="14" SRC="images/blueball.gif">A description</A> of each of the Technical and Support Offices
+			<DD><A HREF="org2.html"><IMG BORDER="0" WIDTH="14" HEIGHT="14" SRC="images/blueball.gif">A list</A> of the Offices with links to all of the Office Home Pages
+		</DL>
+	<DD><A HREF="info/index.html"><IMG BORDER="0" WIDTH="14" HEIGHT="14" SRC="images/redball.gif"><B>Info</B></A> - Information available to the public, including how to communicate with DARPA
+	<DD><DL>
+		<DT>
+			<DD><A HREF="http://www.darpa.mil/sbir/"><IMG BORDER="0" WIDTH="14" HEIGHT="14" SRC="images/blueball.gif">Information for Small Businesses</A> (SBIR/SBSC)
+		</DL>
+	<DD><A HREF="news.html"><IMG BORDER="0" WIDTH="14" HEIGHT="14" SRC="images/redball.gif"><B>News</B></A> - Recent happenings at the Defense Advanced Research Projects Agency
+	<DD><A HREF="budget.html"><IMG BORDER="0" WIDTH="14" HEIGHT="14" SRC="images/redball.gif"><B>Budget</B></A> - DARPA Budget Information
+	<DD><A HREF="baa/"><IMG BORDER="0" WIDTH="14" HEIGHT="14" SRC="images/redball.gif"><B>Solicitations</B></A> - A listing of current solicitations for the technical offices of DARPA
+</DL>
+
+<HR>
+
+    <H2>What's New?</H2><P>
+    
+    <BLOCKQUOTE>
+
+		<A HREF="ARPATech-96/index.html"><IMG ALIGN="right" BORDER="0" WIDTH="114" HEIGHT="35" SRC="ARPATech-96/atech96.gif"></A> <IMG BORDER="0" WIDTH="14" HEIGHT="14" SRC="images/redball.gif"><IMG BORDER="0" SRC="images/new.gif" ALIGN="bottom" ALT="New!"> DARPA's next Systems and Technology Symposium,
+		<A HREF="ARPATech-96/index.html">ARPATech '96</A>, is set for May 22 -
+		24, 1996, at the Westin Peachtree Plaza hotel in Atlanta, Georgia.<P> 	
+
+		<IMG BORDER="0" WIDTH="14" HEIGHT="14" SRC="images/redball.gif"><IMG BORDER="0" SRC="images/new.gif" ALIGN="bottom" ALT="New!"> <A HREF="documents/overview3-96/index.html">DARPA Overview Briefing, March
+		1996</A> <P>
+
+	</BLOCKQUOTE>
+<HR>
+<CENTER>
+
+<MAP NAME="arpabuttons">
+<AREA SHAPE="rect" COORDS="0,0,59,40" HREF="index.html">
+<AREA SHAPE="rect" COORDS="60,0,136,40" HREF="mission.html">
+<AREA SHAPE="rect" COORDS="137,0,248,40" HREF="organization.html">
+<AREA SHAPE="rect" COORDS="249,0,294,40" HREF="info/index.html">
+<AREA SHAPE="rect" COORDS="295,0,349,40" HREF="news.html">
+<AREA SHAPE="rect" COORDS="350,0,468,40" HREF="baa/index.html">
+<AREA SHAPE="default" HREF="index.html">
+</MAP>
+
+<A HREF="http://www.darpa.mil/cgi-bin/imagemap/images/arpabuttons.map">
+<IMG SRC="images/darphome.gif" BORDER="0" ALT="Button Bar for DARPA Homepage. See text version below" WIDTH="468" HEIGHT="40" USEMAP="#arpabuttons" ISMAP></A>
+<BR>
+[<A HREF="index.html">home</A>] [<A HREF="mission.html">mission</A>] [<A HREF="organization.html">organization</A>] [<A HREF="info/index.html">information</A>] [<A HREF="news.html">news</A>] [<A HREF="baa/">solicitations</A>]
+</CENTER><P>
+ 
+<HR>
+
+For more information contact <I><A HREF="mailto:webmaster@darpa.mil">webmaster@arpa.mil</A></I>
+
+<H5>Last Updated April, 30 1996</H5>
+
+</BODY>
+
+</HTML>

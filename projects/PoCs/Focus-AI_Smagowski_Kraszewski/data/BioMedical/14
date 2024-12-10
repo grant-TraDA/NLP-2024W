@@ -1,0 +1,87 @@
+<head><title>MycDB</title></head>
+
+<body>
+<h1>MycDB, the Mycobacterium database - release 3-8</h1>
+
+<hr>
+<B>MycDB</B>, the <B>Myc</B>obacterium <B>D</B>ata<B>B</B>ase, uses the excellent database
+manager <A HREF="http://probe.nalusda.gov:8000/acedocs/acedbfaq.html">ACEDB</A>,
+ written by Richard Durbin (Sanger Centre, Cambridge, UK) and Jean Thierry-Mieg
+(CNRS, Montpellier, France). MycDB is funded by the WHO and the Fondation Raoul
+Follereau and is maintained by the Unite de Genetique Moleculaire
+Bacterienne at the Institut Pasteur in Paris and the Department of
+Biochemistry at the Royal Institute of Technology in Stockholm. The
+latest public release, 3-8, is described <A HREF="MycDB/MycDB.LatestVersion.html">here</A>.
+<hr>
+
+<B>MycDB</B> is also available (through the good offices of the Genome Informatics Group
+at the National Agricultural Library) on the <A
+HREF="http://probe.nalusda.gov:8300/other/index.html">Agricultural Genome
+Information Server, AGIS</A>, in Beltsville, Maryland, USA. If you are located
+in the Americas, that site may be faster.<P>
+
+The database is described in a paper:<PRE>
+  Staffan Bergh and Stewart T. Cole
+  MycDB: an integrated mycobacterial database
+  Mol. Microbiol. <B>5</B> (1994) 517-534</PRE>
+that we ask you to cite if you publish anything that draws on the database.
+
+<H2>Getting your own</H2>
+The database manager software and the database itself are both free, and you
+can install a copy of your own on your home computer. In the <A
+HREF="MycDB/MycDB.LatestVersion.html"><B>Announcement</B></A> of the latest
+release there are links to <A HREF="MycDB/MycDB.Retrieval.html">installation
+instructions</A> and to the files you need to get. <P>
+
+There is a also <A
+HREF="http://www.biochem.kth.se/MycDB/MycDB_pres.html">presentation</A>
+of MycDB that shows some of the features of the X-windows version that
+you may want to have a look at.
+
+If you have problems, or suggestions, or find errors or want to share your data, do not hesitate to contact <A
+HREF="mailto:staffan@biochem.kth.se">staffan</A>.<P>
+
+<H2>Queries</H2>
+
+<B>NOTE</B> that this is an experimental server! We try to keep it functional, but do not guarantee that it will always work. <br>
+
+To consult MycDB, you can:
+
+<ul>
+
+<li> query directly, if you know the syntax of <I>tace</I>
+commands. Just <a
+href="http://www.biochem.kth.se/cgi-bin/nph-runmycdb.sh/acedb/MycDB?">select
+this</a> and enter your query in the "Enter search keywords" window at
+the top. (The syntax of <I>tace</I> commands and the query language
+are described in the <a
+href="http://www.biochem.kth.se/cgi-bin/nph-runmycdb.sh/acedb/MycDB?h">Help
+File</a>.)
+
+<li> look at the <a
+href="http://www.biochem.kth.se/cgi-bin/nph-runmycdb.sh/acedb/MycDB?c">'Main window'</a> of the database
+
+<li> use the <a
+href="http://www.biochem.kth.se/cgi-bin/nph-runmycdb.sh/acedb/MycDB?p">Query
+Builder/Query by examples</a> functions <I>(these are still
+experimental)</I> to construct your query. You must have a Web client
+which recognizes the &lt;FORM&gt; tag to use it (i.e. NetScape, Mosaic
+for X, MacMosaic, MacWeb or Lynx).
+
+<LI> <B>NEW!</B> <A HREF="http://www.biochem.kth.se/MycDB/seqsearch_form.html">Search MycDB</A> with your own sequence.
+</ul>
+
+<hr>
+Some other Internet-accessible mycobacterial/tuberculosis/leprosy resources are:<UL>
+<LI> <A HREF="http://www.brown.edu/Research/TB-HIV_Lab/">TB/HIV Research Laboratory at Brown University</A>
+<LI> <A HREF="http://molepi.stanford.edu/">Stanford Center for Tuberculosis Research</A>
+<LI> <A HREF="http://www.who.ch/">World Health Organisation (WHO)</A>
+</UL>
+
+<hr>
+
+
+Last update 1995-10-04
+<A NAME="address"><address><a href="http://www.biochem.kth.se/staffan.html">/staffan</a></address></A>
+
+</body>

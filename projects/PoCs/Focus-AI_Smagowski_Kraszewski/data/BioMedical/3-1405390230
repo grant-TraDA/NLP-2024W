@@ -1,0 +1,316 @@
+<HTML>
+<HEAD>
+<TITLE>The World-Wide Web Virtual Library: Subject Catalogue</TITLE>
+<!-- Changed by: Arthur Secret,  6-Dec-1994 -->
+<NEXTID N="z196">
+</HEAD>
+<BODY>
+<H1><IMG ALT="Virtual Library" SRC="http://www.w3.org/hypertext/WWW/Icons/WWW/Virtual_Library.gif"> The WWW Virtual Library</H1>This is a distributed subject catalogue. See <B><A HREF="Overview2.html">Category Subtree</A></B>, <B><A HREF="LibraryOfCongress.html">Library of Congress Classification</A></B> (Experimental), <A HREF="TopTen.html">Top Ten most popular Fields</A> (Experimental), <A HREF="Statistics.html">Statistics</A> (Experimental), and <A HREF="http://cuiwww.unige.ch/w3catalog">Index</A>.
+See also arrangement  by <A
+NAME="52" HREF="../ByAccess.html"> service
+type</A> ., and <A
+NAME="z154" HREF="Virtual_libraries/Overview.html">other subject catalogues
+of network information</A> . <P>
+Mail to <A HREF="Maintainers.html">maintainers</A> of the specified
+subject or www-request@mail.w3.org
+to add pointers to this list, or
+if you would like <A HREF="Administration.html">to contribute to
+administration of a subject area</A>.
+<P>
+See also <A
+NAME="z181" HREF="http://www.w3.org/hypertext/WWW/Provider/Overview.html">how to put your data on
+the web</A>.
+All items starting with <IMG ALT="!" SRC="../../WWW/Icons/WWW/new.gif">  are <I>NEW!</I> (or newly maintained). New this month: <IMG SRC="../../WWW/Icons/WWW/star11t.gif"> <A HREF="http://www.vix.com/men">Men's Issues</A> <IMG SRC="../../WWW/Icons/WWW/star11t.gif"> 
+<A HREF="http://www.nttc.edu/gov/other/tech.html">Technology Transfer</A> <IMG SRC="../../WWW/Icons/WWW/star11t.gif"> 
+<A HREF="http://www.bts.gov/smart/links/transportation.html">Transportation</A> <IMG SRC="../../WWW/Icons/WWW/star11t.gif"> 
+ <P>
+<DL>
+<DT><A HREF="http://coombs.anu.edu.au/WWWVL-Aboriginal.html">Aboriginal Studies</A>
+<DD>This document keeps track of leading information facilities in the field of Australian Aboriginal studies as well as the Indigenous Peoples studies.
+<DT><A HREF="http://macwww.db.erau.edu/www_virtual_lib/aeronautics.html">Aeronautics and Aeronautical Engineering</A>
+<DD>
+<DT><A HREF="http://www.w3.org/hypertext/DataSources/bySubject/AfricanStudies/africanWWW.html">African Studies</A>
+<DD>
+<DT><A HREF="http://ipm_www.ncsu.edu/cernag/cern.html">Agriculture</A>
+<DD>
+<DT><A HREF="http://www.tiac.net/users/sbr/animals.html">Animal health, wellbeing, and rights</A>
+<DD>
+<DT><A HREF="http://www.usc.edu/dept/v-lib/anthropology.html">Anthropology</A>
+<DD>
+<DT><A HREF="http://www.bbk.ac.uk/Departments/AppliedLinguistics/VirtualLibrary.html">Applied Linguistics</A>
+<DD>
+<DT><A HREF="http://spirit.lib.uconn.edu/archaeology.html">Archaeology</A>
+<DD>
+<DT><A HREF="http://www.clr.toronto.edu:1080/VIRTUALLIB/arch.html">Architecture</A>
+<DD>
+<DT><A HREF="http://www.w3.org/hypertext/DataSources/bySubject/Literature/Overview.html">Art</A>
+<DD>
+<DT><A HREF="http://coombs.anu.edu.au/WWWVL-AsianStudies.html">Asian Studies</A>
+<DD>
+<DT><A HREF="http://www.w3.org/hypertext/DataSources/bySubject/astro/astro.html">Astronomy and Astrophysics</A>
+<DD>
+<DT><A HREF="http://www.w3.org/hypertext/DataSources/bySubject/Automotive/automotive.html">Autos</A>
+<DD>
+<DT><A HREF="http://macwww.db.erau.edu/www_virtual_lib/aviation.html">Aviation</A>
+<DD>
+<DT><A HREF="http://www.mindspring.com/~jlock/wwwbeer.html">Beer &amp; Brewing</A>
+<DD>
+<DT><A HREF="http://golgi.harvard.edu/biopages.html">Bio Sciences</A>
+<DD>
+<DT><A HREF="http://www.cato.com/interweb/cato/biotech/">Biotechnology</A>
+<DD>Pharmaceutical development, genetic engineering, medical device
+development, and related fields.
+<DT><A HREF="http://www.comlab.ox.ac.uk/archive/publishers/broadcast.html">Broadcasters</A>
+<DD>
+<DT><A HREF="http://geog.gmu.edu/gess/jwc/cartogrefs.html">Cartography</A>
+<DD>
+<DT><A HREF="http://www.chem.ucla.edu/chempointers.html">Chemistry</A>
+<DD>
+<DT><A NAME="ove2">Climate research</A>
+<DD>The <A NAME="z185" HREF="http://www.dkrz.de/">Deutsches Klimarechenzentrum</A> (DKRZ, German Climate Computer Centre)
+<DT><A HREF="http://www.cog.brown.edu/pointers/cognitive.html">Cognitive Science</A>
+<DD>
+<DT><A HREF="http://iquest.com/~tstevens/collecting/">Collecting</A>
+<DD>
+<DT><A HREF="http://www.w3.org/hypertext/DataSources/bySubject/Yellow/Overview.html">Commercial Services</A>
+<DD>
+<DT><A HREF="http://www.analysys.co.uk/commslib.htm">Communications</A>
+<DD>
+<DT><A HREF="http://www.rmsd.com/comnet/wwwvl_commnet.html">Community Networks</A>
+<DD>
+<DT><A HREF="http://src.doc.ic.ac.uk/bySubject/Computing/Overview.html">Computing</A>
+<DD>See also  <A HREF="http://cuiwww.unige.ch/eao/www/TclTk.html">Tcl and Tk</A>, <A HREF="http://cuiwww.unige.ch/eao/www/Visual/Visual.Programming.biblio.html">  Visual Languages and Visual Programming
+ </A>
+, and  
+<A HREF="http://snapple.cs.washington.edu:600/mobile/mobile_www.html">Mobile and Wireless Computing</A>
+<DT><A HREF="http://www.w3.org/hypertext/DataSources/bySubject/conferences/Overview.html">Conferences</A>
+<DD>
+<DT><A HREF="http://www.usc.edu/dept/fccchr/ccvlib/">Cross-Connection Control/Backflow Prevention</A>
+<DD>
+<DT><A HREF="http://draco.centerline.com:8080/~franl/crypto.html">Cryptography, PGP, and Your Privacy</A>
+<DD>
+<DT><A HREF="http://www.unige.ch/crystal/crystal_index.html">Crystallography</A>
+<DD>Applications in Chemistry, Biochemistry, Earth Sciences, Molecular Biology, Materials Science and Physics. (<A HREF="http://www.unige.ch/crystal/geo-index.html">by geographic location</A>)
+<DT><A HREF="http://hirsch.cosy.sbg.ac.at/www-virtual-library_culture.html">Culture</A>
+<DD>
+<DT><A HREF="http://bighorn.terra.net/menlo/dance/">Dance</A>
+<DD>
+<DT><A HREF="http://coombs.anu.edu.au/ResFacilities/DemographyPage.html">Demography & Population Studies</A>
+<DD>
+<DT><A HREF="http://www.dh.umu.se/vlib.html">Design</A>
+<DD>Covering Fashion, Graphic, Environmental, Industrial and Interaction design.
+<DT><A HREF="http://golgi.harvard.edu/biopages/develop.html">Developmental Biology</A>
+<DD>
+<DT><A HREF="http://www-leland.stanford.edu/~ger/drosophila.html">Drosophila (fruit fly)</A>
+<DD>
+<DT><A HREF="http://www.geo.ucalgary.ca/VL-EarthSciences.html">Earth Science</A>
+<DD>
+<DT><A HREF="http://www.csu.edu.au/education/library.html">Education</A>
+<DD>
+<DT><A HREF="http://www.edoc.com/ejournal/">Electronic Journals</A>
+<DD>
+<DT><A NAME="ove4">Encyclopaedia</A>
+<DD><A HREF="http://www.eb.com/">Encyclopaedia Britanica Online</A>
+<DT><A HREF="http://solstice.crest.org/online/virtual-library/VLib-energy.html">Energy</A>
+<DD>This list covers energy policy, sources, distribution, generation, and transmission. It also includes alternative and renewable energy sources, including energy efficiency.
+<DT><A HREF="http://epims1.gsfc.nasa.gov/engineering/engineering.html">Engineering</A>
+<DD>(with many sub-lists).
+<DT><A HREF="http://ecosys.drdr.virginia.edu/Environment.html">Environment</A>
+<DD>
+<DT><A HREF="http://www.epibiostat.ucsf.edu/epidem/epidem.html">Epidemiology</A>
+<DD>
+<DT><A HREF="http://www.cob.ohio-state.edu/dept/fin/overview.htm">Finance</A>
+<DD>
+<DT><A HREF="http://www.actwin.com/WWWVL-Fish.html">Fish</A>
+<DD>
+<DT><A HREF="http://www.metla.fi/info/vlib/Forestry.html">Forestry</A>
+<DD>
+<DT><A NAME="ove8">Fortune-telling</A>
+<DD><A
+NAME="z118" HREF="http://cad.ucla.edu/repository/useful/tarot.html"> Tarot Cards</A> ,<A
+NAME="z119" HREF="http://cad.ucla.edu/repository/useful/iching.html"> I-Ching</A>, <A NAME="z120" HREF="http://cad.ucla.edu:8001/biorhythm"> Biorhythm</A> .
+<DT><A HREF="http://www.i3.se/furniture.html">Furniture &amp; Interior Design</A>
+<DD>
+<DT><A HREF="http://www.cis.ufl.edu/~thoth/library/recreation.html">Games</A>
+<DD>
+<DT><A HREF="http://hpb1.hwc.ca:10002/WWW_VL_Geography.html">Geography</A>
+<DD>
+<DT><A HREF="http://www-crewes.geo.ucalgary.ca/VL-Geophysics.html">Geophysics</A>
+<DD>
+<DT><A HREF="http://www.rz.uni-karlsruhe.de/Outerspace/VirtualLibrary/">German Subject Catalogue</A>
+<DD>This document covers German resources of the Virtual Library
+<DT><A HREF="http://history.cc.ukans.edu/history/WWW_history_main.html">History</A>
+<DD>  See also <A HREF="http://coombs.anu.edu.au/SpecialProj/ASAP/WWWVL-HSTM.html">History of Science, Technology &amp; Medicine</A>
+<DT><A HREF="http://web.city.ac.uk/citylive/pages.html">Home pages</A>
+<DD>The complete collection of Web documents maintained by individuals the
+   world over. Now automatically updated.
+<DT><A HREF="http://www.cs.bgsu.edu/HCI/">Human Computer Interaction</A>
+<DD>
+<DT><A NAME="ove9">Human Factors</A>
+<DD>The <a href="http://pat.mdc.com/LB/LB.html">McDonnell Douglas Human Modeling
+System (MDHMS)</a> is a 3-D interactive
+modeling system providing the capability to analyze human body fit and
+function within a geometric structure.
+<DT><A HREF="http://www.hum.gu.se/w3vl/w3vl.html">Humanities</A>
+<DD>
+<DT><A HREF="http://www.pitt.edu/~ian/ianres.html">International Affairs</A>
+<DD>
+<DT><A HREF="http://www.mi.cnr.it:80/IGST/">Italian General Subject Tree</A>
+<DD>This document covers Italian resources of the Virtual Library
+<DT><A HREF="http://www.cais.com/makulow/vlj.html">Journalism</A>
+<DD>covers Broadcasting, Communications, Media and News
+<DT><A HREF="http://www.clr.toronto.edu:1080/VIRTUALLIB/larch.html">Landscape Architecture</A>
+<DD>
+<DT><A HREF="http://www.willamette.edu/~tjones/languages/WWW_Virtual_Library_Language.html">Languages</A>
+<DD>
+<DT><A HREF="http://lanic.utexas.edu/las.html">Latin American Studies</A>
+<DD>
+<DT><A HREF="http://www.law.indiana.edu:80/law/lawindex.html">Law</A>
+<DD>
+<DT><A HREF="http://www.w3.org/hypertext/DataSources/bySubject/Libraries.html">Libraries</A>
+<DD>
+<DT><A HREF="http://www.cog.brown.edu/pointers/linguistics.html">Linguistics</A>
+<DD>
+<DT><A HREF="http://sunsite.unc.edu/ibic/IBIC-homepage.html">Literature</A>
+<DD>
+<DT><A HREF="http://euclid.math.fsu.edu/Science/math.html">Mathematics</A>
+<DD>
+<DT><A HREF="http://golgi.harvard.edu/biopages/medicine.html">Medicine</A>
+<DD>
+<DT><A HREF="http://www.georgetown.edu/labyrinth/Virtual_Library/Medieval_Studies.html">Medieval Studies</A>
+<DD>
+<DT><IMG ALT="!" SRC="../../WWW/Icons/WWW/new.gif"> <A HREF="http://www.vix.com/men">Men's Issues</A>
+<DD>
+<DT><A HREF="http://www.met.fu-berlin.de/DataSources/MetIndex.html">Meteorology</A>
+<DD>
+<DT><A HREF="http://menic.utexas.edu/mes.html">Middle East Studies</A>
+<DD>
+<DT><A NAME="ove12">Movies</A>
+<DD><A
+NAME="a14" HREF="http://www.msstate.edu/Movies/welcome.html">The Internet Movie Database</A>
+; The
+"English Server" <A
+NAME="z165" HREF="gopher://english-server.hss.cmu.edu/11ftp%3aEnglish%20Server%3aFilm%26TV%3a">Film and Television</A>
+; <A HREF="http://www.lighthouse.com/~ake/DepthProbe/index/home.html">Depth Probe E-Zine</A>, a collection of movie, book and modern culture reviews.
+
+<DT><A HREF="http://www.comlab.ox.ac.uk/archive/other/museums.html">Museums</A>
+<DD>
+<DT><A HREF="http://syy.oulu.fi/music.html">Music</A>
+<DD>
+<DT><A HREF="http://muse.bio.cornell.edu/taxonomy/fungi.html">Mycology (Fungi)</A>
+<DD>
+<DT><A HREF="http://www.vive.com/www/virtual/">Non-Profit Organizations</A>
+<DD>Charitable Organizations
+- Schools
+- Community Centres
+- Medical Organizations
+<DT><A HREF="http://www.mth.uea.ac.uk/ocean/oceanography.html">Oceanography</A>
+<DD>
+<DT><A HREF="http://www.declab.usu.edu:8080/X/">Paranormal Phenomena</A>
+<DD>Information is gathered from various news groups
+as well as submissions from interested parties and case histories from officially
+documented hauntings and paranormal activities. 
+<DT><A HREF="http://www.cpb.uokhsc.edu/pharmacy/pharmint.html">Pharmacy (Medicine)</A>
+<DD>
+<DT><A HREF="http://www.bris.ac.uk/Depts/Philosophy/VL/">Philosophy</A>
+<DD>provide an overview of the various
+Internet resources related to Philosophy.
+<DT><A HREF="http://www.w3.org/hypertext/DataSources/bySubject/Physics/Overview.html">Physics</A>
+<DD>
+<DT><A HREF="http://physiology.med.cornell.edu/WWWVL/PhysioWeb.html">Physiology and Biophysics</A>
+<DD>
+<DT><A HREF="http://spirit.lib.uconn.edu/PoliSci/polisci.htm">Political Science</A>
+<DD>Directed at Political Science researchers
+<DT><A HREF="http://www.w3.org/hypertext/DataSources/bySubject/politics/Overview.html">Politics and Economics</A>
+<DD>
+<DT><A NAME="ove15">Prospectus</A>
+<DD>the Cranfield University <A HREF="http://www.cranfield.ac.uk/prospectus/prospectus.html">Postgraduate Prospectus</A>
+<DT><A NAME="ove14">Psychology</A>
+<DD>"<A
+NAME="z85" HREF="Psychology/Psycoloquy.html"> Psycoloquy</A> " electronic
+journal. <A
+NAME="z129" HREF="http://www.yale.edu/HTML/YalePsych-Info.html">Yale Psychology</A>
+<DT><A HREF="http://www.comlab.ox.ac.uk/archive/publishers.html">Publishers</A>
+<DD>
+<DT><A NAME="ove14">Recipes</A>
+<DD><A
+NAME="z172" HREF="http://english-server.hss.cmu.edu/Recipes.html"> The Recipes Folder</A>
+<DT><A HREF="http://www.cis.ufl.edu/~thoth/library/recreation.html">Recreation</A>
+<DD>
+<DT><A NAME="ove17">Reference</A>
+<DD>Roget's <A
+NAME="62" HREF="http://www.ncsa.uiuc.edu:8001/wais.cic.net:210/roget-thesaurus?">Thesaurus</A> . <A
+NAME="z147" HREF="http://crnvmc.cern.ch:80/FIND/DICTIONARY?">English
+and technical dictionary</A> . Experimental<A
+NAME="74" HREF="gopher://uts.mcc.ac.uk:70/77/justforfun/dictionary/enquire">
+English dictionary</A> ; the "English
+Server" <A
+NAME="z173" HREF="http://english-server.hss.cmu.edu/Reference.html">Reference</A> .
+<DT><A HREF="http://www.biologie.uni-freiburg.de/~amueller/religion/">Religion</A>
+<DD>See also
+<A HREF="http://coombs.anu.edu.au/WWWVL-Buddhism.html">Buddhist Studies</A> 
+<DT><A HREF="http://www.vtt.fi/aut/ava/rs/virtual/">Remote Sensing</A>
+<DD>Remote Sensing is a topic which processes remotely sensed images of the 
+earth, i.e. digital image data obtained from satellites or aeroplanes. 
+Remote Sensing techniques are mostly used for estimation and monitoring of 
+earth resources and map making.
+<DT><A HREF="http://www.rru.com/rru/roadkill.html">Roadkill</A>
+<DD>This field includes anything on the web related to roadkill - serious or not, tasteful or otherwise
+<DT><A HREF="http://www.pitt.edu/~cjp/rees.html">Russian and East European Studies</A>
+<DD>
+<DT><A HREF="http://freethought.tamu.edu/">Secular Issues</A>
+<DD>
+<DT><A HREF="http://coombs.anu.edu.au/WWWVL-SocSci.html">Social Sciences</A>
+<DD>
+<DT><A HREF="http://www.w3.org/hypertext/DataSources/bySubject/Sociology/Overview.html">Sociology</A>
+<DD>
+<DT><A HREF="http://zeta.cs.adfa.oz.au/Spirituality.html">Spirituality</A>
+<DD>
+<DT><A HREF="http://www.atm.ch.cam.ac.uk/sports/sports.html">Sport</A>
+<DD>
+<DT><A HREF="http://www.iso.ch/VL/Standards.html">Standards and Standardization Bodies</A>
+<DD>
+<DT><A HREF="http://www.stat.ufl.edu/vlib/statistics.html">Statistics</A>
+<DD>
+<DT><A HREF="http://werple.mira.net.au/sumeria">Sumeria</A>
+<DD>Files on alternative science, suppressed and neglected medical ideas, plus areas for politics, fiction, animal
+issues, and anything else that seems like a good idea at the time. 
+<DT><IMG ALT="!" SRC="../../WWW/Icons/WWW/new.gif"> <A HREF="http://www.nttc.edu/gov/other/tech.html">Technology Transfer</A>
+<DD>
+<DT><A HREF="http://www.analysys.co.uk/commslib.htm">Telecommunications</A>
+<DD>
+<DT><A HREF="http://coombs.anu.edu.au/WWWVL-TibetanStudies.html">Tibetan Studies</A>
+<DD>
+<DT><IMG ALT="!" SRC="../../WWW/Icons/WWW/new.gif"> <A HREF="http://www.bts.gov/smart/links/transportation.html">Transportation</A>
+<DD>
+<DT><A HREF="http://www.halcyon.com/treasure/virtual/">Treasure</A>
+<DD>Treasure hunting - Gold Mining - Gold Panning - Metal Detecting - Prospecting
+<DT><A HREF="http://www.lib.lsu.edu/gov/fedgov.html">U.S. Federal Government Agencies</A>
+<DD>
+<DT><A HREF="http://iridium.nttc.edu/gov_res.html">US Government Information Sources</A>
+<DD>
+<DT><A HREF="http://www.bgsu.edu:80/~jzawodn/ufo/">Unidentified Flying Objects (UFOs)</A>
+<DD>
+<DT><A HREF="http://www.undcp.org/unlinks.html">United Nations and other international organisations</A>
+<DD>
+<DT><A HREF="http://vision.arc.nasa.gov/VisionScience/VisionScience.html">Vision Science</A>
+<DD>
+<DT><A HREF="http://www.physics.helsinki.fi/whale/">Whale Watching Web</A>
+<DD>
+<DT><A HREF="http://www.ee.pdx.edu/~timt/html/wine.html">Wine</A>
+<DD>Wine, Wine Growing &amp; Wine Making
+<DT><A HREF="http://www.stars.com/Vlib">World-Wide Web Development</A>
+<DD>
+<DT><A HREF="http://genome-www.stanford.edu/VL-yeast.html">Yeasts</A>
+<DD>
+<DT><A HREF="http://www.mindspring.com/~zoonet/www_virtual_lib/zoos.html">Zoos</A>
+<DD>
+</DL>
+
+<A
+NAME="z153" HREF="Virtual_libraries/Overview.html">Other virtual libraries</A>
+<P>
+<HR>
+<ADDRESS><A REV=made HREF="http://www.w3.org/hypertext/DataSources/bySubject/coordination.html">vlib@mail.w3.org</A></ADDRESS>
+</BODY>
+</HTML>

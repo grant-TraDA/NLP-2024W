@@ -1,0 +1,37 @@
+<!doctype html public \"-//W30//DTD W3 HTML 2.0//EN\">
+<TITLE>Lars' HomePage</TITLE>
+
+<BODY BACKGROUND="grass.gif" BGCOLOR="#C0C0C0" TEXT="#FFFFFF" LINK="#FF9900" VLINK="#AAAAFF" ALINK="#7000A0">
+<CENTER>
+<HR>
+<H1> Welcome to Lars' homepage.</H1>
+<HR>
+<br>
+
+<IMG SRC = "sheep.gif" border=0 >
+
+<DT><A HREF = "sheep.au">sheep say.....</A>
+<DT><A HREF = "guitar.au">A guitar does.....</A>
+<DT><A HREF="page2.html">Click here to see some links</A>
+<P>
+<FONT SIZE=+2><EM>I never expected <IMG SRC="http://www.eeb.ele.tue.nl/cgi-bin/nph-count?width=5&link=http://www.cs.vu.nl/~lars/index.html"> people surfing this Home Page!</EM></FONT>
+</P>
+Sheep, common name for a collection of grazing mammals that may be either wild or domesticated;
+the domesticated varieties are the most widely distributed kind of domestic animal, found in nearly
+all countries. Wild species are found in some areas of the world: the bighorn in western North
+America; Dall sheep in northern Canada and Alaska; the mouflon in Mediterranean countries; the
+Asian mouflon in western Asia; the urial in Afghanistan and Pakistan; and the argali in eastern Asia.
+Sheep were probably domesticated about 11,000 years ago in what is now northern Iraq, and they
+are thought to have descended primarily from the mouflon, although recent evidence suggests that
+species such as the Asian mouflon contributed to some of the modern breeds.
+</CENTER>
+<HR>
+
+
+<CENTER>
+<P>
+Send mail to <ADDRESS><A HREF="mailto:lars@cs.vu.nl">lars@cs.vu.nl</A></ADDRESS>
+</CENTER>
+
+
+

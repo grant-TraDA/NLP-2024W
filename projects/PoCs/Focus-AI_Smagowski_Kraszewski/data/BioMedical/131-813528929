@@ -1,0 +1,92 @@
+<title> Biological, Agricultural and Medical Resources </title>
+
+<center>
+<img src="/images/small_oranges2.gif" align=left>
+<h2> INFOMINE </h2>
+<h3> Biological, Agricultural</h3>
+<h3> and Medical Resources </h3>
+</center>
+<br clear=left>
+<br>
+
+<h3> Comprehensive Internet/Web Resource Collection</h3>
+
+<ul>
+<li> <a href="/bioag/hello.html">HELLO!</a>
+<li> <a href="/info/how_to_use.html">HOW TO USE</a>
+<li> <img src="/images/bioag_header.gif" align=top>
+	<ul> 
+	<img src="/images/oliveball.gif" align=top> <a href="/dbase/query_b.html">Search </a> 1300+ Annotated resources by subject/keyword/title words.
+	</ul>
+	<ul>
+	<img src="/images/oliveball.gif" align=top> <a href="/htbin/dbase_msql?database=bioag&date=20&keywords=&command=date&version=2.0"> Whats New: </a> Select recently added resources
+	</ul>
+	<ul>
+	<img src="/images/oliveball.gif" align=top> <a href="/htbin/dbase_msql?database=bioag&command=table&letter=A&version=2.0"> Table of Contents </a>: Select resources listed by subject and title.
+	</ul>
+	<ul>
+	<img src="/images/oliveball.gif" align=top> <a href="/htbin/dbase_msql?database=bioag&command=subject&letter=A&version=2.0"> Subjects</a>: Select resources by subject
+	</ul>
+	<ul>
+	<img src="/images/oliveball.gif" align=top> <a href="/htbin/dbase_msql?database=bioag&command=keyword&letter=A&version=2.0"> Keywords </a>: Select resources by keyword
+	</ul>
+	<ul>
+	<img src="/images/oliveball.gif" align=top> <a href="/htbin/dbase_msql?database=bioag&command=title&letter=A&version=2.0"> Titles</a>: Select resources by title.
+	</ul>
+<li> <a href="http://www.albany.net/~wcross/all1srch.html">W3 Search Engines</a> - Search the Whole Internet (Exp. users only; see also Navigators below)
+
+<li> <a href="/htbin/dbase_msql?database=bioag&title=Reference+Resources&su=true&keywords=reference+resources&command=hard_code&version=2.0"> 
+	Reference Resources</a>
+
+<li> <a href="/htbin/dbase_msql?database=bioag&command=hard_code&version=2.0&title=Help/Guides&su=true&keywords=help+guides"> Help/Guides </a>,
+     <a href="/htbin/dbase_msql?database=bioag&title=Navigators&su=true&keywords=navigators&command=hard_code&version=2.0"> Navigators </a>,
+     <a href="/htbin/dbase_msql?database=bioag&title=Utilities&su=true&keywords=utilities&command=hard_code&version=2.0"> Utilities </a>, 
+     <a href="/htbin/dbase_msql?database=bioag&title=Systems+Information+Resources&su=true&keywords=systems&command=hard_code&version=2.0"> Systems Information </a>,
+     <a href="/htbin/dbase_msql?database=bioag&title=Instructional+Uses/Courseware&su=true&keywords=instructional+uses&command=hard_code&version=2.0"> Instructional Uses/Courseware </a>,
+     <a href="/htbin/dbase_msql?database=bioag&title=Electronic+Publishing+Resources&su=true&keywords=electronic+publishing&command=hard_code&version=2.0"> Electronic Publishing</a>
+
+<li> <a href="/gomez-pompa"> UCR Plant Resources Information Lab : Q'Taxa</a>
+<li> <a href="/htbin/dbase_msql?database=bioag&title=Some+Gems&su=true&keywords=gems&command=hard_code&version=2.0"> Some Gems....</a>
+</ul>
+
+<h3> General Libraries Information </h3>
+<ul>
+<li> <a href="/Main.html">UCR Libraries Home Page </a>
+<li> <a href="/kiosk/hours.html">Library Hours</a>
+<li> Melvyl System: Includes the UC Electronic Card Catalog,
+	     Current Contents, Medline, Mags and much more.
+	<ul>
+		<li> <a href="telnet://melvyl.ucop.edu"> Melvyl via Telnet </a>
+		<li> <a href="/melvyl/tutorial/tutorial.html">Melvyl Tutorials</a> (under construction)
+	</ul>
+<li> Other <a href="/htbin/dbase_msql?database=bioag&title=Other+Libraries+and+Catalogs&su=true&keywords=librar%23+or+catalog%23&command=hard_code&version=2.0">Libraries and Catalogs</a>
+<li> <a href="/scinews/"> UCR Science Libraries Newsletter</a>
+</ul>
+
+<h3> Campus, Region and UC System </h3>
+<ul>
+<li> <a href="http://www.ucr.edu/"> UCR Campus Web Server </a>
+<li> <a href="gopher://gopher.ucr.edu/"> UCR Campus Gopher Server </a>
+<li> <a href="/htbin/dbase_msql?database=bioag&version=2.0&command=hard_code&su=true&title=Weather+Resources&keywords=weather"> Weather</a>, 
+	<a href="http://www.scubed.com:8001/caltrans/transnet.html"> Traffic </a> and 
+	<a href="http://www-geology.ucdavis.edu/eqmandr.html"> Earthquake </a> 
+	Maps and Reports.
+<li> <a href="http://cmp1.ucr.edu/">California Museum of Photography</a>
+<li> <a href="/htbin/dbase_msql?database=bioag&title=Riverside+County+Web/Internet+Servers&kw=true&keywords=riverside+county+servers&command=hard_code&version=2.0"> Riverside County Internet/Web Servers </a>
+<li> <a href="http://www.ucla.edu/ucservers.html"> UC Internet/Web Servers </a>
+<li> <a href="/htbin/dbase_msql?database=bioag&title=California+Internet/Web+Servers&su=true&kw=true&keywords=california+servers&command=hard_code&version=2.0"> California Internet/Web Servers </a>
+</ul>
+
+<hr>
+<a href="/dbase/manage/bioag/">Bio-Ag & Med Management Page</a><br>
+<address> <a href="/~cvarner/">Curtis Varner</a>: programmer/analyst (cvarner@cs.ucr.edu) </address>
+<address> Steve Mitchell: librarian/project coordinator (smitch@ucrac1.ucr.edu) </address>
+<address> Margaret Mooney: librarian/project coordinator (mmooney@ucrac1.ucr.edu) </address>
+
+
+
+
+
+
+
+

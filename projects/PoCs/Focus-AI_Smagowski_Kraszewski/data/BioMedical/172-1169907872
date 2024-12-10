@@ -1,0 +1,163 @@
+<html>
+<base href="http://www.vet.upenn.edu/">
+<head>
+<!-- Name:  index.html -->
+<!-- Author:  SVM WWW server -->
+<!-- Created:  20 September, 1994 -->
+<!-- Last modified:   -->
+
+<title>
+University of Pennsylvania School of Veterinary Medicine
+</title>
+</head>
+
+<body>
+<img src="http://www.vet.upenn.edu/images/logo.220.gif"
+alt="U of PA School of Veterinary Medicine Logo"
+align=left width=220 height=220
+vspace=0 hspace=5>
+
+<h1>
+University of Pennsylvania<br>
+School of Veterinary Medicine
+</h1>
+<br clear=left>
+
+<hr>
+<strong>
+<i>
+Welcome to the experimental World Wide Web server for the University
+of Pennsylvania School of Veterinary Medicine.  The server is currently
+under construction - those items marked with
+</i>
+</strong>
+(*)
+<strong>
+<i>remain undeveloped.
+</i>
+</strong>
+<hr>
+
+<p>
+The 
+<a href="http://www.vet.upenn.edu/dean/index.html">
+<strong>
+Office of the Dean (*)
+</strong>
+</a>
+oversees the academic and financial affairs of the School of Veterinary
+Medicine including:
+<ul>
+<li><a href="http://www.vet.upenn.edu/admit/index.html">
+Office of Admissions
+</a>
+<li><a href="http://www.vet.upenn.edu/sace/index.html">
+Office of Student Affairs and Continuing Education (*)
+</a>
+<li><a href="http://www.vet.upenn.edu/catalog/index.html">
+Course Catalog (*)
+</a>
+</ul>
+
+<p>
+<hr>
+The School of Veterinary Medicine has four academic departments:
+<ul>
+<li><a href="http://www.vet.upenn.edu/anbio/index.html">
+Department of Animal Biology (*)
+</a>
+<li><a href="http://www.vet.upenn.edu/cs_nbc/index.html">
+Department of Clinical Studies - New Bolton Center (*)
+</a>
+<li><a href="http://www.vet.upenn.edu/cs_phila/index.html">
+Department of Clinical Studies - Philadelphia (*)
+</a>
+<li><a href="http://www.vet.upenn.edu/pathbio/index.html">
+Department of Pathobiology (*)
+</a>
+</ul>
+
+<p>
+<hr>
+From these four departments, faculty are drawn to five
+cross-disciplinary centers within the school:
+<ul>
+<li><a href="http://cahpwww.nbc.upenn.edu/">
+Center for Animal Health and Productivity
+</a>
+<li>
+<a href="http://www.vet.upenn.edu/cesm/index.html">
+Center for Equine Sports Medicine (*)
+</a>
+<li>
+<a href="http://www.vet.upenn.edu/cidfs/index.html">
+Center for Infectious Disease and Food Safety (*)
+</a>
+<li>
+<a href="http://www.vet.upenn.edu/cmg/index.html">
+Center for Medical Genetics (*)
+</a>
+<li>
+<a href="http://www.vet.upenn.edu/mlcco/index.html">
+Mari Lowe Center for Comparative Oncology (*)
+</a>
+<li>
+<a href="http://www.vet.upenn.edu/cvcc/index.html">
+Center for Veterinary Critical Care (*)
+</a>
+</ul>
+
+<p>
+<hr>
+The School of Veterinary Medicine has two hospitals:
+<ul>
+<li>
+<a href="http://www.vet.upenn.edu/vhup/index.html">
+Veterinary Hospital of the University of Pennsylvania - Philadelphia (*)
+</a>
+<li>
+<a href="http://www.vet.upenn.edu/nbc/index.html">
+George D. Widener Hospital for Large Animals - New Bolton Center (*)
+</a>
+</ul>
+
+<p>
+<hr>
+Leveraging the
+<a href="http://corl.nbc.upenn.edu:2000/~provost/education.html">
+<strong>World Wide Web and HTML as educational tools</strong>
+</a>
+is being explored.  During the summer of 1995, some of these ideas
+will be put to the test in a
+<a href="cal/">CAL - computer aided learning</a> project.
+
+<p>
+<hr>
+<a href="http://dolphin.upenn.edu/">
+<strong>Dolphin</strong>
+</a>
+is the electronic mail server for students at the University of
+Pennsylvania School of Veterinary Medicine.
+Students are also given
+<a href="http://dolphin.upenn.edu/homepages/personal_homepages.html">
+<strong>home pages</strong>
+</a>
+on the Dolphin server.
+<br>
+
+<p>
+Please visit the
+<a href="http://www.upenn.edu/">
+University of Pennsylvania World Wide Web Server
+</a>
+if you have time.
+
+<p>
+<hr>
+Please address any questions or comments to:
+<br>
+<address>
+webmaster@www.vet.upenn.edu
+</address>
+</body>
+</html>

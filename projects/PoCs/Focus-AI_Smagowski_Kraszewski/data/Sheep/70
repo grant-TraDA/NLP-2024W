@@ -1,0 +1,80 @@
+<head>
+<title>Inktomi Web Services</title>
+</head>
+<body>
+
+<h1><b>U. C. Berkeley Inktomi Research Prototype</b></h1>
+<center>
+<A href="/story.html">
+<img src="http://inktomi.berkeley.edu/inklogo.gif"
+  width=486 height=100>
+</A>
+</center>
+<P>
+
+<center>
+<form action="http://inktomi.cs.berkeley.edu:1234/query/" METHOD=GET>
+
+<input type="submit" value="Start Search!"> for words:
+<input type="text" name="query" size=30><p>
+Return
+	<SELECT NAME="hits">
+	<OPTION>10 documents
+	<OPTION SELECTED>20 documents
+	<OPTION>30 documents
+	<OPTION>50 documents
+	<OPTION>100 documents
+	</SELECT> 
+displaying results with
+<SELECT NAME="disp">
+        <OPTION>Full Graphics
+        <OPTION SELECTED>Text Only
+        <OPTION>Terse Text Only
+</SELECT>
+</center>
+<p>
+<hr>
+<B>This research prototype of Inktomi technology will soon be replaced by a
+fully featured commercial search service. Check here for news!</B>
+<hr>
+The Inktomi technology exploits parallel computing technology to build a
+<a href="http:/scalable.html"><b>scalable web server</b></a> using commodity
+workstations; we currently use 4 SparcStation 10s.
+  Berkeley Inktomi is part of the
+Network of Workstations
+(<a href="http://now.cs.berkeley.edu/">NOW</a>)
+project at the 
+<a href="http://www.berkeley.edu/"> University of California at Berkeley</a>.<p>
+
+Berkeley Inktomi was implemented by graduate student <a
+href="http://www.cs.berkeley.edu/~gauthier"> Paul Gauthier</a> and
+Professor <a href="http://www.cs.berkeley.edu/~brewer">Eric
+Brewer</a>.<p>
+
+<ul>
+<li><a href="/query.html">Instructions for searching</a> 
+<li><a href="/addurl.html">Add a URL</a>
+<li><a href="/link.html">Linking to Berkeley Inktomi</a>
+<li><a href="/counting.html">Truth in Document Counting</a>
+<li><a href="/scalable.html">More info on our scalable web server research</a>
+<li><a href="/story.html">Where does the name come from?</a>
+</ul>
+
+
+<hr size=4>
+<CENTER>
+<A HREF="/">Home</A> |
+<A HREF="/query.html">Search</A> |
+<A HREF="/addurl.html">Add URLs</A>
+</CENTER>
+
+<P>
+Email: <em>
+<a href="mailto:brewer@cs.berkeley.edu">brewer@cs.berkeley.edu</a>,
+<a href="mailto:gauthier@cs.berkeley.edu">gauthier@cs.berkeley.edu</a></em><br>
+Berkeley's Inktomi research is sponsored in part by <a href="http://www.arpa.mil">ARPA</a>;
+<a href="http://www.sun.com">Sun Microsystems</a> donated our equipment.<br>
+<font size="-1"> Artwork Copyright (c) 1995
+<a href="http://www.cs.berkeley.edu/~brewer/sardegna"> Lisa Sardegna </a></font> <br>
+
+

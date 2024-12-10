@@ -1,0 +1,69 @@
+<html><head>
+<TITLE>Berkeley Inktomi Search Engine</TITLE>
+</head>
+<body>
+<h1><b>U. C. Berkeley Inktomi Research Prototype</b></h1>
+<center>
+<A href="/index.html">
+<img src="http://inktomi.berkeley.edu/inklogo.gif"
+  width=486 height=100>
+</A>
+</center>
+<P>
+
+Enter up to 10 words as your query. Inktomi will return the
+documents that contain those words, ranked by how many of the words
+each document contains, and by their relative importance.  Use
+"+berkeley" to indicate that the word <i>berkeley</i> must be in the
+document; use "-berkeley" to indicate that it must not.<p>
+
+<form action="http://inktomi.cs.berkeley.edu:1234/query/" METHOD=GET>
+
+<input type="submit" value="Start Search!"> for words:
+<input type="text" name="query" size=30><p>
+Return
+	<SELECT NAME="hits">
+	<OPTION>10 documents
+	<OPTION SELECTED>20 documents
+	<OPTION>30 documents
+	<OPTION>50 documents
+	<OPTION>100 documents
+	</SELECT> 
+displaying results with
+<SELECT NAME="disp">
+        <OPTION>Full Graphics
+        <OPTION SELECTED>Text Only
+        <OPTION>Terse Text Only
+</SELECT>
+   
+<p>
+Just put spaces between the words, don't use any numbers or
+symbols. Words shorter than three letters or very common words, such as
+<i>is</i>,
+<i>and</i>, or <i>the</i>, are ignored.  The system will remove
+common endings, such as <i>ing</i> and <i>ed</i>, from your words and
+search for matches that share the same root.  For example,
+<i>watching</i> will match words like <i>watch</i>, <i>watched</i>,
+etc. <p>
+
+
+
+<hr size=4>
+<CENTER>
+<A HREF="/">Home</A> |
+<A HREF="/query.html">Search</A> |
+<A HREF="/addurl.html">Add URLs</A>
+</CENTER>
+
+<P>
+Email: <em>
+<a href="mailto:brewer@cs.berkeley.edu">brewer@cs.berkeley.edu</a>,
+<a href="mailto:gauthier@cs.berkeley.edu">gauthier@cs.berkeley.edu</a></em><br>
+Berkeley's Inktomi research is sponsored in part by <a href="http://www.arpa.mil">ARPA</a>;
+<a href="http://www.sun.com">Sun Microsystems</a> donated our equipment.<br>
+<font size="-1"> Artwork Copyright (c) 1995
+<a href="http://www.cs.berkeley.edu/~brewer/sardegna"> Lisa Sardegna </a></font> <br>
+
+
+
+

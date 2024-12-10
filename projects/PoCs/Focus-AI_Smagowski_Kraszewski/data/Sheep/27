@@ -1,0 +1,47 @@
+<!-- received="Fri May 13 19:18:04 1994 CDT" -->
+<!-- sent="Fri, 13 May 1994 19:46:28 -0400 (EDT)" -->
+<!-- name="Steve Simmons" -->
+<!-- email="scs@lokkur.dexter.mi.us" -->
+<!-- subject="Re: wolves and sheep on the inet" -->
+<!-- id="199405132346.TAA11438@lokkur.dexter.mi.us" -->
+<!-- inreplyto="199405131927.OAA24449@uther.cs.purdue.edu" -->
+<title>Bugtraq Archives prior to 1995: Re: wolves and sheep on the inet</title>
+<h1>Re: wolves and sheep on the inet</h1>
+Steve Simmons (<i>scs@lokkur.dexter.mi.us</i>)<br>
+<i>Fri, 13 May 1994 19:46:28 -0400 (EDT)</i>
+<p>
+<ul>
+<li> <b>Messages sorted by:</b> <a href="date.html#385">[ date ]</a><a href="index.html#385">[ thread ]</a><a href="subject.html#385">[ subject ]</a><a href="author.html#385">[ author ]</a>
+<!-- next="start" -->
+<li> <b>Next message:</b> <a href="0386.html">[8LGM] Security Team: "[8lgm]-Advisory-7.UNIX.passwd.11-May-1994.NEWFIX"</a>
+<li> <b>Previous message:</b> <a href="0384.html">John Hawkinson: "Re: [8lgm]-Advisory-7.UNIX.passwd.11-May-1994"</a>
+<li> <b>In reply to:</b> <a href="0383.html">Gene Spafford: "Re: wolves and sheep on the inet"</a>
+<!-- nextthread="start" -->
+<li> <b>Next in thread:</b> <a href="0399.html">Perry E. Metzger: "permissions"</a>
+</ul>
+<!-- body="start" -->
+<pre>
+&gt; Robert Heinlein, in his book, "Starship Troopers" raises the issue of 
+&gt; what to do to prevent insurrection.  "If you make the wolves the 
+&gt; guardians of the sheep, it will turn them into sheep dogs."
+
+Yeah, that's how we got Papa Doc Duvalier and the military dictatorships
+of too many countries to name.
+
+If you make the wolves into guardians of the sheep, you've made it even
+easier for the wolves to prey on the sheep.
+
+Ob. Bug:
+
+The System V vendor(s) who shipped both / and /etc with mode 777.
+</pre>
+<!-- body="end" -->
+<p>
+<ul>
+<!-- next="start" -->
+<li> <b>Next message:</b> <a href="0386.html">[8LGM] Security Team: "[8lgm]-Advisory-7.UNIX.passwd.11-May-1994.NEWFIX"</a>
+<li> <b>Previous message:</b> <a href="0384.html">John Hawkinson: "Re: [8lgm]-Advisory-7.UNIX.passwd.11-May-1994"</a>
+<li> <b>In reply to:</b> <a href="0383.html">Gene Spafford: "Re: wolves and sheep on the inet"</a>
+<!-- nextthread="start" -->
+<li> <b>Next in thread:</b> <a href="0399.html">Perry E. Metzger: "permissions"</a>
+</ul>

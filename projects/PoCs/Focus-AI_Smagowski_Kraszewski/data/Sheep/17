@@ -1,0 +1,14 @@
+<TITLE>Sheep Test</TITLE>
+<H1>Sheep Test</H1>
+
+This is a very simple test about sheep. <P>
+
+<FORM METHOD="GET" ACTION="/htbin/sheep-test">
+
+What noise does Stuart's sheep make? <INPUT NAME="ENTRY"> <P>
+
+To submit the answer, press this button: <INPUT TYPE="submit"
+VALUE="Submit Query">. <P>
+
+</FORM>
+

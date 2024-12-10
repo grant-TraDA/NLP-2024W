@@ -1,0 +1,40 @@
+<TITLE>Email to Kittens and Goats Organization </TITLE>
+<center>
+<H1>Email to The Kittens and Goats Organization </H1>
+</center>
+<li>  We are a non-profit, all volunteer organization
+who care for stray animals, everything from kittens to
+goats.
+
+<li> Thank you for all the wonderful letters that we
+have received over the past year. 
+
+We are often asked for pets, but unfortunately we do not
+have the money or the legal department to properly document 
+and ship animals across state lines. Sorry, we recommend you 
+visit the your local SPCA  and save an animal from destruction.
+
+<li>  Please do not send us money or any more pet food. If you 
+like what we do, please join us by  saving animals in your
+local community.
+
+<P><EM>Note:</EM>This is an HTML form. You must have a
+browser that supports forms in order to use it. If you do not
+see text editing areas below, your browser does not support
+forms. Send mail directly to topcat@kgo.com instead.
+
+<P>Enter your message in the areas provided below. Be sure to
+fill out all of the fields.
+<HR>
+<FORM METHOD="POST" ACTION="/cgi-bin/email">
+<INPUT NAME="name">Your Name<P>
+<INPUT NAME="email">Your Email Address<P>
+<INPUT NAME="subject">Subject<P>
+<INPUT NAME="recipient" VALUE="topcat" TYPE="hidden">
+<P>Text:<P>
+<TEXTAREA NAME="content" ROWS=10 COLS=60></TEXTAREA> <P>
+Click <INPUT TYPE="submit" VALUE="submit"> to submit your
+message. Click <INPUT TYPE="reset" VALUE="reset"> to clear
+your message and start over.
+</FORM>
+<HR>

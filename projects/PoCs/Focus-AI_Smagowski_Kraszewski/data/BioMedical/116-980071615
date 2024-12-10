@@ -1,0 +1,51 @@
+<html>
+<body  
+background="/backgrounds/grayback.gif" text="#000000" link="#0000FF" vlink="#00F0F0" alink="#FF0000">
+
+<header>
+<title> UAMS Biopharmaceutical Sciences</title>
+</header>
+<h2><a href="/aiff/Welcome.aiff"><img alt="Image of The Cysteine Proteinase Cathepsin B"
+ src="/images/cbs_bvc_fram.gif" border=0></a> 
+</h2>
+<p>
+<h3><i>What is the Biomedical Visualization Center?</h3></i>
+<dl><h4>The UAMS <a href="/index_bvc.html">Biomedical Visualization Center</a> was established
+in 1994 with the support of the College of Pharmacy and UAMS Computing Services. 
+The Goal of the Center is to provide the computational
+facilities to address some of the most challenging problems in 
+<a href="/other/uamsres.html">Biomedical Research</a>. 
+The Center is located on the UAMS campus in Little Rock, Arkansas. The Center has facilities for 
+<a href="/mm.html">Molecular Modeling</a>, <a href="/av.html">Anatomical Visualization</a>,
+<a href="/ed.html"> Educational Development</a>, <a href="/3da.html">3D-Animation</a> and <a href
+="/netcomm.html">Network Communications</a>.</h4></dl>
+<hr>
+<hr>
+<p>
+<h5><img alt="*" src="/images/blue.gif">Back to the <a href="/CoP.html">College of Pharmacy </a> or
+ <a href="/uams.html">UAMS</a> Home Pages.</h5><br><p>
+<h5><img alt="*" src="/images/blue.gif">
+Biomedical <a href="/biotech/welcome.html">Biotechnology</A> Center <i>
+(This site has a directory and search engine)</i>.</h5></p><br>               
+<hr>
+<h5><img alt="*" src="/images/blue.gif">The <a href="/person.html">personnel</a> responsible for this facility.</h5>
+<hr>
+<i>Send <a href="/interactive/net_mailout.html"> Questions/Comments</a>
+ via this form page.</i><p>
+<var>WebMeister <a href="/persons/jas.html">JAS</a></var><p>
+<h5>Most of the net pages on this server contain Graphics. They
+are best viewed with Netscape version 1.1. If you are using a slow
+connection you might want to omit downloading the images.</h5> 
+
+<center><a href="/index.html"><img alt="BVC" src="/images/special/BVC_logo.gif"
+border=0></a></center>
+
+
+
+
+<!--<p><img src="/cgi-bin/count.cgi"
+img src="/cgi-bin/BVCcount.xbm"
+served since JULY 18, 1995.-->
+</body>
+</html>
+

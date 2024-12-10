@@ -1,0 +1,169 @@
+<HTML>
+<HEAD>
+<TITLE>OncoLink, The University of Pennsylvania Cancer Resource</TITLE>
+</HEAD>
+<BODY>
+
+<center><img alt="" src="/images/mainonc1.gif"></center>
+
+<center><H2>The <A HREF="/stuff/upmc.html">University of Pennsylvania</a>
+ Cancer Resource</h2></center>
+<center>Copyright  &copy  1995, The Trustees of The University of Pennsylvania</center>
+
+<!--	
+Revision date at end of document
+	tjd	5/22/95 Added Peer-Reviewed Journals
+        kcc     5/17/95 Moved picture, stats, reviews, letters
+	jwg	5/17/95 Changed Logo
+	kcc	4/30/95 Removed 'under construction', moved Penn shield
+	#18	4/19/95 Centered Heading
+	jwg	4/13/95 Removed  HEAD ... BODY, Added UL, corrected syntax
+                        Head/body seems to mess up Mosaic B4
+	kcc	4/12/95 added link from UPenn, linked icons, + submissions
+	kcc	4/1/95	added icons for search and clinical trials, +main
+	jwg	4/01/95 removed patient name, fixed menu (br's)
+	kcc	3/30/95 search words, help, move clinical
+	kcc	3/29/95 psycho_stuff title, header for main menus
+	kcc	3/28/95	change mailto, other cancer resource, add help 
+	KC  	03/09/95 added trailing /'s for momspider
+	KC  	03/08/95	changed picture
+	KC  	02/02/95    added construction message
+-->
+<!--removed
+ kcc 4/30/95
+   A HREF="/stuff/upmc.html"
+   img alt="Info about Penn" src="/images/penn1.gif"
+-->
+<HR>
+<center>
+<A HREF="/stuff/latest_stuff/">
+<img alt="What's New  " src="/images/b1.gif"></a>
+
+<A HREF="/cancer_news/">
+<img alt="Cancer News  " src="/images/b2.gif"></a>
+
+<A HREF="/conference/">
+<img alt="Meetings  " src="/images/b3.gif"></a>
+
+<A HREF="/stuff/journals.html">
+<img alt="Journals  " src="/images/b4.gif"></A>
+
+<A HREF="/cgi-bin/onco-wais.pl">
+<img alt="Search  " src="/images/b5.gif"></a>
+
+<A HREF="/stats/"><img alt="Statistics" src="/images/b6.gif"></a>
+</center>
+<P>
+<center>
+<A HREF="about_oncolink.html">About OncoLink</A>
+ --
+<A HREF="/stuff/editorial_board.html">Editorial Board </A>
+ --
+<A HREF="/stuff/gen_disclaimer.html">Disclaimer </A>
+ --
+<A HREF="/forms/call_for_papers.html">Submissions </A>
+ --
+<A HREF="/stuff/help.html">Help </A>
+</center>
+<HR>
+
+<!-- Please tell BL before changing next group of lines 6/20/95
+     see /usr/local/oncol/server/Admin/bin/shuffle -->
+<A HREF="/images/child/choice.index.gif">
+<img alt="Children's artwork: "
+src="/images/child/choice_sm.index.gif"></A>
+This artwork was donated by Clayton (Age 6), a pediatric cancer patient who received treatment for cancer at The Children's Hospital of Philadelphia. It will change regularly.
+<b><A href="/images/child/gallery3.html">See the 1996 Children's
+Calendar and the
+ gallery of children's artwork.</A></B>
+<P>
+<hr>
+<p>
+<p>
+<h2>Main OncoLink Menus</h2>
+<UL>
+<img alt="" src="/images/icons/ball.blue.gif">
+	<A HREF="/disease/">
+	Disease Oriented Menus</A>
+ <br>
+<img alt="" src="/images/icons/ball.blue.gif">
+	<A HREF="/specialty/">
+	Medical Specialty Oriented Menus</A>
+<br> 
+<img alt="" src="/images/icons/ball.blue.gif">
+	<A HREF="/psycho_stuff/">
+	Psychosocial Support and Personal Experiences</A>
+ 
+<br>
+<img alt="" src="/images/icons/ball.blue.gif">
+	<A HREF="/topics/">
+	Cancer Causes, Screening, and Prevention</A>
+
+<br>
+<img alt="" src="/images/icons/ball.blue.gif">
+	<A HREF="/clinical_trials/">
+	Clinical Trials	</A>
+
+<br> 
+<img alt="" src="/images/icons/ball.blue.gif">
+	<A HREF="/stuff/">
+	Global Resources for Cancer Information</A>
+<br> 
+<img alt="" src="/images/icons/ball.blue.gif">
+	<A HREF="/faq/">
+	Frequently Asked Questions (FAQ) about CANCER</A>
+
+<br> 
+<img alt="" src="/images/icons/ball.blue.gif">
+    <A HREF="/onco_bill/">
+	Financial Issues for Patients</A>
+<br>
+</UL>
+
+<HR>
+We welcome your comments! Please e-mail to
+<i>editors@oncolink.upenn.edu</i>, or use our <A HREF="/forms/mailform.html">
+Comment Form</A> to let us know what you think.<BR>
+<p>
+
+<b>OncoLink</b> has been awarded:<br>
+<img alt=" Best of the Web '94" src="/stuff/b_o_web.gif">
+<A HREF="http://wings.buffalo.edu/contest/awards/index.html">
+The International Best of the Web '94 Award</a> for <b>Best
+Professional Service</b>.<P>
+
+1995 Finalist in the <a href="http://www.gii-awards.com/">National
+Information
+Infrastructure Awards (NII).</a> in the 
+<a href="http://www.gii-awards.com/health.htm">Health Category.</a><P>
+<img alt="Top 5% " src="/images/awards/5percsmt.gif">
+
+<a href="http://www.pointcom.com/">
+Point Communications</a> has selected OncoLink as Top 5% of the Web
+based upon
+their<a href="http://www.pointcom.com/jpegs/reviews/629008.htm">
+review.</a><P>
+
+
+Thank you for your support and we look forward
+to working with you to make this resource even more valuable!
+<HR>
+
+<FONT SIZE=1>
+<b>GENERAL DISCLAIMER</b><br>
+OncoLink is designed for educational purposes only and is not engaged
+in 
+rendering medical advice or professional services.  The information
+provided 
+through OncoLink should not be used for diagnosing or treating a
+health 
+problem or a disease.  It is not a substitute for professional care.
+If you 
+have or suspect you may have a health problem, you should consult your
+
+health care provider.</FONT>
+<P>
+<ADDRESS>Revised September 6, 1995 by <A HREF="/forms/mailform.html">editors@oncolink.upenn.edu</A></ADDRESS>
+
+</BODY>
+</HTML>

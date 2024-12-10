@@ -1,0 +1,56 @@
+<TITLE>CVM Home Page</TITLE>
+<HEADER>
+<IMG SRC="/icons/BlueMarbleLine.gif" ALT=""><BR>
+<H1><IMG ALIGN=middle SRC="/graphics/peg.gif" ALT="">MSU College of Veterinary Medicine</H1><BR>
+<IMG SRC="/icons/BlueMarbleLine.gif" ALT=""><BR>
+</HEADER>
+
+<BODY>
+<HR>
+Click <A HREF="home.html">here</A> to see a graphical representation of this page.
+<HR>
+
+<H3>Index of Services</H3>
+<DL>
+<DT><IMG ALT="*" SRC="/icons/BButton2.gif"><A HREF="intro.html">Introduction</A>
+<DD> The general introduction to the College and its facilities. <P>
+
+<DT><IMG ALT="*" SRC="/icons/BButton2.gif"><A HREF="pbl/pbl_home.html">Overview of Problem Based Learning</A>
+<DD> Information about the College's new curriculum. Based on solving problems and independent research
+rather then traditional lectures and labs. <P>
+
+<DT><IMG ALT="*" SRC="/icons/BButton2.gif"><A HREF="departments.html">Programmatic Information</A>
+<DD> The College utilizes "Programs" rather than traditional departments. This area profiles the
+different program areas comprising the College's infrastructure. <P>
+
+<DT><IMG ALT="*" SRC="/icons/BButton2.gif"><A HREF="network/network_home.html">Network Resources</A>
+<DD> This allows you to explore some of the other internet-based computer resources at the Collge.
+It includes our Gopher and FTP servers. <P>
+
+<DT><IMG ALT="*" SRC="/icons/BButton2.gif"><A HREF="contacts.html">Contact Points</A>
+<DD> This section provides contact people inside the college for various types of information. The
+links are setup to mail directly to them. <P>
+
+<DT><IMG ALT="*" SRC="/icons/BButton2.gif"><A HREF="/tour/starttour.html">CVM Tour</A>
+<DD> An online tour of the Wise Center facilities.<P>
+
+<DT><IMG ALT="*" SRC="/icons/BButton2.gif"><A HREF="/othersites/others.html">Other Web Servers</A>
+<DD> Other points for starting web exploration. <P>
+
+<DT><IMG ALT="*" SRC="/icons/BButton2.gif"><A HREF="new.html">What's New...</A>
+<DD> A listing of recent changes or additions to this server.<P>
+
+<DT><IMG ALT="*" SRC="/icons/BButton2.gif"><A HREF="notyet.html">Index</A>
+<DD> An index of the information found on this server. <P>
+</DL>
+
+
+<HR>
+Comments to: <A HREF="comment-form.html">webmaster@www.cvm.msstate.edu</a><BR>
+Created by: <A HREF="/personals/rr.html">Robin Ricchetti</A> 5/26/95
+</BODY>
+
+
+
+
+

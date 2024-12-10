@@ -1,0 +1,50 @@
+<TITLE>PIR-Web  - The Protein Identification Resource</TITLE>
+
+<H2><A HREF="http://www.gdb.org/Dan/fields/pir.form.html"><IMG SRC="http://www.gdb.org/Dan/Images/pir.gif"><p> Search the PIR-International Protein Sequence Database (Parts 1, 2, and 3)</A>
+</H2>
+<p>
+<hr>
+<p>
+<h2>
+<IMG SRC="http://www.gdb.org/Dan/Images/new-tiny.gif">
+<A HREF="http://www.gdb.org/Dan/fields/pir/species/species.menu.html">Searching for Proteins from Selected Species</A>
+<IMG SRC="http://www.gdb.org/Dan/Images/new-tiny.gif">
+</h2>
+<p><hr><p>
+The Web version derived from PIR-International has hot links to the following Databases:
+<ul>
+<li><b>GenBank</b> - DNA Sequence Database
+<li><b>DDBJ</b> - The DNA Data Bank of Japan
+<li><b>EC-Enzyme</b> - The EC Enzyme Classification Database
+<li><b>GDB</b> - The Genome Data Base
+<li><b>Refbase</b> - A Protein Sequence Citation Database
+</ul>
+<p>
+Many of which have links among themselves and to other databases as well.
+<p>
+<b>Searching:</b>
+<p>
+You may search this database using booleans (and, or, not), nested booleans, wildcards (*), and
+phrase searches ("   ").  The maximum number of results returned is currently 200.
+<p>
+For Example: A search for - <p>
+<i> reverse and transcriptase </i><p>
+<p>
+will pull out all the reverse transcriptases.
+<p>
+A search for -
+<p>
+<i> reverse and transcriptase not immunodeficiency </i>
+<p>
+will narrow the search down a bit by screening the HIV and associated entries.
+<p>
+<b>Reference:</b>
+<p>
+PIR(1-3)</b> <A HREF="http://www.gdb.org/Dan/proteins/pirref.html">Sidman, K., George, D., Barker, W. * Hunt, L. (1988)</A>
+<p>
+You can learn more about the PIR-International Protein Sequence Database and the <A HREF="http://www.gdb.org/Dan/proteins/pirusersdoc.html">Codata format.</A>
+<p>
+<p>
+<Address>
+Dan Jacobson  danj@gdb.org
+</Address>

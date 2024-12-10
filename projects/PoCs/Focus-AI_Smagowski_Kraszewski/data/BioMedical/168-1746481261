@@ -1,0 +1,140 @@
+<HTML>
+<HEAD>
+<TITLE>Pharmaceutical Information Network Home Page</TITLE> 
+<IMG ALT="Pharmaceutical Information Network" SRC="images/pin_bnnr.gif">
+<HR>
+</HEAD>
+<BODY>
+<CENTER>
+<IMG SRC="images/5percsmt.gif" ALT="*"> <A HREF="rating.html"> <B>Rated Among Top 5% of WWW Sites!</B></A> | 
+<IMG SRC="images/maw.gif" ALT="*"> <A HREF="upcoming.html"> <BLINK><B>What's New!</B></BLINK></A> | 
+<B><A HREF="pinstats/pin_stats.html">Statistics</A></B>
+<HR>
+<B><A HREF="drugfaq/faq_mnu.html"><BLINK>DrugFAQs</BLINK></A></B> | <B>
+<A HREF="drugdb/db_mnu.html">DrugDB</A></B> | <B>
+<A HREF="pharmmall/pm_hp.html"><BLINK>PharmMall</BLINK></A></B> | <B>
+<A HREF="meeting/mtg_hp.html"><BLINK>Meetings</BLINK></A></B> | <B>
+<A HREF="drugdb/smp_mnu.html"><I>sci.med.pharmacy</I> Archive</A></B> | <B>
+<A HREF="gallery/glly_mnu.html">Gallery</A></B> | <B>
+<A HREF="phrmlink.html">Links</A></B>
+</CENTER>
+<HR SIZE = 7>
+
+<DL>
+<DT><IMG ALT="*" SRC="images/blueball.gif"> <B><FONT SIZE="+3">P</FONT><FONT SIZE="+2">ublications </FONT></B>
+<DD><A HREF="pubs/msb/msbmnu.html"><IMG ALT ="*" 
+SRC="images/msb_ico.gif"> <BLINK>Medical Sciences Bulletin</BLINK></A>&#174  <A 
+HREF="pubs/transgen/tg_hp.html"><IMG SRC="images/tg_ico.gif" ALT="*"> 
+Transgenica</A>(tm)<BR>
+<A HREF="pubs/psychpharm/psychpharm_hp.html"><IMG ALT="*" SRC="images/psych_lgo.gif"> Psychopharmacology Update</A> 
+<A HREF="pubs/pccn/pccn_hp.html"><IMG ALT="*" SRC="images/pccn_lgo.gif"> Pharmacy Cost Control News</A><P>
+<A HREF="pubs/ppmq/ppmq_hp.html">Pharmacy Practice Management Quarterly</A><P>
+
+<DT><IMG ALT="*" SRC="images/blueball.gif"> 
+<A HREF="drugfaq/faq_mnu.html">
+<B><FONT SIZE="+3">D</FONT><FONT SIZE="+2">rugFAQs </FONT></B></A> tm <IMG SRC="images/drgfaq.gif"> 
+<DD>Frequently asked questions about drugs with answers from 
+authoritative sources, including the <A HREF="drugfaq/umdi.html"><B>University of Maryland Drug 
+Information Service (UMDI)</B></A>.<P>
+
+<DT><IMG ALT="*" SRC="images/blueball.gif"> <A HREF="drugdb/db_mnu.html"><B><FONT SIZE="+3">D</FONT><FONT SIZE="+2">rugDB</FONT></B></A>
+<DD> A database of drug information browsable by generic name or trade name. 
+Allows easy access to information and articles about drugs on PharmInfoNet.<P>
+
+<DT><IMG ALT="*" SRC="images/blueball.gif"> <A HREF="meeting/mtg_hp.html"><B><FONT SIZE="+3">M</FONT><FONT SIZE="+2">edical </FONT> 
+<FONT SIZE="+3">M</FONT><FONT SIZE="+2">eeting </FONT> 
+<FONT SIZE="+3">A</FONT><FONT SIZE="+2">nnouncements and  </FONT> 
+<FONT SIZE="+3">H</FONT><FONT SIZE="+2">ighlights </FONT></B></A>
+<DD>A listing of upcoming medical society meetings and highlights from 
+recent meetings.  <BR>
+<A HREF="meeting/mtg_hp.html#svcs"><B>Internet Services for Medical Societies</B></A>.<P>
+<BLINK>NEW!</BLINK> <B><FONT SIZE="+1"><A HREF="upcoming.html#acgehlb">Announcing the ACG-EHLB Mail List</A></FONT></B><P>
+
+<DT><IMG ALT="*" SRC="images/blueball.gif"> <A HREF="pharmmall/pm_hp.html">
+<B><FONT SIZE="+3">P</FONT><FONT SIZE="+2">harmMall </FONT></B></A>
+<DD> An area where 
+contract research organizations, publishers, 
+pharmacy software developers, and other companies can place their home pages, 
+catalogs, and product information. 
+<HR>
+<CENTER>
+<A HREF="pharmmall/manuf_mnu.html#fk" ALT="FabriKal"><IMG SRC="pharmmall/fk_ico.gif"></A> 
+<A HREF="pharmmall/trn_mnu.html#lp"><IMG SRC="pharmmall/lrnplus_ico.gif" ALT="LearningPlus"></A>
+<BR>
+<A HREF="pharmmall/manuf_mnu.html#kil"><IMG SRC="pharmmall/kilian.gif" ALT="Kilian"></A> 
+
+<A HREF="pharmmall/pr_mnu.html#isci" ALT="InterScience"><IMG SRC="pharmmall/isci_ico.gif"></A> 
+</CENTER>
+<HR>
+<P>
+<DT><IMG ALT="*" SRC="images/blueball.gif"> 
+<A HREF="poster/pnet_hp.html"><B><FONT SIZE="+3">P</FONT><FONT SIZE="+2">osterNet </FONT></B></A> tm 
+<IMG SRC="poster/pnet_ico.gif">
+<DD>Interactive posters from selected medical meetings and submitted independently by authors.<P>
+
+<DT><IMG ALT="*" SRC="images/blueball.gif"> 
+<B><A HREF="conference/conf_hp.html"><FONT SIZE="+3">C</FONT><FONT SIZE="+2">onferences </FONT></B></A>
+<DD>A listing of conferences devoted to using the Internet for drug and healthcare product development and marketing.<P>
+
+<DT><IMG ALT="*" SRC="images/blueball.gif"> 
+<B><A HREF="drugdb/smp_mnu.html"><FONT SIZE="+3">S</FONT><FONT SIZE="+2">elected</FONT> 
+<FONT SIZE="+3">A</FONT><FONT SIZE="+2">rchive</FONT> 
+<FONT SIZE="+2">of</FONT> 
+<I><FONT SIZE="+2">sci.med.pharmacy</FONT></I> 
+<FONT SIZE="+3">T</FONT><FONT SIZE="+2">hreads</FONT></A></B>
+<DD>An archive of discussions from the <I>sci.med.pharmacy</I> USENET 
+newsgroup. <P>
+
+<DT><IMG ALT="*" SRC="images/blueball.gif"> 
+<B><A HREF="gallery/glly_mnu.html"><FONT SIZE="+3">G</FONT><FONT SIZE="+2">allery</FONT></B></A>
+<DD>A rotating exhibit of pharmaceutical and pharmacy-related art, 
+photographs and interactive multimedia 
+museum tours.<P>
+<DD><IMG SRC="gallery/crystals/Naptha.gif" ALT="*"> 
+<A HREF="gallery/crystals/Crystals.html">Crystal Apothecary</A>
+<P>
+
+<DT><IMG ALT="*" SRC="images/blueball.gif"> 
+<B><A HREF="phrmlink.html"><FONT SIZE="+3">P</FONT><FONT SIZE="+2">harmLinks</FONT></B></A>
+<DD>Our own eclectic list of pharmaceutical related WWW sites and other 
+Internet resources of interest to readers seeking information on drugs.
+</DL>
+<P>
+<HR>
+<CENTER>
+<IMG SRC="images/mindq_lgo2.gif" ALT="*"><P>
+PharmInfoNet is featured as an interesting site on <P>
+<A HREF="mindq.html">  
+<B>MindQ's <I>The Internet: A Knowledge Odyssey</I> CD-ROM</B></A>
+<P>
+<HR SIZE = 7>
+<P>
+<B><FONT SIZE="+3">P</FONT><FONT SIZE="+2">harmaceutical</FONT> 
+<FONT SIZE="+3">I</FONT><FONT SIZE="+2">nformation</FONT> 
+<FONT SIZE="+3">N</FONT><FONT SIZE="+2">etwork</FONT> 
+</B><P>
+A service provided by
+<P>
+<A HREF="pialtd/piahp2.html"><B>Pharmaceutical Information Associates, Ltd.</B></A><BR>
+<IMG ALT="PIA: " IMG 
+SRC="images/vsmclogo.gif">
+<P>
+<A HREF="abt_pin.html#mission">Mission Statement</A> | <A 
+HREF="abt_pin.html#pin_board">Editorial 
+Board</A> | <A HREF="abt_pin.html#disclaimer">Disclaimer</A>
+<HR>
+<P>
+<A NAME="pia_copyright"></A>
+<FONT SIZE=-7>Copyright&copy;1995. Pharmaceutical 
+Information Associates, Ltd. All rights reserved.<BR>
+PharmInfoNet(tm) is a trademark of Pharmaceutical 
+Information Associates, Ltd., <BR>
+an independent agency which is not directly 
+associated with any pharmaceutical or other company.</FONT>
+<P>
+<I>Last updated on 10 September 1995<P>
+<A HREF="mailto:webmaster@pharminfo.com">webmaster@pharminfo.com</A>
+</CENTER>
+<HR>
+</BODY>
+</HTML>

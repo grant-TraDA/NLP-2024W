@@ -1,0 +1,35 @@
+<TITLE>Jumpin' Jehosaphat, the Counting Sheep</TITLE>
+
+<center>
+
+<H2>Jumpin' Jehosaphat, the Counting Sheep</H2>
+
+<hr width=80% size=3>
+
+<table border=5 cellspacing=5 cellpadding=5>
+<tr><td align=center><img width=100 height=100 src="Images/sheepd1.gif"></td></tr>
+</table>
+<form method=GET action=/skd-bin/sheepask.pl>
+<input type=text name=num1 size=2>
+<select name=oper>
+<option>+<option>-<option>X<option>/
+</select>
+<input type=text name=num2 size=2>
+<p>
+<input type=submit value="Go Jehosaphat!">
+</form>
+<hr width=80% size=3>
+Give Jehosaphat a problem to solve and she'll jump the result!
+<hr width=80% size=3>
+<b>If you have a faster network connection, Jeshosaphat comes in a
+<a href=/~dodds/sheepask1.html>150x150 pixel version</a></b>
+</center>
+<br>
+Jumpin' Jehosaphat uses a Netscape 1.1 server push animation and
+for the numbers, the <a href=http://siva.cshl.org/gd/gd.html>
+gd1.1.1 graphics library</a> from the
+Quest Protein Database Center, Cold Spring Harbor Labs.
+<p>
+Home: <a href=http://stout.bull.com/~dodds>http://stout.bull.com/~dodds</a>
+<br>
+Email: <a href=mailto:dodds@stout.bull.com>dodds@stout.bull.com</a>

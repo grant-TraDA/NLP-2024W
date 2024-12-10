@@ -1,0 +1,98 @@
+<HTML>
+<HEAD>
+<TITLE>Welcome To the Whitehead Institute Center for Genome Research</TITLE>
+</HEAD>
+
+<BODY>
+<IMG SRC = "/www/bigwilogo.gif" ALT="[logo]">
+<H1>
+Welcome To the Whitehead Institute for Biomedical Research/MIT Center for Genome Research
+</H1>
+
+<HR>
+<H2>Introduction</H2>
+
+This is a World-Wide Web server run by the Center for Genome Research
+at the Whitehead Institute for Biomedical Research in Cambridge,
+Massachusetts, USA.  It contains information on map releases, software
+and people at the Genome Center.<P>
+
+Your suggestions for improvements and fixes are encouraged.  Send mail to:
+<ADDRESS> <A HREF="/www/people.html#lstein">Lincoln Stein, 
+lstein@genome.wi.mit.edu </A>
+</ADDRESS>
+<P>
+<HR>
+
+<H2>What's new</H2>
+<MENU>
+  <LI><A HREF="/www/what_is_new.html">What's new?</A> (Last updated 8/21/95)
+  <LI><A HREF="/www/people.html"> People at the Genome Center</A>
+  <LI><A HREF="/WWW">"How to Set Up and Maintain a WWW Site"</A>
+  <LI><A HREF="/www/usage/index.html">Usage Statistics</A>
+</MENU>
+
+<H2>Genome Maps</H2>
+<MENU>
+  <LI><A HREF="/cgi-bin/contig/phys_map">Human Physical Mapping Project</A>
+  <LI><A HREF="/genome_data/mouse/mouse_index.html">Mouse Genetic Mapping Project</A>
+  <LI><A HREF="/genome_data/genome_data_index.html">Genome Center Data (map
+releases, etc.)</A>
+  <LI><A HREF="/ftp/distribution/HEADER-DATA.html">Genome Center ftp Archive (Data)</A>
+</MENU>
+
+<H2>Genome Center Software</H2>
+<MENU>
+  <LI><A HREF="/genome_software/genome_software_index.html">Genome Center
+Software Documentation</A>
+  <LI><A HREF="/ftp/distribution/software/">Genome Center ftp Archive (Software)</A>
+     <UL><STRONG>Experimental Web-based Software</STRONG>
+       <LI><A HREF="/cgi-bin/primer2.2/primer_front">WWW Primer Picking (Primer v2.2)</A>
+       <LI><A HREF="/cgi-bin/www-STS_Pipeline/pipeline_front">WWW STS_Pipeline (STS_Pipeline v1.2)</A>
+     </UL>
+</MENU>
+
+<H2>Genome Center Informatics</H2>
+<MENU>
+  <LI><A HREF="/informatics/paperhome.html">Papers and Abstracts from the Genome Center Informatics Group</A>
+  <LI><A HREF="/informatics/meetanddiscuss.html">Genome Meeting and Discussion Groups</A>
+  <LI><A HREF="/informatics/MIMBD.html">Meeting on the Interconnection of Molecular Biology Databases(MIMBD)'95:Abstracts</A>
+  <LI><A HREF="informatics/ABRF.html">ABRF 1995: Internet Resources for Molecular Biologists and Protein Chemists</A>
+</MENU>
+
+<H2>Other Area Web Sites</H2>
+<MENU>
+  <LI> <A HREF="http://www.wi.mit.edu/">Whitehead Institute for Biomedical Research</A>
+  <LI> <A HREF="http://web.mit.edu/">Massachusetts Institute of Technology</A>
+</MENU>
+
+<H2>Index of Whitehead Institute/MIT Genome Center WWW and ftp Documents</H2>
+This is an index of the information on this server.  Type a list of words in
+the search dialog.  You may use compound searches such as <CODE>sslp AND
+mouse</CODE>.  You can search for file names or words that appear within
+files.  Files are re-indexed about once a month.
+
+If you're running an older client such as Mosaic for the Macintosh 1.0.3,
+click on the link below to use the index.
+<MENU>
+<LI><A HREF="/cgi-bin/ice-form.pl">Index for Form Capable Browsers</A><BR>
+<LI><A HREF="/cgi-bin/ice-line.pl">Index for Form Incapable Browsers</A>
+</MENU>
+
+<H2>Whitehead Only</H2>
+These documents are available only to members of the Whitehead Institute and
+the Center for Genome Research.<P>
+<MENU>
+<LI><A HREF="/genome_center/genome_center_index.html"> Genome Center
+Documents (Restricted to Whitehead Institute clients)</A>
+<LI><A HREF="/test_documents/test_index.html"> Test Documents (Restricted to
+Genome Center clients)</A>
+<LI><A HREF="/cgi-bin/pipeline/STS_password_check">STS Pipeline
+Reports (Restricted to Whitehead Institute clients)</A>
+</MENU>
+
+
+<HR>
+$Id: index.html,v 1.40 1995/08/22 23:04:06 lstein Exp $
+</BODY>
+</HTML>

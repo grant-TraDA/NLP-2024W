@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>CHORUS</title>
+<link rev=made href="mailto:CHORUS@mcw.edu">
+</head>
+<body BGCOLOR="#03249E" TEXT="#FFFFFF" LINK="#FFFF44" VLINK="#FFFF44">
+<center>
+<a href=/about/Logo.html><img src=CHORUS.GIF border=0 alt=""></a>
+<h1>CHORUS</h1>
+<h2>Collaborative Hypertext of Radiology</h2>
+</center>
+<hr>
+<font size=+1><ul>
+<li><a href=/index/1.html>Neuroendocrine system (head & neck)</a>
+<li><a href=/index/2.html>Cardiovascular system</a>
+<li><a href=/index/3.html>Respiratory system</a>
+<li><a href=/index/4.html>Gastrointestinal (GI) system</a>
+<li><a href=/index/5.html>Genito-urinary (GU) system</a>
+<li><a href=/index/6.html>Musculoskeletal system</a>
+<li><a href=/index/7.html>Multisystem entities</a>
+<li><a href=/index/8.html>Technical stuff / Miscellany</a>
+</ul></font>
+<hr>
+<center>
+<form method=GET action=/cgi/search>
+Search using all or part of a word of a document's title:
+<input name=ISINDEX>
+</form>
+<hr>
+<p>
+| <a href=/about/CHORUS.html>About CHORUS</a>
+| <a href=/about/whats-new.html>What's New</a>
+| <a href=/cgi/search>Search</a>
+| <a href=/cgi/comment>Comment</a>
+| <a href=/form/sign-in.html>Create or review documents</a> |
+<p>
+<hr>
+<a href="http://www.mcw.edu/midas/midas.html">The MIDAS Consortium</a> - 07/10/95
+<p>
+CHORUS is supported in part by a grant from
+the National Library of Medicine (USPHS G08 LM05705)
+for <a href=http://www.mcw.edu/iaims>IAIMS</a>
+planning at the Medical College of Wisconsin.
+</body>
+</html>

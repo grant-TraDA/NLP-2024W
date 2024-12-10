@@ -1,0 +1,69 @@
+<TITLE>The WWW VL Biosciences: Index</TITLE>
+</HEADER>
+<BODY>
+<a HREF="http://www.w3.org/hypertext/DataSources/bySubject/Overview2.html"><IMG ALT="Virtual Library" SRC="http://www.w3.org/hypertext/WWW/Icons/WWW/Virtual_Library.gif"></a><H1><a href="http://golgi.harvard.edu/biopages.html">Biosciences</a> Index</H1>
+<hr>This index can be searched using a case-insensitive <a href="http://www.cis.ohio-state.edu/htbin/info/info/perl.info,Regular%20Expressions">PERL regular expression</a>. Partial words will be matched. Some of the available meta-characters<dl>
+       <dt>? Question mark<dd>allow 0 or 1 of preceding expression; ha?emoglobin will match haemoglobin or hemoglobin
+       <dt>* Asterisk<dd>match 0 or more of the preceding expression. 
+       <dt>[] Square brackets<dd>match any one of the characters inside the brackets.  bio[cp]h will match biophysics and biochemistry (and others)
+       <dt>. Period<dd>match any character at this position.
+       <dt>| Vertical bar (style)<dd>Logical OR.  evolution|biochemistry will match both terms
+       </dl><ISINDEX><hr><LI>Divisions of the the <a href="http://golgi.harvard.edu/biopages/all.html">WWW VL Biosciences</a>
+<UL>
+<LI><a href="http://ipm_www.ncsu.edu/cernag/cern.html">Agriculture</a> 
+<LI><a href="http://golgi.harvard.edu/sequences.html">Biological Molecules</a>
+<LI><a href="http://golgi.harvard.edu/biopages/biochem.html">Biochemistry, Molecular Biology, and Biophysics</a> 
+<LI><a href="http://golgi.harvard.edu/biopages/biodiversity.html">Biodiversity and Ecology</a>
+<li><a href="http://www.cato.com/interweb/cato/biotech/">Biotechnology</a>
+<li><a href="http://golgi.harvard.edu/biopages/develop.html">Developmental Biology</a>
+<li><a href="http://www.colostate.edu/Depts/Entomology/WWWVL-Entomology.html">Entomology</a> (Insects)
+<LI><a href="http://golgi.harvard.edu/biopages/evolution.html">Evolution</a>
+<li><a href="http://www.actwin.com/WWWVL-Fish.html">Fish, and other Aquatic Animals</a>
+<LI><a href="http://www.metla.fi/info/vlib/Forestry.html">Forestry</a>
+<LI><a href="http://www.ornl.gov/TechResources/Human_Genome/genetics.html">Genetics</a>
+<li><a href="http://xtal200.harvard.edu:8000/herp/">Herpetology</a> (Reptiles and Amphibians)
+<li><a href="http://golgi.harvard.edu/biopages/immuno.html">Immunology</a>
+<li><a href="http://golgi.harvard.edu/biopages/edures.html">Instructional Resources in Biology</a>
+<LI><a href="http://golgi.harvard.edu/biopages/medicine.html">Medicine</a>
+<ul>
+ <li><a href="http://gasnet.med.yale.edu/index.html">Anesthesiology </a>
+ <li><a href="http://chanane.ucsf.edu/epidem/epidem.html">Epidemiology</a>
+ <li><a href="http://www.cpb.uokhsc.edu/pharmacy/pharmint.html">Pharmacy</a>
+ <li><a href="http://netvet.wustl.edu/vetmed.htm">Veterinary Medicine</a>
+</ul>
+<LI><a href="http://golgi.harvard.edu/biopages/micro.html">Microbiology & Virology</a>
+<li><a href="http://muse.bio.cornell.edu/taxonomy/fungi.html">Mycology</a> (Fungi)
+<li>Model Organisms<ul>
+<li><a href="http://eatworms.swmed.edu/VLhome.html">Caenorhabditis elegans</a> (nematode)
+<li><a href="http://www-leland.stanford.edu/~ger/drosophila.html">Drosophila</a> (fruit fly)
+<li><a href="http://genome-www.stanford.edu/VL-yeast.html">Yeasts</a>
+</ul>
+<LI><a href="http://neuro.med.cornell.edu/VL/">Neurobiology</a>
+<li><a href="http://physiology.med.cornell.edu/WWWVL/PhysioWeb.html">Physiology and Biophysics</a>
+<LI><a href="http://golgi.harvard.edu/biopages/botany.html">Plant Biology</a>
+<li><a href="http://golgi.harvard.edu/biopages/all.html">Complete List of Biomedical Web Sites</a>
+<li><a href="http://www.physics.helsinki.fi/whale/">Whale Watching</a>
+</UL>
+<li>Related Areas of the WWW VL
+<ul>
+<li><a href="http://www.usc.edu/dept/v-lib/anthropology.html">Anthropology</a>
+<li><a href="http://www.tiac.net/users/sbr/animals.html">Animal health, wellbeing, and rights</a>
+<li><a href="http://www.chem.ucla.edu/chempointers.html">Chemistry</a>
+<li><a href="http://www.unige.ch/crystal/crystal_index.html">Crystallography</a>
+<li><a href="http://www.w3.org/hypertext/DataSources/bySubject/Electronic_Journals.html">Electronic Journals</a>
+<li><a href="http://ecosys.drdr.virginia.edu/Environment.html">Environment</a>
+<li><a href="http://coombs.anu.edu.au/SpecialProj/ASAP/WWWVL-HSTM.html">History of Science, Technology and Medicine
+<li><a href="http://www.mth.uea.ac.uk/ocean/oceanography.html">Oceanography</a>
+</ul>
+
+<hr><em>See also</em>:
+<li><h2><a href="http://www.ch.embnet.org/bio-www/info.html">bionet.software.www archives</a></h2>
+<LI><h2>General Searchable Catalogs</h2> <UL>
+<LI><a href="http://cuiwww.unige.ch/cgi-bin/w3catalog">Searchable WWW Catalog</A> at CUI, U.Geneva
+<LI><a href="http://cuiwww.unige.ch/meta-index.html">Form-based</a> access to W3 Search Engines
+<LI><a href="http://web.nexor.co.uk/archie.html">ArchiePlex </a> (archie gateway)
+<LI><a href="gopher://gopher.harvard.edu/11/.othergophers/Veronica">Veronica</a> (Global Gopher Menu Searches)
+<li><a href="http://www.yahoo.com/">Yahoo</a>
+</UL>
+<hr>
+<P><address>Keith Robison / KRobison@nucleus.harvard.edu</address><P><a href="http://golgi.harvard.edu/">Harvard Biolabs</a>

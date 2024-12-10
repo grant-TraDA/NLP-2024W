@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>Bully Hill's Super Goat</title>
+</head>
+
+<body>
+<img src="sg.gif" align=right>
+<center><h1>Super Goat</h1></center>
+
+<ul>
+<li>Color: white
+<li>Sweetness: 
+<li>Residual Sugar Content (%): 
+<li>Grape variety: Delaware, Diamond, Vidal
+</ul>
+
+<p>
+
+</p>
+
+<hr>
+
+<p>
+<a href="http://www.cs.princeton.edu/~tpkelly/bullyhill.html">
+Back to the Bully Hill Home Page</a>
+</p>
+
+<p>
+<a href="http://www.cs.princeton.edu/~tpkelly/mailme.html">
+Send comments or suggestions</a>
+</p>
+
+<p>
+<address>Maintained by
+<a href="http://www.cs.princeton.edu/~tpkelly/">Terence Kelly</a>
+</address>
+</p>
+
+<p>
+Last modified: <!--#echo var="LAST_MODIFIED" -->
+</p>
+
+</body>
+</html>

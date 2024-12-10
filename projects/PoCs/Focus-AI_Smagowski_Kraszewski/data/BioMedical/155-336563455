@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+<TITLE>The Medical Entities Dictionary (MED)</TITLE>
+</HEAD>
+
+<BODY>
+<H1><A HREF="/"><IMG SRC="/images/ycmi-shield-68x74i.gif" ALT="YCMI" ALIGN=MIDDLE></A> The MED &amp; Yale</H1>
+
+The Medical Entities Dictionary (MED) is a structured medical
+vocabulary developed at Columbia University.  These Web pages
+are intended for internal use by those looking at aspects of the MED,
+and how it might relate to medical vocabularies at Yale.  
+We have left them publicly accessible
+because they might be of some interest to others, and there seemed no
+reason to hide them; outside users should be aware and forgiving of
+their primitive state.
+
+<h2>MED Background and Details</h2>
+
+There are several query and online reference functions available:
+
+<dl>
+<dt><strong><u>General</u></strong>
+<dd>These items cover general aspects of the MED.
+	<ul>
+	<li><A HREF="med/summary_stats.html">Summary Statistics</A>
+	<li><A HREF="/cgi-bin/med.query1">Run Queries</A>
+	<li><A HREF="/cgi-bin/yale.query1">Run Queries - Yale Lab</A>
+	Try out the test version, which runs queries on our local Sybase Release 10 Server.
+	Initially, this interface is intended for running predefined stored
+	procedures, examples of which are given on the next screen.  Once the
+	"forms" interface is available for the Macintosh -- supposedly, any day
+	now -- it will be used to create a friendlier and more flexible system.
+<li><A HREF="http://paella.med.yale.edu/cgi-bin/wdb/med/medvals/form">WDB test</A>
+	</ul>
+<dt><strong><u>Entities</u></strong>
+<dd>Details on MED entities.
+	<ul>
+	<li><A HREF="med/entity_tree.html">Entity Tree</A>
+	</ul>
+<dt><strong><u>Slots</u></strong>
+<dd>Details on MED slots.
+	<ul>
+	<li><A HREF="med/slots-ent_rels.html">Slots which Relate MED Entities</A>
+	<li><A HREF="med/slots-ent_vals.html">Slots with Direct Values</A>
+	</ul>
+</dl>
+
+<HR>
+<B>Questions or Comments:</B>
+<EM>EMail:</EM> <A HREF="mailto:webmaster@paella.med.yale.edu">webmaster@paella.med.yale.edu</A>
+
+</BODY>
+</HTML>

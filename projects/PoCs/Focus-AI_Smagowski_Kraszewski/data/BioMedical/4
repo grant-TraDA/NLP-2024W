@@ -1,0 +1,92 @@
+<TITLE>Non-Invasive Assessment of Susceptibility to
+Sudden Cardiac Death</TITLE>
+
+
+<P>
+
+<H1>Non-Invasive Assessment of Susceptibility to Sudden Cardiac Death</H1>
+
+
+<H3>Hello and Welcome!</H3>
+
+<p> This page is currently under development, but stayed tuned for
+more improvements.  My name is <A
+href="http://www.cis.yale.edu/~xdenner/xdenner.html">Alex Denner
+(denner@yale.edu)</A> and I am doing research in the prediction of
+sudden cardiac death at Yale.  Also, I would like to hear from anyone
+who is doing similar work or is interested in the field.  (See below.)
+
+<p>
+I am conducting research on: Non-Invasive Assessment of Susceptibility
+to Sudden Cardiac Death.  This involves analyzing electrocardiograms
+to determine the likelihood of future episodes of ventricular
+fibrillation.  Soon I will put more information about my work here.</p>
+
+<p> An electrocardiogram represents the electric potential, usually on
+the surface of the chest, that comes from the heart muscle.  The heart
+is comprised of four chambers.  Blood enters the heart into the two
+atria (left and right) and goes to the two ventricles (left and
+right).  The two atria contract simultaneously then, after a short
+delay, the ventricular muscles contract.  On the electrocardiogram
+"waves" can be seen which indicate the atrial contract, ventricular
+contraction, and, since the ventricles are large muscles, often the
+ventricular repolarization can be seen.  Currently, my work is
+concentrating on ventricular arrythmias, specifically the most
+serious, ventricular fibrillation.  Fibrillation is a state of the
+heart where the ventricular muscle fibers appear to be contracting and
+relaxing at random---they are not acting synchronously.  During
+fibrillation no blood is pumped by the heart. </p>
+
+<P>
+<A HREF="ecg.ps">This is an electrocardiogram from a Holter monitor</A>
+(It is a postscript file.)
+</P>
+
+<p>
+I am trying to find a way to analyze the electrocardiogram to predict
+the likelihood of a given patient having an episode of ventricular
+fibrillation sometime in the future.  One of my favored techniques
+is wavelet analysis which allows the frequency content of the signal to
+be distinguished spatially. </p>
+
+
+
+<hr>
+
+<H2>To Those Interested in Cardiology/Sudden Cardiac Death/VF:</H2>
+
+I would like to get together a mailing list or group of people who are
+interested in issues related to ventricular arrhythmias and/or ECG
+signal analysis.  Email me at denner@yale.edu or use my <a
+href="user_input.html">email reply form</a>.  Also, if you are just
+browsing this page or my other WWW pages, let me know what you think!
+
+
+
+<hr>
+
+<H2>Here are some interesting sites for cardiology:</H2>
+
+<UL> 
+<LI> <A href="gopher://info.med.yale.edu/11/Disciplines/Discipline/Cardiology">Yale Cardiology Gopher</A>
+
+<LI> <A href="gopher://ruralnet.mu.wvnet.edu/11u:/dept/cardio">Cardiology</A>
+
+<LI> <A href="http://galaxy.einet.net/galaxy/Medicine/Medical-Specialties/Cardiology.html">Cardiology at EINet</A>
+
+<LI> <A href="gopher://sunserv0.cae.wisc.edu/11/ece/biomed/signals">ECG Signals gopher</A>
+
+<li><a href="http://osler.wustl.edu/~murphy/cardiology/compass.html">Cardiology Compass</a>
+
+
+<li> <a href="http://wailer.uokhsc.edu/index.html">OUHSC Cardiac Arrhythmia Demo</a>
+
+</UL>
+
+Here are some other general
+<A href="medicine.html">medicine</a>-related sites.
+
+<p>
+<hr>
+<P>
+<ADDRESS><A href="http://www.cis.yale.edu/~xdenner/xdenner.html">Alex Denner  (denner@yale.edu)</A></ADDRESS>

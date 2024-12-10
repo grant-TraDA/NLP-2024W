@@ -1,0 +1,775 @@
+<HTML><HEAD>
+<META http-equiv="PICS-Label" content='(PICS 1.0 "http://www.classify.org/safesurf/" l r (SS~~000 1 SS~~100 1))'>
+<TITLE> Goats </title>
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- Beginning of JavaScript Applet -------------------
+
+/* Copyright (C)1996 Web Integration Systems, Inc. DBA Websys, Inc.
+   All Rights Reserved.
+*/
+
+function scrollit_r2l(seed)
+{
+        var msg="Hug a goat today!!!            ";
+        var out = " ";
+        var c   = 1;
+
+        if (seed > 100) {
+                seed--;
+                var cmd="scrollit_r2l(" + seed + ")";
+                timerTwo=window.setTimeout(cmd,100);
+        }
+        else if (seed <= 100 && seed > 0) {
+                for (c=0 ; c < seed ; c++) {
+                        out+=" ";
+                }
+                out+=msg;
+                seed--;
+                var cmd="scrollit_r2l(" + seed + ")";
+                    window.status=out;
+                timerTwo=window.setTimeout(cmd,100);
+        }
+        else if (seed <= 0) {
+                if (-seed < msg.length) {
+                        out+=msg.substring(-seed,msg.length);
+                        seed--;
+                        var cmd="scrollit_r2l(" + seed + ")";
+                        window.status=out;
+                        timerTwo=window.setTimeout(cmd,100);
+                }
+                else {
+                        window.status=" ";
+                        timerTwo=window.setTimeout("scrollit_r2l(100)",75);
+                }
+        }
+}
+// -- End of JavaScript code -------------- -->
+
+</SCRIPT>
+
+</HEAD>
+<body onLoad="timerONE=window.setTimeout('scrollit_r2l(100)',500);">
+
+<A HREF="Goats.gif"><img src="Goats.gif"></A>
+<h1>Goats</h1>
+ Irvine Mesa Charros 4-H Club<br>
+Irvine, California<p>
+
+<center><FONT SIZE=2>Goats Goats  Goats Goats Goats Goats Goats Goats Goats Goats Goats Goats Goats Goats Goats</font></center><br>
+We raise two different types of goats.
+<ul>
+<Li> <A HREF = "DairyGoats.html">Dairy Goats</A> are raised for goat milk.  They 
+also
+make good companions, go to petting zoos, and we show them at fairs.
+
+<Li> <A HREF = "Pygmy.html">Pygmy Goats</A> are raised primarily for show.  Like 
+dairy goats, they are good companions, and they go to shows, fairs, and petting zoos.  
+</ul>
+
+Female goats are called does. Male goats are called bucks. We primarily raise does because 
+they are easier to manage, they don't have an offensive odor (unlike bucks), 
+and there are more shows for does.  A male goat that has been neutered is known as a 
+wether.  We usually don't keep dairy goat wethers, but some kids raise and show pygmy 
+wethers.
+
+Other domesticated goats include <A HREF = "Boer.html">Boer goats</A>
+that are starting to be raised for meat, <a HREF =
+"Cashmire.html">Cashmere goats</a> that are raised for cashmere and <a
+href="Dwarf.html">Nigerian Dwarf goats</a>.  Domesticated goats differ
+from wild goats such as <a href="MountainGoat.gif">Mountain goats</a>.
+
+<h3> Goat Information </h3>
+<ul>
+<li><a href = "#fun"> Why raising goats is fun</a>
+
+<li><a href = "#Stats"> Goat Statistics </a>
+<li><a href = "#healthy"> A healthy goat </a>
+<li><a href = "#care"> Basic care </a>
+<li><a href = "#prevention"> Preventative health care </a>
+<li><a href = "#diseases"> Common  Diseases </a>
+<li><a href = "#Breeding"> Breeding</a>
+<li><a href = "#labor"> Labor</a>
+<li><a href = "#newborn"> Care of newborn goats </a>
+<li><a href = "#costs"> Cost of raising a goat </a>
+<li><a href = "#sources"> Sources of Goat Supplies </a>
+<li><a href = "#books"> Books on Goats </a>
+<li><a href = "#orgs"> Goat Organizations</a>
+<li><a href = "#labs"> Diagnostic Laboratories</a>
+<li><a href = "#Advice"> Advice from Goat Breeders</a>
+<li><a href = "#Net"> Internet Goat Resources</a>
+<li><a href = "#sale"> Goats for Sale</a>
+<li><a href = "GoatShowmanshipVideos.html">Goat Showmanship Videos</a>
+<li><a href = "GoatSounds.html">Goat Sounds</a>
+<li><a href="GoatBreeders.html">Goat Breeders</a> 
+
+</ul>
+
+
+
+<HR><a name = "fun"> </a>
+<h3> Why raising goats is fun</h3>
+
+Goats are fun because they all have different personalities and have
+different little habits that can be amusing or interesting.  Goats are
+very affectionate and especially during the summer, when they are too
+hot to be active, they like to just hang around people and get a good
+scratch.  Most goats' favorite scratchy spot is around their shoulder
+but some even liked to be scratched in between their toes.  It is very
+rewarding to see a goat you have raised from a baby grow up and have
+kids and grandkids of her own.  With goats that doesn't have too take
+too long, maybe about 3 or 4 years at most, because they are able to
+breed when they are just a year old.  It's also neat to learn how to
+milk or trim hooves and other things that you wouldn't ordinarily be
+able to do.
+
+<HR><a name = "Stats"> </a>
+<h3> Goat Statistics </h3>
+<ul>
+<li> Body Temperature:  102.5&#176 F-104&#176 F 
+<li> Pulse/heart rate:  60 to 80 beats per minute
+<li> Respiration rate:  15 to 30 breaths per minute
+<li> Puberty:  4 to 12 months
+<li> Estrus ("heat") cycle:  18 to 23 days
+<li> Length of each "heat":  12 to 36 hours
+<li> Gestation (length of pregnancy):   <a href =Birthdate.html>150 days</a><img src=new.gif>
+<li> Breeding season:   Pygmy goats may be bred any time of the year.  Dairy goats 
+usually go into heat between August and January in the Northern Hemisphere.
+<li> Weight: An adult pygmy goat weighs between 50 and 75 pounds. An adult dairy goat 
+doe weighs between 125 and 200 pounds. An adult dairy goat buck weighs between 200 
+and 300 pounds.
+</ul>
+
+<HR><a name = "healthy"> </a>
+<h3> A healthy goat </h3>
+<ul><li>Eyes clear and bright.   Tearing or cloudy eyes probably mean a pinkeye infection.
+<li>Coat smooth and shiny.   A dull coat could indicate parasites.  Fluffed up coat means 
+the goat is not feeling well.
+<li>Appetite good.   However, it is normal for a doe in labor to refuse to eat.
+<li>Attitude alert.   Hunched back and droopy tail mean something is wrong.
+
+</ul>
+
+
+<HR><a name = "care"> </a>
+<h3> Basic care </h3>
+Like any other animal, a goat can survive without food for several days, but not without 
+water.  We provide automatic waterers in goat pens, and also leave a
+bucket of water.  In some areas, of the country, its important to make sure the
+water doesn't freeze, but we don't have that problem.<p>
+
+Although many goat owners feel that a twice daily feeding is best, others feed only once a 
+day and still have perfectly healthy goats.  You will have to decide what is practical for 
+your animal and your schedule.   Try to keep both food and water where they cannot be 
+soiled by the goat. <p>
+
+The basic food we feed is alfalfa hay. An adult  dairy goat doe eats about  1/2 flake a day 
+(about 5 pounds).  This is supplemented with a grain mixture that contains 14-16% protein
+depending on the additional needs of the goat:
+<ul>
+<li> Dairy doe in milk: 2-3 pounds
+<li> Pygmy doe in milk: 1-2 pounds
+<li> Dry doe:  0-1 pounds
+<li> Pregnant doe: (last 1-2 months) 1-2 pounds
+<li> Wethers: Usually given no grain.
+</ul>
+
+We also provide either a loose mineral mix or a mineral brick. Since
+alfalfa hay is high in calcium, we make sure the mineral mix is high
+in phosphorous and low in calcium to maintain the proper
+calcium-to-phosphorous ratio. <p>
+
+Although this diet works for us, we suggest you consult with a local
+goat breeder or veterinarian who is more familiar with the nutritional
+needs of your goats and the nutritional value of the feed in your
+area.
+
+<HR><a name = "prevention"> </a>
+<h3> Preventative health care </h3>
+
+In our area, there are three types of injections that the goats need
+regularly: Tetanus toxiod, BoSe and a vacination for enterotoxemia.
+We give 1/2 cc. of tetanus toxiod yearly (usually one month before a
+doe is about to kid). BoSe contains selenium and vitamin E and is
+necessary to maintain muscle tone in adults and prevent "white muscle
+disease" in kids.  Because hay in our area is low in Selenium, our
+goats receive 1 cc. of BoSe intramuscularly for every 40 pounds of
+body weight twice a year.  The best time for bred does to receive BoSe
+is about one month before they kid and then 5 months after they kid.
+Babies should have their first injection at six weeks of age (1/2 cc),
+unless they need it sooner to correct a problem. For enterotoxemia the
+Clostridium Perfringens types C&D bacterin-toxoid vacination is given.
+It is often combined with a tetanus toxiod in brand names such as
+Bar-VAC CD/T or FERMACON CD/T. First course requires two doses at
+21-28 days interval. The dose is 2ml SQ in the web of the elbow.
+Until recently yearly boosters were the norm, but vets are just now
+beginning to recommend twice yearly vaccinations.  When using the
+combined CD/T it is not necessary to have a separate tetanus toxiod
+vaccine.
+
+<P><b> Check with a
+local vet to make sure goats in your area need selenium, and that the
+doses we use are appropriate for goats in your area and the brand of
+injectible you use.  Overdoses of BoSe or injecting it to goats who
+receive selenium as part of their diet may be fatal.  In your area,
+additional vaccines for other diseases may be
+necessary. </b> <p>
+
+We deworm our goats twice yearly: in the fall before breeding and in
+the spring immediately following kidding.  We use TBZ or paste wormers
+intended for horses ivermectin (Zimectrin) or pyrantel tartrate
+(Strongid C). <b>Caution: check the label or ask your veterinarian
+whether the product can safely be given to a pregnant goat.  Check
+labels for withdrawal time if you use the milk for human consumption.
+</b>
+
+
+
+<HR><a name = "diseases"> </a>
+<h3> Common  Diseases </h3>
+
+<b>Coccidia</b> are tiny intestinal parasites, actually protozoans, that can
+cause foamy, bloody diarrhea or a dull, dry coat.  Sometimes a goat
+with coccidiosis (coccidia infestation) has an on-again-off-again soft
+stool or no obvious symptoms at all.  You might not suspect a problem
+until you notice that your kids are not growing as well as they
+should.  Young kids up to four months of age are at highest risk and
+should be treated at least once with the medication Albon.  Our
+veterinarian recommends that they receive Albon for one week beginning
+at about three or four weeks of age and again if they are very
+stressed, such as when separated from their mother. If in doubt, take
+a stool sample to a veterinarian who regularly treats goats.
+<p>
+
+
+ <b>Ketosis</b> (also known  as pregnancy toxemia) may occur in pregnant does late in their pregnancy. The
+ doe  may be depressed,
+ weak, uninterested in food, and have poor muscle control and balance.  
+ If untreated, death follows within a few days. Early  in  the
+ disease, many does will show a positive test for
+ ketone bodies in the urine.  
+ Ketosis may occur
+ when the doe is carrying two or more kids, or when
+ the doe is very fat.  This disease is caused by the
+ sudden extra demand for energy by the fast-growing
+ kids in the pregnant goat and the inability of the goat
+ to eat enough  of her normal diet to provide  this energy
+ (due to the kids taking up room in the body). The doe will  rapidly
+ metabolize fat from her body stores produces ketones (a toxic
+ by-product) and the symptoms of the disease. Treatment with propylene glycol at
+ two to three ounces  twice a day will help.
+ If the doe lies down and cannot stand, treatment is usually not successful
+ unless she delivers at that time.   
+ As a preventive measure,  do not let the doe
+ get fat early in pregnancy and in the last month
+ of pregnancy provide 1-2 pounds of grain in addition to hay. 
+ <p>
+
+    <b><a href=CAE.html>Caprine Arthritis Encephalitis Syndrome</a> </b>(CAE)
+is a viral disease.  In young kids  symptoms include
+ a weakness in the rear legs, with no fever, or loss of appetite,  However,
+  the unused  legs  lose  muscle  strength  and
+ structure and the infected kids eventually die.
+  In older goats, the same disease is seen as
+ swollen joints, particularly the knees.   The disease develops slowly, and
+ after 2 or more years, the animal has difficulty using
+ its legs properly.   Infected goats have no fever,
+ remain alert, and eat well.  However, they do not
+ recover from the arthritis. 
+ An inexpensive blood tests can be used to diagnose CAE.
+ The disease is spread from older infected goats to kids, perhaps by
+ contact or
+ through the milk from an infected doe to her kid. There are no corrective
+ procedures or treatments.  Isolating kids at birth and raising them on
+ pasteurized goat milk is done to prevent the spread. It's a good idea
+ to make sure a goat is CAE free before purchasing. However, the blood test
+only checks for antibodies, and it's possible that an animal is infected and not
+(yet) producing antibodies.
+<p>
+ <b>Mastitis</b>  is  an  inflammation  of  the mammary
+ gland  (udder  or  milk-giving  gland)  of  animals,
+ usually caused by bacteria. The symptoms
+ of mastitis are heat,  pain,  and swelling of  the
+ udder.  Usually you will notice some discoloration of
+ the tissue and abnormal milk.   The infected udder
+ will change in color from slightly more pink to a
+ bright red, or to a black and cold udder. The milk from an
+ infected udder will vary in color,  texture,  and
+ thickness.   The California Mastitis Test (CMT) is  a good test for
+ subclinical mastitis, but is not 100% accurate.  Laboratory culture or
+ growth of the bacteria causing the mastitis is the best way to determine
+ the exact diagnosis.  
+ 
+ The causes of mastitis are most commonly rough treatment
+ and unclean milking practices. Wash the goat's udder
+ before milking, and dip (or spray) the teats after milking
+ with a teat dip.  Wash your hands before milking each goat
+ to prevent the spread.  The treatment  consists
+ of an intramammary infusion of antibiotics, sometimes
+ accompanied by additional antibiotics. Consulting a vet
+ is important for this disease since there are many different bacteria
+ that cause mastitis and different antibiotics are best for each.  If
+untreated the infection spreads and the goat may die or lose the udder.
+ 
+
+<HR><a name = "Breeding"> </a>
+<h3> Breeding</h3>
+
+A dairy goat should weigh at least 80 pounds and be at least 8 months
+old the first time she is bred.  A pygmy goat should be between 9 and
+18 months and a good size for her age.  In order for the doe to
+conceive (become pregnant), she must be in estrus ("heat" or
+"season".)  Signs of estrus include flagging (wagging her tail),
+mucous discharging from her rear, mounting other goats, and excited
+behavior if she is near a buck.  At first, you'll probably breed your
+does to a buck of a local breeder, but eventually, you might want to
+consider <A HREF = "AI.html">owning your own buck or artificial
+insemination</A>.  A good indication that a doe is pregnant is that
+it does not come into heat on its next cycle, so check your goat
+carefully three weeks after breeding. It may be hard to determine if a
+dairy goat is pregnant if it was bred at the end of the breeding
+season.
+
+
+<HR><a name = "labor"> </a> <h3> Labor</h3> 
+
+The <a href=Birthdate.html>expected due date</a><img src="new.gif"> is
+150 days after breeding.  A few weeks before delivery, the goat's
+udder will usually become enlarged.  A day or two before birth, the
+udder often fills up and the pelvic ligaments at the base of the tail
+relax so that the tail feels loose. Frequent urination and low pitched
+bleating are also signs that labor will begin within a day or two.
+
+The first sign we usually notice that indicates that labor is imminent
+is the discharge of the mucous plug, followed by small amounts of
+mucous.  In our experience, this usually occurs an hour or two before
+birth.  <p> In the uterus, the kid is enclosed in an amniotic sac
+which is surrounded by a water sac.  Usually the water sac bursts 30
+minutes to 2 hours before the delivery of the first kid.  The amniotic
+sac might burst a few minutes before delivery.  Usually, a kid will
+be born front legs and head first, and no assistance is needed. In
+multiple births, each kid is usually delivery 5-30 minutes after the
+previous sibling, and the placenta is expelled a few hours later. <p>
+<A HREF="Birth.gif"><img src="Birth.gif"></A>
+<p>
+
+If the kids haven't arrived within two hours after the water sac breaks,
+or if the kid is not positioned properly, an experienced goat breeder
+or a veterinarian might be required to assist in the delivery by
+repositioning the kid or "pulling" the kid out.
+
+<HR><a name = "newborn"> </a>
+<h3> Care of newborn goats </h3>
+
+Usually, the doe will lick the kid, to remove mucous and to stimulate
+its breathing. With a weak kid or inattentive mother, you might want
+to make sure the kid is freed from the amniotic sac and the mouth and
+nose are free of mucous.  It is not necessary to cut the umbilical
+cord, but if there is excessive bleeding from the umbilical cord of
+the kid, we tie it with dental floss.  Within an hour of birth, we dip
+the umbilical cord in 7% iodine to prevent infections.<p>
+
+Usually within a half hour, the kids will attempt to stand and nurse.
+It is important that the kids nurse within the first few hours of
+birth to receive colostrum which provides immunoglobulins.<p>
+
+Before the kids reach ten days old, they are dehorned.  Before
+dehorning, we administer tetanus antitoxin to provide temporary
+protection against tetanus. Often at the time of dehorning male kids
+are castrated (also known as wethered). At one month of age, we
+usually give tetanus toxiod (repeated one month later for newborns)
+and BoSe. The BoSe is repeated every six months and the tetanus toxiod
+is repeated yearly.  
+
+
+
+<HR><a name = "costs"> </a>
+<h3> Cost of raising a goat </h3>
+Here are the approximate costs of items needed for raising a goat:
+<ul>
+
+<li> Purchase price: Expect to pay between $100 and $300 for a
+registered Dairy Goat kid and between $150 and $350 for a Pygmy Goat.
+
+<li> Feed: The cost of alfalfa hay in Southern California varies between $9 and $12 per bale,
+depending on the season and the feed store.  Grain costs about $9 per
+50 pound bag.  One mature dairy goat eats approximately 1 bale of
+hay every 2 weeks
+
+<li>	Supplies:<ul>
+<li>Collar 	$6<li>Insecticide powder	$7 
+<li>Hoof trimmers	$14<li>Milking bucket	$20 - $30
+<li>Grooming brush	$4<li>Kid nipples	60 cents</ul>
+
+<li>Medications:<ul>
+<li>Tetanus antitoxin	$2 for vial for three kids
+<li>Worming medication	$8 - $15 for 10 to 20 doses</ul>
+	
+<li>Procedures:<ul>
+<li>Stud service	$25 to $75
+<li>Disbudding	$10 at Farm; $35 with a vet
+<li>CAE blood test	$6
+<li>Stool sample	$12 to $16 through a veterinarian
+</ul></ul>
+
+<HR><a name = "sources"> </a>
+<h3> Sources of Goat Supplies </h3>
+
+<h4>Specializing in the Goat </h4>
+Caprine Supply<br>
+P.O. Box Y<br>
+33001 West 83rd St.<br>
+DeSoto, Kansas. 66018<br>
+(913) 585-1191<br>
+<br>
+Hoegger Supply Co.<br>
+P.O. Box 331<br>
+Fayetteville, GA 30214<br>
+(404) 461-6926<br>
+<br>
+D.M. Peifer Supplies<br>
+P.O. Box 503<br>
+Herndon, PA 17830<br>
+(717) 758-8464<br>
+<a href ="mailto:dpeifer@aol.com">dpeifer@aol.com</a><br>
+<br>
+Northwest Pack Goats & Supplies<br>
+Rex & Terri Summerfield<br>
+2050 Wilson Creek Road<br>
+Weippe, ID 83553<br>
+Phone: (208) 435-4614 Fax: (208) 435-4529<br>
+<a href ="mailto:weippe@wln.com">weippe@wln.com</a><br>
+Free Catalog- Pack Saddles, Pads, and Packs<br>
+<br>
+<h4>General Animal Supplies </h4>
+Jeffers Vet Supply<br>
+P.O. Box 948<br>
+West Plains, Mo. 65775<br>
+(800) 533-3377<br>
+<br>
+
+Omaha Vaccine Company<br>
+3030 L  St.  P.O. Box 7728<br>
+Omaha, NE 68107<br>
+(800) 367-4444<br>
+<br>
+<br>
+Nasco<br>
+901 Janesville Ave<br>
+Fort Atkinson, WI  53538-0901<br>
+414 563-2446<br>
+fax 414 563-8296<br>
+<br>
+Nasco 1524 Princeton Ave<br>
+Modesto, CA  95352-3837<br>
+209 529-6957<br>
+fax 209 529-2239<br>
+<br>
+Pipestone Veterinary Supply. Phone 1-800-658-2523.<br>
+<br>
+  American Livestock Supply<br>
+  P.O. Box 8441<br>
+  Madison, WI  53708<br>
+  1-800-356-0700<br>
+
+<br>
+
+  PBS Livestock Health<br>
+  P.O. Box 9101<br>
+  Canton, Ohio 44711-9101<br>
+  1-800-321-0235<br>
+
+<br>
+
+  KV Vet Supply Co,<br>
+  David City, Nebraska<br>
+  1-800-423-8211<br>
+
+<HR><a name = "books"> </a>
+<h3> Books on Goat Care </h3>
+Goat Health Handbook, Dr. Thomas Thedford, DVM<p>
+Raising Milk Goats the Modern Way, Jerry Belanger<p>
+Goat Medicine, Mary C. Smith, DVM and David M. Sherman, DVM<p>
+The Goatkeeper's Veterinary Book, Peter Dunn, B. V. Sc.<p>
+Dairy Goat Judging Techniques, Harvey Considine and George Trimberger<p>
+The Pygmy Goat in America, Alice Hall<p>
+
+A <a href="GoatBooks.html">comprehensive list</a> of books on goat breeding, genetics, reproduction
+and general production & management was prepared by Dr. Nada K. Nadarajah
+
+
+<HR><a name = "orgs"> </a><h3> Goat Organizations </h3>
+		National Pygmy Goat Association<br>
+		166 Blackstone St.<br>
+		Mendon, MA 01756<br>
+		(508) 478-5902<p>
+
+		American Dairy Goat Association<br>
+		P.O. Box 865<br>
+		Spindale, NC 28160<br>
+		(704) 286-3801<br>
+		adgajdw2@aol.com<p>
+
+		American Nigerian Dwarf Organization<br>
+		Rt 1 Box 730 <br>
+	Alvarado, TX 76009<br>
+	(817) 790-8559<p>
+
+ American Angora Goat Breeders Associations<br>
+PO Box 195<br> Rocksprings, TX 78880<p>
+
+Kinder Goat Breeders Association<br>
+16212 Bothell-Everett Highway<br>
+Mill Creek, WA 98012<p>
+
+American Meat Goat Association<br> PO
+Box 498<br> Mertzon, TX 76941<br>
+Phone: (915) 835-2605 Fax: (915) 835-2259<p>
+
+
+
+
+WILD GOAT WOMYN AND ASSOCIATES<br> c/o Debbie Walstead<br> XX
+Cashmeres<br> 16635 High Tree<br> Elbert, CO. 80106<br> (719)
+495-2652.<br> The focus of the group is one fiber producing animals,
+not only cashmere and angora goats.  
+
+<HR><a name = "labs"> </a><h3> Diagnostic Laboratories </h3>
+<h4>Pregnancy Testing</h4>
+
+B.E.T. Reproductive Laboratories, Inc.<br>
+6174 Jacks Creek Road<br>
+Lexington, KY 40515<br>
+phone 606-273-3036<br>
+fax 606-273-0178<br>
+BET runs a total estrogen hormone assay tests on urine 50 days post breeding.
+The test is more reliable after 60-62 days than at 50 days. The cost is $12.00
+per sample (Feb 1996) and it requires 2ml urine in a clean container.
+
+
+<h4><a href=CAE.html">CAE testing</a> <img src=new.gif> </h4> 
+WSU - WADDL<br>
+Washington State Diagnostic Laboratory<br>
+P.O. Box 2037<br>
+Bustad Hall, Room 155N<br>
+College of Veterinary Medicine<br>
+Corner of Stadium Way & Farm Way<br>
+Pullman, WA  99164<br>
+509-335-9696<BR>
+
+The WSU lab is considered the "gold standard"- they run a kinetic
+enzyme linked immunosorbent assay (ELISA) for CAE virus).
+
+<h4>Others</h4>
+Pan American Vetinary Laboratories<br>
+Ruminant Veterinary Diagnostics<br>
+3921 Steck Ave - Suite A-101<br>
+Austin, Texas 78759<br>
+1-800-856-9655<BR>
+
+Ovine Progressive Pneumonia,
+Caprine Arthritis Encephalitis (CAE), 
+Caseous Lymphadenitis,
+Paratuberculoiss (Johne's Disease),
+Brucella ovia/melitensis.
+
+Although Pan Am also uses a ELISA test for CAE, it may not be as
+sensitive as the WSU test.
+
+<p>
+
+California Veterinary Diagnostic Lab System<br>
+West Health Sciences Drive<br>
+University of California-Davis <br>
+Davis, CA 95616.<br>
+(916)752-7577<br>
+Serologic test for CLA, Corynebacterium pseudotuberculosis (Caseous lymphadentitis.)
+
+
+
+<hr>
+<a name ="Advice"><h3> Advice from Goat Breeders </h3></a>
+<ul>
+<li><A href="Zahniser.html">Don V. & Joan C. Zahniser: Iron Tooth Saanens</a>
+<li><A href="DebDahl/RadRanch.html">Debbie & Richard Dahl: RAD RANCH, Spanish, Meat & Dairy Goats</a>
+<li><A href="Pigman.html">Dick & Anne Pigman: Wooden Bridge Ranch</a> Checklist and Pre/post kidding preparations for dairy goat does and kids
+<li><A href="Copper.html">Some Basic Information On Copper Deficiency Problems In Dairy Goats In
+Southern California</a> Joyce Lazzaro: Saanendoah Dairy Goats. <img src=new.gif>
+
+</ul>
+
+<hr><a name ="Net"> </a>
+<h3> Other Internet Goat Resources  </h3>
+
+
+<h4>Web Sites</h4> 
+
+<ul><li><a
+href="http://www.inform.umd.edu:8080/EdRes/Topic/AgrEnv/ndd/goat">
+USDA National Goat Handbook</a> Publications
+concerning all aspects of goat production and management (University of Maryland)
+
+<li><a
+href="http://www.inform.umd.edu:8080/EdRes/Topic/AgrEnv/ndd/4h/THE_DAIRY_GOAT.html">University of Maryland: 4-H Dairy Goat Project Handbook</a>
+
+<li><a
+href="http://www.okstate.edu/~animsci/breeds/goats/goats.html"> OSU Goat
+Breeds</a> 
+<li><a
+href="http://www.okstate.edu/~animsci/library/goats.html">OSU Goat Resourses</a>
+<li><a
+href="http://www.okstate.edu/OSU_Ag/agedcm4h/four-h/030goats.htm">
+4-H Goat Project - Oklahoma State</a>
+
+<li><a href="ftp://ftp.ucdavis.edu/pub/extension/4h-youth/goat/">4-H Goat handbook: UC Davis</a> (FTP) Postscript and WordPerfect
+
+<li> <A HREF="http://www.teleport.com/~geneder/missdees.htm">
+             Missdee's Alpine Dairy Goats</a>
+
+
+<li> <A HREF="http://www.cygnus.com/~ian/black-locust-farm.html">Cashmere Goats</a> at Black Locust Farm.
+
+<li><A HREF= "http://www.prairieweb.com/nw_cashmere/">Cashmere Market</a>
+
+
+<LI><A HREF = "http://www.halcyon.com/kenworth/sfr/goat.htm">Raising Goats (The Small Farm Resource)</a>
+
+
+<LI><A HREF =
+"http://netvet.wustl.edu/species/goats/goatpois.txt">Goats - Poisonous
+Plants (AWIC)</A>
+
+<li><a href = "http://www.aps.uoguelph.ca/cgi-bin/toc?/sheep+Sheep+and+Goats">
+The Virtual Newsletter: Sheep and
+Goats </a> University of Guelph (Canada)
+
+
+<LI><A HREF =
+"http://www.teleport.com/~geneder/adga/adgamain.htm">American Dairy Goat Association</a>
+
+<li> <A HREF = "http://hammock.ifas.ufl.edu/text/ac/1383.html">Alternative Opportunities for Small Farms</a> Dairy Goat Production Review (University of Florida)
+
+<li> <A HREF =
+"http://www.hardiman.com/malls/rmcm/beauty/goatsoap/index.html">Natural Way Goat
+Milk Soap</a>
+
+
+<li> <A HREF = "http://www.esinet.net/dionis.html"> Dionis Goat
+Milk Soap</a>
+
+
+
+<li> <A HREF =
+"http://fink.com/flyer.html">Life in the Goat Lane</a> A book by Linda Fink
+
+	<LI><A HREF="http://www.roblyn.com/chevhome.htm">Fromagerie Chevredouce Goat Cheese</A>
+<li> <A HREF =
+"http://specter.dcrt.nih.gov:8004/Genome/Capra%20hircus%20(goat).html">The Goat Genome Sequence (NIH)</a>
+
+<li> <a href = "http://www.umich.edu/~rkmead/goats.html">The Goat Shrine</a>. Lots of reasons to like goats.
+
+<li> <a href = "http://www.akiko.lm.com/hybrid/Birkbeck/DAB/liqmilk23f.html">
+Goats Milk - Dairy Advisory Bureau New Zealand</a>. 
+
+<li> <A HREF = "http://www.calexplorer.com/goat_a.html">Alberta's Mountain Goats </a>
+
+<li> <a href= "gopher://mann77.mannlib.cornell.edu:70/00/reports/nassr/livestock/pgg-bb/sheep_and_goats_1.27.95">Agricultural Statistics Board Inventory of Sheep and Goats</a> from Cornell University.
+
+<li> <a href = "http://gnv.ifas.ufl.edu/~fairsweb/text/ds/2495.html">Mastitis in Dairy Goats</a> Florida CES.
+
+<li> <a href = "http://etcs.ext.missouri.edu:70/R56902-74036-1m/publications/xplor/dairyoth.gph"> Feeding and Housing Dairy Goats - Missouri</a>
+
+
+<li><a href = "http://infopages.com:80/ocfair/goat.htm">Orange County, CA Fair: Information on Goats.</a>
+<li><a href = "http://www.intellinet.com/Heifer/Goat.html">The Heifer Project: Goats</a>. An organization that provides animal and training in animal management and ecologically sound farming methods to impoverished familes worldwide.
+<li><a href
+=http://www.boergoats.com>The Boer & Meat Goat Information Center</a> 
+<img src=new.gif>
+<li><a href
+=http://agweb.clemson.edu/agronomy/goats/goathome.htm>Goat Dropping</a> General
+goat information from The Cooperative Extension Service Clemson University. <img src=new.gif>
+<LI><A HREF="http://www.luresext.edu/goatext.htm">Langston University Goat Page</A><img src=new.gif>
+
+
+
+
+
+</ul>
+
+
+<h4>Mailing Lists</h4> Mailing Lists are distibributed by electronic
+mail to those that subscribe to a list.  Here are some mailing lists
+with subscription information:
+
+<ul> <li> Goats: For information on raising goats. Send mail to <A
+href="mailto:LISTPROC@LISTPROC.wsu.edu">LISTPROC@LISTPROC.wsu.edu</A> 
+with a blank subject line and the following command
+as the first (and only) line of the message body: 
+<pre> SUBSCRIBE GOATS (your name) </pre>
+
+<li> Goats Lite: For the less serious aspects of goats: Stories,
+cute names, goat milk recipes, etc. Send mail to <A
+href="mailto:Majordomo@teleport.com">Majordomo@teleport.com</A> with a
+blank subject line and the following command as the first (and only)
+line of the message body (do not include your name): 
+<pre> subscribe goatslite </pre>
+
+</ul>
+
+<hr>
+<a name = "sale"> </a>
+
+<h3> Goats for Sale </h3>
+During the Spring and Summer, someone at the farm often has some dairy goats
+for sale, usually kids.  At any time of the year, there may be pygmy goats
+available.  For more info, send e-mail to the address below.
+<p>
+A <a href="GoatBreeders.html">list of goat breeders</a> around the
+country is available.
+
+
+<HR>
+
+<h3> Did you overlook any of these links?  </h3>
+<ul><li><A HREF = "DairyGoats.html">Dairy Goats</A>
+<li><A HREF = "Pygmy.html">Pygmy Goats</A>
+<li><A HREF = "Boer.html">Boer goats</A>
+<li><a HREF = "Cashmire.html">Cashmere goats</a>
+<li><a href="Dwarf.html">Nigerian Dwarf goats</a>
+<li><A HREF = "AI.html">Artificial Insemination</A>
+<li><A HREF= "Ears.html">The LaMancha Ear Quiz</a>
+<li><a href = "GoatShowmanshipVideos.html">Goat Showmanship Videos</a>
+<li><a href="GoatBreeders.html">Goat Breeders Listing</a>
+<li><a href="GoatSounds.html">Goat Sounds</a>
+<li><a href =Birthdate.html>Goat Due Dates</a><img src=new.gif>
+</ul>
+
+
+
+
+
+
+<HR>
+Back to <A HREF = "InfoDirtRoad.html">http://www.ics.uci.edu/~pazzani/4H/InfoDirtRoad.html</A>
+The Information Dirt Road  home page <p>
+These pages were designed by the Computer Science project
+of the Irvine Mesa Charros 4-H Club.
+
+<ADDRESS>
+Project Leader: <A HREF = "http://www.ics.uci.edu/dir/faculty/AI/pazzani">Michael 
+Pazzani</A><br>
+<A HREF = "http://www.ics.uci.edu/">Department of Information and Computer 
+Science,</A><br>
+<A HREF = "http://www.uci.edu/">University of California, Irvine</A><br>
+Irvine, CA 92717-3425 <br>
+<A href="mailto:pazzani@ics.uci.edu">pazzani@ics.uci.edu </A>
+
+</ADDRESS>
+
+<img src="5pctcln.gif" ALIGN=BOTTOM>We have been selected as one of the top
+5% of Web sites by <A href="http://www.pointcom.com/">Point Communications Corp</a> and can be found at <a href="http://www.yahoo.com/Entertainment/Animals__Insects__and_Pets/Goats/">Recreation:Animals, Insects, and Pets:Goats</a> at Yahoo
+
+
+
+
+</BODY></HTML>

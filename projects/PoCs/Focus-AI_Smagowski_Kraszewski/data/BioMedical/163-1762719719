@@ -1,0 +1,23 @@
+<HTML>
+<HEAD>
+<TITLE>UPMC-CLC Home Page</TITLE>
+</HEAD>
+<BODY>
+<H1>
+<img align=middle src=PittLogo.gif alt="">
+Comprehensive Lung Center
+</H1> 
+<P><center><H3><I>University of Pittsburgh Medical Center</I></H3></center>
+
+<CENTER><A HREF="imagemap/imagemap.cgi$CLCMap"><IMG SRC="imagemap/CLC/CLCMap.GIF" border=0 ISMAP></A></CENTER>
+<P>
+<CENTER><a href="CLC_HTML/new.html">WHAT'S NEW</a> |
+<a href="CLC_HTML/learn.html">LEARN</a> |
+<a href="CLC_HTML/programs.html">PROGRAMS</a> |
+<a href="CLC_HTML/faculty.html">FACULTY</a> |
+<a href="CLC_HTML/referrals.html">REFERRALS</a></CENTER>
+<hr>
+<address>Robert Hoffman, MD<br>
+<a href="mailto:hoffman@paccm.pitt.edu">hoffman@paccm.pitt.edu</a></address>
+</BODY>   
+</HTML>

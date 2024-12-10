@@ -1,0 +1,31 @@
+<html>
+<head>
+<TITLE>Process Home Page</TITLE>
+</head>
+
+<!-- Body Tag 
+<BODY BGCOLOR="#CCCCCC" TEXT="#OOOOOO">
+-->
+
+<BODY>
+
+<br>
+<h4>There is a Process Mail List now.  
+Mail to <a href="mailto:listserv@usc.edu">
+&lt;listserv@usc.edu&gt;</a> 
+with the one-line body: <p><center> <pre>subscribe the_process -Your moniker here-</pre></center>
+Where -Your moniker here- is your (nick)name; spaces are allowed.</h4>
+<hr>
+
+<!-- Link Tag -->
+<center>
+<a href="/cgi-bin/imagemap/newmap">
+<img ismap src="http://Process.usc.edu/BHTML/new.jpg"border=0>
+</center>
+
+<hr>
+<h4>The Process Whebb Sight - for non-graphical interaction, connect at <a href="http://process.usc.edu/alternate.html"><cite>http://process.usc.edu/alternate.html</cite></a></h4>
+ 
+
+</BODY>
+</html>

@@ -1,0 +1,56 @@
+<HTML>
+<HEAD>
+<TITLE>Fred Hutchinson Cancer Research Center</TITLE>
+</HEAD> 
+<body background="http://www.fhcrc.org/images/football_skin.jpg">
+<P>
+<IMG SRC="images/fhcrc_3D.jpg" ALT="(Fred Hutchinson)">
+
+<HR>
+
+<P>The <A HREF="gopher://gopher.fhcrc.org/11/">FHCRC Gopher Server</A>
+is the primary electronic information source for the Fred Hutchinson
+Cancer Research Center. It contains information on events and services
+as well as links to all other Internet Gopher resources.  These pages work optimally with the <A HREF="http://home.mcom.com/comprod/mirror/index.html">Netscape WWW Browser</A>. If you have Netscape, you can view the <A HREF="fhcrc_an.html">animated icon</A>.
+
+<UL>
+<LI><B><A HREF="http://www.fhcrc.org/~pubrel">FHCRC Center News</A></B><IMG SRC="/images/new.gif">
+<LI><B><A HREF="biocomp/biocomp.html">FHCRC Biocomputing Shared Resource
+WEB Services</A></B>
+<LI><B><A HREF="image/IAL.html">FHCRC Image Analysis Facility</A></B>
+<LI><B><A HREF="http://www.admin.fhcrc.org/">FHCRC Adminstration and Development</A></B>
+<LI><B><A HREF="gopher://gopher.fhcrc.org:70/11/cals">FHCRC Events Calendars</A>
+</B>
+<LI><B><A HREF="news:fhcrc.*">FHCRC News Groups</A></B>
+<LI><B><A HREF="/cgi-bin/phf">FHCRC Phonebook</A></B>
+<LI><B><A HREF="http://www.fhcrc.org/cgi-bin/kidofwais.pl">Search the FHCRC WWW Server</A></B>
+<LI><B><A HREF="http://www.cancer.med.umich.edu/NCCN/NCCN.html">National Comprehensive Cancer Network</A></B>
+<LI><B><A HREF="http://www.wrc.noaa.gov/nws/home.html">Weather
+for Seattle and Washington</A></B>
+<LI><B><A HREF="http://198.238.212.10/regions/northwest/NWFLOW/">Seattle Traffic Graph</A></B>
+<LI><B><A HREF="reference.html">Reference Material on the Web</A></B>
+<LI><B><IMG SRC="images/usage.graph.small.gif" ALIGN="TOP"><A HREF="/usage.html"
+> FHCRC WWW Server Usage Statistics</A></B>
+</UL>
+
+<HR>
+<UL>
+<LI><B><A HREF="related.html">Topics Related to Cancer and Biology</B></A> 
+<LI><B><A HREF="other.html">Other Servers</B></A>  
+<LI><B><A HREF="web-starts.html">WEB Launch Points</A></B>
+</UL>
+<HR>
+ 
+<I>
+This server is currently managed by <A HREF="biocomp/staff.html">Michael
+Parker</A> in the <A HREF="biocomp/biocomp.html">Biococomputing 
+ Shared Resource</A> as a volunteer effort to focus attention on the appl
+ication of WWW as a method to distribute information Center-wide. We 
+would like FHCRC employee comments about the future of this server.  <A HREF="/future/web_admin.html">Please send your comments to the WWW administrators of this site.</A><p>
+The information in this server is provided as a courtesy by the Fred Hutchinson
+Cancer Research Center in Seattle, Washington, USA. &copy 1995 Fred Hutchinson
+Cancer Research Center. See the FHCRC <A HREF="disclaimer.html"><B>Disclaimer.</B></A>  Last modified: August 15, 1995<BR>
+</I><BR>
+
+</BODY>
+</HTML>

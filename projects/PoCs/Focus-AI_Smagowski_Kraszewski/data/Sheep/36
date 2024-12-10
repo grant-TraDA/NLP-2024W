@@ -1,0 +1,56 @@
+<!-- received="Fri May 13 15:13:19 1994 CDT" -->
+<!-- sent="Fri, 13 May 94 14:27:58 -0500" -->
+<!-- name="Gene Spafford" -->
+<!-- email="spaf@cs.purdue.edu" -->
+<!-- subject="Re: wolves and sheep on the inet" -->
+<!-- id="199405131927.OAA24449@uther.cs.purdue.edu" -->
+<!-- inreplyto="199405112326.SAA05173@crimelab.crimelab.com" -->
+<title>Bugtraq Archives prior to 1995: Re: wolves and sheep on the inet</title>
+<h1>Re: wolves and sheep on the inet</h1>
+Gene Spafford (<i>spaf@cs.purdue.edu</i>)<br>
+<i>Fri, 13 May 94 14:27:58 -0500</i>
+<p>
+<ul>
+<li> <b>Messages sorted by:</b> <a href="date.html#383">[ date ]</a><a href="index.html#383">[ thread ]</a><a href="subject.html#383">[ subject ]</a><a href="author.html#383">[ author ]</a>
+<!-- next="start" -->
+<li> <b>Next message:</b> <a href="0384.html">John Hawkinson: "Re: [8lgm]-Advisory-7.UNIX.passwd.11-May-1994"</a>
+<li> <b>Previous message:</b> <a href="0382.html">Gene Spafford: "Re: [8lgm]-Advisory-7.UNIX.passwd.11-May-1994"</a>
+<li> <b>In reply to:</b> <a href="0372.html">Timothy Newsham: "wolves and sheep on the inet"</a>
+<!-- nextthread="start" -->
+<li> <b>Next in thread:</b> <a href="0385.html">Steve Simmons: "Re: wolves and sheep on the inet"</a>
+</ul>
+<!-- body="start" -->
+<pre>
+Re:
+
+&gt; &gt; Robert Heinlein, in his book, "Starship Troopers" raises the issue of 
+&gt; &gt; what to do to prevent insurrection.  "If you make the wolves the 
+&gt; &gt; guardians of the sheep, it will turn them into sheep dogs."
+
+There is little evidence to show that people with experience breaking
+into computer systems have any particular talent for protecting
+them.  A few may have some specific insights, and a rare few may have
+general background, but that is not the general case.
+
+For instance, being able to guess someone's password doesn't mean
+someone is able to design a cryptographic algorithm to protect
+passwords; and being able to exploit a race condition doesn't mean one
+knows how to write effective code without them.
+
+It's also the case that sheepdogs that ever stray and kill a lamb must
+themselves be put down.  Once they've been a sheep killer, there is no
+way to ever trust them not to do it again -- the temptation might be
+too much for them on another occasion.  Ask a shepherd.
+
+--spaf
+</pre>
+<!-- body="end" -->
+<p>
+<ul>
+<!-- next="start" -->
+<li> <b>Next message:</b> <a href="0384.html">John Hawkinson: "Re: [8lgm]-Advisory-7.UNIX.passwd.11-May-1994"</a>
+<li> <b>Previous message:</b> <a href="0382.html">Gene Spafford: "Re: [8lgm]-Advisory-7.UNIX.passwd.11-May-1994"</a>
+<li> <b>In reply to:</b> <a href="0372.html">Timothy Newsham: "wolves and sheep on the inet"</a>
+<!-- nextthread="start" -->
+<li> <b>Next in thread:</b> <a href="0385.html">Steve Simmons: "Re: wolves and sheep on the inet"</a>
+</ul>

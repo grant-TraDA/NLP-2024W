@@ -1,0 +1,33 @@
+<!doctype html public \"-//W30//DTD W3 HTML 2.0//EN\">
+
+<HTML>
+
+<HEAD>
+<TITLE>Species of animals
+</TITLE>
+</HEAD>
+
+<BODY>
+
+<H1>Plants of special concern to these animal species</H1>
+
+<ul>
+<li>Cavies (Guinea Pigs)
+<li>Cats
+<li>Cattle
+<li>Dogs
+<li>Goats
+<li><A HREF="ToxHorses.html">Horses</A>
+<li>Humans
+<li>Llamas
+<li>Pets
+<li>Rabbits
+<li>Sheep
+<li>Swine 
+</ul>
+
+<A HREF="plants.html">Return to Cornell poison plant home page</A>
+
+</BODY>
+
+</HTML>

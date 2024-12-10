@@ -1,0 +1,80 @@
+<HEAD>
+<TITLE>Auburn University College of Veterinary Medicine</TITLE>
+</HEAD>
+<BODY>
+<H1>Auburn University<BR>
+College of Veterinary Medicine</H1>
+<A HREF="/pics/vetmed.big.gif"><IMG SRC="/pics/vetmed.gif" ALT="[CVM Seal]"></A><P>
+<HR>
+<H2>
+Contents:
+</H2>
+<A HREF="#tour">An Interactive Tour of the College of Veterinary Medicine</A><BR>
+<A HREF="#admissions">Admissions Information</A><BR>
+<A HREF="#depts">Departments and Organizations at the College</A><BR>
+<A HREF="#people">People at the College</A><BR>
+<A HREF="#netvet">NetVet Veterinary Resources</A><BR>
+<A HREF="#other_au_sites">Other Auburn University Sites</A><P>
+<HR>
+<H3><A NAME="tour">An Interactive Tour of the College of Veterinary Medicine</A></H3>
+<UL>
+<LI><A HREF="/cvmtour/www-tour001.html">A WWW-based tour of the College of Veterinary Medicine</A>
+<LI><A HREF="/cvmtour/pc-tour.html">Microsoft Windows Compatible Software</A>
+<LI><A HREF="/cvmtour/mac-tour.html">Macintosh Software</A>
+</UL>
+<HR>
+<H3><A NAME="admissions" HREF="http://www.vetmed.auburn.edu/admissions.html">Admissions Information</A>
+</H3>
+<HR>
+<H3><A NAME="depts">Departments and Organizations at the College</A></H3>
+<UL>
+<LI>Administration
+<LI><A HREF="/anathist/">Anatomy and Histology</A>
+<LI>Biomedical Communications
+<LI><A HREF="/cg/">Computer Group</A>
+<LI>Continuing Education
+<LI>Endocrine Diagnostic Service
+<LI><A HREF="/ibds/">IBDS (Institute for Biological Detection Systems)</A>
+<LI>Lab Aninmal Health
+<LI>Large Animal Surgery and Medicine
+<LI><A HREF="/mmidp/">Molecular Mechanisms of Infectious Disease Pathogenesis</A>
+<LI><A HREF="/orgs/">Office of Research and Graduate Studies</A>
+<LI><A HREF="/ots/">Omega Tau Sigma Professional Veterinary Fraternity</A>
+<LI><A HREF="/patho/">Pathobiology</A>
+<LI><A HREF="/physphar/">Physiology and Pharmacology</A>
+<LI>Radiology
+<LI><A HREF="/srrc/">Scott-Ritchey Research Center</A>
+<LI>SCAVMA (Student Chapter of the American Veterinary Association)
+<LI><A HREF="/sac/">Small Animal Surgery and Medicine</A>
+<LI><A HREF="/lib/">Veterinary Medical Library</A>
+</UL>
+<HR>
+<H3><A NAME="people">People at the College</H3>
+<UL>
+<LI><A HREF="http://www.vetmed.auburn.edu/cgi-bin/finger">Finger Gateway</A>
+<LI><A HREF="http://www.vetmed.auburn.edu/homepages.html">Links to User Homepages</A>
+<LI><A HREF="gopher://ducserv.duc.auburn.edu:7777/1Mou%3dCollege%20of%20Veterinary%20Medicine%2c%20o%3dAuburn%20University%2c%20c%3dUS">Search College of Veterinary Medicine Email Addresses</A>
+</UL>
+<HR>
+<H3><A NAME="netvet" HREF="http://netvet.wustl.edu/">NetVet Veterinary Resources</A></H3>
+<H5><A HREF="http://www.vetmed.auburn.edu/note.html"><I>note</I></A></H5>
+<HR>
+<H3><A NAME="other_au_sites">Other Auburn University Sites</A></H3>
+<UL>
+<LI><A HREF="http://www.auburn.edu/">Auburn University</A>
+<LI><A HREF="gopher://mallard.duc.auburn.edu/11/Academic/Vet">DUC College of Veterinary Medicine Course Information (gopher)</A>
+<LI><A HREF="http://www.acenet.auburn.edu/">Alabama Cooperative Extension Service</A>
+<LI><A HREF="http://www.awis.auburn.edu/">Agricultural Weather Information Service</A>
+<LI><A HREF="http://www.lib.auburn.edu/">Auburn University Libraries</A>
+<LI><A HREF="http://www.ag.auburn.edu/">College of Agriculture</A>
+<LI><A HREF="http://www.eng.auburn.edu/">College of Engineering</A>
+<LI><A HREF="http://www.physics.auburn.edu/">Physics Department</A>
+</UL>
+<HR>
+ <P>
+<FORM ACTION="/comments.html"><INPUT TYPE="submit" VALUE="COMMENTS"></FORM>
+Any questions, suggestions, or bug reports regarding this site should go to
+<A HREF="mailto:webmaster@vetmed.auburn.edu"><EM>webmaster@vetmed.auburn.edu</EM></A>. <P>
+Click <A HREF="http://www.vetmed.auburn.edu/wwwstats.html">here</A> for this month's statistics.<BR>
+Click <A HREF="http://www.vetmed.auburn.edu/credits.html">here</A> for credits.
+</BODY>

@@ -1,0 +1,227 @@
+<html<head>
+<title>Washington University Institute for Biomedical Computing</title>
+</head>
+<center>
+<a href="/htbin/imagemap/ibc">
+<img src="http://ibc.wustl.edu/images/ibc_t.gif" ISMAP border=0
+alt="Washington University Institute for Biomedical Computing"></a></center>
+<p>
+<a href="http://ibc.wustl.edu/audio/welcome.au">
+Welcome 
+</a>
+to the <b> Institute for Biomedical Computing (IBC) </b>,
+a joint <a href="http://ibc.wustl.edu/res_collab">
+collaborative research</a> venture between the 
+<a href="http://ibc.wustl.edu/wums.html">
+School of Medicine</a> and the
+<a href="http://www.ecl.wustl.edu/seas/">
+School of Engineering and Applied Sciences</a> at
+<a href="http://www.wustl.edu/">
+Washington University </a> in
+<a href="http://ibc.wustl.edu/stlouis.html">
+St. Louis, </a> Missouri. 
+<a href="http://ibc.wustl.edu:70/0h/bio_local/contacts"> Contact us</a>
+for more information. Send <a href="http://ibc.wustl.edu/ibc_note.html">
+e-mail to IBC personnel</a> if you know who you want to contact.
+<form action="http://ibc.wustl.edu/ibcsrch.cgi">
+<center><input type="text" name="key" size="20"> 
+<input type="submit" value="Search our server for keywords"></center>
+</form>
+<center>
+<b>Institute: </b> 
+<a href="#proj">Projects</a> |
+<a href="#comp">Components</a> |
+<a href="#collab">Collaborators</a> |
+<a href="#sem">Seminars</a> |
+<a href="#ibcres">Resources</a> |
+<a href="/bio-utils.html">Bio-WWW Utils</a> |
+<a href="http://ibc.wustl.edu:70/0h/bio_local/contacts"">Contacts</a><br>
+<b>Washington U: </b>
+<a href="http://ibc.wustl.edu:70/1/bio_local/bio_med/">Bio Eng Program</a>
+|
+<a href="/res_collab">Research Collaboration</a> |
+<a href="http://ibc.wustl.edu:70/1/dbbs_book">DBBS</a> |
+<a href="#sem">Seminars</a> |
+<a href="http://ibc.wustl.edu:70/1/wustl">WU WWW Sites</a><br>
+<b>Biomedical Computing: </b>
+<a href="http://ibc.wustl.edu:70/1/bio_remote">Other Links</a> |
+<a href="http://ibc.wustl.edu:70/1m/bio_remote/bio-email">E-Mail servers</a>
+|
+<a href="http://ibc.wustl.edu:70/1/bio_grants">Funding Sources</a> | 
+<a href="http://ibc.wustl.edu:70/1/bio_data">Databases</a><br>
+<b>Misc: </b>
+<a href="/archives.html">Other IBC Archives</a> |
+<a href="http://ibc.wustl.edu:70/1/links">More WWW Links</a> |
+<a href="/internet.html">Internet Resources</a> |
+<a href="#about">About this server</a>
+</center>
+
+<hr>
+<A name="proj">
+<h2><LI>Institute Applications and Projects</h2>
+<UL>
+<LI><a href="/ismb96">Intelligent Systems for Molecular Biology Conference (ISMB '96)</a>
+<LI><a href="http://bcl.wustl.edu/xcosm/xcosm.html">
+XCOSM X-Windows interface to Computational Optical Sectioning Microscopy</a>
+<LI><a href="/bcl/README.dnagui.html">
+DNA/GUI: Quantitative Imaging and Analysis of Electrophoretic Gels</a>
+<LI><a href="/bcl/README.emapc.html">
+EMAPC: Estimating Radiolabled-tracer distribution for EMA</a>
+<LI><a href="http://arl.wustl.edu/arl/projects/nca/overview.html">
+Distributed Imaging Over Gigabit Networks - Project Overview</a>
+<LI><a href="/fpat/">
+Regular Expression Searching Protein Databases</a>
+<LI><a href="/standards/">
+Standards definitions for molecular biology software</a>
+<LI><a href="/hhs">
+HHS Sequence Classification </a>
+<LI><a href="/rpt/elegans">
+<i>C. elegans</i> Repeats Database </a>
+<LI><a href="http://ibc.wustl.edu:70/1s/bio_local/C.elegans"> 
+<i>C. elegans</i> BLAST Data Archive</a>
+<LI><a href="http://ibc.wustl.edu:70/0h/CGM/human_x"> 
+Search the Human X Chromosome </a>
+<LI><a href="/klotho/">
+KLOTHO Biochemical Compound Database</a>
+<LI><a href="/acs">
+ACS Abstract Submission Form (DEMO)</a> 
+</ul>
+
+<a name="comp">
+<h2><LI>Institute Components</h2>
+<ul>
+<LI><A HREF="/bcl">
+The Biomedical Computer Laboratory (BCL) </a>
+<ul><LI><a href="http://tyrone.wustl.edu/~keith/intro.html">
+	The McNally Dictyostelium Laboratory</a> </ul>
+<LI><A HREF="http://ibc.wustl.edu:70/1s/bio_local/ibcfolk/ccb">
+The Center for Computational Biology (CCB) </a>
+<LI><A HREF="http://wucmd.wustl.edu">
+The Center for Molecular Design (CMD) </a>
+</ul>
+
+<a name="collab">
+<h2><LI>Institute Collaborators within Washington University</h2>
+<ul>
+<LI><a href="http://ibc.wustl.edu:70/1/mir">
+The Mallinckrodt Institute of Radiology</a> 
+<LI><a href="http://genome.wustl.edu">
+Department of Genetics</a>
+<LI><a href="http://genome.wustl.edu/cgm/cgm.html">
+The Center for Genetics in Medicine</a>
+<LI><a href="http://genome.wustl.edu/est/esthmpg.html">
+Washington University - Merck EST Project</a>
+<LI><a href="http://bmb.wustl.edu">
+Department of Biochemistry and Molecular Biophysics</a>
+<LI><a href="http://biodec.wustl.edu">
+Department of Biology</a>
+<LI><a href="http://www.arl.wustl.edu/arl/">
+Applied Research Laboratory</a>
+<LI><a href="http://www.cs.wustl.edu/">
+Department of Computer Science</a>
+<LI><a href="http://www.ee.wustl.edu/">
+Department of Electrical Engineering</a>
+<LI><a href="http://www.essrl.wustl.edu/essrl/">
+Electronic System Signals Research Laboratory</a>
+</ul>
+
+<a name="ibcres">
+<h2><li>Institute Services and Resources</h2>
+<ul>
+<LI>IBC Personnel
+<A HREF="http://ibc.wustl.edu:70/1s/bio_local/ibcfolk/ibc_dir">List</a> and
+<A HREF="http://ibc.wustl.edu:70/7g/bio_local/ibcfolk/ibc_dir">Search</a> 
+<LI><a href="http://ibc.wustl.edu/vac">
+IBC Vacation Calendar</a> <b>(IBC internal only)</b>
+<LI>IBC Mailing List Archives
+<a href="http://ibc.wustl.edu:70/1m/ibc_arch/mailed"> List</a> and
+<a href="http://ibc.wustl.edu:70/7m/ibc_arch/mailed"> Search</a> 
+<LI><a href="gopher://ibc.wustl.edu:70/11/bio_data">Local Molecular
+Biology Databases</a>
+<LI><a href="http://ibc.wustl.edu:70/0h/bio_local/local_bio_sw">Installed
+Molecular Biology Software</a>
+<LI><A HREF="gopher://ibc.wustl.edu/">IBC Gopher Server</a>
+</UL>
+
+<a name="sem">
+<li><h2>Seminars</h2>
+<ul>
+<LI><a href="http://ibc.wustl.edu/biomed.cgi">
+IBC/Biological Engineering Seminars</a>
+<LI><a href="http://ibc.wustl.edu/compgen.cgi">
+Computational Genomics Seminars</a>
+<LI>Upcoming DBBS Seminars :  
+<a href="http://ibc.wustl.edu:70/1m/seminars/dbbs_seminar_current"> List</a> and
+<a href="http://ibc.wustl.edu:70/7m/seminars/dbbs_seminar_current"> Search</a>
+<LI>Search for all in DBBS seminars in
+<a href="http://ibc.wustl.edu:70/7m/seminars/dbbs_seminar_1994"> 1994 </a>
+and
+<a href="http://ibc.wustl.edu:70/7m/seminars/dbbs_seminar_1993"> 1993. </a>
+</ul>
+
+<h2><LI><a href="/res_collab">
+Research Collaboration Opportunities</a></h2>
+
+<h2><LI>Division of Biology & Biological Sciences (DBBS)</h2>
+<UL>
+<LI><a href="http://ibc.wustl.edu:70/0h/dbbs_book/dbbs_intro"> DBBS Introduction</a>
+<LI>DBBS Research Book
+<a href="http://ibc.wustl.edu:70/1s/dbbs_book"> List</a> and
+<a href="http://ibc.wustl.edu:70/7g/dbbs_book"> Search</a>
+<LI><a href="http://www.cs.indiana.edu/HTMLit/how.2b/how.2b.html">
+How to be a good graduate student/advisor</a>
+</UL>
+
+<A HREF="http://ibc.wustl.edu:70/1/bio_local/bio_med">
+<H2><LI>Biological Engineering Program</H2> </a>
+
+<H2><LI><A HREF="http://ibc.wustl.edu:70/1/bio_remote">Remote 
+Biomedical HTTP and Gopher Servers</a> </H2>
+
+<hr>
+<LI>Biomedical E-Mail Servers 
+<a href="http://ibc.wustl.edu:70/1m/bio_remote/bio-email"> List </a> and
+<a href="http://ibc.wustl.edu:70/7m/bio_remote/bio-email"> Search </a>
+<LI><a href="http://ibc.wustl.edu:70/1/bio_grants">
+Funding Sources for Biomedical Computing (WUSTL Only)</a> 
+
+<LI><A HREF="http://ibc.wustl.edu:70/1/links"> Remote HTTP
+and Gopher Resources</a> 
+
+<LI><A HREF="http://ibc.wustl.edu:70/1/wustl">
+Washington University Resources</a>
+ 
+<LI><A HREF="/internet.html">
+Internet Resources</a>
+
+<LI><A HREF="/archives.html">
+Other Archives Available Via This Server</a>
+<hr>
+
+<a name="about">
+<h2><LI>About this Server</h2>
+<p>
+This server runs on a <a href="http://www.sun.com/"> Sun </a>
+<b>SPARCserver 630MP</b> running Solaris 2.4 on quad
+55 MHZ <a href="/ross/">ROSS HyperSPARC</a> processors.
+and the <a href="http://hopf.math.nwu.edu:70/>GN</a> 
+gopher/HTTP server and the 
+<a href="http://hoohoo.ncsa.uiuc.edu/docs/Overview.html">NCSA HTTPD</a>
+ Server. 
+Using the <a href="http://www.ics.uci.edu/WebSoft/wwwstat"> wwwstat</a>
+perl script (along with a GN version I modified) we can also generate 
+<a href="/logs/log_list.cgi"> usage statistics </a> of our server.
+</p>
+<p>This server has been developed and is maintained by 
+<a href="http://ibc.wustl.edu/~hugh"> Hugh Chou</a> at the
+Institute for Biomedical Computing with assistance and advice from the
+Washington University <a href="http://www.wustl.edu/ACN/onc.html">
+Office of the Network Coordinator </a>and the 
+<a href="http://medicine.wustl.edu/"> Medical Library.</a>
+Please send any
+<a href="/comments.html">comments</a> or suggestions you may have.
+</UL>
+<hr>
+<center><i>Last updated May 11, 1995,
+<a href="mailto:www@ibc.wustl.edu">www@ibc.wustl.edu</a>
+</i></center>

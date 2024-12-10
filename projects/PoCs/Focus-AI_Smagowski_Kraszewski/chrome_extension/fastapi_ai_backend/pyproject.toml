@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "poetry env use python3-11"
+version = "0.1.0"
+description = ""
+authors = ["szymon"]
+license = "none"
+readme = "README.md"
+packages = [{include = "poetry env use python3"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.115.5"
+pydantic = "^2.9.2"
+openai = "^1.54.4"
+uvicorn = "^0.32.0"
+html2text = "^2024.2.26"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
