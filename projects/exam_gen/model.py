@@ -45,7 +45,7 @@ class OpenEndedQuestion(BaseModel):
     )
 
     @classmethod
-    def from_dataframe(cls, df: pd.DataFrame):
+    def from_dataframe_squad(cls, df: pd.DataFrame):
         questions = []
         for _, row in df.iterrows():
             # row['answers']['text'] is typically a list of correct answers in SQuAD
@@ -54,6 +54,20 @@ class OpenEndedQuestion(BaseModel):
                 example_correct_answers=row['answers']['text'],
                 context=row['context']
             ))
+
+        return questions
+
+    @classmethod
+    def from_dataframe_newsqa(cls, df: pd.DataFrame):
+        questions = []
+        for _, row in df.iterrows():
+            # row['answers']['text'] is typically a list of correct answers in SQuAD
+            questions.append(cls(
+                question=row['question'],
+                example_correct_answers=[row['answer']],
+                context=row['paragraph']
+            ))
+
         return questions
 
     def generate_question_from_context(self, llm):
@@ -160,7 +174,7 @@ class CloseEndedQuestion(BaseModel):
             return 1
 
     @classmethod
-    def from_dataframe(cls, df: pd.DataFrame):
+    def from_dataframe_squad(cls, df: pd.DataFrame):
         questions = []
         for _, row in df.iterrows():
             # row['answers']['text'] is typically a list of correct answers in SQuAD
