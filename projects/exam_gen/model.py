@@ -6,27 +6,24 @@ from langchain_core.prompts import ChatPromptTemplate
 from pydantic import BaseModel, Field, model_validator
 
 question_answer_template = ChatPromptTemplate([
-    ("system", "Based on the following text, answer user's question, make the answer short and preceise while sticking to the context: {context}"),
+    ("system", "Based on the following text, answer user's question, make the answer short and precise while sticking to the context: {context}"),
     ("user", "{question}")
-]
-)
+])
+
 closed_question_answer_template = ChatPromptTemplate([
-    ("system", "Based on the following text, answer user's question, make the answer short and preceise while sticking to the context: {context}"),
+    ("system", "Based on the following text, answer user's question, make the answer short and precise while sticking to the context: {context}"),
     ("user", "{question} \n\n Possible choices: {choices}")
-]
-)
+])
 
 answer_validation_template = ChatPromptTemplate([
-    ("system", "As an teacher, you are asked to validate the answer to the following question on a scale from 1 (completely incorrect) to 5 (excelent) The question is: {question}. The context is: {context}. Example correct answers with grade 5: {correct_answer}. Is this answer correct?"),
-    ("user", "{answer}"),
-    ("system", "Remember to output only the grade of the answer from 1 to 5 ONLY!")
-]
-)
+    ("system", "As a teacher, you are asked to validate the answer to the following question on a scale from 1 (completely incorrect) to 5 (excellent) The question is: {question}. The context is: {context}. Example correct answers with grade 5: {correct_answer}. Is this answer correct? Remember to output only the grade of the answer from 1 to 5 ONLY!"),
+    ("user", "{answer}")
+])
+
 question_generation_template = ChatPromptTemplate([
-    ("system", "Based on the context given by user, generate a question that can be answered using the mentioned text, remember that the question will be answered without looking at that context, so generate the question which will allow studnets faimiar with it to answer it correctly."),
+    ("system", "Based on the context given by user, generate a question that can be answered using the mentioned text, remember that the question will be answered without looking at that context, so generate the question which will allow students familiar with it to answer it correctly."),
     ("user", "{context}")
-]
-)
+])
 
 class OpenEndedQuestion(BaseModel):
     question: str = Field(..., description="The question text.")
@@ -70,6 +67,7 @@ class OpenEndedQuestion(BaseModel):
             correct_answer=self.example_correct_answers,
             answer=answer
         )
+
         response = llm.invoke(messages).content.strip()
 
         # parse the numeric score
@@ -78,6 +76,7 @@ class OpenEndedQuestion(BaseModel):
             if grade < 1 or grade > 5:
                 grade = 0
         except ValueError:
+            print(f"Failed to parse grade from response: {response}")
             grade = 0
         return grade
 
