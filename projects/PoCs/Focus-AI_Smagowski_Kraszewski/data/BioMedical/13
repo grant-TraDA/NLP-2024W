@@ -1,0 +1,381 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head>
+<title>List of WWW Archie Services</title>
+</head>
+<body>
+<!--  $Id: servers.html,v 1.3 1994/12/15 10:04:09 mak Exp mak $ -->
+
+<img src="/nexor/general/icons/nexor-logo-small.gif" alt="">
+A <a href="/public/welcome.html">Public Service</A> provided by
+<A HREF="/">NEXOR</A>
+
+<hr>
+
+<h1>List of WWW Archie Services</h1>
+
+This is a list of <A HREF="/public/archie/readme.html">Archie</a>
+services (gateways) in the World Wide Web.
+
+The latest version is always on <a 
+href="http://web.nexor.co.uk/archie.html">
+http://web.nexor.co.uk/archie.html</a>.
+
+See also <a href="/public/archie/about.html">About this service</a>.
+
+<p>
+If you want run a WWW Archie Server on your server try 
+<A HREF="/public/archie/archieplex/archieplex.html">ArchiePlex</A>.
+
+<h2><A name="formbasedlist">Form based Archie Services</a></h2>
+<p>
+The preferred interfaces for browsers that support forms are these
+gateways:
+
+<h3>North America</h3>
+<ul>
+<li>
+
+<A HREF="http://www.lerc.nasa.gov/Doc/archieplex.html">
+ArchiePlexForm at NASA</A>
+in the United States
+
+<li>
+
+<a href="http://www.amdahl.com/internet/archieplex/">
+ArchiePlex at Amdahl Corporation</a>
+in the United States
+
+<li>
+
+<A HREF="http://hoohoo.ncsa.uiuc.edu/archie.html">
+AA at NCSA</a> in the United States
+
+<LI>
+
+<A href="http://www.sco.com/Third/archie.html">
+AA at SCO</a> in the United States
+
+<LI>
+
+<A href="http://http2.sils.umich.edu/utility/archie.html">
+AA at Michigan</a> in the United States
+
+<LI>
+
+<A href="http://www.csbsju.edu/archie.html">
+AA at CSB/SJU</a> in the United States
+
+<LI>
+
+<A HREF="http://www-ns.rutgers.edu/htbin/archie">
+Rutgers University Archie Service</A> in the United States
+<em>based on an early version of ArchiePlex</em>
+
+<LI>
+
+<A HREF="http://www.aros.net/gateways/archie_gateway.html">
+ArosNet's Archie Gateway</a>
+
+</ul>
+
+<h3>Europe</h3>
+
+<ul>
+
+<li>
+
+<A HREF="http://src.doc.ic.ac.uk/archieplexform.html">
+ArchiePlexForm at Imperial College</A> in The United Kingdom
+
+<li>
+
+<A HREF="/public/archie/archieplex/doc/form.html">
+ArchiePlexForm at NEXOR</A> 
+<em>home of ArchiePlex</em>
+
+<li>
+
+<A href="http://www.funet.fi/funet/archie/archieplexform.html">
+ArchiePlexForm at FUNET</a> in Finland
+
+<li>
+
+<A href="http://www.twi.tudelft.nl/Local/archieplex/doc/form.html">
+ArchiePlex at Delft University of Technology</a> in the Netherlands
+
+<li>
+
+<A HREF="http://www.th-darmstadt.de/archie/archieplex.html">
+ArchiePlexForm at the Technical University of Darmstadt</A> in Germany
+
+<li>
+
+<A HREF="http://s700.uminho.pt/CGI/archieplex/archieplexform.html">
+ArchiePlexForm at Universidade do Minho</A>
+in Portugal
+
+<li>
+
+<A HREF="http://www.gae.unican.es/archie.html">
+ArchiePlexForm at Universidad de Cantabria</A>
+in Spain
+
+<li>
+
+<A HREF="http://www.switch.ch/switch/info/archieplex_form.html">
+ArchiePlexForm at SWITCH</a> in Switzerland
+
+<li>
+
+<A HREF="http://cuiwww.unige.ch/archieplexform.html">
+ArchiePlexForm at University of Geneva</a> in Switzerland
+
+<li>
+
+<A HREF="http://bau2.uibk.ac.at:81/archieplex-info/archieplexform.html">
+ArchiePlexForm at the University of Innsbruck</a> in Austria
+
+<li>
+
+<A HREF="http://www.austria.eu.net/local-bin/archie.perl">
+Tony's Archie Interface
+</a> in Austria
+
+<li>
+
+<A HREF="http://marvin.physik.uni-oldenburg.de/Docs/net-serv/archie-gate.html">
+The Oldenburg Archie gateway at University of Oldenburg</a> in Germany
+
+<li>
+
+<A href="http://www.pvv.unit.no/archie">
+MS160 Archie Service at University of Trondheim</a> in Norway.
+
+<li>
+
+<A href="http://www.uib.no/htbin/archie.pl">
+Archie Service at University of Bergen</a> in Norway.
+
+<li>
+
+<A href="http://www.tubitak.gov.tr/archieplex/public-form.html">
+ArchiePlexForm at the Scientific and Technical Research Council</a>
+of Turkey
+
+<li>
+
+<a href="http://www.lanet.lv/services/archieplex/doc/form.html">
+ArchiePlexForm at LANET</a> in Latvia
+
+</ul>
+
+<h3>Other</h3>
+
+<ul>
+
+<li>
+
+<A HREF="http://archie.ac.il/misc/archie.html">
+ArchiePlexForm at Hebrew University of Jerusalem</a> in Israel
+
+<li>
+
+<A HREF="http://www.telstra.com.au/cgi-bin/archiesimple.pl">
+ArchiePlex at Telecom Australia</a> in Australia
+
+<li>
+
+<A HREF="http://www.gh.cs.su.oz.au/Utils/archieplexform.html">
+ArchiePlex at Sydney University</a> in Australia
+
+<li>
+
+<a href="http://www.webnet.com.au/cgi-bin/archie">
+WWW Archie Search at Internet Interface Systems</a> in Australia
+
+<li>
+
+<A HREF="http://peacock.tnjc.edu.tw/NEW/archie/AA.html">
+AA at Tung Nan Junior College of Technology</A> in Taiwan
+
+</ul>
+
+<h2><A name="nonformbasedlist">Archie Services without forms</a></h2>
+
+For those unfortunate enough not to have browsers capable
+of handling forms, these offer simple searchable documents.
+
+<UL>
+<LI>
+
+<A HREF="http://web.doc.ic.ac.uk/archieplex/server=archie.doc.ic.ac.uk/type=substring/order=host">
+ArchiePlex at Imperial College London</A> in The United Kingdom
+
+<li>
+
+<A HREF="http://www.cs.mcgill.ca/cgi-bin/archieplex.pl/server=archie.cs.mcgill.ca">
+ArchiePlex at McGill University</A>
+in Canada.
+
+<li>
+
+<A HREF="http://s700.uminho.pt/cgi-bin/archieplex.pl">
+ArchiePlex at Universidade do Minho</A>
+in Portugal
+
+<li>
+
+<A HREF="http://archie.funet.fi/cgi-bin/archieplex.pl">
+ArchiePlex at FUNET</A> in Finland
+
+<LI>
+
+<A HREF="http://info.archlab.tuwien.ac.at/archieplex">
+ArchiePlex in Vienna</A> in Austria.
+
+<LI>
+
+<A HREF="http://www.tansu.com.au/cgi-bin/archieplexsimple.pl">
+ArchiePlex at Telecom Australia</A> in Australia.
+
+<li>
+<a href="http://www.lanet.lv/cgi-bin/archieplex">
+ArchiePlex at LANET</a> in Latvia.
+
+<li>
+
+<A HREF="http://hoohoo.ncsa.uiuc.edu/cgi-bin/AA">
+AA at NCSA</A> in the United States
+
+<li>
+
+<A HREF="http://www.gae.unican.es/cgi-bin/AA">
+AA at Universidad de Cantabria</a> in Spain
+
+<LI>
+
+<a href="http://www.uct.ac.za/archieform.html">ZA
+Archie Search</a> in South Africa
+
+<LI>
+
+ArchiePlex at <A href="/">NEXOR</a>, with configurations for
+several Archie servers:
+
+<ul>
+<li>
+
+<A
+HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.rutgers.edu">
+Rutgers University</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.uqam.ca">
+Quebec University</A>  
+
+<li>
+
+<A
+HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.unl.edu">
+University of Nebraska in Lincoln</a>
+
+<li>
+
+<A
+HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.ans.net">
+ANS</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.au">
+Australia
+</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.funet.fi">
+Finland
+</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.doc.ic.ac.uk">
+UK server at Imperial College
+</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.hensa.ac.uk">
+UK server at HENSA
+</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.ac.il">
+Israel
+</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.ncu.edu.tw">
+Taiwan
+</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.nz">
+New Zealand
+</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.unit.no">
+Norway
+</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.wide.ad.jp">
+Japan (WIDE)
+</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.kuis.kyoto-u.ac.jp">
+Japan
+</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.th-darmstadt.de">
+Germany
+</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.luth.se">
+Sweden
+</a>
+
+<li>
+
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=ds.internic.net">
+Internic
+</a>
+
+<LI>
+<A HREF="/public/archie/archieplex/cgi-bin/archieplex/server=archie.univ-rennes1.fr">
+France (Universit&eacute; de Rennes)
+</a>
+
+</ul>
+</ul>
+<hr>
+<ADDRESS>
+<A HREF="/users/mak/mak.html">
+Martijn Koster</A>
+</ADDRESS>
+</body>
+</html>

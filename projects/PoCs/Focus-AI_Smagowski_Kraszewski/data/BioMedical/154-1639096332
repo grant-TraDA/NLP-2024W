@@ -1,0 +1,69 @@
+<HTML><HEAD>
+<TITLE>YCMI Home Page</TITLE>
+</HEAD>
+
+<BODY>
+<IMG SRC="/images/ycmi-title.gif" ALT="YCMI - Yale Center for Medical Informatics">
+
+<P>Welcome to the Center for Medical Informatics at 
+<A HREF="http://www.yale.edu/">Yale University</A>'s
+<A HREF="http://info.med.yale.edu/">School of Medicine</A>.
+
+<DL COMPACT>
+  <DT><strong>Introduction</strong>
+    <UL>
+	 <LI><A HREF="/help.html">Help</A> on these Web pages
+	 <LI><A HREF="/medinf/introduction.html">Overview</A> of the YCMI
+	 <LI><A HREF="/medinf/people.html">People</A> at the Center
+    </UL>
+  <DT><strong>Postdoctoral Fellowship Program</strong>
+    <UL>
+	<LI><A HREF="/medinf/train_over.html">Overview</A> of the program
+	<LI><A HREF="/medinf/train_proj.html">Project</A> Examples
+	<LI><A HREF="/medinf/train_grad.html">Recent Graduates</A>
+   </UL>
+  <DT><strong>Projects</strong> with public Web components
+    <UL>
+	 <LI><A HREF="/chr12/Home.html">Chromosome 12 Genome Center</A>
+	 <LI><A HREF="/DD/Double_Digester.html">Double Digester</A>
+	 <LI><A HREF="/medinf/med.html">Medical Entities Dictionary (MED)</A>
+	 <LI><A HREF="/senselab/">SenseLab - Human Brain Project</A>
+    </UL>
+  <DT><strong>Computing &amp; Network Resources</strong> (local notes &amp; general interest)
+  <UL>
+    <LI><A HREF="/medinf/other-gen.html"><b>Yale & General</b></A>: -
+    <A HREF="/topics/yale.html">		Yale</A> -
+    <A HREF="/topics/gen-ref.html">		Regional</A> -
+    <A HREF="/topics/gen-ref.html#Dictionaries">Dictionaries</A> -
+    <A HREF="/topics/gen-ref.html#Reference">	Other Reference</A>
+<LI><A HREF="/medinf/other-biomed.html"><b>Biomedical</b></A>: -
+    <A HREF="/topics/biomed.html">		General</A> -
+    <A HREF="/topics/medical.html">		Medical</A> -
+    <A HREF="/topics/medinf.html">		Medical Informatics</A> -
+    <A HREF="/topics/molbio.html">		Molecular Biology</A>
+<LI><A HREF="/medinf/other-comp.html"><b>Computing</b></A>: -
+    <A HREF="/topics/comp-news.html">		News</A> -
+    <A HREF="/topics/comp-ref.html">		Ref</A> -
+    <A HREF="/topics/net-guides.html">		Guides</A> -
+    <A HREF="/topics/net-search.html">		Search</A> -
+    <A HREF="/topics/corp-prod.html">		Corp/Prod</A> -
+    <A HREF="/topics/orgs.html">		Orgs</A>
+    <BR>
+    <A HREF="/topics/other-topics.html">	Topics</A> -
+    <A HREF="/topics/database.html">		Database</A> - 
+    <A HREF="/topics/mac.html">			Mac</A> -
+    <A HREF="/topics/pc.html">			PC</A> -
+    <A HREF="/topics/unix.html">		Unix</A> -
+    <A HREF="/topics/web.html">			Web</A>
+
+  </UL>
+</DL>
+
+<HR>
+Last modified: 22 March 1995<BR>
+<B>Questions or Comments:</B>
+<EM>EMail:</EM> <A HREF="mailto:webmaster@paella.med.yale.edu">webmaster@paella.med.yale.edu</A>
+
+<BR><B>Acknowledgement:</B> This server runs on a SPARCstation 2 donated by Sun Microsystems, Inc.
+</BODY>
+</HTML>
