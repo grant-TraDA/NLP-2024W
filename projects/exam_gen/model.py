@@ -1,3 +1,4 @@
+import json
 from typing import List, Optional
 
 import pandas as pd
@@ -16,7 +17,14 @@ closed_question_answer_template = ChatPromptTemplate([
 ])
 
 answer_validation_template = ChatPromptTemplate([
-    ("system", "As a teacher, you are asked to validate the answer to the following question on a scale from 1 (completely incorrect) to 5 (excellent) The question is: {question}. The context is: {context}. Example correct answers with grade 5: {correct_answer}. Is this answer correct? Remember to output only the grade of the answer from 1 to 5 ONLY!"),
+    ("system", "As a teacher, you are asked to validate the answer to the following question on a scale from 1 (completely incorrect) to 5 (excellent) "
+               "The question is: {question}. "
+               "The context is: {context}. "
+               "Example correct answers with grade 5: {correct_answer}. "
+               "Is this answer correct? "
+               "You must output an answer in the form of a json object with a single key 'grade' and a value from 1 to 5. "
+               "DO NOT OUTPUT ANYTHING EXCEPT JSON OBJECTS."
+     ),
     ("user", "{answer}")
 ])
 
@@ -72,7 +80,10 @@ class OpenEndedQuestion(BaseModel):
 
         # parse the numeric score
         try:
-            grade = int(response)
+            grade = json.loads(response).get('grade', 0)
+            if grade is None or not isinstance(grade, int):
+                grade = 0
+
             if grade < 1 or grade > 5:
                 grade = 0
         except ValueError:
