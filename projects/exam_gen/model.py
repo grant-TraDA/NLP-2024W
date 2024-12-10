@@ -70,6 +70,19 @@ class OpenEndedQuestion(BaseModel):
 
         return questions
 
+    @classmethod
+    def from_dataframe_hotpotqa(cls, df: pd.DataFrame):
+        questions = []
+        for _, row in df.iterrows():
+            # row['answers']['text'] is typically a list of correct answers in SQuAD
+            questions.append(cls(
+                question=row['question'],
+                example_correct_answers=[row['answer']],
+                context=row['context_processed']
+            ))
+
+        return questions
+
     def generate_question_from_context(self, llm):
         messages = question_generation_template.format_messages(context=self.context)
         response = llm.invoke(messages)
@@ -180,6 +193,28 @@ class CloseEndedQuestion(BaseModel):
             # row['answers']['text'] is typically a list of correct answers in SQuAD
             questions.append(cls(
                 context=row['context']
+            ))
+
+        return questions
+
+    @classmethod
+    def from_dataframe_newsqa(cls, df: pd.DataFrame):
+        questions = []
+        for _, row in df.iterrows():
+            # row['answers']['text'] is typically a list of correct answers in SQuAD
+            questions.append(cls(
+                context=row['paragraph']
+            ))
+
+        return questions
+
+    @classmethod
+    def from_dataframe_hotpotqa(cls, df: pd.DataFrame):
+        questions = []
+        for _, row in df.iterrows():
+            # row['answers']['text'] is typically a list of correct answers in SQuAD
+            questions.append(cls(
+                context=row['context_processed']
             ))
 
         return questions
