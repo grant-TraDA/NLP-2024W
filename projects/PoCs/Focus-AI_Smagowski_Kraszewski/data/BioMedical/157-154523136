@@ -1,0 +1,85 @@
+<HTML>
+<HEAD>
+<TITLE>Yale Image Processing and Analysis Group Home Page</TITLE>
+<LINK REV="made" HREF="mailto:mceachen-john@cs.yale.edu">
+</HEAD>
+
+<BODY
+	BACKGROUND="/images/bg/rain.gif"
+	BGCOLOR="#C0C0FF"
+    TEXT="000000"
+    LINK="222222"
+    VLINK="444444">
+<PRE>
+<A HREF="/zubal/voxman.html"><IMG WIDTH=256 HEIGHT=256 SRC="/images/voxman.half.GIF"> <A HREF="/xship/endo_epi.html"><IMG WIDTH=256 HEIGHT=256 SRC="/images/eec-half.GIF"></A>
+</PRE>
+<HR>
+<H1>
+<A HREF="http://www.cs.yale.edu/HTML/YALE/Seal.html">
+<IMG SRC=/images/crest_small.gif WIDTH=68 HEIGHT=78 ></A>
+Image Processing and Analysis Group</H1> <P>
+<H2>Departments of Diagnostic Radiology and Electrical Engineering<BR>
+Yale School of Medicine</H2> <BR>
+
+
+<HR>
+<DL>
+<dd><img width=14 height=14
+	 alt="o" src="/images/redball.gif"> <A HREF="/people.html">Lab Personnel</A>
+<dd><img width=14 height=14
+	 alt="o" src="/images/purpleball.gif"> Descriptive <A HREF="/proj/proj.html">Summaries</A> of Active Research
+<dd><img width=14 height=14
+	 alt="o" src="/images/blueball.gif"> On-Line <A HREF="/pubs.html">Publications</A> (Not just Latex documents anymore...)
+<dd><img width=14 height=14
+	 alt="o" src="/images/yellowball.gif"> Visual <A HREF="/examples.html">Examples</A> of Current Research
+<dd><img width=14 height=14
+	 alt="o" src="/images/mauveball.gif"> Multimedia <A HREF="/demos/demos.html">Demos</A> (including VRML!)
+<dd><img width=14 height=14
+	 alt="o" src="/images/orangeball.gif"> <A HREF="/cross.ref.html">Cross-References</A> to related WWW servers
+<dd><img width=14 height=14
+	 alt="o" src="/images/greenball.gif"> <A HREF="/whats.new.html">What's new...</A>
+<dd><img width=14 height=14
+	 alt="o" src="/images/ltblueball.gif"> <A HREF="/coffee/coffee.html">The Coffee Club</A> (Members Only)
+<p>
+<dd><img width=14 height=14
+	 alt="o" src="/images/whiteball.gif"> Info on <A HREF="http://everest.radiology.uiowa.edu/spie/phspie96.html">SPIE Medical Imaging '96</A>.
+<dd><img width=14 height=14
+	 alt="o" src="/images/whiteball.gif"> Info on <A HREF="/mmmi/">
+IEEE Workshop on Mathematical Methods in Biomedical Image Analysis</A>.<p>
+<dd><img width=14 height=14
+	 alt="o" src="/images/whiteball.gif"> Info on <A HREF="/ipmi97">
+Information Processing in Medical Imaging (IPMI) '97</A>.
+
+</dl>
+
+
+<HR> <P>
+
+<h2><a href="/comment.html">General comments or feedback?</a></h2> 
+
+The content and operations of this server are supported in large part
+by 
+<A HREF="http://www.nih.gov/">NIH</A> grant R01HL44803 from the 
+<A HREF="gopher://gopher.nhlbi.nih.gov/1">
+National Heart, Lung, and Blood Institute</A>. <br>
+Questions regarding the content of this server should be directed to the 
+<A HREF="/duncan/profile.html">group director</A>. <br>
+
+Questions or bug reports regarding this interface should go to
+<CODE>mceachen@noodle.med.yale.edu</CODE>. <br>
+<i>Yale IPAG logo by 
+<a href="mailto:curwen@balltown.cma.com">
+Rupert Curwen.</a></i><p>
+
+You may also call us at <a href="http://www.cs.yale.edu/cgi-bin/saynumber.au?1-203-785-2427">1-203-785-2427</a> or send us a fax at 
+<a href="http://www.cs.yale.edu/cgi-bin/saynumber.au?1-203-737-4273">
+1-203-737-4273</a>.<p>
+
+<HR>
+<A HREF="http://www.cs.yale.edu">Yale Home Page</A>,
+<a href="mailto:mceachen@noodle.med.yale.edu">
+<EM>mceachen@noodle.med.yale.edu</EM>
+</a>
+</BODY>
+</HTML>
+

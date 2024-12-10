@@ -1,0 +1,237 @@
+<TITLE>University of Minnesota Medical School</TITLE>
+<IMG SRC = "Images/colorwdm.gif"><BR>
+<H1>Computational Biology Centers</H1>
+<H1>Medical School</H1>
+<a href="sticknew.gif"><IMG align=bottom SRC="sticknew.small.gif"> </a>
+
+<HR>
+<p>
+<h4>Copyright © 1994, 1995 The Regents of the University of Minnesota</h4>
+This server is under virtually continuous development, and has not yet
+formally been made public.  There is nothing in here that we presently
+consider finished, and several of the sections are very much in the 
+"proof of concept" stage.  All textual, image and software material associated
+with this server which is original to this site is to be considered 
+copyrighted, at least by the Regents of the University of Minnesota, and, 
+in some cases, by other entities.
+<P>
+<ADDRESS>Ernie Retzel</ADDRESS>
+<ADDRESS>ernest@lenti.med.umn.edu</ADDRESS>
+<HR>
+
+<P>
+<img src ="red.line.gif"><p>
+<H1>Research Projects</H1>
+<img src ="red.line.gif"><p>
+
+<p>
+<dd>
+<a href="MSU.arab/arab_top_page.html">
+<IMG align=top SRC="cs-907.small.gif">
+</a>
+
+<DL> 
+<dt><h2> <a href="MSU.arab/arab_top_page.html">Arabidopsis 
+cDNA Sequence Analysis Project</A>
+</h2>
+
+<dd>The <i>Arabidopsis</i> cDNA Sequence Analysis Project is a joint effort
+between the University of Minnesota's Plant Molecular Informatics Center
+(PMIC) and Michigan State University, and it is
+funded by the National Science Foundation, under grants
+BIR 940-2380 and BIR 931-3751.
+This project combines both software and database development, seeking to
+provide alternative views into analyzed data.
+<HR>
+
+<dt><h2> Additional cDNA Sequence Analysis
+Projects at the Plant Molecular Informatics Center:</h2
+>
+<h3> Rice, Corn, Pine and Others</h3>
+
+<P>
+In addition to the work with <i>Arapidopsis</i>, other cDNA analysis projects have been undertaken by PMIC to transfer
+<a href="general_cdna/general_top.html">sequence analysis tools</a> developed
+for
+<i>Arabidopsis</i> to other plants:
+
+<P>
+<UL>
+<LI>The <a href="Rice/top.html"> Rice cDNA Project
+</a>
+at the Rice Genome Research Program at STAFF Institute in Tsukuba, Japan;
+
+<LI>The <a href="AZ.corn/top.html"> Corn cDNA Project
+</a>
+at the University of Arizona;
+
+<LI>The <a href="Loblolly/top.html"> Loblolly Pine cDNA Project
+</a>
+at the Institute of Forest Genetics, USDA Pacific Southwest Research
+Station of the Forest Service; and
+
+<LI>A sequencing project for an anonymous client.
+
+</UL>
+
+<P>
+We are grateful for the cooperation of
+Carolyn Tolstoshev and Mark Boguski of NCBI's dbEST; their assistance and
+encouragement in this work has been invaluable and appreciated.
+
+<P>
+You may be interested in finding out about having PMIC process your sequences.
+(UNDER CONSTRUCTION. A link will be put in shortly.)
+<P>
+Note:  We have also applied these tools to other organisms, as seen in the
+<a href="zebrafish/zfish_top_page.html">
+Zebrafish Project.
+</a>
+<HR>
+
+<a href="http://alces.med.umn.edu/start.html">
+<IMG align=top SRC="moose3.gif">
+</a>
+
+<dt><h2><a href="http://alces.med.umn.edu/start.html">Alces Server</A></h2>
+
+<dd>Home of the <a href="http://alces.med.umn.edu/VGC.html">
+Virtual Genome Center </a> with
+   information about <a href="http://alces.med.umn.edu/Candida.html"><i>Candida albicans</i> molecular biology</a>.
+<HR>
+
+<dt><a href="http://www.cs.umn.edu/neural/index.html">
+<IMG align=top SRC="NEURON_BRAIN/zBRAIN3.gif">
+
+<dt><h2><a href="http://www.cs.umn.edu/neural/index.html">Neuroscience 
+Database Program</A></h2>
+
+<dd>The main goal of this research is to provide an
+interdisciplinary environment that facilitates development of a
+zoomable database of brain structure and function.
+
+</dl>
+<HR>
+
+
+<P>
+<img src ="red.line.gif"></a><p>
+<H1>Virtual Library </H1>
+<img src ="red.line.gif"></a><p>
+
+<dl>
+<dt><h2>The PCR <I>In Situ</I></h2>
+<dd>
+While the polymerase chain reaction provides an extremely powerful tool
+for the analysis of populations of cells, the PCR <I>In Situ</I> extends this 
+technology to the single cell level.  In part due to the newness of the
+technique, and in part to respond to demand for detailed information, 
+pre-prints of articles and in-press book chapters, as well as a cookbook of protocols,
+have been made <a href="insitu_pcr/top_page.html">available</a>.
+
+<HR>
+<dt><h2>Research Papers</h2>
+<dd>
+The Computational Biology Centers has converted several of its
+<a href="research_papers.html">research papers</a> into a format for WWW
+browsing.
+<p>
+<HR>
+
+<dd>
+<a href="recombinant_dna/recombinant_flowchart.html">
+<IMG align=top SRC="book2.gif">
+</a>
+
+<dt><h2>The Hidden Layers: A Fluid Molecular Biology Didactic Platform</h2>
+<dd>
+Teaching a course on state of the art molecular biology is challenging
+as the underlying technologies advance faster than print support media can
+accomodate.  In addition, the essential computational tools are generally
+ignored as the difficulty of supporting multiple platforms and capacities
+are virtually insurmountable.  This project 
+<a href="recombinant_dna/recombinant_flowchart.html">(A Recombinant DNA 
+Technology Course)</A> seeks to remove the barriers
+by using net-based resources [Mosaic], desktop publishing technologies,
+client-server computing, device-independent graphics and imaging and
+an array of computational tools operating on remote servers.
+<HR>
+
+<dt><H2>Web page creation</H2>
+<dd>
+A set of pages containing <A Href = "/~hansen/www.class.html">
+information</A> and tips, such as design
+considerations, for new web authors.
+Originally written for the Bio-Medical Library's Beginning WWW class.
+<HR>
+
+<dt><h2>On-line Software Documentation</h2>
+Software documentation for several molecular biology programs and
+packages have been put on-line: 
+
+<ul>
+<li>The <a href="doc/staden/staden-94.2.html">Staden Software Suite Manual</a>, for sequence analysis and
+manipulation.
+<li>An unofficial <a href="MolBio_man/MolBio_man.html">GCG Software Guide</a>.
+<li><a href="zuker/mfold.html">Zuker's Mfold Manual</a>, for prediction of RNA Secondary Structure.
+<li>The <a href="doc/osp/intr2.html">Oligo Selection Program</a>, an aid in selecting oligonucleotide primers
+for DNA sequencing an PCR.
+<li><a href="http://xplor.csb.yale.edu">X-PLOR</a>, used to determine molecular structure by X-ray
+crystallography and solution nuclear magnetic resonance spectroscopy.
+<li><a href="/software/server_software.html>Other documentation</a>, useful for
+making Web server pages.
+</ul>
+
+<HR>
+
+<dt><h2>Additional Medical School Resources</h2>
+<dd>
+<a href="gopher://lenti.med.umn.edu/11/biomed"><IMG align=top SRC="xgopher.gif">
+The Bio-Medical Library Gopher Information System
+</a>
+</dl>
+<P>
+
+<dt>
+<dd>
+<a href="http://lenti.med.umn.edu/~ihg/index.html"><IMG align=top SRC="http://lenti.med.umn.edu/~ihg/Images/chem.model.GIF">
+The Institute of Human Genetics</a>, Medical School
+</dl>
+<dd>
+
+<dt>
+<dd>
+<a href="~valeriya/top.html"><IMG align=top SRC="bipl.gif">The Biomedical 
+Imaging and Processing Lab</a>
+</dl>
+
+<dt><ul>
+<li>
+Home of the <a href="linkage/linkage.html"> Genetic Linkage
+Analysis</a> Information Guide.  This locally created summary points to frequently asked
+questions (FAQs) and information sources, such as databases, software
+and newsletters, pertaining to linkage analysis.
+</ul></li>
+
+<HR>
+<P>
+<img src ="red.line.gif"></a><p>
+<H1>Other Interesting Points </H1>
+<img src ="red.line.gif"></a><p>
+
+<p>
+<dl>
+<li><a href="other_sites.html">Useful sites</a> on the WWW, 
+including internet information and navigation, bio-resource and bio-research 
+servers, and high performance computer servers.
+<li>The <a href =
+"http://lenti.med.umn.edu/usage/list.html">usage statistics</a>
+for this server.
+</dl>
+
+<HR>
+This server is brought to you by <A NAME=10
+HREF="personnel/uofm_personnel.html">the members</A> of the
+University of Minnesota Medical School Computational Biology Centers.
+
+<HR>
