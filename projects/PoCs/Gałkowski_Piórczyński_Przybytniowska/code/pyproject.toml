@@ -1,0 +1,5 @@
+[tool.ruff]
+line-length = 90
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
