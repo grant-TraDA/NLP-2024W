@@ -1,0 +1,12 @@
+{
+    "participants": ["Dorota Sikorska", "Adam Czerwo\u00c5\u0084ski"],
+    "conversations": [
+    {
+      "start_timestamp_ms": 1695889826307,
+      "end_timestamp_ms": 1695889837189,
+      "Dorota Sikorska": "Hej",
+      "Dorota Sikorska_translated": "Hi",
+      "Adam Czerwo\u00c5\u0084ski": "Hej",
+      "Adam Czerwo\u00c5\u0084ski_translated": "Hi"
+    }]
+    }

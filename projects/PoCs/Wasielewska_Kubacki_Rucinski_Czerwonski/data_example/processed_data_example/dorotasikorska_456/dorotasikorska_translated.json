@@ -1,0 +1,23 @@
+{
+    "participants": [
+      {
+        "name": "Dorota Sikorska"
+      },
+      {
+        "name": "Adam Czerwo\u00c5\u0084ski"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Dorota Sikorska",
+        "timestamp_ms": 1695889837189,
+        "content": "Hej",
+        "content_translated": "Hi"
+      },
+      {
+        "sender_name": "Adam Czerwo\u00c5\u0084ski",
+        "timestamp_ms": 1695889826307,
+        "content": "Hej",
+        "content_translated": "Hi"
+      }]
+      }
