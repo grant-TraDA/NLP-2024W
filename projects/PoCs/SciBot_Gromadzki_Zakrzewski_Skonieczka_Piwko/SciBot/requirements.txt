@@ -1,0 +1,10 @@
+streamlit
+streamlit_chat
+tqdm
+transformers
+langchain_community
+langchain_ollama
+langchain
+langchain-cpu
+InstructorEmbedding
+sentence-transformers==2.2.2
