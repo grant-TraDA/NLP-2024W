@@ -1,0 +1,13 @@
+openai
+
+PyMuPDF
+nltk
+tqdm
+
+sentence_transformers
+chromadb
+spacy
+cupy-cuda12x
+torch
+
+flask
