@@ -2,5 +2,5 @@ This project is an interactive research assistant that allows users to query mul
 
 To run the code:
 - install pytorch with cuda
-- install required packages: ```pip install -r requirements```
+- install required packages: ```pip install -r requirements.txt```
 - run ```demo.py``` notebook
