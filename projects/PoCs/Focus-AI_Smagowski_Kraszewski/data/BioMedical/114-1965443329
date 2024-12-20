@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>Serveur WWW de l'Ircam</title>
+</head>
+
+<body bgcolor="#ffffff">
+<IMG align=top src="images/logo.gif" alt="Ircam - Centre Georges-Pompidou">
+<hr>
+<H1>Institut de Recherche et Coordination Acoustique/Musique</H1>
+
+<IMG align=middle src="images/ircam.gif" alt="Adresse:"> 1 Place Igor-Stravinsky, 75004
+Paris (France)
+
+<hr>
+<i>(<a href="index-e.html">English version</a>)</i><br>
+<a name="rubriques"><b>Vous avez acc&egrave;s aux rubriques suivantes:</b></a>
+<ul>
+<li> <A HREF="/accueil/visite.html">Visite de l'Ircam</a>
+<li> <A HREF= "/accueil/concerts.html">La musique</a>
+<li> <a href="/accueil/r-et-d.html">La recherche et le d&eacute;veloppement</a>
+<li> <a href = "/accueil/logiciels.html">Les logiciels et le Forum</a>
+<li> <A HREF = "/equipes/pedago.html">Les cours et formations</a>
+<li> <A HREF = "/biblio/index.html"> La biblioth&egrave;que</a>
+<li> <A HREF = "/produits/editions/publications.html">Les produits
+&eacute;ditoriaux</a>
+<li> <a href="divers/index.html">Informations et services divers</a>
+<li> <a href="interne/index.html">Rubriques internes</a>
+</ul>
+Actualit&eacute;s:
+<UL> 
+<li>Présentations de <A href="/actualites/icmc.html">l'IRCAM à l'ICMC </A> BANFF au Canada</LI>
+<li>Ouverture du <a href="http://www.ircam.fr/equipes/comite.html"> Comité de lecture 1995</A>
+</UL>
+Organismes et activit&eacute;s connexes:
+<ul>
+<li><a href="eic/index.html">Ensemble InterContemporain</a>
+<li><a href="http://www.cnac-gp.fr">Centre national d'art et de culture
+Georges Pompidou</a>
+<li><a href="cdmc/index.html">Centre de documentation de la musique
+contemporaine</a>
+<li><a href="IPMC/index.html">Institut de pédagogie musicale et chorégraphique</a>
+<li><a href="http://www.bpi.fr">Bibliothèque publique d'information</A> (BPI)
+<li><a href="http://www.culture.fr">Minist&egrave;re de la Culture</a>
+</ul>
+Dans le cadre des actions du Centre Pompidou et de l'Ircam dans
+les domaines de l'exclusion et de la solidarit&eacute;:
+<ul>
+<li><a href=solidarites/sida/index.html>Sida et VIH - manifestations,
+informations et ressources</a>
+</ul>
+<h5>En cas de probl&egrave;me avec ce service, envoyez un courrier
+&eacute;lectronique &agrave; <a href="mailto:webmaster@ircam.fr">webmaster@ircam.fr</a>,
+d&eacute;taillant ce qui est arriv&eacute; et
+fournissant les messages d'erreur le plus fid&egrave;lement possible.
+Merci!</h5>
+<P><i><a href="http://www.ircam.fr/">Retour &agrave; la page d'accueil de l'Ircam</a></i><br><h5>Page mise &agrave; jour le / page updated on: Mar 29 Aug 19:02:29 MET 1995 &#169; IRCAM </h5> <!-- 809715749 -->
+</body>
+</html>

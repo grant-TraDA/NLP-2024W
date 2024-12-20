@@ -1,0 +1,131 @@
+<TITLE>Medical Informatics Home Page</TITLE>
+<!-- Changed by: Marijn van der Velde, 16-Aug-1995 -->
+<A HREF="../gvutop.html"><IMG SRC="../images/gvu_logo.gif"></A>
+<H1>Medical Informatics Research Group</H1>
+<HR>
+
+<A HREF="./images/welcome.gif">
+<IMG SRC = "./images/welcome_icon.gif"></A><P>
+
+Medical Informatics is a rapidly emerging and increasingly important 
+discipline aimed at exploring ways in which computer science methods 
+and techniques can contribute to, and benefit from, problems in 
+medicine and biomedicine.  The emphasis of our research group is on 
+graphics, visualization, animation, computer vision and knowledge based
+methods to model, simulate, analyze and visualize biomedical processes
+and structures.<P>
+
+The Medical Informatics Group is a part of Georgia Tech's 
+<A HREF="../gvutop.html">
+<EM>Graphics, Visualization, and Usability Center</em></a>. 
+
+<HR>
+
+<H1>Current Research Projects</H1> 
+
+<UL>
+
+<!- Automated Segmentation (BLEED)  -!>
+
+<LI>
+<A HREF="./mpeg/basic_bleed_movie.mpeg">
+<IMG  SRC="./images/basic_vessels.icn.gif"></A>
+<A HREF="./research/bleed.html">
+<B>Segmentation of Angiographic Images</B></A><P>
+
+<!- PERFEX -!>
+
+<LI>
+<IMG  SRC="./images/perfex.icn.gif"> 
+<A HREF="./research/perfex.html">
+<B>PERFEX-Knowledge Based Interpretation of Myocardial SPECT Imagery
+</B><P></A>
+
+<!- Determination of Ideal Short Axis slices of the Heart Automatically -!>
+
+<LI>
+<IMG  SRC="./images/disha.icn.gif"> 
+<A HREF="./research/disha.html">
+<B>Automatic Determination of the Orientation of the Heart</B>
+<P></A>
+
+<!-  Vis of Mult mod cart image -!>
+<LI>
+<IMG  SRC="./images/vmci1.icn.gif">
+<A HREF="./research/vmci.html">
+<B>Visualization of Multi-modality Cardiac Imagery</B>
+<P></A>
+
+<!- Surgery Sim -!>
+<LI>
+<A HREF="./mpeg/surgery_fly_thru.mpg">
+<IMG SRC="../medical_informatics/images/surgery.icn.gif"></A> 
+<A HREF="./research/surg_sim.html">
+<B>Interactively Deformable Models for Surgery Simulation</B>
+<P></A>
+
+<!- HeartVis -!>
+<LI>
+<IMG SRC="./images/hvisImgDir/hvisIcn.gif">
+<A HREF="./research/hvis.html">
+<B>An Intelligent User Interface for Multidimensional
+MR Imagery Visualisation</B>
+<P></A>
+
+</UL>
+
+<HR>
+
+<H1>Group Members</H1>
+<H2>Faculty:</H2><UL>
+<LI><A HREF="../people/Faculty/Norberto.F.Ezquerra.html">
+Norberto F. Ezquerra</A>
+<LI><A HREF="../people/Faculty/Levien.de.Braal/">
+Levien de Braal</A>
+</UL><P>
+
+<H2>Ph.D. Students:</H2><UL>
+<LI><A HREF="../people/Phd/Rakesh.Mullick.html"> Rakesh Mullick</A>
+<LI><A HREF="Yves.Darly.Jean.html">Yves D. Jean</A>
+<LI><A HREF="../people/Phd/James.F.OBrien.html">James F. O'Brien</A>
+<LI><A HREF="../people/Phd/Jeremy.M.Heiner.html">Jeremy M. Heiner</A>
+<LI>Steve K. Capell
+</UL><P>
+
+<H2>M.S. Students:</H2><UL>
+<LI>Sharon M. Davis
+<LI><A href="../people/Masters/Vipul.Gupta.html">Vipul Gupta</a>
+<LI><A href="../people/Masters/Alex.van.Dam.html">Alex van Dam</a>
+</UL><P>
+
+<HR>
+<H2>Contact information:</H2>
+
+<B>S-mail:</B>
+<ADDRESS>Prof. N. Ezquerra</address>
+<ADDRESS>Medical Informatics Group</ADDRESS>
+<ADDRESS>Graphics, Visualization & Usability Center</ADDRESS>
+<ADDRESS>College of Computing</ADDRESS>
+<ADDRESS>Georgia Institute of Technology</ADDRESS>
+<ADDRESS>Atlanta, GA  30332-0280</ADDRESS>
+<B>E-mail :</B>
+
+<ADDRESS>Please address individual group members, or send 
+general inquiries to</ADDRESS>
+<A HREF="../people/Faculty/Norberto.F.Ezquerra.html">
+<ADDRESS>norberto@cc.gatech.edu</ADDRESS></A>
+<P>
+Or make use of our 
+<A HREF=
+  "/cgi-bin/send_mail?001./gvu/medical_informatics/medinfo_home_page.html">
+comment box</a>.
+
+<H2> </H2><HR>
+<ADDRESS><A HREF="../people/Phd/James.F.OBrien.html">James F. O'Brien</A>
+</ADDRESS>
+<ADDRESS>Graphics, Visualization and Usability Center</ADDRESS>
+<ADDRESS>Georgia Institute of Technology</ADDRESS>
+<ADDRESS>obrienj@cc.gatech.edu</ADDRESS>
+<hr>
+<H5>Last updated on Aug 22 06:02 by James F. O'Brien
+(<A HREF=mailto:obrienj@cc.gatech.edu>obrienj@cc.gatech.edu</a>)</H6>

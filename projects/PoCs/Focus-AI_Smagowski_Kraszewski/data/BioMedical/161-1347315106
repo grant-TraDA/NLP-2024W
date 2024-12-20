@@ -1,0 +1,87 @@
+<HTML>
+  <HEAD>
+  <!--HEADER-->
+  <!--created	9/8/94-->
+  <!--updated	11/7/95-->
+  <!--review	11/7/96-->
+  <!--team	Faculty Of Veterinary medicine-->
+  <!--staff	Ian Stuart-->
+  <!--email	Dick.Vet@ed.ac.uk-->
+  <!--END-->
+
+  <TITLE>
+    The Royal (Dick) School of Veterinary Studies
+  </TITLE>
+  </HEAD>
+
+  <BODY>
+    <IMG SRC="biglogo.gif" ALT="[The big picture]" >
+    </IMG>
+    <H1>
+      Faculty of Veterinary Medicine
+    </H1>
+  
+    <HR>
+
+    <P>
+      Welcome to the Dick Vet Web, the first veterinary web server in the <A HREF="http://www.echo.lu/">European Union</A>.   The R(D)SVS is the oldest veterinary school in Scotland and one of six veterinary schools in the UK.  It was founded in 1823 by William Dick, and joined The <A HREF="http://www.ed.ac.uk/">University of Edinburgh</A> in 1951.
+    </P>
+
+    <P>
+      The areas currently covered on the Dick Vet Web are:
+    </P>
+
+    <UL>
+      <LI>A brief History of the School.
+      <LI>The Life and Work of <A HREF = "willdick.html">William Dick</A>, the founder of the school.
+      <LI>The Faculty, its locations and facilities.
+      <LI>Current, and future, plans of the Faculty.
+      <LI>Four Departments of the Faculty:
+        <UL>
+          <LI>Preclinical Veterinary Sciences.
+          <LI><A HREF = /ctvm/>Tropical Animal Health</A> (also known as the Centre for Tropical Veterinary Medicine).
+          <LI>Veterinary Clinical Studies.
+          <LI><A HREF = "/vpath/">Veterinary Pathology</A>.
+        </UL>
+      <LI>Admissions information:
+        <UL>
+          <LI>Undergraduate.
+          <LI>Postgraduate.
+        </UL>
+      <LI>Veterinary Students Council.
+      <LI>VetAid.
+      <LI><A HREF=http://clive.ed.ac.uk/clive.html>Computer-aided Learning In Veterinary Education</A> (CLIVE).
+      <LI><A HREF=journals/>Electronic periodicals</A>, the <A HREF=/tol/>Taxonomic Heirarchy</A> and <A HREF=/intrest/>other publications</A> produced by the Dick Vet.
+      <LI>Our <A HREF = "/nexus/ext_links.html">Nexus of links</A> to veterinary, medical and general interest services.
+    </UL>
+
+    <!--FOOTER-->
+    <HR>
+    <pre>
+      Published by: The Royal (Dick) School of Veterinary Studies
+      Last updated: 11th July, 1995
+    </PRE>
+
+    <UL> 
+    
+      <HR>
+
+      <IMG SRC = /home.gif ALIGN = middle ALT = "[<]" align=center>
+        <A HREF = /> Dick Vet Home Page </A> <BR>
+      <IMG SRC = /say.gif ALIGN = middle ALT = "[c]" align=center>
+        <A HREF = mailto:dick.vet@ed.ac.uk> Comment on this service</A><BR>
+      <IMG SRC = /phone.gif ALIGN = middle ALT = "[?]" align=center>
+        <A HREF = http://www.ed.ac.uk/cgi-bin/phones>Search Staff Phone Directory</A> <BR>
+      <IMG SRC = /book.gif ALIGN = middle ALT = "[?]" align=center>
+        <A HREF = http://www.ed.ac.uk/cgi-bin/email>Search Staff Email Directory</A> <BR>
+      <IMG SRC = /book.gif ALIGN = middle ALT = "[?]" align=center>
+        <A HREF = "http://www.ed.ac.uk/cgi-bin-private/smsmail">Search Student Email Directory</A> (University of Edinburgh only)<BR>
+      <HR> 
+    </UL>
+    <!--END-->
+
+  </BODY>
+
+</HTML>
+
+
