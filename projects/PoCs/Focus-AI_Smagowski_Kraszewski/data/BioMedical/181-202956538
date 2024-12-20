@@ -1,0 +1,156 @@
+<HTML>
+<TITLE>UIUC College of Medicine</TITLE>
+
+
+<H2><CENTER>Welcome to The University of Illinois College of Medicine at
+Urbana-Champaign</CENTER></H2>
+<A Name = "top"></A>
+
+<IMG Align = LEFT  SRC="comseal3.gif">
+This server includes information about the College of Medicine at
+Urbana-Champaign.  It includes our Gopher files, and also a Pathology
+Atlas developed here for our medical students.  We also have links to
+other biomedical information servers on the Web as well as a few odds
+and ends which may be interesting.
+
+<P>
+This server is running on a Macintosh using WebSTAR and is under
+continuous development. (Last revised 9-5-95)
+If you have any comments or ideas about this server, please email Dr.
+Allan Levy  (a-levy@uiuc.edu). 
+<H4>Better yet, submit your comment right from this form. <A Href =
+"#commentor"> Click here.</A></H4>
+<P><PRE>   </PRE>
+<H2>Internet  Teaching from Urbana</H2>
+From our teaching collection: <A HREF ="PathAtlasf/titlePage.html">
+URBANA ATLAS OF PATHOLOGY</A><BR>
+(updated July 21, 1995)
+<BR>
+
+<H2> About Our Medical School</H2><P>
+<A HREF ="colmedf/colmed.html">About the College of Medicine at Urbana-Champaign</A>
+<P>
+<A HREF="colmedf/MSP/MSP_cont.html">
+<IMG Align=center SRC="colmedf/minimsp.gif">About the Medical Scholars
+Program</A>
+<P>
+
+
+
+
+<A HREF = "/Yonkers.html">Other Instructional Sites of the College
+</A>
+<P>
+
+<BR>
+<A HREF = "gopher://gopher.uic.edu">UI at Chicago Gopher</A>
+<HR>
+<H2> Medical Curriculum - Learning Around the World</H2>
+Just a few of the thousands of medical resources will be listed here.
+ We will try to rotate the list to provide a changing and interesting
+selection.
+
+<UL>
+<LI><A HREF = "bas.html">Selected medical resources </A> organized by
+discipline
+<P>
+<LI><A Href = "http://text.nlm.nih.gov">Clinical Practice Guidelines</A> from AHCPR
+<LI>University of Iowa <A HREF =
+"http://indy.radiology.uiowa.edu/VirtualChildHosp/VCHHomePage.html"
+>Virtual Children's Hospital</A>
+<LI>From the Brigham and Women's Hospital <A HREF=
+"http://count51.med.harvard.edu/AANLIB/home.html">ATLAS OF CNS
+PATHOLOGY </A>
+
+<LI>The Internet Pathology Lab from the University of Utah  <A HREF =
+"http://www-medlib.med.utah.edu/WebPath/webpath.html">WebPath </A>
+<LI>Students are often the best instructors.  Here is a
+student-compiled <A HREF =
+"http://www.tiac.net/users/jtward/index.html">Multimedia Medical
+Reference Library</A> that is really great!
+</UL>
+
+
+
+<H2>Other  Medicine-Related Web Sites and News Groups</H2>
+<P>
+<A HREF = "http://www.nih.gov/"> The National Institutes of
+Health</A>
+<BR>
+<A HREF = "http://www.nlm.nih.gov/"> The National Library of
+Medicine</A>
+<BR>
+<A HREF = /"http://stis.nsf.gov/"> The National Science
+Foundation</A> 
+<BR>
+<A HREF="http://www2.umdnj.edu/~ama/ama.html">American Medical
+Association -
+Medical Student Section</A>
+<BR>
+<A HREF="/http://biomed.nus.sg/Cancer/welcome.html"> CancerNet</A>
+<BR>
+<A HREF = "/Medical.Indices.html"> Other Biomedical Resources</A>
+<BR>
+<A HREF =  "news:uiuc.announce"> UIUC Announce Newsgroup</A>
+<BR>
+<A HREF= "news:bit.listserv.mdphd-l"> MD-PhD Discusssion
+Newsgroup</A>
+<BR>
+<A HREF="news:sci.bio.technology> Biotechnology Newsgroup</A>
+<BR>
+<A HREF= "news:sci.med.informatics"> Medical Informatics
+Newsgroup</A>
+<HR>
+
+<HR><H2>Some Other Interesting Servers</H2>
+<A HREF = "http://www.ncsa.uiuc.edu">NCSA Home Page</A>
+<BR>
+<A HREF ="http://www.oslonett.no/html/bdgtti/bdgtti-intro.html">Big
+Dummies
+Guide to the Internet</A>
+<BR>
+<A HREF
+="http://slacvx.slac.stanford.edu:80/misc/internet-services.html">Internet
+Services List</A>
+<BR>
+
+<A HREF ="http://www.mit.edu:8001/usa.html"> Current US Weather
+Map</A>
+<P>
+<A HREF ="http://zia.geog.buffalo.edu/whereami?me">Where am I?</A>
+University of New York at Buffalo Geographic Information & Analysis
+Laboratory uses your IP address and plots you on a map of the US.
+<P>
+<A Name ="commentor"> </A>
+<P>
+<H3><Center><BLINK>We would like your
+comments!</CENTER></BLINK></H3>We certainly would like to hear from
+you.  We want to know how me can make the information from our school
+more useful for you. Is is useful at all?  What features should we
+try to add?  Please let us know.<P>
+(Note that you will be able to fill out this form only if your
+browser supports forms.  Several such browsers are available without
+charge.  One is 
+ <a
+href=http://www.ncsa.uiuc.edu/SDG/Software/MacMosaic/MacMosaicHome.html>Mosaic</a>
+version 2.0 and above.  Another is <A
+HREF="http://mosaic.mcom.com/info/how-to-get-it.html">Netscape.</A>)
+<HR>
+
+<FORM METHOD = GET  ACTION = "form2.exe">
+<H2> Please enter your comment below</H2>
+<P>
+<TextAREA Name = "comments" ROWS = 10 COLS = 60></TEXTAREA><P>
+Your email address (optional, of course). <TextAREA Name = "email"
+ROWS=1 COLS=60></TEXTAREA>
+<P>
+Your mailing address and or phone/fax, if you wish
+<TextAREA Name = "address" Rows = 7 COLS = 60></TextAREA>
+
+<P>To submit your comments, press this button: <INPUT TYPE=submit
+VALUE="Submit">. <P>To clear the form, press this button: <INPUT
+TYPE=reset VALUE="Clear Form">.<p><h3>Thanks for helping us by taking
+the time to comment. </h3></FORM><HR>
+<A HREF = "#top">Click to go back to top of page.</A>
+</BODY>
+</HTML>

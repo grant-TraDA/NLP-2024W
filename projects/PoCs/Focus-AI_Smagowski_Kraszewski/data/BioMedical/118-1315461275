@@ -1,0 +1,145 @@
+<TITLE>Australian National University Bioinformatics</TITLE>
+<H1>
+<iMG SRC="http://life.anu.edu.au/icons/icon.gif">
+ANU Bioinformatics 
+Hypermedia Service
+</H1>
+
+<A HREF="http://life.anu.edu.au/anubf.html">
+ANU's Bioinformatics Facility </A>
+provides hypermedia information on the Internet 
+under a number of themes: <P>
+<HR>
+<B>NOTICES</B>: 
+<i>Volume 1 of 
+<A HREF="http://www.csu.edu.au/ci/ci.html">Complexity International</A>, 
+a hypermedia journal on complex systems research, 
+is now available via this server</I>.<p>
+<iMG src="/people/awesley/project/tiny.gif">
+Interactive species location map of Tasmania - PROTOTYPE<P>
+<HR>
+<A HREF="http://life.anu.edu.au/molecular/software/rapd.html"> RAPDistance package (Randomly Amplified Polymorphic DNA)</A><br>
+for determining similarities between DNA samples using the presence or absence of shared segments.
+
+<HR>
+<UL>
+<LI> <A HREF="http://www.csu.edu.au/biodiversity.html">
+<B>Biodiversity</A></B>, 
+<LI> <A HREF="gopher://life.anu.edu.au:70/1/bioinformation">
+<B>Bioinformation</B></A>,
+including standards, data exchange protocols, 
+introductory summaries (FAQs), etc ;
+<LI> <A HREF="gopher://life.anu.edu.au:70/1/biomathematics">
+<B>Biomathematics</B></A>,
+including statistics;
+<LI> <A HREF="http://cvs.anu.edu.au/">
+<B>ANU Centre for Visual Sciences</B> </A>
+<LI> <A HREF="http://www.csu.edu.au/./complex_systems/complex.html">
+<B>Complex systems</B></A> covers all aspects of artificial life, 
+chaos, fractals, non-linear dynamics, neural networks, 
+self-organizing systems, and more. 
+It includes the hypermedia journal 
+<A HREF="http://www.csu.edu.au/ci/ci.html"><i>Complexity International</I></A>, 
+<LI> <A HREF="http://www.csu.edu.au/education/library.html">
+<B>Educational resources</B></A>,  
+including the  
+<A HREF="http://www.csu.edu.au/education/australia.html">
+<i>Guide to Australia</I></A>, an 
+<A HREF="http://www.csu.edu.au/education/hypermedia.html">
+<i>Introduction to hypermedia</I></A> and 
+<A HREF="http://life.anu.edu.au/demos/demo.html"> 
+demonstrations</A>, 
+<LI> <A HREF="gopher://life.anu.edu.au:70/1/general">
+<B>General information</B></A>, 
+including electronic books, catalogs and administrative information. 
+<LI> <A HREF="http://life.anu.edu.au/landscape_ecology/landscape.html">
+<B>Landscape ecology</B></A> 
+includes ecology, biogeography, GIS, 
+<A HREF="http://life.anu.edu.au/firenet/firenet.html">fire</A>, 
+<A HREF="http://www.csu.edu.au/landscape_ecology/pollen.html">
+palynology and palaeoenvironments</A> etc; 
+<LI> <A HREF="http://life.anu.edu.au/medical.html">
+<B>Medical information</B></A>
+<LI> <A HREF="http://life.anu.edu.au/molbio.html">
+<B>Molecular biology</B></A> concerns sequence analysis, genetics, and 
+microbiology, including on-line access to all international databases. 
+<LI> <A HREF="gopher://life.anu.edu.au:70/1/neuroscience">
+<B>Neuroscience</B></A>
+<LI> <A HREF="http://life.anu.edu.au:80/./viruses/virus.html">
+<B>Viruses</B></A>
+(NOT computer viruses!)  
+<LI> <A HREF="http://life.anu.edu.au:80/weather.html">
+<B>Weather & global monitoring</B></A>
+<LI><B>Other information</B>
+<UL>
+<LI> Direct links to relevant 
+<A HREF="gopher://life.anu.edu.au:70/11/general/news">
+electronic news and newsgroups</A>;
+<LI> Answers to 
+<A HREF="gopher://life.anu.edu.au:70/11/bioinformation/faq">
+frequently asked questions (FAQ)</A> about various topics;
+<LI> WWW sites: 
+<A HREF="http://www.csu.edu.au/links/ozweb.html">Australia</A>, 
+<A HREF="http://www.cs.cme.edu:8001/Web/People/mjw/NZ/MainPage.html">New Zealand</A>, 
+<A HREF="http://www.w3.org/hypertext/DataSources/bySubject/Overview.html">
+world-wide by subject</A>, 
+<A HREF="http://www.w3.org/hypertext/DataSources/WWW/Geographical.html">
+world-wide by location</A>. 
+<LI> Thematic links to 
+<A HREF="gopher://life.anu.edu.au:70/1/other_sites">gopher sites</A> and 
+<A HREF="http://life.anu.edu.au:80/education/hypermedia.html">
+network information</A>; 
+<LI> <A HREF="gopher://life.anu.edu.au:70/1/netkit">
+network kit</A> contains introductory information and essential 
+software for accessing and using our services. 
+</UL>
+</UL>
+
+<HR>
+
+<H2>
+<A HREF="http://life.anu.edu.au:80/education/hypermedia.html">
+Other Network Information Services at ANU Bioinformatics</A>
+</H2>
+<UL>
+<LI> The <A HREF="gopher://life.anu.edu.au:70/11">BioGopher</A>. See the 
+<A HREF="gopher://life.anu.edu.au:70/0/anubf.txt">
+introduction</A> for more details. 
+<LI> <A HREF="ftp://life.anu.edu.au/">FTP archive</A> - 
+Users and contributors should refer to 
+<A HREF="gopher://life.anu.edu.au:70/0/policy.txt">
+"advice to users and contributors"</A>.
+<LI> <A HREF="http://life.anu.edu.au/imagebin/IMAGES">
+     Prototype image processing system </A>
+<LI> Listserver mailing lists
+<UL>
+<LI> <A HREF="./biodiversity/iopi/iopi.html">
+International Organization for Plant Information (IOPI)</A>;
+<LI> Complex Systems 
+<A HREF="gopher://life.anu.edu.au:70/1/complex_systems/forum/">
+Open Forum</A>;
+<LI> <A HREF="http://life.anu.edu.au/firenet/firenet.html">
+Firenet</A> - 
+an information service about landscape fires; 
+</UL>
+</UL>
+
+<HR>
+
+<P>For more help see the 
+<A HREF="http://life.anu.edu.au/demos/demo.html"> 
+on-line demonstrations</A>
+and see the 
+<A HREF="http://www.ncsa.uiuc.edu/demoweb/html-primer.html">HTML primer</A> 
+to learn how to mark up files. 
+
+<P><ADDRESS>
+<B>For site administrator, contact ...</B>
+<A HREF="mailto:www-manager@life.anu.edu.au">Bioinfomatics WWW Manager</A>
+www-manager@life.anu.edu.au
+</ADDRESS>
+<P><ADDRESS>
+<B>For further information from the Bioinformatics group, contact ...</B>
+<A HREF="mailto:bioinformatics-group@life.anu.edu.au">Bioinfomatics Group</A>
+bioinformatics-group@life.anu.edu.au 
+</ADDRESS>

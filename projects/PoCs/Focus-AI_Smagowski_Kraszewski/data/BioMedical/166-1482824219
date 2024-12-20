@@ -1,0 +1,34 @@
+<TITLE>MIPG Home Page</TITLE>
+
+<IMG src = "mipg_banner.gif"</A>
+
+<HR>
+
+<DL>
+
+<H3>Welcome to the MIPG Home Page!</H3><P>
+
+<DL>
+<IMG src = "mipg_info.gif" ALIGN=MIDDLE>
+<A HREF="http://www.mipg.upenn.edu/~Vnews/mipg_info.html"A> About MIPG</A>
+<p>
+<IMG src = "mipg_personnel.gif" ALIGN=MIDDLE>
+<A HREF="http://www.mipg.upenn.edu/~Vnews/mipg_personnel.html"A> Personnel</A> 
+<p>
+<IMG src = "mipg_software.gif" ALIGN=MIDDLE>
+<A HREF="http://www.mipg.upenn.edu/~Vnews/mipg_software.html"A> Software</A> (<A HREF="http://www.mipg.upenn.edu/~Vnews/index.html"A> 3DVIEWNIX 1.1</A>, SNARK93, EVAL3DPET) 
+<p>
+<IMG src = "mipg_pub.gif" ALIGN=MIDDLE>
+<A HREF="http://www.mipg.upenn.edu/~Vnews/mipg_pub.html"A> Publications</A> 
+<p>
+<IMG src = "mipg_seminar.gif" ALIGN=MIDDLE>
+<A HREF="http://www.mipg.upenn.edu/~Vnews/mipg_seminar.html"A> Seminars</A> 
+<p>
+<IMG src = "mipg_www.gif" ALIGN=MIDDLE>
+<A HREF="http://www.mipg.upenn.edu/~Vnews/mipg_www.html"A> WWW Links</A> 
+
+</DL>
+
+_______________
+<ADDRESS>Medical Image Processing Group, Department of Radiology, University of Pennsylvania Medical Center (webmaster@mipg.upenn.edu)
+</ADDRESS>

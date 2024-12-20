@@ -1,0 +1,58 @@
+<TITLE>Malaria Database</TITLE>
+<H1><center>MALARIA DATABASE</center></H1>
+<center><IMG ALIGN=middle SRC="whoart.gif" ALT="WHO logo in black and white"></center>
+
+<H2><center>Funded by:
+UNDP/World Bank/WHO Special Programme for Research and Training in Tropical Diseases</center><P>
+<center>Maintained at:
+The Department of Microbiology, Monash University and The Walter and Eliza Hall Institute of Medical Research</center></H2>
+<UL>
+<H3><DL><DT><A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/">Anonymous FTP site</A></H3>
+<DD>This site contains a number of text files of nucleotide and protein sequence data. In one directory <A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version">directory</A> I list files that were included in the last mailout. In another <A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/new_since_last_mailout">directory</A> are files added since then. <BR>If you use the links below to grab any file, be aware that you will be getting the version sent in the last mailout, so you just may want to check the <A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/new_since_last_mailout">new directory </A>to see if there is anything later. The files exist in several different formats:   
+<UL><LI> <A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/annotnuc.dat">Annotated Nucleotide sequences in EMBL format.</A> Beware that this is a <B>very large file</B> occupying about 4 Mb at last count. 
+<LI><A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/gcg">Annotated Nucleotide sequences in GCG format.</A> Note: this directory contains thousands of files and takes a while to list in your web browser.
+<LI><A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/pcnuc.dat">Unannotated nucleotide sequences suitable for importation into PC programs</A>
+<LI><A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/annotpro.dat">Annotated Protein Sequences in EMBL format</A>
+<LI><A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/pcpro.dat">Unannotated protein sequences suitable for importation into PC programs</A>
+<LI><A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/plasmest.dat">List of expressed sequence tags of Plasmodial genes</A> These are included in <A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/gcg/">annotnuc.dat</A> but are separately listed here with BLAST search results for each EST. 
+</UL><p>
+<DL><DT>Malaria Genome Information
+<DD>This <A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/chrprobe.lis">list</A> tells you about known chromosome markers for the 14 chromosomes of P. falciparum. The list is cross-referenced to the database and the <A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/probes.lis">probe list</A> so that you can identify a researcher who can supply you with an appropriate probe</DL><p> 
+<DL><DT>Malaria strain information
+<DD>The WHO funds a malaria strain bank that is maintained at the Institute Of Cell And Animal Biology, University Of Edinburgh by <ADDRESS><A HREF="mailto:walliker@srv0.bio.edinburgh.ac.uk"> Dr. David Walliker.</A></ADDRESS> Listed here are the various isolates and cloned lines of malaria that are available by contacting David.</DL>
+ 
+<UL><LI><A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/falstrai.lis">P. falciparum isolates</A><LI><A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/falcone.lis">P.falciparum cloned lines</A><LI><A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/murstra.lis">Mouse malaria strains</A></UL><p>
+<DL><DT>Availability of Clones and probes
+<DD>This <A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/probes.lis">list</A> gives you the name and addresses of researchers who can supply you with nucleic acid probes or cloned sequences.<p>
+</DL>
+<DL><DT>Bibliography of references about malaria antigens
+<DD>Here you will find listings of references about <A HREF="antigens.html">several malaria antigens.</A> I try and keep this current but anyone who wishes to adopt an antigen, please do so.<p>
+</DL>
+<DL><DT>Alignment of malaria antigen sequences
+<DD>Some malaria antigens exist in multiple allelic forms. Here you will find alignments for <A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/msp_1.ali">MSP-1</A>, <A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/msp_2.ali">MSP-2</A> , <A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/ama1.ali">AMA-1</A>, <A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/duffbp.ali"> Duffy binding proteins</A> and the family of <A HREF="ftp://ftp.wehi.edu.au/pub/biology/who_dbase/current_version/dbpeba.ali">erythrocyte binding antigens.</A> <p>
+</DL></UL><P>
+<A HREF="tools.html"><H3>Software tools of utility or interest</H3></A><P>
+
+
+<H3>Malaria Discussion Group</H3><DD>This service provides a forum for discussion of any topics related to malaria. Details of how to join the discussion group are available <A HREF="listserv.html">here.</A><P>
+<H3>Upcoming Conferences of Interest</H3><DD>Details of upcoming conferences of special interest to malariologists or parasitologists are available <A HREF="conference.html">here.</A>
+
+<H3>Projects and Grants of Interest</H3>
+<UL><LI> <A HREF="ehp.html">Environmental Health Project of USAID</A>
+</UL><H3><DL>
+<DT>Other Malaria and Parasitology Sites</H3>
+<DD>This provides pointers to other sites of interest to parasitologists or tropical disease people.</DL>
+<UL><LI> <A HREF="http://ben.vub.ac.be/malaria/mad.html">European Community Database of Antigens Used in Malaria Vaccination Experiments</A>
+<LI> <A HREF="http://woodland.bio.ic.ac.uk/fgn/parasite-genome/parasite-genome.html">Parasite genome projects home page </A>
+<LI> <A HREF="http://www.who.ch">World Health Organization Web Site</A>
+<LI> <A HREF="http://www.cdc.gov/">Centre for Disease Control Publications and Information </A>
+<LI> <A HREF="http://www.tiac.net/users/jtward/index.html"> The Multimedia Medical Reference Library</A>
+<LI> <A HREF="http://www.tropmed.tulane.edu">Department of Tropical Medicine, Tulane University</A>
+</UL><BR>
+
+<H3><A HREF="acknowledge.html">
+Acknowledgments</A></H3>
+
+<HR>
+<H4>Report bugs and comments to <ADDRESS><A HREF="mailto:ross.coppel@med.monash.edu.au"> ross.coppel@med.monash.edu.au</A></ADDRESS> I also welcome any suggestions for additions or new services.</H4>
+
