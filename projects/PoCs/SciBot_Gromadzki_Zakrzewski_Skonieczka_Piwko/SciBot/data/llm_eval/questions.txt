@@ -1,0 +1,25 @@
+What does the term "learn to optimize" mean?
+Please give some examples of metaheuristics.
+What is the "no free lunch" theorem about?
+What is the concept behind Parallel Algorithm Portfolio?
+Please provide some approaches to how Parallel Algorithm Portfolio can be constructed.
+Can co-evolution be used in Parallel Algorithm Portfolio construction?
+What is the idea behind the PAP approach called "GLOBAL"?
+What is the idea behind the PAP approach called "PARHYDRA"?
+What is the idea behind the PAP approach called "CLUSTERING"?
+What is the idea behind the PAP approach called "PCIT"?
+What is the idea behind the PAP approach called "CEPS"?
+Please give me the names of some state-of-the-art SAT solvers.
+Please give me the names of some state-of-the-art TSP solvers.
+Please give me the names of some state-of-the-art Automatic Algorithm Configuration approaches.
+What is the idea behind the AAC approach called "irace"?
+What is the idea behind the AAC approach called "SMAC"?
+What is the idea behind the AAC approach called "GGA"?
+What is the idea behind the AAC approach called "ISAC"?
+What is the difference between metaheuristics and heuristics?
+What factors and challenges influenced the development of the Automatic Algorithm Configuration approaches?
+What are the main benefits of AAC?
+Please provide an overview of the types of AAC methods.
+Are Parallel Algorithm Portfolios connected with financial portfolios?
+What factors and challenges influenced the development of the Parallel Algorithm Portfolios?
+What are the main benefits of PAPs?
