@@ -1,0 +1,49 @@
+<html><head>
+<title>Cohen Group Welcome Page</title>
+</head>
+<body>
+<img src="cohen.welcome.gif" alt="Fred Cohen Laboratory">
+<h1>Fred Cohen Laboratory</h1>
+
+<p>Welcome to the WWW server of Fred Cohen's research group at the
+University of California, San Francisco.  
+<p>
+<b>This web site is now <tt>http://www.cmpharm.ucsf.edu/</tt>. Please
+update your links, hotlists, and bookmarks.</b>
+<p>
+
+<ul>
+  <li> <a href="public/address.html">Our address and phone number.</a>
+  <li><a href="public/about.html">Our research interests</a>
+       include protein structure modeling and drug discovery.
+  <li> <a href="public/ucsfdirections.html">How to get to UCSF</a>
+  <li><a href="whatsnew.html">What's New</a> on the Cohen Group Server.
+  <li><a href="cohen.html">Cohen Group Home Page</a>
+
+</ul>
+
+<h2>Publicly Available Resources</h2>
+
+<ul>
+  <li><a href="public/abstracts.html">Abstracts</a> from the Cohen Group
+  <li><a href="/~troyer/eccc/">Langevin dynamics of simplified
+       protein models</a> a paper/poster for the 1st Electronic
+       Computational Chemistry Conference
+  <li><a href="public/resources.html#programs">protein modeling &amp;
+       prediction packages</a>
+  <li><a href="public/resources.html#science">other science resources</a>
+       (PDB utilities, libraries, mail servers)
+  <li> <a href="public/resources.html#computers">general computing</a>
+  <li> <a href="public/resources.html#www">WWW provider tools</a>
+  <li> <a href="public/resources.html#extra">extracurricular activities</a>
+</ul>
+
+<h2><a href="http://cgl.ucsf.edu/ucsfwebsrvrs.html">Other links within UCSF</a></h2>
+<hr>
+<address><a href="http://www.cmpharm.ucsf.edu/~troyer/">john&lt;troyer@cgl.ucsf.edu&gt;</a></address>
+<!-- hhmts start -->
+ (Mon Jan  9 16:47:37 1995)
+<!-- hhmts end -->
+</body> </html>
+
+

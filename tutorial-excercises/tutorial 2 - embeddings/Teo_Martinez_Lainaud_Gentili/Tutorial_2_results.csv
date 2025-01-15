@@ -1,0 +1,13 @@
+Embedding Methods,ML Algorithm,Accuracy,F1 Score,Precision,Recall
+word2vec,SVM,0.8668,0.8678,0.85625,0.87968
+word2vec,Logistic Regression,0.8632,0.86396,0.85411,0.87404
+word2vec,Random Forrest,0.8364,0.83866,0.82244,0.85553
+word2vec,Gradient Boosting,0.8416,0.84185,0.83551,0.84829
+fasttext,SVM,0.8576,0.85788,0.85109,0.86479
+fasttext,Logistic Regression,0.8534,0.85314,0.84956,0.85674
+fasttext,Random Forrest,0.8132,0.81585,0.79977,0.8326
+fasttext,Gradient Boosting,0.8272,0.82823,0.81847,0.83823
+glove,SVM,0.798,0.79768,0.79418,0.80121
+glove,Logistic Regression,0.7932,0.79178,0.79242,0.79115
+glove,Random Forrest,0.7576,0.75828,0.75168,0.76499
+glove,Gradient Boosting,0.7732,0.77383,0.7671,0.78068

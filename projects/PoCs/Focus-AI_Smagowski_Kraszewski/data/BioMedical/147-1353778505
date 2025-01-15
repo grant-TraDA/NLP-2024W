@@ -1,0 +1,72 @@
+<HEAD>
+<TITLE> WelchWeb - William H. Welch Medical Library  </TITLE>
+<BODY>
+
+<a
+href="/development/about.html">About WelchWeb</a>
+<h1><img 
+src="/images/composite.GIF" Alt="WelchWeb"><a
+href="/help/help.html"><img
+src="/images/help.GIF" alt="| Help"></a></h1>
+<p>
+<dl>Welcome to WelchWeb.  From here you can get access to a variety of
+informational pages describing the following:
+<p>
+<dt><strong><a href="/help/first.help.html">Help for First-time WelchWeb 
+Users</a></strong>
+<dl><dt>To access, select the text indicated on the line 
+above.</dl>
+<p>
+<dt><strong><a href="/news/news.html">News from Welch</a></strong>
+<dl><dt>What's 
+happening at the library, including Welch publications and Web Fun. </dl>
+<p>
+<dt><strong><A
+HREF="/resources/information.resources.html">Information
+Sources</A></strong>
+<dl><dt>Databases and other information sources available
+from Welch, other Hopkins institutions, and selected remote sources.
+</dl>
+<p>
+<dt><strong><A HREF="/services/services.html">Services</A></strong> 
+<dl><dt>Welch staff provide a wide range of services to assist our users in 
+locating, obtaining, and managing information.
+</dl>
+<P>
+<dt><strong><A
+HREF="/classes/classes.html">Education</A></strong>
+<dl><dt>Welch offers educational opportunities in a variety of formats and 
+covering a
+range of topics related to Welch resources, scientific writing, computer
+software, networking, and the Internet.
+</dl>
+<P>
+<dt><strong><A HREF="/publishing/sci.writing.html">Scientific 
+Writing</A></strong>
+<dl><dt>Welch supports biomedical writers with editorial services, 
+classes on effective writing and presentation of scientific information,
+ and a variety of print and electronic resources. </dL> <P>
+
+<dt><strong><a href="/winfo/winfo.html">About the Welch Medical 
+Library</a></strong></dl>
+<p> 
+
+<hr>
+
+<a href="/help/icons.html">About these icons</a><br>
+<pre><a href="/help/help.html"><img
+src="/images/help.GIF" alt="Help"></a> <A
+href="/welch.html"><img src="/images/logo.GIF" alt="|Back
+home"></a> <a
+href="/winfo/winfo.html"><img
+src="/images/winfo.GIF" alt="|Welch Info"></a> <a
+href="telnet://128.220.59.13"><img
+src="/images/gateway.GIF" alt="|Welch Gateway"></a> <a
+href="gopher://welchlink.welch.jhu.edu:70"><img
+src="/images/gopher.GIF" alt="|Welch Gopher"></a>    <a
+href="http://infonet.welch.jhu.edu/"><img
+src="/images/dome.gif" alt="|InfoNet"></a></pre>
+
+<p>
+
+<P>

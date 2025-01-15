@@ -1,0 +1,43 @@
+<html><head>
+<TITLE>Add URL to Berkeley Inktomi</TITLE>
+</head>
+<body>
+<h1><b>U. C. Berkeley Inktomi Research Prototype</b></h1>
+<center>
+<A href="/index.html">
+<img src="http://inktomi.berkeley.edu/inklogo.gif"
+  width=486 height=100>
+</A>
+</center>
+<P>
+
+<B>We are moving the Berkeley Inktomi base technology to a commercial
+service, so additions and changes to the URL database will be made as
+part of this move. Sorry for the inconvenience, but we the new service
+will have the resources to fully exploit and improve the scalable server
+technology.</B>
+
+<form action="http://inktomi.berkeley.edu/cgi-bin/addurl" METHOD=GET>
+
+<b>Enter your URL:</b> <input type="text" name="url" size=80><p>
+   <input type="submit" value="Submit">
+
+<p>
+
+
+<hr size=4>
+<CENTER>
+<A HREF="/">Home</A> |
+<A HREF="/query.html">Search</A> |
+<A HREF="/addurl.html">Add URLs</A>
+</CENTER>
+
+<P>
+Email: <em>
+<a href="mailto:brewer@cs.berkeley.edu">brewer@cs.berkeley.edu</a>,
+<a href="mailto:gauthier@cs.berkeley.edu">gauthier@cs.berkeley.edu</a></em><br>
+Berkeley's Inktomi research is sponsored in part by <a href="http://www.arpa.mil">ARPA</a>;
+<a href="http://www.sun.com">Sun Microsystems</a> donated our equipment.<br>
+<font size="-1"> Artwork Copyright (c) 1995
+<a href="http://www.cs.berkeley.edu/~brewer/sardegna"> Lisa Sardegna </a></font> <br>
+
