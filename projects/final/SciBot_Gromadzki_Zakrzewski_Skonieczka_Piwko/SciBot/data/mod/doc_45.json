@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\n\u2211 fj(xj) + \u2211 fij(xi,xj), which further enhances accuracy while retaining interpretability.\n\nEBM is a fast implementation of the GA 2M algorithm (Lou et al., 2013), developed in C++ and Python. The implementation leverages joblib to facilitate parallelization across multiple cores and machines, thereby optimizing computational efficiency.\n\nThe training procedure, selection of pairwise interaction terms, and case studies are detailed in Lou et al. (2012, 2013) and Caruana et al. (2015).\n\nEBMs offer high interpretability due to the ability to visualize and comprehend the contribution of each feature to a prediction through plotting fj. As an additive model, EBM enables modular reasoning about the impact of each feature on predictions.\n\nFigure 2: Left: Function f Age. The probability p(1) increases substantially as 'Age' ranges from 20 to 50.\nRight: Individual prediction, where the 'CapitalGain' feature significantly influences the outcome.\n\nNote: I made minor changes in formatting, punctuation, and wording to improve clarity and coherence while maintaining the original meaning of the text.",
+    "metadata": {
+        "source": "../../data/pdfs\\JP_1909.09223v1.pdf",
+        "chunk_idx": 5
+    }
+}

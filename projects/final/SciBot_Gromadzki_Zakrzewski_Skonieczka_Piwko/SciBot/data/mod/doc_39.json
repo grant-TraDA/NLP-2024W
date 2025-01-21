@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\n[29] J.K.Dixon, Pattern Recognition with Partially Missing Data, IEEE Transactions on Systems, Man and Cybernetics (1979) 617-621.\n\n[30] T.Samad,S.A.Harp, Self-Organization with Incomplete Data, Network: Computation in Neural Systems (1992) 205-212.\n\n[31] F. Fessant, S. Midenet, A Self-Organizing Map for Imputing and Correcting Missing Values in Surveys, Neural Computing & Applications (2002) 300-310.\n\n[32] L.K.Westin, Dealing with Incomplete Data: A Perceptron Approach to Preprocessing, University Publication (2004).\n\n[33] R.J. Hathaway, J.C. Bezdek, Fuzzy c-Means Clustering for Incomplete Datasets, IEEE Transactions on Systems, Man and Cybernetics - Part B: Cybernetics (2001) 735-744.\n\n[34] K. Honda, H. Ichihashi, Linear Fuzzy Clustering Methods with Handling Missing Data and Their Application to Local Principal Component Analysis, IEEE Transactions on Fuzzy Systems (2004) 183-193.\n\n[35] D. Li, H. Gu, L. Zhang, A Novel Fuzzy c-Means Algorithm for Imputation of Missing Values in Multidimensional Data.",
+    "metadata": {
+        "source": "../../data/pdfs\\JP_1-s2.0-S0950705119303132-main.pdf",
+        "chunk_idx": 59
+    }
+}

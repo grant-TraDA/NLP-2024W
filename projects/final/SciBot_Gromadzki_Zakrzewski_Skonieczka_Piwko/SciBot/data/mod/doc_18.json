@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\nThe performance of attribution methods on diagnosing issues in deep learning models was evaluated using three methods: Gradient, SmoothGrad, and Integrated Gradients. In terms of user perception, a Likert score of 1 indicated \"definitely not\" recommending a model, while 5 meant \"definitely recommend\". Users generally rated a normal model favourably, with scores ranging from acceptable to excellent.\n\nInterestingly, when participants were shown the attributions for a normal model, a notable percentage (30% and 40%, respectively) reported that Gradient and SmoothGrad highlighted the expected image focus areas. Conversely, this was not observed in the 'spurious correlation' scenario, where attribution methods failed to accurately pinpoint relevant features despite some users still recommending the model. Specifically, median Likert scores were lower (2-3), but a substantial minority did not reject the spurious model outright. These findings imply that attribution method performance may not directly translate to reliable decision-making.\n\nA further analysis of mislabelled training examples was conducted using a BVD-CNN model trained on a birds-vs-dogs dataset with 10% flipped labels, achieving high accuracy (93.2%, 91.7%, and 88%) across the training, validation, and test sets, respectively.",
+    "metadata": {
+        "source": "../../data/pdfs\\JP_2011.05429v1.pdf",
+        "chunk_idx": 22
+    }
+}

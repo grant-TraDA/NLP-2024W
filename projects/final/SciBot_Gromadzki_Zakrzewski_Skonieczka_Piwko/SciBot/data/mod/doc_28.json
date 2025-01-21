@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\n3.5.1. GRS test and extensions: A statistical framework for evaluating factor pricing models.\n\nSpecifically, assessments of factor pricing models can be formalized as statistical hypothesis testing problems.\nSuch tests most commonly focus on the zero-alpha condition: If the factor model accurately reflects the true\nStochastic Discount Factor (SDF), then it should price all test assets with non-significant alphas (up to sampling variation).\n\nA standard formulation for the null hypothesis is:\n\nH0 : \u03b11 = \u03b12 = ... = \u03b1N = 0\n\nIn a simple setting where all factors are observable and tradable, the model can be written as:\nart = \u03b1 + \u03b2ft + ut\nwhere alphas can be estimated via asset-wise Total Shrinkage Ratios (TSRs):\n\u02c6\u03b1TSR = (RMF\u03b9T)(TMF\u03b9T)^-1\nGibbons, Ross & Shanken (1989) constructed a quadratic test statistic,\n\u02c6F = T - N - K \nN \n\u02c6\u03b1TSR^\u22ba \u03a31^-1 u \u02c6\u03b1TSR / \n(1 + f\u0304^\u22ba \u03a31^-1 v)\n, and developed its exact finite sample distribution, a noncentral F-distribution, under the null hypothesis.",
+    "metadata": {
+        "source": "../../data/pdfs\\KS_facor_models_annual_review.pdf",
+        "chunk_idx": 77
+    }
+}

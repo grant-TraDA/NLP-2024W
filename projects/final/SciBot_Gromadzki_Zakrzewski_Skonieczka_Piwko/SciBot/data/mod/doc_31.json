@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\nAs stated earlier, it holds that A(\u03b82) has a higher value than A(\u03b81); more formally, \u02c6cN(\u03b81)(\u03b82) > \u02c6cN(\u03b82)(\u03b82).5\n\nProcedure better(\u03b81, \u03b82) begins by selecting one sample for the configuration with the smaller N(\u03b8i), where tied values are handled individually. The procedure then iteratively selects samples for the configuration with the smaller N(\u03b8i) until one configuration dominates the other, and returns true if and only if \u03b81 outperforms \u03b82.\n\nIn addition to tracking the dominance of configurations, we also keep track of the total number B of samples acquired since the last improving step (the last time procedure better returned true). Whenever better(\u03b81, \u03b82) returns true, we acquire B \"bonus\" samples of CD(A, \u03b81, D) and reset B. This mechanism ensures that we gather a large number of samples from good configurations, and that the error made in every comparison of two configurations \u03b81 and \u03b82 decreases over time.\n\nFollowing Lemma 2, it can be inferred that the truly better \u03b8i will eventually be preferred; based on this fact, we can establish convergence to the optimal parameter configuration.",
+    "metadata": {
+        "source": "../../data/pdfs\\Hutter et al. - 2007 - Automatic algorithm configuration based on local search.pdf",
+        "chunk_idx": 19
+    }
+}

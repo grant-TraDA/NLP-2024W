@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\n> summary(fit)\nCoefficients:\nEstimate Standard Error z value P-value\n(Intercept) 0.256 0.432 0.59 0.55\nX1 7.78 4.09 1.90 0.057 *\nX2 9.81 5.66 1.73 0.083 .\nX3 -8.14 5.50 -1.48 0.139\nX4 0.019 6.00 0.003 0.998\nX5 -5.18 3.89 -1.33 0.183\nX6 9.48 4.65 2.04 0.042 *\n\nSignif. codes: \n*** p < 0.001, ** p < 0.01, * p < 0.05, . p < 0.1\n\nFigure 1: Excerpt from an object of class \"glm\" obtained by fitting a logistic model in R.\nThe coefficient estimates \u03b2^j are obtained by maximum likelihood estimation,\nand for each variable, R provides an estimate of the standard deviation of \u03b2^j\nas well as a p-value for testing whether \u03b2j = 0 or not.\n\n1. Fitting a model via maximum likelihood produces estimates that are approximately unbiased and represent the most likely value given the data.\n2. There are established formulas to predict the accuracy or variability of the maximum-likelihood estimate (MLE), which can be used to assess the reliability of the results.",
+    "metadata": {
+        "source": "../../data/pdfs\\KS_modern_maximum_likehood_theory.pdf",
+        "chunk_idx": 3
+    }
+}

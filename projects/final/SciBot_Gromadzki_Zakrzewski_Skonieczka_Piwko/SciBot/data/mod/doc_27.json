@@ -1,0 +1,7 @@
+{
+    "page_content": "HIGH-DIMENSIONAL STATISTICAL INFERENCE\n\nThe use of the Central Limit Theorem (CLT) and Bootstrap techniques has become increasingly essential in high-dimensional statistical inference. These methods enable us to approximate the distributions of key statistics that arise during the inferential process for complex models.\n\nFor instance, consider the probability that a set of Kolmogorov-Smirnov type statistics falls below specific thresholds\nP(\nmax\nj\u2208Jk\nSXnj \u2264 tk for all k= 1,...,\u03ba\n) = P(\nSXn \u2208 A\n)\ncan be approximated by P( SYn \u2208 A), with a corresponding error margin of \u03c1n(Are). Here, {Jk} represents non-overlapping subsets of {1,...,p }, {tk} are thresholds within the interval (-\u221e, \u221e), \u03ba \u2265 1 is an integer, and A \u2208 Are is a hyperrectangle defined as\n{w\u2208 Rp : max j\u2208Jk wj \u2264 tk for all k= 1,...,\u03ba }.\n\nSimilarly, we can approximate the probability that a set of Pearson type statistics falls below specific thresholds:\nP(\n\u2225(SXnj)j\u2208Jk \u22252 \u2264 tk for all k= 1,...,\u03ba\n) = P(\nSXn \u2208 A\n)\ncan be approximated by P( SYn \u2208 A), with an associated error margin \u03c1n(Are).",
+    "metadata": {
+        "source": "../../data/pdfs\\KS_centra_limit_theorem.pdf",
+        "chunk_idx": 7
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "page_content": "The linearity assumption beyond tractability. To the contrary, there are many reasons to expect that this assumption is not tenable. Essentially all leading theoretical asset pricing models predict nonlinearities in return dynamics as a function of state variables; Campbell & Cochrane (1999), Bansal & Yaron (2004), Santos & Veronesi (2004), and He & Krishnamurthy (2013) provide prominent examples.\n\nTo overcome this limitation, Connor, Hagmann & Linton (2012) and Fan, Liao & Wang (2016) replace the assumption that factor betas are linear in characteristics with an assumption that factor betas are nonparametric functions of characteristics (although these characteristics are assumed to not vary over time for theoretical tractability). Kim, Korajczyk & Neuhierl (2021) adopt this framework to construct arbitrage portfolios.\n\nGu, Kelly & Xiu (2021) extend the Barra and IPCA models to a nonlinear setting using a conditional autoencoder model, augmented with additional explanatory variables. This model supersedes traditional linear factor models by providing a more nuanced representation of complex relationships between characteristics and returns.",
+    "metadata": {
+        "source": "../../data/pdfs\\KS_facor_models_annual_review.pdf",
+        "chunk_idx": 18
+    }
+}

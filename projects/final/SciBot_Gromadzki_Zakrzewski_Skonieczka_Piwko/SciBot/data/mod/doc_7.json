@@ -1,0 +1,7 @@
+{
+    "page_content": "The following document is a modified version of the provided scientific paper:\n\nFor k= 1 or 2, it holds that:\nE[\u2211\ni=1\nn\n|v\u2032Xi|2+k] \u2264 n\u22121\nn\u2211\ni=1\nE[( \u2211\nj\u2208J(v)\n|Xij|\n)2+k]\n\u2264 s1+kn\u22121\nn\u2211\ni=1\nE[ \u2211\nj\u2208J(v)\n|Xij|2+k\n]\n\u2264 s2+kBk\nn \u2264 (s3B\u2032\nn)k\n\nwhere B\u2032\nn = s3Bn, so that the set A satisfies condition (M.2 \u2032)\nwith Bn replaced by s3Bn.\n\nFurthermore, we verify that the set A satisfies condition (E.1 \u2032) when (E.1) is satisfied, or (E.2 \u2032) when (E.2) is satisfied.\nWhen (E.1) is satisfied, it follows that\n\u2225v\u2032Xi\u2225\u03c81 \u2264 Bn,\nso that \u2225v\u2032Xi\u2225\u03c81 \u2264 \u2211\nj\u2208J(v) \u2225Xij\u2225\u03c81 \u2264 sBn,\nshowing that the set A satisfies (E.1 \u2032) with Bn replaced by sBn.\n\nWhen (E.2) is satisfied, as E[max v\u2208V(Am) |v\u2032Xi|q] \u2264 sqE[max 1\u2264j\u2264p|Xij|q],",
+    "metadata": {
+        "source": "../../data/pdfs\\KS_centra_limit_theorem.pdf",
+        "chunk_idx": 97
+    }
+}

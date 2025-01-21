@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\nDocument: A cost function from the space of cost functions C quantifies the cost of executing a given problem instance using a specified configuration. 1 Depending on the targeted algorithm, c may be stochastic and include noise. Ideally, we would seek to find the optimal configuration \u03b8\u2217 \u2208 \u0398 that minimizes the expected cost over all possible instances.\n\n2 However, this is not feasible in practice since the distribution of problem instances P(i) is typically unknown. Therefore, we resort to solving a proxy problem. 3 Given access to a set of training instances Itrain \u2286 I and an aggregation function m : C \u00d7 2I \u00d7 \u0398 \u2192 R, we aim to find the configuration that minimizes the aggregated costs across these training instances.\n\nThe aggregation function is commonly defined as the arithmetic mean or variations thereof, computed over each problem instance using the given configuration. This approach mirrors empirical risk minimization in machine learning, where we seek to identify the configuration minimizing the aggregate costs over the training set, i.e., \u03b8\u02c6 \u2208 arg min \u03b8\u2208\u0398 m(c,Itrain,\u03b8). (2)\n\nInformally stated, our goal is to determine the best configuration for a target algorithm given a collection of problem instances.",
+    "metadata": {
+        "source": "../../data/pdfs\\Schede et al. - 2022 - A Survey of Methods for Automated Algorithm Config.pdf",
+        "chunk_idx": 8
+    }
+}

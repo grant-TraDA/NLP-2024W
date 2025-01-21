@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\n**Imputation Approach for Handling Incomplete Datasets**\n\nOur approach involves multiple imputations of incomplete datasets \"m\" times, followed by analysis of the \"m\" imputed datasets. The results from these analyses are then combined to produce a final outcome.\n\n**Dataset Description**\n\nTable 1 provides an overview of the datasets utilized in this study.\n\n| Sr. No | Dataset | Description | No. of Instances | No. of Attributes |\n| --- | --- | --- | --- | --- |\n| 1 | Wine Dataset | Chemical analysis results from three different cultivars of wine grown in Italy | 178 | 13 |\n| 2 | Glass Identification | Comparison test between BEAGLE, nearest-neighbor algorithm, and discriminant analysis for glass identification | 214 | 11 |\n| 3 | Concrete Comprehensive Strength | Nonlinear function of age and ingredients affecting concrete compressive strength | 1030 | 9 |\n| 4 | Indian Liver Patient Dataset | Patient records from north east of Andhra Pradesh, India (liver patients: 416, non-liver patients: 167) | 583 | 10 |\n| 5 | Seeds Dataset | Geometrical properties measurements for three wheat varieties (Kama, Rosa, and Canadian) | - | 7 |\n\nNote: The number of attributes for the Seeds Dataset has been corrected from 70 to 7.",
+    "metadata": {
+        "source": "../../data/pdfs\\JP_Comparison of Performance of Data Imputation Methods for Numeric Dataset.pdf",
+        "chunk_idx": 24
+    }
+}

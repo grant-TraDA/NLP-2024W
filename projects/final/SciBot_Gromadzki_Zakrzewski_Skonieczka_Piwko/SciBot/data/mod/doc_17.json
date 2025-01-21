@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document with slight changes in rephrasing:\n\nDocument: \n\nThe character of Fq,T\u2212K\u2212p+1,\u03bb(C) at x is given by \n\nFq,T\u2212K\u2212p+1,\u03bb(C)(x) = Fq,T\u2212K\u2212p+1(x) exp\n(\u2212\u03bb(C)/2)\n\ued1e\n\n(\u0393(q/2))\u22121\n(\u0393((T\u2212 K\u2212 p+ 1+ q)/2))\u22121\n\u2211\ni=0\n\u221e\n(\u0393((T\u2212 K\u2212 p+ 1+ q)/2+ i) / (\u0393(q/2+i)))\n\u00d7 \n\u03bb(C)i/i!\n\n\ued1e\nqx\n(2(T\u2212 K\u2212 p+ 1+ qx))\u22121\n\ued23i\n.\n\nLet us introduce the notation:\n\nk(i) = 1/(i! \u0393((T\u2212 K\u2212 p+ 1+ q)/2) \u0393(q/2) (\u0393((T\u2212 K\u2212 p+ 1+ q)/2+i)/\u0393(q/2+i)))\n\nUsing the expression e(tr(A)) for a square matrix A, we obtain\n\nFZj(x) = Fq,T\u2212K\u2212p+1(x)\n\u2211\ni=0\n\u221e\nk(i)\n\ued4d\nC>0",
+    "metadata": {
+        "source": "../../data/pdfs\\KS_1-s2.0-S0047259X16300392-main.pdf",
+        "chunk_idx": 83
+    }
+}

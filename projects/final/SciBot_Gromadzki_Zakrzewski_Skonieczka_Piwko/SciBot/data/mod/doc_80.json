@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\nLQ(k) = k \\* log(|\\~ \u03a31(k)|) + (T - k) \\* log(|\\~ \u03a32(k)|)\n= k \\* log(|Q\u2032| \\* |\u02c6\u03a31(k)| \\* |Q|) + (T - k) \\* log(|Q\u2032| \\* |\u02c6\u03a32(k)| \\* |Q|)\n= 2 T \\* log(|Q|) + k \\* log(|\u02c6\u03a31(k)|) + (T - k) \\* log(|\u02c6\u03a32(k)|)\n\nThe log-likelihood of no change for the entire sample becomes\n\nLQ0 = T \\* log(|(T\u22121 \u2211^t=1 \u02dcgt,Q \u02dcg\u2032_t,Q|)) \n= T \\* log(|Q\u2032| \\* |(T\u22121 \u2211^t=1 \u02c6gt \u02c6g\u2032_t)| \\* |Q|)\n= 2 T \\* log(|Q|)\nbecause (T\u22121 \u2211^t=1 \u02c6gt \u02c6g\u2032_t = I_r under (3.1). Thus, the likelihood ratio test under this alternative identification condition can be expressed as\n\nLRQ(k) \u2261 \u2212 k \\* log(|\\~ \u03a31(k)|) \u2212 (T - k) \\* log(|\\~ \u03a32(k)|) + LQ0",
+    "metadata": {
+        "source": "../../data/pdfs\\KS_likehood_test.pdf",
+        "chunk_idx": 99
+    }
+}
