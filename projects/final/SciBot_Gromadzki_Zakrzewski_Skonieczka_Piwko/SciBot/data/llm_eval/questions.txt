@@ -1,0 +1,60 @@
+What does the term "learn to optimize" mean?
+Please give some examples of metaheuristics.
+What is the "no free lunch" theorem about?
+What is the concept behind Parallel Algorithm Portfolio?
+Please provide some approaches to how Parallel Algorithm Portfolio can be constructed.
+Can co-evolution be used in Parallel Algorithm Portfolio construction?
+What is the idea behind the PAP approach called "GLOBAL"?
+What is the idea behind the PAP approach called "PARHYDRA"?
+What is the idea behind the PAP approach called "CLUSTERING"?
+What is the idea behind the PAP approach called "PCIT"?
+What is the idea behind the PAP approach called "CEPS"?
+Please give me the names of some state-of-the-art SAT solvers.
+Please give me the names of some state-of-the-art TSP solvers.
+Please give me the names of some state-of-the-art Automatic Algorithm Configuration approaches.
+What is the idea behind the AAC approach called "irace"?
+What is the idea behind the AAC approach called "SMAC"?
+What is the idea behind the AAC approach called "GGA"?
+What is the idea behind the AAC approach called "ISAC"?
+What is the difference between metaheuristics and heuristics?
+What factors and challenges influenced the development of the Automatic Algorithm Configuration approaches?
+What are the main benefits of AAC?
+Please provide an overview of the types of AAC methods.
+Are Parallel Algorithm Portfolios connected with financial portfolios?
+What factors and challenges influenced the development of the Parallel Algorithm Portfolios?
+What are the main benefits of PAPs?
+What is algorithm for mosaic permutation test?
+What test statistic should be used for mosaic permutation test?
+What is restriction for test statistic in mosaic permutation test?
+What is the trick for allowiing the exposures to change with each observation in Mosaic permutation test?
+Is there any way of choice of tiling in Mosaic permutation test?
+What is RNN with Long-Short-Term-Memory estimate in deep learning pricing asset pricing model made by Luyang Chen?
+What is loss function in deep learning asset pricing model made by Luyang Chen?
+What is the model archtecture in deep learning asset pricing model made by Luyang Chen?
+What is done instead of comparing the variance of the factors before and after the break in likehood ratio test for structural changes in factor models?
+How to determine the number of break in likehood ratio test for structural changes in factor models?
+What is equivalent of a factor model with structural brak in factor loading?
+What is null hypothesis is likehood ratio test for structural changes in factor model?
+Is it possible to test mutliple change with sup-LR test?
+What is misbehavior of the residual bootstrap in high dimension?
+How misbehavior of the residual in high dimension can be explained?
+What is a alternative residual bootstrap procedure called deconvolution?
+What is a alternative residual bootstrapinf from sttandarized residual?
+What is pair bootstrap?
+How central limit theorem for hyperrectangles work?
+What is high dimensional CLT for simple and sparsely conver sets?
+What is multiplier bootstrap?
+What are the methods of examining impact of imputed values on XAI methods?
+What is MSE SHAP? 
+What are observations on impact of different imputation methods on explainability of models?
+Does usage of different imputation methods on missing values has impact on SHAP feature importance?
+How sampling for LIME for single observation is done?
+How can LIME lead to improvement of model by non-experts?
+What is Explainable Boosting Machine model?
+How can EBMs help with healthcare data?
+How can be EDMs used in imputing missing values in healthcare data?
+How can EBMs help detect observations poorly imputed by other methods?
+How can one distinct terms intepretabilitry and explainability in XAI?
+What issues in machine learning can be categorized as 'model bugs'?
+What XAI techniques can be heloful in detecting mislabeled observation in image classification?
+How can deep learning methods be used in imputation of missing data?
