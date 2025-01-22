@@ -1,0 +1,12 @@
+{
+  "timestamp": "20250121-090150",
+  "model": "hf.co/speakleash/Bielik-11B-v2.3-Instruct-GGUF:Q4_K_M",
+  "liczba_pytan": 41,
+  "testowane_konfiguracje": [
+    "Model z kontekstem"
+  ],
+  "ustawienia_pobierania": {
+    "liczba_artykulow": 5,
+    "liczba_kandydatow": 5
+  }
+}

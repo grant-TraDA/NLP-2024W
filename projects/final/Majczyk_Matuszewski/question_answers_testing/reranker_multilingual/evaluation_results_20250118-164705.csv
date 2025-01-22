@@ -1,0 +1,126 @@
+question,correct_answer,model_response,is_correct,use_retrieval,use_reranker,context_provided
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej władzę ustawodawczą sprawują:,Sejm i Senat,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej władzę wykonawczą sprawuje:,Prezydent Rzeczypospolitej Polskiej i Rada Ministrów,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej władza zwierzchnia w Rzeczypospolitej Polskiej należy do:,Narodu,B,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej finansowanie partii politycznych:,Jest jawne,A. Jest jawne,True,False,False,False
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej małżeństwo jako związek kobiety i mężczyzny, rodzina, macierzyństwo i rodzicielstwo znajdują się pod ochroną i opieką:",Rzeczypospolitej Polskiej,C. Rzeczypospolitej Polskiej,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Siły Zbrojne Rzeczypospolitej Polskiej służą:,ochronie niepodległości państwa i niepodzielności jego terytorium oraz zapewnieniu ,C,False,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Siły Zbrojne zachowują neutralność w sprawach politycznych oraz podlegają: ,cywilnej i demokratycznej kontroli,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej podczas pobytu za granicą obywatel polski ma prawo do opieki: ,ze strony Rzeczypospolitej Polskiej,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej kto znajduje się pod władzą Rzeczypospolitej Polskiej:,korzysta z wolności i praw zapewnionych w Konstytucji,A,True,False,False,False
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, każdy przeciw komu prowadzone jest postepowanie karne, ma prawo do obrony we wszystkich stadiach postepowania. Może on w szczególności wybrać obrońcę lub:",korzystać z obrońcy z urzędu,B,False,False,False,False
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, każdego uważa się za niewinnego, dopóki jego wina:",nie zostanie stwierdzona prawomocnym wyrokiem sądu ,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo do ochrony prawnej:,"życia prywatnego, rodzinnego, czci i dobrego imienia oraz do decydowania o swoim życiu osobistym",A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo dostępu do:,dotyczących go urzędowych dokumentów i zbiorów danych. Ograniczenie tego prawa może określić ustawa ,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo do: ,"żądania sprostowania oraz usunięcia informacji nieprawdziwych, niepełnych lub zebranych w sposób sprzeczny z ustawą",A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo do nauki. Nauka jest obowiązkowa do:,18 roku życia,A. 18 roku życia,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej są:,"Konstytucja, ustawy, ratyfikowane umowy międzynarodowe oraz rozporządzenia",A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Sejm i Senat są wybierane na:,czteroletnie kadencje,A,True,False,False,False
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej wybrany do Sejmu może być obywatel polski mający prawo wybierania, który najpóźniej w dniu wyborów kończy:",21 lat,C,False,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Sejm i Senat obradują na:,posiedzeniach,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Sejm rozpatruje projekt ustawy:,w trzech czytaniach,"A. w trzech czytaniach
+
+Uzasadnienie: Zgodnie z art. 120 Konstytucji Rzeczypospolitej Polskiej, Sejm uchwala ustawy zwykłą większością głosów w obecności co najmniej połowy ustawowej liczby posłów, chyba że Konstytucja przewiduje inną większość. Ustawę uważa się za uchwaloną, jeżeli Sejm uchwalił ją w trzech czytaniach.",True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej prawo wnoszenia poprawek do projektu ustawy w czasie rozpatrywania go przez Sejm przysługuje:,"wnioskodawcy projektu, posłom i Radzie Ministrów ",A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej ważność wyboru Prezydenta Rzeczypospolitej stwierdza:,Sąd Najwyższy,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej członkowie Rady Ministrów ponoszą odpowiedzialność przed Trybunałem Stanu:,"za naruszenie Konstytucji lub ustaw, a także za przestępstwa popełnione w związku z zajmowanym stanowiskiem",A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej członkowie Rady Ministrów ponoszą przed Sejmem solidarną odpowiedzialność za:,działalność Rady Ministrów ,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Pierwszego Prezesa Sądu Najwyższego powołuje Prezydent Rzeczypospolitej:,na sześcioletnią kadencję,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Rzecznik Praw Obywatelskich jest powoływany przez Sejm za zgodą Senatu na:,5 lat,A,True,False,False,False
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej nakładanie podatków, innych danin publicznych, określanie podmiotów, przedmiotów opodatkowania i stawek podatkowych, a także zasad przyznawania ulg i umorzeń oraz kategorii podmiotów zwolnionych od podatków następuje:",w drodze ustawy,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Senat może uchwalić poprawki do ustawy budżetowej w ciągu:,20 dni od dnia przekazania jej Senatowi ,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Trybunał Konstytucyjny składa się:,z 15 sędziów,A,True,False,False,False
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej Trybunał Konstytucyjny składa się 15 sędziów, wybieranych indywidualnie przez Sejm na:",9 lat,A. 9 lat,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej sędziowie Trybunału Konstytucyjnego w sprawowaniu swojego urzędu są niezawiśli i podlegają tylko:,Konstytucji,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej ważność wyborów do Senatu stwierdza:,Sąd Najwyższy,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej społeczna gospodarka rynkowa jest:,"oparta na wolności działalności gospodarczej, własności prywatnej oraz solidarności, dialogu i współpracy partnerów społecznych",A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdemu zapewnia się wolność wyboru i wykonywania zawodu oraz wyboru miejsca pracy:,z wyjątkami określonymi w ustawie,A,True,False,False,False
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, ślubowanie składane przez posłów może być złożone z dodaniem zdania:",Tak mi dopomóż Bóg,A,True,False,False,False
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, jeżeli Marszałek Sejmu nie może wykonywać obowiązków Prezydenta Rzeczypospolitej, obowiązki te przejmuje:",Marszałek Senatu,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Prezesa i Wiceprezesa Trybunału Konstytucyjnego powołuje:,Prezydent Rzeczypospolitej Polskiej,A,True,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej stan nadzwyczajny może być wprowadzony w drodze:,rozporządzenia,A,True,False,False,False
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, nie może być skrócona kadencja Sejmu w czasie stanu nadzwyczajnego oraz w ciągu:",90 dni po jego zakończeniu,A,True,False,False,False
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, własność i inne prawa majątkowe, a także prawo dziedziczenia:",podlegają równej dla wszystkich ochronie prawnej,A,True,False,False,False
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej za naruszenie ustawy, w związku z zajmowanym stanowiskiem lub w zakresie swojego urzędowania, odpowiedzialność konstytucyjną przed Trybunałem Stanu ponosi:",Prezes Narodowego Banku Polskiego,B,False,False,False,False
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej władzę ustawodawczą sprawują:,Sejm i Senat,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej władzę wykonawczą sprawuje:,Prezydent Rzeczypospolitej Polskiej i Rada Ministrów,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej władza zwierzchnia w Rzeczypospolitej Polskiej należy do:,Narodu,B,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej finansowanie partii politycznych:,Jest jawne,A. Jest jawne,True,True,False,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej małżeństwo jako związek kobiety i mężczyzny, rodzina, macierzyństwo i rodzicielstwo znajdują się pod ochroną i opieką:",Rzeczypospolitej Polskiej,C,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Siły Zbrojne Rzeczypospolitej Polskiej służą:,ochronie niepodległości państwa i niepodzielności jego terytorium oraz zapewnieniu ,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Siły Zbrojne zachowują neutralność w sprawach politycznych oraz podlegają: ,cywilnej i demokratycznej kontroli,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej podczas pobytu za granicą obywatel polski ma prawo do opieki: ,ze strony Rzeczypospolitej Polskiej,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej kto znajduje się pod władzą Rzeczypospolitej Polskiej:,korzysta z wolności i praw zapewnionych w Konstytucji,A. korzysta z wolności i praw zapewnionych w Konstytucji,True,True,False,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, każdy przeciw komu prowadzone jest postepowanie karne, ma prawo do obrony we wszystkich stadiach postepowania. Może on w szczególności wybrać obrońcę lub:",korzystać z obrońcy z urzędu,B,False,True,False,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, każdego uważa się za niewinnego, dopóki jego wina:",nie zostanie stwierdzona prawomocnym wyrokiem sądu ,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo do ochrony prawnej:,"życia prywatnego, rodzinnego, czci i dobrego imienia oraz do decydowania o swoim życiu osobistym",A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo dostępu do:,dotyczących go urzędowych dokumentów i zbiorów danych. Ograniczenie tego prawa może określić ustawa ,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo do: ,"żądania sprostowania oraz usunięcia informacji nieprawdziwych, niepełnych lub zebranych w sposób sprzeczny z ustawą",B. żądania sprostowania oraz usunięcia informacji nieprawdziwych,False,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo do nauki. Nauka jest obowiązkowa do:,18 roku życia,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej są:,"Konstytucja, ustawy, ratyfikowane umowy międzynarodowe oraz rozporządzenia",A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Sejm i Senat są wybierane na:,czteroletnie kadencje,A,True,True,False,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej wybrany do Sejmu może być obywatel polski mający prawo wybierania, który najpóźniej w dniu wyborów kończy:",21 lat,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Sejm i Senat obradują na:,posiedzeniach,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Sejm rozpatruje projekt ustawy:,w trzech czytaniach,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej prawo wnoszenia poprawek do projektu ustawy w czasie rozpatrywania go przez Sejm przysługuje:,"wnioskodawcy projektu, posłom i Radzie Ministrów ",A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej ważność wyboru Prezydenta Rzeczypospolitej stwierdza:,Sąd Najwyższy,B. Sejm i Senat,False,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej członkowie Rady Ministrów ponoszą odpowiedzialność przed Trybunałem Stanu:,"za naruszenie Konstytucji lub ustaw, a także za przestępstwa popełnione w związku z zajmowanym stanowiskiem",A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej członkowie Rady Ministrów ponoszą przed Sejmem solidarną odpowiedzialność za:,działalność Rady Ministrów ,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Pierwszego Prezesa Sądu Najwyższego powołuje Prezydent Rzeczypospolitej:,na sześcioletnią kadencję,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Rzecznik Praw Obywatelskich jest powoływany przez Sejm za zgodą Senatu na:,5 lat,A,True,True,False,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej nakładanie podatków, innych danin publicznych, określanie podmiotów, przedmiotów opodatkowania i stawek podatkowych, a także zasad przyznawania ulg i umorzeń oraz kategorii podmiotów zwolnionych od podatków następuje:",w drodze ustawy,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Senat może uchwalić poprawki do ustawy budżetowej w ciągu:,20 dni od dnia przekazania jej Senatowi ,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Trybunał Konstytucyjny składa się:,z 15 sędziów,A. z 15 sędziów,True,True,False,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej Trybunał Konstytucyjny składa się 15 sędziów, wybieranych indywidualnie przez Sejm na:",9 lat,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej sędziowie Trybunału Konstytucyjnego w sprawowaniu swojego urzędu są niezawiśli i podlegają tylko:,Konstytucji,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej ważność wyborów do Senatu stwierdza:,Sąd Najwyższy,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej społeczna gospodarka rynkowa jest:,"oparta na wolności działalności gospodarczej, własności prywatnej oraz solidarności, dialogu i współpracy partnerów społecznych",A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdemu zapewnia się wolność wyboru i wykonywania zawodu oraz wyboru miejsca pracy:,z wyjątkami określonymi w ustawie,A,True,True,False,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, ślubowanie składane przez posłów może być złożone z dodaniem zdania:",Tak mi dopomóż Bóg,A,True,True,False,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, jeżeli Marszałek Sejmu nie może wykonywać obowiązków Prezydenta Rzeczypospolitej, obowiązki te przejmuje:",Marszałek Senatu,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Prezesa i Wiceprezesa Trybunału Konstytucyjnego powołuje:,Prezydent Rzeczypospolitej Polskiej,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej stan nadzwyczajny może być wprowadzony w drodze:,rozporządzenia,A,True,True,False,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, nie może być skrócona kadencja Sejmu w czasie stanu nadzwyczajnego oraz w ciągu:",90 dni po jego zakończeniu,A,True,True,False,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, własność i inne prawa majątkowe, a także prawo dziedziczenia:",podlegają równej dla wszystkich ochronie prawnej,A,True,True,False,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej za naruszenie ustawy, w związku z zajmowanym stanowiskiem lub w zakresie swojego urzędowania, odpowiedzialność konstytucyjną przed Trybunałem Stanu ponosi:",Prezes Narodowego Banku Polskiego,A,True,True,False,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej władzę ustawodawczą sprawują:,Sejm i Senat,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej władzę wykonawczą sprawuje:,Prezydent Rzeczypospolitej Polskiej i Rada Ministrów,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej władza zwierzchnia w Rzeczypospolitej Polskiej należy do:,Narodu,B,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej finansowanie partii politycznych:,Jest jawne,A,True,True,True,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej małżeństwo jako związek kobiety i mężczyzny, rodzina, macierzyństwo i rodzicielstwo znajdują się pod ochroną i opieką:",Rzeczypospolitej Polskiej,C,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Siły Zbrojne Rzeczypospolitej Polskiej służą:,ochronie niepodległości państwa i niepodzielności jego terytorium oraz zapewnieniu ,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Siły Zbrojne zachowują neutralność w sprawach politycznych oraz podlegają: ,cywilnej i demokratycznej kontroli,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej podczas pobytu za granicą obywatel polski ma prawo do opieki: ,ze strony Rzeczypospolitej Polskiej,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej kto znajduje się pod władzą Rzeczypospolitej Polskiej:,korzysta z wolności i praw zapewnionych w Konstytucji,A,True,True,True,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, każdy przeciw komu prowadzone jest postepowanie karne, ma prawo do obrony we wszystkich stadiach postepowania. Może on w szczególności wybrać obrońcę lub:",korzystać z obrońcy z urzędu,B,False,True,True,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, każdego uważa się za niewinnego, dopóki jego wina:",nie zostanie stwierdzona prawomocnym wyrokiem sądu ,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo do ochrony prawnej:,"życia prywatnego, rodzinnego, czci i dobrego imienia oraz do decydowania o swoim życiu osobistym",A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo dostępu do:,dotyczących go urzędowych dokumentów i zbiorów danych. Ograniczenie tego prawa może określić ustawa ,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo do: ,"żądania sprostowania oraz usunięcia informacji nieprawdziwych, niepełnych lub zebranych w sposób sprzeczny z ustawą",A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo do nauki. Nauka jest obowiązkowa do:,18 roku życia,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej są:,"Konstytucja, ustawy, ratyfikowane umowy międzynarodowe oraz rozporządzenia",A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Sejm i Senat są wybierane na:,czteroletnie kadencje,A,True,True,True,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej wybrany do Sejmu może być obywatel polski mający prawo wybierania, który najpóźniej w dniu wyborów kończy:",21 lat,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Sejm i Senat obradują na:,posiedzeniach,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Sejm rozpatruje projekt ustawy:,w trzech czytaniach,A. w trzech czytaniach,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej prawo wnoszenia poprawek do projektu ustawy w czasie rozpatrywania go przez Sejm przysługuje:,"wnioskodawcy projektu, posłom i Radzie Ministrów ",A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej ważność wyboru Prezydenta Rzeczypospolitej stwierdza:,Sąd Najwyższy,B. Sejm i Senat,False,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej członkowie Rady Ministrów ponoszą odpowiedzialność przed Trybunałem Stanu:,"za naruszenie Konstytucji lub ustaw, a także za przestępstwa popełnione w związku z zajmowanym stanowiskiem",A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej członkowie Rady Ministrów ponoszą przed Sejmem solidarną odpowiedzialność za:,działalność Rady Ministrów ,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Pierwszego Prezesa Sądu Najwyższego powołuje Prezydent Rzeczypospolitej:,na sześcioletnią kadencję,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Rzecznik Praw Obywatelskich jest powoływany przez Sejm za zgodą Senatu na:,5 lat,A,True,True,True,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej nakładanie podatków, innych danin publicznych, określanie podmiotów, przedmiotów opodatkowania i stawek podatkowych, a także zasad przyznawania ulg i umorzeń oraz kategorii podmiotów zwolnionych od podatków następuje:",w drodze ustawy,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Senat może uchwalić poprawki do ustawy budżetowej w ciągu:,20 dni od dnia przekazania jej Senatowi ,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Trybunał Konstytucyjny składa się:,z 15 sędziów,A,True,True,True,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej Trybunał Konstytucyjny składa się 15 sędziów, wybieranych indywidualnie przez Sejm na:",9 lat,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej sędziowie Trybunału Konstytucyjnego w sprawowaniu swojego urzędu są niezawiśli i podlegają tylko:,Konstytucji,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej ważność wyborów do Senatu stwierdza:,Sąd Najwyższy,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej społeczna gospodarka rynkowa jest:,"oparta na wolności działalności gospodarczej, własności prywatnej oraz solidarności, dialogu i współpracy partnerów społecznych",A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdemu zapewnia się wolność wyboru i wykonywania zawodu oraz wyboru miejsca pracy:,z wyjątkami określonymi w ustawie,A,True,True,True,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, ślubowanie składane przez posłów może być złożone z dodaniem zdania:",Tak mi dopomóż Bóg,A,True,True,True,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, jeżeli Marszałek Sejmu nie może wykonywać obowiązków Prezydenta Rzeczypospolitej, obowiązki te przejmuje:",Marszałek Senatu,A. Marszałek Senatu,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej Prezesa i Wiceprezesa Trybunału Konstytucyjnego powołuje:,Prezydent Rzeczypospolitej Polskiej,A,True,True,True,True
+Zgodnie z Konstytucją Rzeczypospolitej Polskiej stan nadzwyczajny może być wprowadzony w drodze:,rozporządzenia,A,True,True,True,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, nie może być skrócona kadencja Sejmu w czasie stanu nadzwyczajnego oraz w ciągu:",90 dni po jego zakończeniu,A,True,True,True,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej, własność i inne prawa majątkowe, a także prawo dziedziczenia:",podlegają równej dla wszystkich ochronie prawnej,A,True,True,True,True
+"Zgodnie z Konstytucją Rzeczypospolitej Polskiej za naruszenie ustawy, w związku z zajmowanym stanowiskiem lub w zakresie swojego urzędowania, odpowiedzialność konstytucyjną przed Trybunałem Stanu ponosi:",Prezes Narodowego Banku Polskiego,A,True,True,True,True
