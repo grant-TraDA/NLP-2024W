@@ -1,0 +1,11 @@
+pandas
+numpy
+# pydantic
+# pydantic_ai 
+tqdm
+langchain_community
+scikit-learn
+torch
+transformers
+umap-learn
+hdbscan
