@@ -1,0 +1,45 @@
+<HTML>
+<HEAD>
+<TITLE>Center for Advanced Medical Informatics at Stanford</TITLE>
+</HEAD>
+<BODY>
+
+<IMG SRC="graphics/camisbanner2.gif" WIDTH=472 HEIGHT=152>
+<HR>
+<B>Center Description</B><BR>
+The Center for Advanced Medical Informatics at Stanford was established in 1990 to create links between academic, research, and administrative computing activities in the <A HREF="http://med-www.stanford.edu/MedCenter/MedSchool/medschool.html">Stanford University School of Medicine</A>, and to serve as a source of advice to the Deans office on <A HREF="whatisinformatics.html">informatics</A> issues. The Center was then funded in 1992 by the <A HREF="http://www.nlm.nih.gov/">National Library of Medicine (NLM)</A> to create a shared computing resource to support research activities in biomedical informatics. This resource is also named CAMIS and supports an active core research program, the computing infrastructure and day-to-day computing needs of a large number of researchers, each of whom has external support from <A HREF="http://www.nih.gov/">NIH (the National Institutes of Health)</A> or other agencies through grants or contracts. Though the CAMIS resource is <A HREF="http://www.stanford.edu">Stanford</A>-based, its mission has a national character, which includes support of national electronic mail distribution lists, extensive on-line information resources, an annual CAMIS symposium, three academic training programs, a visiting scholar program and a national advisory council. The nominal location of CAMIS is in the <A HREF="http://www-camis.stanford.edu/maps/map_msob.html">Medical School Office Building (MSOB)</A> on the <A HREF="http://www-pcd.stanford.edu/cgi-bin/map/map.html?msob">Stanford University campus</A>.
+<HR>
+<DL>
+<B><DT><A HREF="http://www-camis.stanford.edu/faq.html">General Information</A></B>
+	<DD>Includes answers to Frequently Asked Questions (FAQ). Please read this before sending email to the maintainers of this web.
+<B><DT><A HREF="http://www-camis.stanford.edu/smi/academics">Academic Programs</A></B>
+	<DD>Descriptions of the degree programs in medical informatics and related disciplines at Stanford University. Also includes information about the Informatics Short Course as well as other medical informatics training environments in the United States.
+<B><DT><A HREF="http://www-camis.stanford.edu/research/">Research Groups</A></B>
+	<DD>Information about past and present research groups.
+<B><DT><A HREF="http://www-camis.stanford.edu/publications">Publications</A></B>
+	<DD>Technical report abstracts and PostScript where available.
+<B><DT><A HREF="http://www-camis.stanford.edu/events">Calendar of Events</A></B>
+	<DD>Announcements of interest to the local CAMIS community including colloquia, symposia, journal club and other meetings.
+<B><DT><A HREF="http://www-camis.stanford.edu/people">People</A></B>
+	<DD>Profiles of members of the CAMIS community.
+<B><DT><A HREF="http://www-camis.stanford.edu/netresources.html">Net Resources</A></B>
+	<DD>Resources of interest to the medical informatics community.
+<B><DT><A HREF="http://www-camis.stanford.edu/localsonly.html">Local Tools</A></B>
+	<DD>Applications, documentation and other local resources for the CAMIS/KSL computing environment with special emphasis on WWW.
+</DL>
+
+<HR>
+<B><I>Jump to</I>... </B>
+[<A HREF="http://med-www.stanford.edu/MedSchool/">School of Medicine</A>]
+[<A HREF="http://med-www.stanford.edu/>Med Center</A>]
+[<A HREF="http://www.stanford.edu/">Stanford</A>]
+[<A HREF="http://www-camis.stanford.edu/smi>Section on Medical Informatics</A>]
+[<A HREF="http://www-ksl.stanford.edu>Knowledge Systems Lab</A>]
+<HR>
+<H6>
+<ADDRESS>
+Last updated on September 7, 1995 by <A HREF="mailto:heycke@camis.stanford.edu">heycke@camis.stanford.edu</a> 
+</ADDRESS>
+</h6>
+</body>
+</HTML>

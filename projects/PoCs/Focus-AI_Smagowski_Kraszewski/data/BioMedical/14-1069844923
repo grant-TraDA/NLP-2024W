@@ -1,0 +1,89 @@
+<TITLE>Hopkins Bio-Informatics Home Page</TITLE>
+
+<H1>The Johns Hopkins University BioInformatics Web Server</H1>
+<p>
+<hr>
+<p>
+<H1>Prot-Web</H1>
+<p>
+Prot-Web is a Collection of Protein Databases which contain links to one another as well as links
+to other databases around the world.
+<ul>
+<A HREF="http://www.gdb.org/Dan/proteins/owl.html"><IMG SRC="http://www.gdb.org/Dan/Images/OWL-mini.gif"> <b>OWL</b></A> - a non-redundant protein sequence database which ties a number of databases together.
+<p>
+<A HREF="http://www.gdb.org/Dan/proteins/nrl3d.html"><IMG SRC="http://www.gdb.org/Dan/Images/nrl3d-mini.gif"> <b>NRL_3D</b></A> - a sequence--structure database.
+<p>
+<A HREF="http://www.gdb.org/Dan/proteins/pir.html"><IMG SRC="http://www.gdb.org/Dan/Images/pir-mini.gif"> <b>PIR(1-3)</b></A> - The Protein Identification Resource Protein sequence database.
+<p>
+<A HREF="http://www.gdb.org/Dan/proteins/ec-enzyme.html"><IMG SRC="http://www.gdb.org/Dan/Images/enzyme-mini.gif"> <b>EC-Enzyme</b></A> An Enzyme classification database.
+<p>
+<A HREF="http://www.gdb.org/Dan/gq/gq.form.html"><IMG SRC="http://www.gdb.org/Dan/Images/gq.small4.gif"> <b>GenQuest - The Q server</b></A>.  An integrated
+interface to the sequence comparison server at the <i>Oak Ridge National Lab</i> designed for rapid and
+sensitive comparison of DNA and Protein sequence to existing DNA and Protein
+sequence databases and the rapid retrieval of the full database entries of any sequence
+found in the course of a search.
+<p>
+<A HREF="http://www.gdb.org/Dan/rebase/rebase.html"><IMG SRC="http://www.gdb.org/Dan/rebase/ecorv-itty2.gif"> <b>REBASE</b> - The Restriction Enzyme Database</A>
+<p>
+A collection of information about restriction enzymes and methylases.
+</ul>
+<p>
+<hr>
+<H2>Electronic Publications for Biology</H2>
+<p>
+<A HREF="http://www.gdb.org/Dan/DOE/intro.html"> Primer on Molecular Genetics</A>
+<p>
+<A HREF="http://www.gdb.org/Dan/mathbio/intro.html">Mathematics and Biology</A>
+<p>
+<A HREF="http://www.gdb.org/Dan/DOE/whitepaper/contents.html"> DOE Whitepaper on Bio-Informatics</A>
+<p>
+<A HREF="http://www.gdb.org/Dan/nchgr/intro.html">Report: NCHGR GESTEC Directors' Meeting on Genome Informatics</A>
+<p>
+<hr>
+<p>
+<H2>Other Biological Databases at Hopkins</H2>
+<p>
+<A HREF="http://www.gdb.org/Dan/tbase/tbase.html"><IMG SRC="/Dan/Images/mouse-mini.gif"> TBASE The Transgenic/Targeted Mutation Database</A>
+<p>
+<A HREF="http://www.gdb.org/Dan/DSHB/dshb.intro.html"><IMG SRC="/Dan/Images/DSHB/DSHB.Web.logo-itty2.GIF"> 
+The Developmental Studies Hybridoma Bank</A>
+<p>
+<A HREF="http://www.gdb.org/Dan/catal/milli-intro.html"><IMG SRC="http://www.gdb.org/Dan/Images/catal/milli/cover-mini.gif"> The Millipore On-line Catalog</A>
+<p>
+<A HREF="http://www.gdb.org/HTB/htb.html"><IMG SRC="/Dan/Images/DOE-mini.gif"> The DOE Human Subjects Database</A>
+<p>
+<A HREF="http://gdbwww.gdb.org/"><IMG SRC="/Dan/Images/gdb.gif"> The Genome Data Base</A>
+<p>
+<hr>
+<p>
+<H2>Software and Data</H2>
+<p>
+<ul>
+<li><A HREF="http://www.gdb.org/Dan/softsearch/softsearch.html">Search for and retrieve software from sites around the world</A>
+</ul>
+<p>
+<hr>
+<H2><A HREF="http://www.gdb.org/biolinks.html">Links to other Bio-Web servers</A></H2>
+<p>
+<hr>
+<p>
+<H2>General Starting Points from which to wander through the Web</H2>
+<ul>
+<li><A HREF="http://web.nexor.co.uk/aliweb/doc/aliweb.html">ALIWEB (Archie-Like Indexing for the Web)
+<li><A HREF="http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/StartingPoints/NetworkStartingPoints.html">Starting Points for Internet Exploration</A>
+<li><A HREF="http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/MetaIndex.html">Internet Resources Meta-Index</A>
+<li><A HREF="http://cuiwww.unige.ch/w3catalog">W3Catalog</A> - a searchable catalog of WWW resources at Geneva, Switzerland
+<li><A HREF="http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/Demo/metaindex.html">Experimental Meta-Index Search</a>
+<li><A HREF="http://www.rpi.edu/Internet/Guides/decemj/no-icons.html">Hypertext index/guide to the Internet</A>
+<li>Weather
+  <ul>
+    <li><A HREF="http://www.mit.edu:8001/usa.html">Interactive U.S. Weathermap and Forecasts</A>
+    <li><A HREF="http://rs560.cl.msu.edu:80/weather/">Current Satellite Images</A>
+  </ul>
+</ul>
+<p>
+<hr>
+<p>
+<Address>
+Dan Jacobson  danj@gdb.org
+</Address>

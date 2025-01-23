@@ -1,0 +1,50 @@
+<HTML>
+<HEAD>
+<TITLE>Genome Data Base - Home Page</TITLE>
+</HEAD>
+<BODY>
+<IMG SRC="/gdb/images/gdb-logo-small.gif" ALT="GDB">
+<H1>Welcome to the GDB Human Genome Data Base</H1>
+<A HREF="/gdb/docs/intro.html"> Introduction and Demonstrations</A>
+<P>
+<H2>Query Tools</H2>
+<UL>
+<LI> <A HREF="/gdb/browser/docs/topq.html"><B>The GDB Browser</B></A>
+<LI> <A HREF="http://gdbwww.gdb.org/omim/docs/omimtop.html"><B>OMIM -- Online Mendelian Inheritance in Man</B></A>
+<LI> <A HREF="http://gdbwww.gdb.org/gdb/wais/docs/gdb-wais.html">GDB via WAIS (Wide Area Information Service)</A>
+<LI> <A HREF="/gdb/ideo/docs/ideogram.html">Ideogram-Based Searching of GDB</A>
+<LI> <A HREF="/gdb/refmark/docs/refmark.html">Maps of HUGO Reference Markers</A>
+</UL>
+<P>
+<H2>Links to Related Resources</H2>
+<UL>
+<LI> <A HREF="/gdb/docs/genomic_links.html">Human Genome Project Resources and Meetings</A>
+<LI> <A HREF="/gdb/docs/mirror_sites.html">GDB Web Server Mirror Sites</A>
+<LI> <A HREF="ftp://ftp.gdb.org/">GDB FTP Server</A>
+<LI> <A HREF="news:bionet.molbio.gdb">GDB USENET Newsgroup</a>
+<LI> <A HREF="http://www.gdb.org/hopkins.html">JHU Bioinformatics WWW Server</A>
+</UL>
+<P>
+<H2>Information about GDB</H2>
+<UL>
+<LI> <A HREF="/gdb/docs/whats-new.html">What's New</A>
+<UL>
+<LI> <A HREF="/gdb/docs/whats-new.html#17">Citations Relevant to GDB</A> (25 Aug 95)
+<LI> <A HREF="/gdb/docs/whats-new.html#16">Mammalian Homology Data</A> (14 Aug 95)
+<LI> <A HREF="/gdb/docs/whats-new.html#15">Probe Library Location Query</A> (1 Aug 95)
+<LI> <A HREF="/gdb/docs/whats-new.html#14">GDB Web Server URLs</A> (20 Jul 95)
+</UL>
+<LI> <A HREF="/gdb/docs/faq.html">Frequently Asked Questions (FAQ)</A>
+<LI> <A HREF="/gdb/data/docs/data.html">GDB Data Submission and Related Information</A>
+<LI> <A HREF="/gdb/docs/research.html">GDB Research Projects</A>
+<LI> <A HREF="/gdb/docs/future-plans.html">GDB Future Plans</A>
+<LI> <A HREF="/gdb/docs/gdb-funding.html">GDB Funding, Disclaimer, and Trademarks</A>
+<LI> <A HREF="/gdb/docs/gdb-omim-ref.html">Guidelines for Referencing GDB and OMIM</A>
+<LI> <A HREF="/gdb/docs/statistics.html">GDB Data and Web Usage Statistics</A> 
+</UL>
+<P>
+<H2>
+<A HREF="/gdb/docs/contact.html">How to Contact Us</A>
+</H2>
+</BODY>
+</HTML>

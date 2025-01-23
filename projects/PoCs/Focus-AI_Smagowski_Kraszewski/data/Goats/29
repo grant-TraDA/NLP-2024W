@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Who am I?</title>
+</head>
+<body background="../gifs/ether.gif" text=#ffffff link=#ffff00 vlink=#7fff00 alink=#00ffff>
+<a href="../gallery/gavin1.jpeg"><img src="../gallery/gavin2_head.jpeg"></a>
+<p align=center><b><font size=+3> Who am I? </font></b></p>
+
+
+<img src="../gifs/line.rainbow.gif" alt="-----"  height=14 width=559>
+<p>
+
+Well for those of you who are really interested:-
+<p>
+
+I am a first year undergraduate at the 
+<a href="http://www.warwick.ac.uk/">University of Warwick</a> reading 
+<a href="http://www.maths.warwick.ac.uk/maths/undergrad/">Mathematics</a> and
+<a href="http://www.dcs.warwick.ac.uk/dcs/course/undergrad/g500/">Computation</a>. <p>
+
+If you are really keen, you can even have a look at my 
+<a href="http://www.csv.warwick.ac.uk/~maufk/gavin/timetable.html">timetable</a>.
+<p>
+
+<p>
+
+<img src="http://www.csv.warwick.ac.uk/~maufk/graphics/mt-goat.gif">
+<img src="http://www.csv.warwick.ac.uk/~maufk/graphics/goat-outline.gif">
+<p>
+Some people like to call me a goat, so just to satisfy them, I
+have included a large <a href="http://www.csv.warwick.ac.uk/~maufk/graphics/mountaingoat_large.jpg">picture</a> and a page of 
+<a href="goats_on_the_net.html">goat links!</a>
+
+<img src="../gifs/line.rainbow.gif" alt="-----"  height=14 width=559><p>
+<A HREF="http://www.csv.warwick.ac.uk/~maufk/index.html">Gavin Porter</A>
+<address>
+(gavinp@dcs.warwick.ac.uk)
+</ADDRESS><p>
+
+<a href="mailto:gavinp@dcs.warwick.ac.uk">
+  <img src="../graphics/mail.gif" height=32 width=32 alt="MAIL ME" border=0></a>
+<a href="gopher://crocus.csv.warwick.ac.uk:79/~maufk">
+  <img src="../graphics/finger.gif" height=32 width=32 alt="FINGER ME" border=0></a>
+
+</body>
+</html>
