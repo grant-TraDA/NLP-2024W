@@ -1,0 +1,699 @@
+[
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej władzę ustawodawczą sprawują:",
+        "answers": [
+            {
+                "answer": "Sejm i Senat",
+                "correct": true
+            },
+            {
+                "answer": "Prezydent Rzeczypospolitej Polskiej",
+                "correct": false
+            },
+            {
+                "answer": "Rada Ministrów",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej władzę wykonawczą sprawuje:",
+        "answers": [
+            {
+                "answer": "Prezydent Rzeczypospolitej Polskiej i Rada Ministrów",
+                "correct": true
+            },
+            {
+                "answer": "Sejm i Senat",
+                "correct": false
+            },
+            {
+                "answer": "Rada Ministrów",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej władza zwierzchnia w Rzeczypospolitej Polskiej należy do:",
+        "answers": [
+            {
+                "answer": "Prezydenta Rzeczypospolitej Polskiej",
+                "correct": false
+            },
+            {
+                "answer": "Narodu",
+                "correct": true
+            },
+            {
+                "answer": "Rady Ministrów",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej finansowanie partii politycznych:",
+        "answers": [
+            {
+                "answer": "Jest jawne",
+                "correct": true
+            },
+            {
+                "answer": "Jest nieobowiązkowe",
+                "correct": false
+            },
+            {
+                "answer": "Należy do Narodu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej małżeństwo jako związek kobiety i mężczyzny, rodzina, macierzyństwo i rodzicielstwo znajdują się pod ochroną i opieką:",
+        "answers": [
+            {
+                "answer": "Państwa",
+                "correct": false
+            },
+            {
+                "answer": "Konstytucji Rzeczypospolitej Polskiej",
+                "correct": false
+            },
+            {
+                "answer": "Rzeczypospolitej Polskiej",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Siły Zbrojne Rzeczypospolitej Polskiej służą:",
+        "answers": [
+            {
+                "answer": "ochronie niepodległości państwa i niepodzielności jego terytorium oraz zapewnieniu ",
+                "correct": true
+            },
+            {
+                "answer": "zapewnieniu bezpieczeństwa i nienaruszalności jego granic",
+                "correct": false
+            },
+            {
+                "answer": "ochronie niepodległości państwa i niepodzielności jego terytorium",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Siły Zbrojne zachowują neutralność w sprawach politycznych oraz podlegają: ",
+        "answers": [
+            {
+                "answer": "cywilnej i demokratycznej kontroli",
+                "correct": true
+            },
+            {
+                "answer": "cywilnej kontroli",
+                "correct": false
+            },
+            {
+                "answer": "demokratycznej kontroli",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej podczas pobytu za granicą obywatel polski ma prawo do opieki: ",
+        "answers": [
+            {
+                "answer": "ze strony Rzeczypospolitej Polskiej",
+                "correct": true
+            },
+            {
+                "answer": "lekarskiej",
+                "correct": false
+            },
+            {
+                "answer": "wynikających z praw zapewnionych w Konstytucji",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej kto znajduje się pod władzą Rzeczypospolitej Polskiej:",
+        "answers": [
+            {
+                "answer": "korzysta z wolności i praw zapewnionych w Konstytucji",
+                "correct": true
+            },
+            {
+                "answer": "korzysta z wolności i praw zapewnionych przez Rzeczpospolitą Polską",
+                "correct": false
+            },
+            {
+                "answer": "korzysta z praw zapewnionych w Konstytucji",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, każdy przeciw komu prowadzone jest postepowanie karne, ma prawo do obrony we wszystkich stadiach postepowania. Może on w szczególności wybrać obrońcę lub:",
+        "answers": [
+            {
+                "answer": "korzystać z obrońcy z urzędu",
+                "correct": true
+            },
+            {
+                "answer": "na zasadach określonych w ustawie korzystać z obrońcy z urzędu",
+                "correct": false
+            },
+            {
+                "answer": "nie korzystać z obrońcy z urzędu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, każdego uważa się za niewinnego, dopóki jego wina:",
+        "answers": [
+            {
+                "answer": "nie zostanie stwierdzona prawomocnym wyrokiem sądu ",
+                "correct": true
+            },
+            {
+                "answer": "nie zostanie udowodniona",
+                "correct": false
+            },
+            {
+                "answer": "nie zostanie stwierdzona wyrokiem sądu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo do ochrony prawnej:",
+        "answers": [
+            {
+                "answer": "życia prywatnego, rodzinnego, czci i dobrego imienia oraz do decydowania o swoim życiu osobistym",
+                "correct": true
+            },
+            {
+                "answer": "życia prywatnego oraz do decydowania do decydowania o swoim życiu osobistym",
+                "correct": false
+            },
+            {
+                "answer": "życia prywatnego, rodzinnego, czci i dobrego imienia",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo dostępu do:",
+        "answers": [
+            {
+                "answer": "dotyczących go urzędowych dokumentów i zbiorów danych. Ograniczenie tego prawa może określić ustawa ",
+                "correct": true
+            },
+            {
+                "answer": "zbiorów danych",
+                "correct": false
+            },
+            {
+                "answer": "dotyczących go urzędowych dokumentów i zbiorów danych",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo do: ",
+        "answers": [
+            {
+                "answer": "żądania sprostowania oraz usunięcia informacji nieprawdziwych, niepełnych lub zebranych w sposób sprzeczny z ustawą",
+                "correct": true
+            },
+            {
+                "answer": "żądania sprostowania oraz usunięcia informacji nieprawdziwych",
+                "correct": false
+            },
+            {
+                "answer": "żądania sprostowania oraz usunięcia oraz usunięcia informacji nieprawdziwych zebranych w sposób sprzeczny z ustawą",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdy ma prawo do nauki. Nauka jest obowiązkowa do:",
+        "answers": [
+            {
+                "answer": "18 roku życia",
+                "correct": true
+            },
+            {
+                "answer": "16 roku życia",
+                "correct": false
+            },
+            {
+                "answer": "24 roku życia",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej są:",
+        "answers": [
+            {
+                "answer": "Konstytucja, ustawy, ratyfikowane umowy międzynarodowe oraz rozporządzenia",
+                "correct": true
+            },
+            {
+                "answer": "Konstytucja, ustawy, rozporządzenia",
+                "correct": false
+            },
+            {
+                "answer": "ustawy, ratyfikowane umowy międzynarodowe oraz rozporządzenia",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Sejm i Senat są wybierane na:",
+        "answers": [
+            {
+                "answer": "czteroletnie kadencje",
+                "correct": true
+            },
+            {
+                "answer": "dwuletnie kadencje",
+                "correct": false
+            },
+            {
+                "answer": "sześcioletnie kadencje",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej wybrany do Sejmu może być obywatel polski mający prawo wybierania, który najpóźniej w dniu wyborów kończy:",
+        "answers": [
+            {
+                "answer": "21 lat",
+                "correct": true
+            },
+            {
+                "answer": "20 lat",
+                "correct": false
+            },
+            {
+                "answer": "18 lat",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Sejm i Senat obradują na:",
+        "answers": [
+            {
+                "answer": "posiedzeniach",
+                "correct": true
+            },
+            {
+                "answer": "naradach",
+                "correct": false
+            },
+            {
+                "answer": "sympozjach",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Sejm rozpatruje projekt ustawy:",
+        "answers": [
+            {
+                "answer": "w trzech czytaniach",
+                "correct": true
+            },
+            {
+                "answer": "w jednym czytaniu ",
+                "correct": false
+            },
+            {
+                "answer": "w dwóch czytaniach",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej prawo wnoszenia poprawek do projektu ustawy w czasie rozpatrywania go przez Sejm przysługuje:",
+        "answers": [
+            {
+                "answer": "wnioskodawcy projektu, posłom i Radzie Ministrów ",
+                "correct": true
+            },
+            {
+                "answer": "posłom i Radzie Ministrów",
+                "correct": false
+            },
+            {
+                "answer": "wnioskodawcy projektu i posłom",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej ważność wyboru Prezydenta Rzeczypospolitej stwierdza:",
+        "answers": [
+            {
+                "answer": "Sąd Najwyższy",
+                "correct": true
+            },
+            {
+                "answer": "Sejm i Senat",
+                "correct": false
+            },
+            {
+                "answer": "Naród",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej członkowie Rady Ministrów ponoszą odpowiedzialność przed Trybunałem Stanu:",
+        "answers": [
+            {
+                "answer": "za naruszenie Konstytucji lub ustaw, a także za przestępstwa popełnione w związku z zajmowanym stanowiskiem",
+                "correct": true
+            },
+            {
+                "answer": "za naruszenie Konstytucji",
+                "correct": false
+            },
+            {
+                "answer": "za przestępstwa popełnione w związku z zajmowanym stanowiskiem",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej członkowie Rady Ministrów ponoszą przed Sejmem solidarną odpowiedzialność za:",
+        "answers": [
+            {
+                "answer": "działalność Rady Ministrów ",
+                "correct": true
+            },
+            {
+                "answer": "działalność Senatu",
+                "correct": false
+            },
+            {
+                "answer": "działalność Trybunału Stanu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Pierwszego Prezesa Sądu Najwyższego powołuje Prezydent Rzeczypospolitej:",
+        "answers": [
+            {
+                "answer": "na sześcioletnią kadencję",
+                "correct": true
+            },
+            {
+                "answer": "na czteroletnią kadencję",
+                "correct": false
+            },
+            {
+                "answer": "na ośmioletnią kadencję",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Rzecznik Praw Obywatelskich jest powoływany przez Sejm za zgodą Senatu na:",
+        "answers": [
+            {
+                "answer": "5 lat",
+                "correct": true
+            },
+            {
+                "answer": "3 lata",
+                "correct": false
+            },
+            {
+                "answer": "6 lat",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej nakładanie podatków, innych danin publicznych, określanie podmiotów, przedmiotów opodatkowania i stawek podatkowych, a także zasad przyznawania ulg i umorzeń oraz kategorii podmiotów zwolnionych od podatków następuje:",
+        "answers": [
+            {
+                "answer": "w drodze ustawy",
+                "correct": true
+            },
+            {
+                "answer": "na podstawie rozporządzenia",
+                "correct": false
+            },
+            {
+                "answer": "w drodze postanowienia",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Senat może uchwalić poprawki do ustawy budżetowej w ciągu:",
+        "answers": [
+            {
+                "answer": "20 dni od dnia przekazania jej Senatowi ",
+                "correct": true
+            },
+            {
+                "answer": "10 dni od dnia przekazania jej Senatowi",
+                "correct": false
+            },
+            {
+                "answer": "30 dni od dnia przekazania jej Senatowi",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Trybunał Konstytucyjny składa się:",
+        "answers": [
+            {
+                "answer": "z 15 sędziów",
+                "correct": true
+            },
+            {
+                "answer": "z 18 sędziów",
+                "correct": false
+            },
+            {
+                "answer": "z 10 sędziów",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Trybunał Konstytucyjny składa się 15 sędziów, wybieranych indywidualnie przez Sejm na:",
+        "answers": [
+            {
+                "answer": "9 lat",
+                "correct": true
+            },
+            {
+                "answer": "6 lat",
+                "correct": false
+            },
+            {
+                "answer": "3 lata",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej sędziowie Trybunału Konstytucyjnego w sprawowaniu swojego urzędu są niezawiśli i podlegają tylko:",
+        "answers": [
+            {
+                "answer": "Konstytucji",
+                "correct": true
+            },
+            {
+                "answer": "Trybunałowi Stanu",
+                "correct": false
+            },
+            {
+                "answer": "Rzecznikowi Praw Obywatelskich",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej ważność wyborów do Senatu stwierdza:",
+        "answers": [
+            {
+                "answer": "Sąd Najwyższy",
+                "correct": true
+            },
+            {
+                "answer": "Trybunał Konstytucyjny",
+                "correct": false
+            },
+            {
+                "answer": "Naczelny Sąd Administracyjny",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej społeczna gospodarka rynkowa jest:",
+        "answers": [
+            {
+                "answer": "oparta na wolności działalności gospodarczej, własności prywatnej oraz solidarności, dialogu i współpracy partnerów społecznych",
+                "correct": true
+            },
+            {
+                "answer": "systemem ekonomicznym opartym na wolnym rynku i własności prywatnej",
+                "correct": false
+            },
+            {
+                "answer": "rynkiem, rozumianym jako dobro wspólne całego społeczeństwa",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej każdemu zapewnia się wolność wyboru i wykonywania zawodu oraz wyboru miejsca pracy:",
+        "answers": [
+            {
+                "answer": "z wyjątkami określonymi w ustawie",
+                "correct": true
+            },
+            {
+                "answer": "bez wyjątku",
+                "correct": false
+            },
+            {
+                "answer": "bez jakiegokolwiek ograniczenia swobody wyboru tego prawa",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, ślubowanie składane przez posłów może być złożone z dodaniem zdania:",
+        "answers": [
+            {
+                "answer": "Tak mi dopomóż Bóg",
+                "correct": true
+            },
+            {
+                "answer": "Tak mi dopomóż Panie Boże",
+                "correct": false
+            },
+            {
+                "answer": "Tak nam dopomóż Panie Boże",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, jeżeli Marszałek Sejmu nie może wykonywać obowiązków Prezydenta Rzeczypospolitej, obowiązki te przejmuje:",
+        "answers": [
+            {
+                "answer": "Marszałek Senatu",
+                "correct": true
+            },
+            {
+                "answer": "Minister Sprawiedliwości",
+                "correct": false
+            },
+            {
+                "answer": "Prezes Rady Ministrów",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej Prezesa i Wiceprezesa Trybunału Konstytucyjnego powołuje:",
+        "answers": [
+            {
+                "answer": "Prezydent Rzeczypospolitej Polskiej",
+                "correct": true
+            },
+            {
+                "answer": "Zgromadzenie Ogólne",
+                "correct": false
+            },
+            {
+                "answer": "Trybunał Konstytucyjny",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej stan nadzwyczajny może być wprowadzony w drodze:",
+        "answers": [
+            {
+                "answer": "rozporządzenia",
+                "correct": true
+            },
+            {
+                "answer": "decyzji",
+                "correct": false
+            },
+            {
+                "answer": "uchwały",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, nie może być skrócona kadencja Sejmu w czasie stanu nadzwyczajnego oraz w ciągu:",
+        "answers": [
+            {
+                "answer": "90 dni po jego zakończeniu",
+                "correct": true
+            },
+            {
+                "answer": "70 dni po jego zakończeniu",
+                "correct": false
+            },
+            {
+                "answer": "60 dni po jego zakończeniu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, własność i inne prawa majątkowe, a także prawo dziedziczenia:",
+        "answers": [
+            {
+                "answer": "podlegają równej dla wszystkich ochronie prawnej",
+                "correct": true
+            },
+            {
+                "answer": "podlegają ochronie wg następującej gradacji: własność Skarbu Państwa i samorządów, własność społeczna, własność osób fizycznych",
+                "correct": false
+            },
+            {
+                "answer": "podlegają ochronie wg następującej gradacji: własność społeczna, własność związków zawodowych, własność Skarbu Państwa i samorządów, własność osób fizycznych",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej za naruszenie ustawy, w związku z zajmowanym stanowiskiem lub w zakresie swojego urzędowania, odpowiedzialność konstytucyjną przed Trybunałem Stanu ponosi:",
+        "answers": [
+            {
+                "answer": "Prezes Narodowego Banku Polskiego",
+                "correct": true
+            },
+            {
+                "answer": "Rzecznik Praw Obywatelskich",
+                "correct": false
+            },
+            {
+                "answer": "Prezes Urzędu Ochrony Danych Osobowych",
+                "correct": false
+            }
+        ]
+    }
+]
