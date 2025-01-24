@@ -1,0 +1,8 @@
+langchain-community
+langchain-unstructured
+langchain-huggingface
+nltk
+unstructured[pdf]
+faiss-gpu
+optimum
+auto-gptq
