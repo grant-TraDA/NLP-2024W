@@ -1,0 +1,47 @@
+<title>The Three-Dimensional Drug Structure Databank</title>
+<a href="http://www.nih.gov/htbin/imagemap/mmhome_documents"><img src="/molecular_modeling/images/sub_header.gif" ismap></a><p>
+
+The Three-dimensional Drug Structure Databank consists of a collection of
+experimental and approved therapeutic agents whose structures have been
+experimentally determined or built using molecular modeling methods.<p>
+<i>Please read the <a href="/molecular_modeling/drugbank/disclaimer.html">disclaimer</a> for important information concerning this Databank.<p>
+Contributions to the Databank are most welcome, and will be fully credited.  Please send structures (preferably in SYBYL mol2 format), together with the common and chemical names, the method by which the structure was determined, its
+therapeutic purpose, and a brief description of its mechanism of action to cmb@hawk.dcrt.nih.gov.</i><p>
+
+Additional drug structures may be found in the Cambridge Structural Database (under their chemical names) using <a href="http://www.nih.gov/local/csd.html">Small Molecules R US</a> (<i>NIH users only</i>).
+<p><hr><p>
+
+<h2>Cancer</h2>
+<ol>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#doxorubicin_anchor">Doxorubicin</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#tamoxifen_anchor">Tamoxifen</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#taxol_anchor">Taxol</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#taxotere_anchor">Taxotere</a>
+</ol>
+
+<h2>AIDS</h2>
+<ol>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#azt_anchor">AZT</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#calanolide_a_anchor">Calanolide A</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#calanolide_b_anchor">Calanolide B</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#conocurvone_anchor">Conocurvone</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#michellamine_b_anchor">Michellamine B</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#prostratin_anchor">Prostratin</a>
+</ol>
+
+<h2>TB</h2>
+<ol>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#ciprofloxacin_anchor">Ciprofloxacin</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#clofazimine_anchor">Clofazimine</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#D_cycloserine_anchor">D-cycloserine</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#ddC_anchor">ddC</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#ethionamide_anchor">Ethionamide</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#isoniazid_anchor">Isoniazid</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#pyrazinamide_anchor">Pyrazinamide</a>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#rifampin_anchor">Rifampin</a>
+</ol>
+
+<h2>Antiviral</h2>
+<ol>
+<li><a href="/molecular_modeling/drugbank/drugbank_list.html#4-guanidino-Neu5Ac2en_anchor">4-guanidino-Neu5Ac2en</a>
+</ol>

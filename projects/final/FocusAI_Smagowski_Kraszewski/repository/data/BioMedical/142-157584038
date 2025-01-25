@@ -1,0 +1,41 @@
+<html>
+<title>The Center for Imaging and Pharmaceutical Research Home Page</title>
+<body
+background="/cipr-bg.gif"
+bgcolor="#cfcfcf"
+text="#000000"
+link="#0000ff"
+vlink="#f000ff">
+<img align=left src="/.images/cipr_symbol.gif">	<img align=right src="/.images/mgh_symbol.gif">
+<pre></pre>
+<h1>Welcome to the Center for Imaging and Pharmaceutical Research</h1>
+<h3>At the Massachusetts General Hospital, in Charlestown, Massachusetts</h3>
+<hr>
+The Center for Imaging and Pharmaceutical Research (CIPR) explores the
+relationship between modern imaging technology and drug development.  CIPR
+was established in June of 1990 at the 
+<a href="/AboutMGH.html#MGH">MGH</a> through the largest industrial
+grant ever given to a Department of Radiology.  Independent and collaborative
+research span four critical areas : 
+<a href="/Departments/DI/">Diagnostic Imaging</a>, 
+<a href="/Departments/Chem/">Chemistry</a>, 
+<a href="/Departments/Nano/">Nanotherapeutics</a>, 
+and the <a href="/Departments/CNS/">Central Nervous System</a>.
+<p>
+<img align=top src="/.images/rball.gif"><a href="/AboutMGH.html">About the MGH</a><br>
+<img align=top src="/.images/bball.gif"><a href="/Profile.html">Department Profile</a><br>
+<img align=top src="/.images/bball.gif"><a href="/Statement.html">Program Statement</a><br>
+<img align=top src="/.images/rball.gif"><a href="/PhysFac/">Physical Facilities</a><br>
+<img align=top src="/.images/pball.gif"><a href="/PersonalPages/">CIPR Personnel</a><br>
+<img align=top src="/.images/gball.gif"><a href="/Current.html">Current Research Projects</a><br>
+<img align=top src="/.images/gball.gif"><a href="/RSNA/">RSNA Presentations</a><br>
+<img align=top src="/.images/pball.gif"><a href="/RelatedLinks.html">Related Medical Links</a>
+<p>
+<img align=top src="/.images/mbox.gif"><a href="/ReqInfo.html">Submit Request for More Information</a>
+<p>
+<img align=top src="/.images/pbox.gif"><a href="/Local/">Intradepartmental Resources</a>
+<p>
+<hr>
+Ted Beatie, <a href="/~tcb/"><em>tcb@cipr.mgh.harvard.edu<em></a><p>
+</body>
+</html>

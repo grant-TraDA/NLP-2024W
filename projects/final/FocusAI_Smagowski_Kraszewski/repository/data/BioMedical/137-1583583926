@@ -1,0 +1,38 @@
+<html><head>
+<title> Kuntz group welcome page</title>
+</head>
+<body>
+<img src="images/kuntz_hdr4.gif" alt= "Kuntz Group at UCSF">
+<H1>WELCOME TO THE KUNTZ GROUP!</H1> 
+<HR>
+<P>
+The Kuntz lab consists of two groups: a "dockers" group, which is
+working on issues in structure-based drug design, and an NMR group.<p>
+The main focus of the dockers group is the development of tools for the
+discovery of lead compounds once the 3D structure of a target receptor
+is known.  Our best known tool is the program <a
+href="http://www.cmpharm.ucsf.edu/kuntz/dock.html">DOCK</a>, which searches
+databases of chemical structures for potential lead compounds for a
+particular receptor.  We've also been developing  BUILDER, for design
+of novel compounds to interact with particular receptor, and are
+experimenting with QSAR applications of DOCK.<p>
+<HR>
+<h2><A HREF="dockv35.html">DOCK 3.5</A> is now available!</h2><p>
+<hr>
+<h2>More information about us</h2> 
+<ul>
+  <li> The <a href="dock.html">DOCK page</a>
+  <li> <a href="dockv35.html">New Features in DOCK 3.5</a>
+  <li> BUILDER page
+  <li> List of current <a href="refs.html">references</a> from dockers group
+  <li> <a href="kuntz_people.html">Who's in the Kuntz Group?</a>
+</ul>
+<hr>
+<h2><a href =//cgl.ucsf.edu/ucsfwebsrvrs.html>Other UCSF www links </a></h2> 
+<P>
+<hr>
+<address> <a href="http://www.cmpharm.ucsf.edu/~droe/diana.html">droe@cgl.ucsf.edu</a> (Diana Roe) </address>
+<!-- hhmts start -->
+ Tue Feb 21 1995
+<!-- hhmts end -->
+</body></html>
