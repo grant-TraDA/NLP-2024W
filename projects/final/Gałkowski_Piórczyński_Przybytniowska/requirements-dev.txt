@@ -1,0 +1,12 @@
+ruff==0.7.1
+pre-commit==4.0.1
+transformers==4.46.0
+vllm
+fastapi[standard]
+beautifulsoup4==4.12.3
+sentence-transformers
+langchain-chroma>=0.1.2
+streamlit==1.40.2
+chromadb==0.5.23
+matplotlib==3.9.3
+ragas==0.2.11
