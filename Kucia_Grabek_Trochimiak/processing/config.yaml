@@ -1,0 +1,5 @@
+pdf_dir: '../data/pdfs'
+output_dir: '../data/txts'
+pdfs:
+  - name: "1-szum-20131104-22-19.pdf"
+    pages: [9, 11, 13, 14, 16, 17, 18, 19, 21, 22, 23, 26, 27, 28]
