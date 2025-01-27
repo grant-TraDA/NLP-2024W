@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\n**Equations**\n\nLet Yt+k = \u2202Zt+k/\u2202at = \u2202ft+k/\u2202at denote the derivatives with respect to at of the components Zt+k and ft+k, respectively.\nFor k \u2265 s , we have:\n\u2202Wt+k/\u2202at = 1/Gamma10 * \u2202ft+k/\u2202at + \u00b7\u00b7\u00b7 + 1/Gamma1s * \u2202ft+k\u2212s/\u2202at.\n\nAlternatively,\nfor k < s, the equation becomes:\n\n\u2202Wt+k/\u2202at = 1/Gamma10 * \u2202ft+k/\u2202at + \u00b7\u00b7\u00b7 + 1/Gamma1k * \u2202ft/\u2202at\n\nwhere these partial derivatives are taken for each component of at when at is a vector.\n\n**High-Dimensional Covariance Estimation**\n\nThe variance-covariance matrix plays a crucial role in inferential theories of high-dimensional factor models, as well as various applications in finance and economics. Fan et al. (2008) investigated the impact of covariance matrix estimation on optimal portfolio allocation and risk assessment using an observed factor model with large dimensions.\n\nFan et al. (2011) further examined the case with unobserved factors by assuming a sparse error covariance matrix, which allows for cross-sectional correlation in errors as an approximate factor model. An adaptive thresholding technique was employed to address this issue.",
+    "metadata": {
+        "source": "../../data/pdfs\\KS_economic_facot_annual.pdf",
+        "chunk_idx": 89
+    }
+}

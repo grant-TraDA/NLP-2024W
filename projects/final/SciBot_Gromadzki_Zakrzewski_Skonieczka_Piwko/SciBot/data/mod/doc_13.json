@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\n**DPER Algorithm for Single-Class Randomly Missing Data**\n\nInput: A dataset of p features with randomly missing values.\n\nOutput: Estimated mean vector (\u02c6\u00b5) and covariance matrix (\u02c6\u03a3).\n\n**Procedure:**\n\n1. Estimate \u02c6\u00b5 as the sample mean of all available entries in each feature.\n2. For each feature i, compute the uncorrected sample variance \u02c6\u03c3ii using only the available entries.\n3. For features i and j (i \u2260 j), compute \u02c6\u03c3ij based on Equation (7).\n4. If there are two solutions that maximize the function and satisfy the condition in Equation (9), choose the one closest to the estimate obtained using case deletion method.\n5. Construct the estimated covariance matrix \u02c6\u03a3 by arranging the computed \u03c3ij values.\n\n**Return:** Estimated mean vector \u02c6\u00b5 and covariance matrix \u02c6\u03a3.\n\nEquation (9) provides a necessary condition for the global maximum of the function to be a real solution, where:\n\ns22\u03c311 + s11\u03c322 \u2260 0 and 2\u221a\u03c311\u03c322 \u2260 s12",
+    "metadata": {
+        "source": "../../data/pdfs\\JP_2302.00911v3.pdf",
+        "chunk_idx": 12
+    }
+}

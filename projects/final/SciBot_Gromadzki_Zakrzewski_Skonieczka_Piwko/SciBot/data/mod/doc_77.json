@@ -1,0 +1,7 @@
+{
+    "page_content": "The Urgency of Empirical Investigation: A Call to Action\n\nEmpirical research is crucial due to the limitations of purely analytical methods in predicting performance outcomes. This need for empirical investigation also extends to exact algorithms tested experimentally. In fact, heuristic algorithms can be broadly defined as any search algorithm, encompassing both their historical and contemporary connotations.\n\nThe notion that some algorithms will eventually explore the entire solution space to find the optimal answer does not diminish their fundamentally heuristic nature. Instead, it highlights the limitations of solely analytical approaches in predicting performance.\n\n1. The Flaws of Competitive Testing\n\nCompetitive testing faces significant challenges, particularly in ensuring fairness across experiments. While differences between machines can be mitigated through standardized testing environments or adjustments for machine speed, other factors pose greater obstacles.\n\nCoding skill, tuning expertise, and effort invested in programming can all impact outcomes, making it difficult to level the playing field. These variables can significantly influence results, rendering competitive testing less effective than a more scientific approach.",
+    "metadata": {
+        "source": "../../data/pdfs\\Hooker - 1995 - Testing heuristics We have it all wrong.pdf",
+        "chunk_idx": 4
+    }
+}

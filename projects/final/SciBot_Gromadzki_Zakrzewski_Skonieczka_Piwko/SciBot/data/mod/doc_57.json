@@ -1,0 +1,7 @@
+{
+    "page_content": "**Rethinking the Imperfections of Language Laws**\n\nIt is often acknowledged that no law can ever be flawless. Nevertheless, the crucial aspect lies not in the perfection of the law itself, but rather in its fair application.\n\nFigure 4: Two attention mechanisms, located within layer 5 of 6, appear to play a pivotal role in resolving anaphora. Top: Full attentions for head 5 are depicted. Bottom: Isolated attentions from just the word \"its\" for attention heads 5 and 6 are shown.\n\nThe attention patterns indicate sharp focus on this specific word.\n \n**An example sentence**\n\n Input-Input Layer 5: The Law will never be perfect, but its application should be just \u2013 this is what we are missing, in my opinion.\n\n **Repetition of the sentence for clarity**\n\n Input-Input Layer 5: The Law will never be perfect, but its application should be just \u2013 this is what we are missing, in my opinion.\n \n**An example sentence repeated again for illustration purposes**\n\n Input-Input Layer 5: The Law will never be perfect, but its application should be just \u2013 this is what we are missing, in my opinion.",
+    "metadata": {
+        "source": "../../data/pdfs\\attn.pdf",
+        "chunk_idx": 40
+    }
+}

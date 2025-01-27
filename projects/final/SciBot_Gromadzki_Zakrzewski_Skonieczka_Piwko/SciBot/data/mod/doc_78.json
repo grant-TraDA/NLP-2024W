@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\n\u2211K\ni=1 n^2_i\nN \\overline{\\sigma}_2\nAI(\u03b8)\n\nLet C = U - L, where L, U are the lower bound and upper bound of \u03b8 respectively (see Definition 1), and let n = max{n_1, n_2, ..., n_K}. Then for any \u03f5 > 0, we have:\n\nProb{|u(\u03b8) - \\hat{u}_{SN}(\u03b8)| \u2265 \u03f5} \u2264 exp(- N\u03f5^2 / (2\u03c4^2 \u03b8 + 2nC\u03f5/3)).\n\nProof. Define random variables x_{i,j} = u(\u03b8) - f_\u03b8(z_i, v_{i,j}), and define random variables X_i = \u2211_{j=1}^{n_i} x_{i,j}. First we prove that X_1, ..., X_K satisfy the conditions in Lemma 3.\n\nE[X_i] = \u2211_{j=1}^{n_i} E[x_{i,j}] = \u2211_{j=1}^{n_i} [u(\u03b8) - E[f_\u03b8(z_i, v_{i,j})]] = 0.\n\nBy Definition 1, Prob{L \u2264 f_\u03b8(z_i, v_{i,j}) \u2264 U} = 1, it holds that L \u2264 u(\u03b8) \u2264 U (since u(\u03b8) = E[f_\u03b8(z_i, v_{i,j})]). Thus we have Prob{|x_{i,j}| \u2264 U - L} = 1 and ...\n\nNote: I've made minor changes to the original text for formatting consistency, such as adding spaces between mathematical symbols and changing some indices from i=1 to \u2211_{j=1}^{n_i}.",
+    "metadata": {
+        "source": "../../data/pdfs\\Liu et al. - 2020 - On Performance Estimation in Automatic Algorithm C.pdf",
+        "chunk_idx": 23
+    }
+}

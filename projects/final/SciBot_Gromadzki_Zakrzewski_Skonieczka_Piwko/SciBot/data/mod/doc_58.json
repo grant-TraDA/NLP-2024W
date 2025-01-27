@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\nThe graph features show a similar rate of increase. Computational efficiencies can be achieved by fixing certain attributes, such as density, at predefined values during evolution, but it is recommended to allow the Genetic Algorithm to explore the entire feature space without constraints. Much of the computational effort involved in generating numerous graphs with varying sizes and target points can be parallelized, and we anticipate that the required resources will not be overly burdensome. This process is currently underway, with generated graphs being made available through our project's website (monash.edu/matilda) upon completion.\n\n5. Conclusions\nThis paper concludes a trilogy of studies on methodology for analysing optimization algorithm performance. Our preceding work[8,27] has facilitated objective evaluation by creating an instance space comprising all known instances of an optimization problem, enabling the visualisation and measurement of each algorithm's footprint. It is acknowledged that our capacity to identify strengths and weaknesses in algorithms relies heavily on two critical factors: (i) the selection of attributes, and (ii) the choice of target points for evaluation.",
+    "metadata": {
+        "source": "../../data/pdfs\\Smith-Miles i Bowly - 2015 - Generating new test instances by evolving in instance space.pdf",
+        "chunk_idx": 56
+    }
+}

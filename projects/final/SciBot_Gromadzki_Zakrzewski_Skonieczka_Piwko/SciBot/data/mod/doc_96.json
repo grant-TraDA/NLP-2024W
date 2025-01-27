@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the rephrased and slightly modified document:\n\nThe approaches outlined in this section eliminate population size as a parameter by either replacing it with a maximum lifetime, imposing a limit on resources that indirectly constrain population growth, or substituting multi-individual populations with representative distributions.\n\nRemoving population size as a parameter originated with genetic algorithms featuring varying population sizes (GA VaPS) introduced by Araba et al. [10]. In this method, individuals are assigned a maximum lifetime tied to their fitness and the average or best fitness of the overall population. When an individual reaches its maximum lifetime, it is removed from the population. The ratio of offspring to population size remains constant, thereby maintaining a fixed selective pressure while allowing for dynamic adjustments in population size. This approach introduces two new parameters: minimum and maximum bounds on individual lifetimes.\n\nA selectorecombinatorial GA relies exclusively on selection and recombination mechanisms, representing a genetic algorithm that excludes mutation.",
+    "metadata": {
+        "source": "../../data/pdfs\\Karafotias et al. - 2015 - Parameter Control in Evolutionary Algorithms Trends and Challenges.pdf",
+        "chunk_idx": 21
+    }
+}

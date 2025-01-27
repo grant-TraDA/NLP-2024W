@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\nThe procedure often requires a considerable amount of time to find an integer solution due to its breadth-first search approach. This is exacerbated by the fact that the full fringe of the tree must be stored, resulting in significant memory requirements.\n\nFor problems with challenging feasibility parts, the best-bound approach may experience difficulty reaching an integer solution before nodes can be pruned, as this requires finding an integer solution first. Consequently, we also explored using a depth-first node selection strategy. While such a strategy typically quickly finds an integer solution, it may take longer to determine the overall optimal value.\n\nWe utilized CPLEX, a state-of-the-art MIP programming package, for our experiments. CPLEX offers libraries that enable customization of the branch-and-bound search strategy, allowing variables in selection, setting strategies, LP solver choice, and other parameters to be modified. By default, CPLEX employs a primal-simplex LP solver for the first node and dual-simplex for subsequent nodes. We adapted this setup by incorporating some level of randomization into our search strategies. Specifically, we introduced noise into the ranking of variables based on maximum infeasibility as part of the variable selection strategy, ensuring that the completeness of the search method remained intact.",
+    "metadata": {
+        "source": "../../data/pdfs\\Gomes i Selman - 2001 - Algorithm portfolios.pdf",
+        "chunk_idx": 10
+    }
+}

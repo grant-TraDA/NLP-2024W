@@ -1,0 +1,7 @@
+{
+    "page_content": "[18] McGeoch CC. Towards an Experimental Framework for Algorithm Simulation.\nINFORMS Journal of Computing 1996;8(1):1-15.\n\n[19] Smith-Miles K, van Hemert J, Lim X. Illuminating the Nature of TSP Difficulty through Learned Instance Analysis. In: Learning and Intelligent Optimization. Lecture Notes in Computer Science, vol. 6073; 2010. p. 266-80.\n\n[20] Smith-Miles K, van Hemert J. Unveiling the Applicability of Optimisation Algorithms via Instance Evolution Insights. Annals of Mathematics and Artificial Intelligence 2011;61(2):87-104.\n\n[21] Lopes L, Smith-Miles KA. Constructing Realistic Synthetic Instances for Branch Problems. Operations Research 2013;61(3):563-77.\n\n[22] Burke EK, Mare\u010dek J, Parkes AJ, Rudov\u00e1 H. A Novel Formulation of Vertex Colouring with Applications in Course Timetabling Optimization. Annals of Operations Research 2010;179(1):105-30.\n\n[23] Corne D, Reynolds A. Optimisation and Generalisation: Investigating Instance Space Footprints. In: Parallel Problem Solving from Nature - PPSN XI. Lecture Notes in Computer Science, New York, NY: vol. 6238. 2010. p. 22-31.\n\n[24] Smith-Miles K, Tan T. Quantifying Algorithm Performance through Instance Space Analysis. In: IEEE Congress on Evolutionary Computation (CEC). IEEE; 2012. p. 1-8.",
+    "metadata": {
+        "source": "../../data/pdfs\\Smith-Miles i Bowly - 2015 - Generating new test instances by evolving in instance space.pdf",
+        "chunk_idx": 65
+    }
+}

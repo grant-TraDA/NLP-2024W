@@ -1,0 +1,7 @@
+{
+    "page_content": "(a) Under the null hypothesis H0, we have that\n\n\u221a \nd,\nas p / (T - K) \u2192 c \u2208 (0, 1) as T - K \u2192 \u221e, and\nTd \nd+1\n\u03c72 \nd+1\nas T - K - p-\u2192 d \u2208 (0, \u221e) as T - K-\u2192 \u221e.\n\n(b) Under the alternative hypothesis H1, it holds that\n\n\u221a \n\uf8eb\n\uf8ec\n\u03c911,j / vjj \n/(p - 1)\n\u2212 \u03bbj c (\u03c911,j/vjj)/(T - K - p + 1) \u2212 1\n\uf8f6\nd,\nas p / (T - K) \u2192 c \u2208 (0, 1) as T - K \u2192 \u221e, and",
+    "metadata": {
+        "source": "../../data/pdfs\\KS_1-s2.0-S0047259X16300392-main.pdf",
+        "chunk_idx": 40
+    }
+}
