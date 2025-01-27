@@ -1,0 +1,7 @@
+{
+    "page_content": "[18] P. N. Suganthan, N. Hansen, J. J. Liang, K. Deb, Y.-P. Chen, A. Auger,\nand S. Tiwari, \u201cProblem Definitions and Evaluation Criteria for the CEC\n2005 Special Session on Real-Parameter Optimization,\u201d KanGAL Report,\nvol. 2005005, p. 13 pages, 2005.\n\n[19] S. Finck, N. Hansen, R. Ros, and A. Auger, \u201cReal-Parameter Black-\nBox Optimization Benchmarking 2009: Presentation of the Noiseless\nFunctions,\u201d Citeseer Technical Report, 2010.\n\n[20] D. Whitley, \"A Genetic Algorithm Tutorial,\" Statistics and Computing ,\nvol. 4, no. 2, pp. 65\u201385, 1994.\n\n[21] R. Storn and K. Price, \u201cDifferential Evolution: A Simple and Efficient\nHeuristic for Global Optimization Over Continuous Spaces,\u201d Journal of\nGlobal Optimization , vol. 11, no. 4, pp. 341\u2013359, 1997.\n\n[22] Y. Shi and R. Eberhart, \"A Modified Particle Swarm Optimiser,\" in \n1998 IEEE International Conference on Evolutionary Computation Proceedings .IEEE, 1998, pp. 69-73.",
+    "metadata": {
+        "source": "../../data/pdfs\\Tong et al. - 2019 - Algorithm Portfolio for Parameter Tuned Evolutiona.pdf",
+        "chunk_idx": 51
+    }
+}

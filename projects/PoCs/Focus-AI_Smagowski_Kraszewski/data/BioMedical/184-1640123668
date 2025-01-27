@@ -1,0 +1,33 @@
+<TITLE>Duke Medical Informatics Home Page</TITLE>
+<BODY BGCOLOR="#FFFFFF">
+<CENTER><IMG SRC="/dukemi/images/dmihead.gif" ALIGN="BOTTOM" BORDER=0></CENTER>
+<CENTER><A HREF="/dukemi/maps/menubar1.map"><IMG SRC="/dukemi/images/menubar1.gif" ALIGN="BOTTOM" ISMAP BORDER=0></a></CENTER>
+
+<HR><CENTER><B><FONT SIZE=+2>Duke Medical Informatics Home Page</B></FONT></CENTER>
+
+<UL>
+<LI><A HREF=http://dmi-www.mc.duke.edu/dukemi/program/program.html><B><FONT SIZE=+1>Program</FONT></B></A>
+<DT>Information about the Duke University Medical Informatics Training Program.  Includes program history, program tracks, 
+admission/funding, program requirements, and course information.
+<LI><A HREF="http://dmi-www.mc.duke.edu/dukemi/team/team.html"><B><FONT SIZE=+1>People</FONT></B></A> 
+<DT>Home pages of faculty, graduate students, and support staff.
+<LI><A HREF="http://dmi-www.mc.duke.edu/dukemi/research/research.html"><B><FONT SIZE=+1>Research</FONT></B></A>
+<DT>Current medical informatics research at Duke. Includes sample screens from Duke's own Computer Based Patient Record System, The Medical Record (TMR).
+<LI><A HREF="http://dmi-www.mc.duke.edu/dukemi/events/events.html"><B><FONT SIZE=+1>Events</FONT></B></A>
+<DT>Schedules for the Medical Informatics Training Program seminars, 
+Journal Club/Research in Progress (JCRIP) meetings, and holdings of the
+Medical Informatics Video Tape Library.
+<LI><A HREF="http://dmi-www.mc.duke.edu/dukemi/essent/miclp.html"><B><FONT SIZE=+1>MICLP</FONT></B></A>
+<DT>Home base for the Medical Informatics Cultural Literacy Project.  Includes Ed Hammond's Glossary for Healthcare Standards, suggested readings in medical informatics, 
+and a medical informatics annual calendar.  Also provides lists of medical informatics related professional organizations, societies, 
+addresses, journals, and conferences.  Scanned images of the American College of Medical Informatics fellows is under construction. 
+<LI><A HREF="http://dmi-www.mc.duke.edu/dukemi/misc/links.html"><B><FONT SIZE=+1>MI Links</FONT></B></A> 
+<DT>Links to other medical informatics sites around the world!
+</UL>
+<center><IMG SRC="http://www.chem.duke.edu/htbin/nph-count?width=6&link=http://dmi-www.mc.duke.edu/default.htm"> visitors since last update on 9/9/95 by 
+<I><a href="/dukemi/team/prather.html">Jonathan</a></I>.</CENTER>
+
+<Center>Up to <A HREF="http://dmi-www.mc.duke.edu/cfm/cfmhome.html">Community and Family Medicine</A>,
+<A HREF="http://www.mc.duke.edu/">DUMC</A>, or <A HREF="http://www.duke.edu/">Duke University</A>.<Center>
+<HR><CENTER><FONT SIZE=+2>Duke University <IMG SRC = "/dukemi/images/shield.gif" ALT="[]"> Medical Informatics</FONT></CENTER>
+<CENTER><A HREF="/dukemi/maps/menubar1.map"><IMG SRC="/dukemi/images/menubar1.gif" ALIGN="BOTTOM" ISMAP BORDER=0></a></CENTER><HR></BODY>

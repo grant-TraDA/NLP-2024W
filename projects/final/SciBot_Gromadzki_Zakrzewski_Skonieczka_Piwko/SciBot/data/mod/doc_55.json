@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\n [102] R. J. Durrant and A. Kaban, \u201cDefining Relevant Neighborhoods:\nA Theoretical Framework and Implications,\u201d Journal of Complexity,\nvol. 25, no. 4, pp. 385-397, August 2009.\n\n [103] E. Cantu-Paz and D. E. Goldberg, \u201cScalability Analysis of Parallel\nGenetic Algorithms: A Comparative Study,\u201d Evolutionary Computation,\nvol. 7, no. 4, pp. 429-449, December 1999.\n\n [104] M. Munetomo, N. Murao, and K. Akama, \u201cExperimental Evaluation\nof Parallel Linkage Identification Strategies in Large-Scale Optimization,\u201d \nParallel Problem Solving From Nature, Springer, Heidelberg, Germany,\npp. 322-331, 2004.\n\n [105] A. Mendiburu, J. A. Lozano, and J. Miguel-Alonso, \u201cA GPU-Based\nImplementation of EDAs using Probabilistic Graphical Models,\u201d IEEE \nTransactions on Evolutionary Computation, vol. 9, no. 4, pp. 406-423,\nAugust 2005.\n\n [106] S. Iturriaga and S. Nesmachnow, \u201cSolving Complex Optimization\nProblems with High-Dimensional Spaces using Parallel Computing Architectures,\u201d \n7th International Conference on P2P, Parallel Grid Cloud Internet Comput., \npp. 267-272, 2012.",
+    "metadata": {
+        "source": "../../data/pdfs\\Omidvar et al. - 2022 - A Review of Population-Based Metaheuristics for La.pdf",
+        "chunk_idx": 111
+    }
+}

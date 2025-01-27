@@ -1,0 +1,118 @@
+<html>
+<head>
+<Title>Welcome to NetVet</Title>
+</head>
+<body bgcolor="FFFFFF">
+<center>
+<IMG ALT="Welcome to NetVet" Align=Left width="192" height="192"
+SRC="http://netvet.wustl.edu/vet2.gif"><h1><font size=6><b>Welcome to the NetVet World Wide Web Server</b></font></h1>
+<font size=3><b>At this site you will find many of the Internet’s resources related to the veterinary medical profession.  You will also find a large collection of information about various animal species in the Electronic Zoo.  This is an experimental service and provided courtesy of the Washington University Division of Comparative Medicine, located in St. Louis, Missouri.</b></font>
+
+<p>
+
+<hr size=7>
+<p>
+</center>
+<p>
+
+<center><font size=2>Text and Non-Netscape Browsers,
+<A HREF = "http://netvet.wustl.edu/vettext.htm">[Start
+Here]</a>
+</FONT>
+</center>
+<p>
+<center>
+
+<TABLE BORDER CELLPADDING=5>
+
+<TR>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/whatsnew.htm"><IMG ALT="" width="64" height="64" SRC=neko64.gif></a></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/search.htm"><IMG ALT="" width="64" height="64" SRC=search64.gif></a></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/vetprof.htm"><IMG ALT="" width="64" height="64" SRC=vsg64.gif></a></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/vetmed.htm"><IMG ALT="" width="64" height="64" SRC=virtual.gif></a></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/vschool.htm"><IMG ALT="" width="64" height="64" SRC=vschool.gif></a></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/org.htm"><IMG ALT="" width="64" height="64" SRC=confern1.gif></a></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/ssi.htm"><IMG ALT="" width="64" height="64" SRC=paw64.gif></a></TD>
+</TR>
+<br>
+<TR>
+
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/whatsnew.htm">What's New</A></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/search.htm">Search</A></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/vetprof.htm">Profession</A></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/vetmed.htm">Virtual Library</a></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/vschool.htm">Colleges</A></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/org.htm">Organizations</A></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/ssi.htm">Animals</A></TD>
+</TR>
+
+</TABLE>
+<p>
+<TABLE BORDER CELLPADDING=5>
+
+<TR>
+
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/vcp.htm"><IMG ALT="" width="64" height="64" SRC=bib64.gif></a></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/law.htm"><IMG ALT="" width="64" height="64" SRC=vetlega1.gif></a></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/vmla.htm"><IMG ALT="" width="64" height="64" SRC=archiv64.gif></a></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/info.htm"><IMG ALT="" width="64" height="64" SRC=inform2.gif></a>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/vetdx.htm"><IMG ALT="" width="64" height="64" SRC=scope64.gif></a></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/ggophers.htm"><IMG ALT="" width="64" height="64" SRC=gophr64.gif></a></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/ezoodesc.htm"><IMG ALT="" width="64" height="64" SRC=e-zoo64.gif></a></TD>
+</TR>
+<br>
+<TR>
+
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/vcp.htm">References</A></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/law.htm">Laws/Regs</A></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/vmla.htm">Mailing Lists</A></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/info.htm">Informatics</A></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/vetdx.htm">Resources</A></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/ggophers.htm">Gophers</A></TD>
+<TD ALIGN=CENTER VALIGN=MIDDLE><A HREF = "http://netvet.wustl.edu/ezoodesc.htm">Electronic Zoo</A></TD>
+</TR>
+</TABLE>
+
+
+<p>
+<hr size=7>
+<p>
+</center>
+<Center><A HREF="http://netvet.wustl.edu/CGI-BIN/feedback.htm">
+<I>Questions or comments</a> about NetVet should be sent to:</I>
+
+<p>
+
+<A HREF = "http://netvet.wustl.edu/ken.htm">Ken Boschert, DVM</a><br>
+Associate Director<br>
+<a href = "http://netvet.wustl.edu/wu.htm">Washington University</a><br>
+
+<A HREF="gopher://vetinfo.wustl.edu:150/11n:\dcm">Division of Comparative Medicine</A><br>
+
+Box 8061, 660 South Euclid Avenue<br>
+
+<A HREF = "http://aix.cait.wustl.edu/">St. Louis</a>,
+<A HREF = "http://turnpike.net/metro/newman/index.htm">Missouri</a>  63110
+<A HREF = "http://wings.buffalo.edu/world/usa.html">USA</a><p>
+
+
+<A HREF="http://netvet.wustl.edu/CGI-BIN/feedback.htm">
+<IMG ALT="Feedback Form" width="120" height="30" SRC=email2.gif></a>
+<A HREF = "http://netvet.wustl.edu/copyrite.htm">
+<IMG ALT="Disclaimer" width="120" height="30" SRC=disclaim.gif></a>
+
+<p>
+<hr size=7>
+<p>
+<a href="http://www.pointcom.com/"><IMG ALT="Point Top 5%" width="71" height="70" SRC=point2.gif></a>
+<p>This page has been accessed <img src="/CGI-BIN/counter.exe?link=VET&style=B"> 
+times since June 17, 1995.
+<p>Local Time is: <img align=absmiddle src="/CGI-BIN/clock.exe">
+</center>
+<p>
+<i>Copyright <A HREF = "http://netvet.wustl.edu/copyrite.htm">
+&#169;</a>1995, Ken Boschert, DVM<br>
+All Rights Reserved</i><p>
+</body>
+</html>
+

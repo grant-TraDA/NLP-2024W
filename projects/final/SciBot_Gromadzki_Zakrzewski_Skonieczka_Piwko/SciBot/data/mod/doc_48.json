@@ -1,0 +1,7 @@
+{
+    "page_content": "When an algorithm's portfolio is populated with numerous features, it may become susceptible to overfitting. Feature selection can prove advantageous in this scenario [13, 14], and we plan to investigate its effectiveness in future research.\n\nOur current work encompasses various approaches. In practical applications, several algorithms might exhibit different performance on the same task across multiple runs, yet still demonstrate a level of consistency [3]. As observed in sequential CSP solver competitions, solvers typically set fixed parameter values and introduce minimal randomness to achieve stable outcomes. Under such conditions, with coarse granularity (e.g., B = 10), an algorithm's performance tends to be predictable.",
+    "metadata": {
+        "source": "../../data/pdfs\\Yun i Epstein - 2012 - Learning Algorithm Portfolios for Parallel Execution.pdf",
+        "chunk_idx": 69
+    }
+}

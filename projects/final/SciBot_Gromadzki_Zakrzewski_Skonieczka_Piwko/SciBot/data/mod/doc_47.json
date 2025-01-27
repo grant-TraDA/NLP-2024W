@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\nThe best-performing configurations obtained through experimentation were not only exceptional in training but also demonstrated outstanding test set performance. Although BasicILS outperformed FocusedILS in 3 of the 5 scenarios evaluated, based on average mean test performance across ten runs, FocusedILS consistently surpassed BasicILS for the run with the best training performance, except in one case where it performed equally well. Notably, in scenarios CP L E X-RE G I O N S200 and CP L E X-CLS, FocusedILS significantly outpaced BasicILS.\n\nIt is worth noting that in all C PLEX configuration scenarios examined, both BasicILS and FocusedILS successfully identified parameter configurations superior to the algorithm defaults, often by over an order of magnitude. This achievement is particularly significant, considering ILOG invested considerable resources in determining robust default CPLEX parameters. The accompanying Figure 6 illustrates scatter plots for all five scenarios. For CP L E X-RE G I O N S200, CP L E X-C O N I C.S C H, CP L E X-CLS, and CP L E X-MIK, consistent speedup factors were observed (ranging from 2 in CP L E X-C O N I C.S C H to 23 in CP L E X-MIK). Furthermore, an intriguing anomaly of ParamILS was evident in the scenario CP L E X-QP.",
+    "metadata": {
+        "source": "../../data/pdfs\\Hutter et al. - 2009 - ParamILS An Automatic Algorithm Configuration Framework.pdf",
+        "chunk_idx": 92
+    }
+}

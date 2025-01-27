@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\nThe total travel cost, denoted as TC(S), is calculated by multiplying the unit transportation cost 'u' by the total travel distance in kilometers 'S'. The objective of the Vehicle Routing Problem with Pickup and Delivery Time Windows (VRPSPDTW) is to determine routes for vehicles that visit all customers while minimizing the total travel cost, expressed mathematically as:\n\nmin TC(S) := K\u2211\ni=1 [cd + TD(Ri) \u00b7u]\n\nsubject to the following constraints:\n \n1. The number of deployed vehicles (K) must be less than or equal to the available fleet size (J);\n2. Each customer is served exactly once, ensuring that all 'N' customers are visited;\n3. Vehicles cannot exceed their designated capacity 'Q' during transportation;\n4. Vehicles can only depart from the depot after its start time 'a0' and must return before its end time 'b';\n5. Service at each customer must occur within the specified time window.\n\nNote: I've rephrased some sentences to improve clarity, corrected minor formatting issues, and added a brief explanation of each constraint for better understanding.",
+    "metadata": {
+        "source": "../../data/pdfs\\Tang et al. - 2021 - Few-shots Parallel Algorithm Portfolio Constructio.pdf",
+        "chunk_idx": 34
+    }
+}

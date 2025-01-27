@@ -1,0 +1,7 @@
+{
+    "page_content": "The starting node for an alternating cycle must belong to the shortest cycle (the cycle with the lowest number of edges) within C.\n\n(5) Construction of an alternating cycle only commences when the current gain is positive.\n\nRules 1-3 are illustrated in Figs.6, 7, and 8. An alternating cycle moves between cycles, ultimately connecting the last visited node to the starting node.\n\nAn alternating cycle with 2m edges (where m \u2265 2) reduces the number of cycle components by m \u22121. If an infeasible k-opt move results in m \u2265 2 disjoint cycles, these can be merged using at least one and at most m - 1 alternating cycles.\n\nIf only one alternating cycle is utilised, it must comprise precisely 2m edges. Conversely, if m - 1 alternating cycles are employed, each of them must contain exactly 4 edges. Therefore, the constructed feasible move represents a L-opt move, where k + 2m/2 \u2264 L \u2264 k + 4(m \u2212 1)/2.\n\nThis implies that k + m \u2264 L \u2264 k + 2m - 2. Given that m at most can be k, we can deduce that rules 1-3 enable feasible, non-sequential L-opt moves where k + 2 \u2264 L \u2264 3k - 2.\n\nFor example, if a non-feasible 5-opt submove results in 5 cycles, it may be patched using alternating cycles to produce a feasible move.",
+    "metadata": {
+        "source": "../../data/pdfs\\Helsgaun - 2009 - General k-opt submoves for the Lin\u2013Kernighan TSP heuristic.pdf",
+        "chunk_idx": 28
+    }
+}

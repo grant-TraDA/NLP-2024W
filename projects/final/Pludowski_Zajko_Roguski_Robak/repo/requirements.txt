@@ -1,0 +1,16 @@
+transformers==4.47.1
+evaluate==0.4.3
+loguru==0.7.2
+torch==2.5.1
+spacy==3.8.4
+scikit-learn==1.5.2
+nltk==3.9.1
+numpy==1.26.4
+accelerate>=0.26.0
+tensorboardx==2.6.2.2
+seaborn==0.13.2
+matplotlib==3.9.0
+datasets==2.21.0
+pandas==2.2.2
+tqdm==4.66.5
+captum==0.7.0

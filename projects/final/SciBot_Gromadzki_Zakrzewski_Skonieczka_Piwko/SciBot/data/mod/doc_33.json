@@ -1,0 +1,7 @@
+{
+    "page_content": "Table 8: Comparative Analysis of Plingeling(ala) and parHydra4-MP(8) Performance on Increasing Cores\n\n| #Processes | Plingeling(ala) | parHydra4-MP(8) |\n| --- | --- | --- |\n| 4 | 27 (938, 209) | 34 (1137, 219) |\n| 8 | 30 (1009, 199) | 22 (766, 172) |\n| 12 | 28 (950, 194) | 22 (761, 167) |\n| 16 | 28 (949, 193) | 25 (845, 255) |\n\nComparative performance of Plingeling(ala) and parHydra4-MP(8) on various core configurations reveals that parHydra4-MP(8) with more than 8 cores utilized additional threads for Plingeling. Notably, the best results were achieved at 12 processes, after which performance declined when utilizing all 16 cores.\n\nIn a further investigation, we examined the impact of using multiple threads on the performance of parHydra4-MP(8)(pfolioUZK), finding that it did not significantly enhance the number of solved instances. In contrast, Plingeling's performance improved as additional cores were introduced up to 12 processes before stagnating.\n\nOur analysis suggests that hardware overhead becomes increasingly significant at higher core counts on newer architectures. This may imply that future advancements in hardware design could enable the efficient utilization of even larger parallel portfolios without substantial overhead.",
+    "metadata": {
+        "source": "../../data/pdfs\\Lindauer et al. - 2017 - Automatic construction of parallel portfolios via .pdf",
+        "chunk_idx": 69
+    }
+}

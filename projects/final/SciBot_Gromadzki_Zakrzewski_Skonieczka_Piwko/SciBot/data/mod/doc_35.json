@@ -1,0 +1,7 @@
+{
+    "page_content": "**Algorithm 1: Global Configuration Method**\n\nFOR `j` FROM 1 TO `n` DO\n2 Obtain a partial configuration `c(j)` from running Algorithm Con\ufb01guration (AC) on the con\ufb01guration space \u220f_k^l=1{(c) | c \u2208 C} for time `t/n` using machine `m`.\n3 CHOOSE `\u02c6c`\u2208ARGMINDO{`j`|`j`\u2208{1...`n`}} m(`c(j)`|`I`) that achieved the best performance on instance set `I` according to metric `m`.\n4 RETURN `\u02c6c`\n**3.1.1. Simultaneous Con\ufb01guration of All Component Solvers (Global)**\n\nOur \ufb01rst portfolio con\ufb01guration method is a direct extension of traditional algorithm con\ufb01guration techniques to the construction of a parallel portfolio. If the given solver has `\u2113` parameters, we treat the portfolio as a single algorithm with `\u2113 \u00b7 k` parameters, inducing a con\ufb01guration space of size |C|_k_. We directly con\ufb01gure it using Algorithm Con\ufb01guration (AC).\n\nThis approach can be performed in parallel by running AC independently for each component solver. Assuming `n` machines, each with `k` cores, the wall clock time is reduced to `t/n`. The CPU time consists of two parts: the initial con\ufb01guration phase (`t`) and a small overhead `\u03f5` for selecting the best portfolio.\n\nHowever, this method's scalability is limited due to the global con\ufb01guration search space.",
+    "metadata": {
+        "source": "../../data/pdfs\\Lindauer et al. - 2017 - Automatic construction of parallel portfolios via .pdf",
+        "chunk_idx": 21
+    }
+}

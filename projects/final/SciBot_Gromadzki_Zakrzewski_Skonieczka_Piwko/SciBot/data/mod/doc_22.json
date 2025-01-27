@@ -1,0 +1,7 @@
+{
+    "page_content": "An instantiation of a Constraint Satisfaction Problem (CSP) assigns specific values to its variables, drawn from their defined domains. A valid instantiation respects all constraints and causes no inconsistencies. When all variables have assigned values, the instantiation is considered complete. In this context, a complete and consistent instantiation represents a viable solution for the problem. A CSP can be classified as solvable if it has at least one solution; otherwise, it remains unsolvable.\n\nConstraint solvers frequently employ systematic backtracking to find solutions to CSPs. This process involves assigning values to variables one by one while monitoring consistency after each assignment. Following an assignment, any value deemed inconsistent for unassigned variables is temporarily removed from the relevant domain. The backtracking algorithm may encounter a wipeout situation when",
+    "metadata": {
+        "source": "../../data/pdfs\\Yun i Epstein - 2012 - Learning Algorithm Portfolios for Parallel Execution.pdf",
+        "chunk_idx": 4
+    }
+}

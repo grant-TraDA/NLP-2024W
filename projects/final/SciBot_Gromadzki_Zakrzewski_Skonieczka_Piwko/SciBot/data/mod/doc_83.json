@@ -1,0 +1,7 @@
+{
+    "page_content": "23. Gebser et al. Introduce clasp: A conflict-driven answer set solver in their paper titled \u201cclasp: A Conflict-Driven Answer Set Solver\u201d presented at the 9th International Conference on Logic Programming and Nonmonotonic Reasoning, LPNMR'2007, held from May 15 to 17, 2007 in Tempe, AZ, USA.\n\n24. Ralphs et al. Developed parallel solvers for mixed integer linear optimization as part of their contribution to the Handbook of Parallel Constraint Reasoning edited by Hamadi and Sais, published by Springer in 2018. The chapter titled \u201cParallel Solvers for Mixed Integer Linear Optimization\u201d is found on pages 283-336.\n\n25. Liu et al. Present an automatic construction method for parallel portfolios via explicit instance grouping in their paper presented at the 33rd AAAI Conference on Artificial Intelligence, AAAI'2019, held from January 27 to February 1, 2019 in Honolulu, HI, USA.\n\n26. Tang et al. Introduced a co-evolutionary approach for constructing parallel algorithm portfolios with few shots in their article \u201cFew-Shots Parallel Algorithm Portfolio Construction via Co-Evolution\u201d published in the IEEE Transactions on Evolutionary Computation.",
+    "metadata": {
+        "source": "../../data/pdfs\\Ma et al. - 2023 - Enhancing Multi-Objective Optimization with Automa.pdf",
+        "chunk_idx": 76
+    }
+}

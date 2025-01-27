@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\nIn addition, we denote\n\nD(1)\nn =\n(B2\nnlog7(pn)\nn\n)1/6\n, D(2)\nn,q =\n(B2\nnlog3(pn)\nn1\u22122/q\n)1/3\n. (9)\n\nAn application of Theorem 2.1 under these conditions leads to the following\n\nproposition.\n\nProposition 2.1: High Dimensional CLT for Hyperrectangles\n\nSuppose that conditions (M.1) and (M.2) are satisfied. Then, under (E.1), we have\n\u03c1n(Are) \u2264 CD(1)\nn,\nwhere the constant C depends only on b; while under (E.2), we have\n\u03c1n(Are) \u2264 C{D(1)\nn + D(2)\nn,q},\nwhere the constant C depends only on b and q.\n\n3. High Dimensional CLT for Simple and Sparsely Convex Sets\n\nIn this section, we extend the results of Section 2 by considering larger\nclasses of sets; in particular, we examine classes of simple convex sets,\nand obtain, under certain conditions, bounds that are analogous to those\nin Section 2 (Proposition 3.1). Although an extension to simple convex\nsets is not difficult, in high-dimensional spaces, the class of simple convex\nsets is rather",
+    "metadata": {
+        "source": "../../data/pdfs\\KS_centra_limit_theorem.pdf",
+        "chunk_idx": 20
+    }
+}

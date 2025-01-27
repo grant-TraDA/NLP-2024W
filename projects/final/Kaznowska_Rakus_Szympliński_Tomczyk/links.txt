@@ -1,0 +1,13 @@
+Colab:
+https://colab.research.google.com/drive/1pV038D-GLvLbcnkES5HowhBnoc2Pg-u2?usp=sharing
+
+
+Datasets:
+https://drive.google.com/drive/folders/1WoQAnXxjVdulYCOfYJmzLV7XQvN18BCa?usp=sharing
+
+Model weights:
+https://drive.google.com/drive/folders/12pV5RAt7_Dryk0JrTOyv6iEO2A3_bDOS?usp=sharing
+
+For reproduction:
+Copy files from Datasets to main folder of google drive
+Copy whole folder with weights (NER_model) to main folder of gogle drive

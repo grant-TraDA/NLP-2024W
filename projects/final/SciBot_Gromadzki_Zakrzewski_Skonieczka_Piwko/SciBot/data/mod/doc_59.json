@@ -1,0 +1,7 @@
+{
+    "page_content": "**Interpretable Machine Learning Models for Predicting Appendicitis in Pediatric Patients**\n\nVarious machine learning models have been proposed to predict the probability of appendicitis in pediatric patients. These models can be broadly classified into globally-interpretable and locally-interpretable categories.\n\nGlobally-Interpretable Models:\n\n*   Varying-coefficient models (Hastie & Tibshirani, 1993) allow for flexible functional relationships between features and the response variable.\n*   Generalized additive models (not listed in table) can also be used to model complex relationships between features.\n\nLocally-Interpretable Models:\n\n*   Neural networks with attention mechanisms (Schwab et al., 2019; Koh et al., 2020) allow for feature importance and partial dependence plots, providing insights into the predictions.\n*   Self-explaining neural networks (Alvarez-Melis & Jaakkola, 2018) provide a layer of abstraction to explain the decision-making process.\n\nOther Models:\n\n*   Symbolic regression (Udrescu & Tegmark, 2020) can be used to model complex relationships between features and the response variable.\n*   DeepPINK (Lu et al., 2018) uses paired-input nonlinear knockoffs for deep feature selection.\n\nNote that some models may not satisfy all properties listed in Table 6.",
+    "metadata": {
+        "source": "../../data/pdfs\\JP_WIREs Data Min   Knowl - 2023 - Marcinkevi\u010ds - Interpretable and explainable machine learning  A methods\u2010centric overview.pdf",
+        "chunk_idx": 29
+    }
+}
