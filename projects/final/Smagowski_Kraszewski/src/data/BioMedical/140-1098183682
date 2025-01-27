@@ -1,0 +1,119 @@
+<title>Medix, home page</title>
+
+<h1>
+<center>
+Medical Microbiology
+</center></h1>
+<h4>
+<center>
+Faculty of Medicine, University of CapeTown
+</center></h4>
+
+<hr ALIGN="center" WIDTH=85% size = 6>
+<P>
+<font size = 4>
+<i>Welcome to 'medix.mmi.uct.ac.za'.</i>  
+</font>
+<p>
+The <b>Medical Microbiology Department</b> is situated on the Medical School Campus on the 
+foothills of Devil's Peak. The Medical School is approximately 2 km to the north of the main 
+campus of the University of Cape Town. Groote Schuur Hospital is the main academic 
+training hospital for the University and is a major provider of medical services to the Greater 
+Cape Town Metropolitan Region and the Western Cape Province of South Africa.<p>
+The Department consists of bacterial and virological diagnostic services (located in Groote Schuur Hospital) 
+and a molecular research section that is located in the Medical School. 
+Training is provided for undergraduate and postgraduate medical students as well as science 
+students interested in a research career. The Head of Department is <U>Professor A A Forder</U><p>
+This department is one of two microbiology departments at the university.  The 
+<A HREF = "http://www.uct.ac.za/microbiology">other department</A> 
+is in the Faculty of Science and is located on the main campus.
+<hr ALIGN="centre" WIDTH=85%>
+<b>Information available at this site:</b>
+<ul type=disc>
+<li>Information particular to <A HREF = "http://medix.mmi.uct.ac.za/about.html">this site</A> 
+<ul>
+<li><A HREF = "http://medix.mmi.uct.ac.za/dept_res.html">Research in progress</A> 
+<li><A HREF = "http://medix.mmi.uct.ac.za/staff.html">list of departmental staff</A> 
+<li><A HREF = "http://medix.mmi.uct.ac.za/postgrad_students.html">list of postgrad students</A> 
+</ul>
+<p><li>Clinical Medical Microbiology
+<ul>
+<li><A HREF = "http://medix.mmi.uct.ac.za/~jmoodie/welcome.html">
+Clinical virology</A>
+<ul>
+<li>AIDS and HIV statistics
+<li>medical virology lecture notes
+<li>human vaccines and immunoglobulins
+</ul>
+<li>Antibiotic prescribing recommendations for Groote Schuur Hospital
+<ul>
+<li><a href = "http://medix.mmi.uct.ac.za/~jmoodie/antrec.html">text only version</a>
+<li><a href = "http://medix.mmi.uct.ac.za/~jmoodie/cupgif.html">graphic version (slow)</a>
+<li><a href = "http://medix.mmi.uct.ac.za/~jmoodie/antitabl.html">HTML+  complete version</a>
+</ul>
+</ul>
+<p>To search all the pages in Clinical Medical Microbiology, enter keywords in the box below and hit the Search button.</p>
+<form method=GET action="/cgi-bin/wwwwais">
+Search for: <input type=text name="keywords" size=40> <input type=submit value=" Search ">
+</form>
+<p><li>Molecular biology information
+<ul>
+<li><A HREF = "http://medix.mmi.uct.ac.za/bbhelp/intro.html">Molecular biology methods, protocols and recipes</A> 
+<li><A HREF = "http://www.uct.ac.za/microbiology/virtut1.html">Virology tutorial</A> from Faculty of Science 
+</ul>
+<p><li><A HREF = "ftp://medix.mmi.uct.ac.za">anonymous ftp</A> 
+</ul><P>
+<hr ALIGN="centre" WIDTH=85%>
+<b>Links to other sites:</b>
+<ul>
+<li><A HREF = "http://www.uct.ac.za">U.C.T. home page</A> 
+<li><a href="http://medix.mmi.uct.ac.za/ftpsites.html">local FTP sites</a>
+<li><a href="http://medix.mmi.uct.ac.za/misc.html">misc links</a>
+<p><p>
+<li><a href="http://oceania.org/world_health/">World Health Net</a>
+<p>
+<li>Molecular Biology Submission/Request Links
+<ul>
+<li><A HREF = "http://www.ncbi.nlm.nih.gov/Recipon/bs_seq.html">Blast </A>
+<li><A HREF = "http://www.ncgr.org/gsdb/WebSub.html">Sequence submission</A>
+<li><A HREF = "http://www.ncbi.nlm.nih.gov/BankIt/index.html">Direct NCBI sequence submission</A>
+</ul><p>
+<li>Molecular Biology Server/Interest Links
+<ul>
+<li><A HREF = "http://www.public.iastate.edu/~pedro/research_tools.html">
+pedros collection mol biol tools</a>
+<li><A HREF = "http://www.brown.edu/Research/TB-HIV_Lab/">HIV/TB news</A> 
+<li><A HREF = "http://molepi.stanford.edu/">TB Research at Stanford</A> 
+<li><A HREF = "http://cbrg.inf.ethz.ch/">Peptide and Nucleotide analysis server</A>
+<li><A HREF = "http://expasy.hcuge.ch/">ExPASy Molecular Biology Server</A>
+<li><A HREF = "http://kiev.physchem.kth.se/MycDB.html">MycBD</A>
+<li><A HREF = "http://www.ebi.ac.uk">European Bioinformatics Institute:</A> 
+<li><A HREF = "http://kiwi.imgen.bcm.tmc.edu:8088/search-launcher/launcher.html">Molecular Biology Search and Analysis</A> 
+<li><A HREF = "http://dot.imgen.bcm.tmc.edu:9331/seq-search/Help/beauty.html">Annotated Protein Sequence Database (Beauty):</A> 
+<li><A HREF = "http://www.ebi.ac.uk/general/other_bioservers.html">list of useful bio-servers</A> 
+<li><A HREF = "http://www.ebi.ac.uk/htbin/topbio">other bio-servers</A> 
+</ul><p>
+<li>HTML/WWW/forms information
+<ul>
+<li><A HREF = "form_overview.html">forms overview</A>.
+<li><A HREF = "primer.html">HTML primer</A> 
+<li><A HREF = "http://www.ncsa.uiuc.edu">general www</A> 
+</ul><p>
+<li>WWW search engine
+<ul>
+<li><A HREF = "http://www.cs.colorado.edu/home/mcbryan/WWWW.html">WWWWorm</A>
+<li><A HREF="http://webcrawler.cs.washington.edu">Webcrawler  search at Washington University</A>
+</ul><p>
+<li>Linux operating system
+<ul>
+<li><A HREF = "http://dice.dac.neu.edu">pages for linux stuff</A> 
+</ul><p>
+</ul><p>
+<p>
+<hr ALIGN="centre" WIDTH=85%>
+<a href="mailto:jmoodie@medmicro.uct.ac.za">Prof J Moodie</a> 
+<ADDRESS>
+jmoodie@medmicro.uct.ac.za
+</ADDRESS>
+last updated 9 Aug 1995 <p>
+</HTML>

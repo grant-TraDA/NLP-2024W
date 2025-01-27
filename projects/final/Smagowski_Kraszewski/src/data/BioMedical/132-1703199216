@@ -1,0 +1,128 @@
+<HTML>
+<HEAD>
+<title>Welcome to BITMed</title>
+</HEAD>
+<BODY>
+
+<IMG SRC="http://bitmed.ucsd.edu/image-repository/bitmed-logo.gif">
+
+<HR>
+<DL>
+<DD>Welcome to the BITMed Simulation Server at the University of
+California, San Diego.  This server is unique in that the WWW hypertext
+is interleafed with true complex systems simulations of biological, chemical and
+physical systems.  We are presently building several virtual environments
+for the rational design of clinical trials and wetlab experiments.
+Our current simulators are invaluable tools for the teaching of neuroimmunology
+and HIV-induced disease to students at both the highschool and university
+levels.  We also support a number of 
+<A
+HREF="http://www.fest.com/Conferences/">conferences</A>. 
+
+
+<HR>
+<H2>
+Do you have the
+<A HREF="http://bitmed.ucsd.edu/cgi-bin/spinerCheckx">
+necessary software
+</A>
+to run simulations on this server?
+</H2>
+
+<HR>
+
+<H2>Topics of Interest</H2>
+<P>
+<DL>
+
+<DT>
+<A HREF="http://bitmed.ucsd.edu/text-repository/bitmed-research.html">
+BITMed Research Overview</A>
+<p>
+<DD>A synopsis of the laboratory's general mission as well as the
+<A HREF="http://bitmed.ucsd.edu/text-repository/bitmed-research.html#MEMBERS">
+Directory of BITMed Members</A>.
+<P>
+
+<DT><A HREF="http://bitmed.ucsd.edu/text-repository/cybermouse.html">
+The Cybermouse Project</A>
+<p>
+<DD>A collection of random field <B>simulators</B> for analyzing tissue
+samples of the murine animal model.  <B>Applications</I> to the rational
+design of preclinical trials and to <B>AIDS research</B> are discussed.
+<p>
+
+<DT>
+<A HREF="http://bitmed.ucsd.edu/text-repository/vw.html">
+The Virtual Wetlab</A>
+<p>
+<DD>An environment for discussion, simulation, shared analysis, and the
+teaching of biomedicine.
+<p>
+
+<DT>
+<A HREF="http://bitmed.ucsd.edu/People/hsieburg/VRC/VRC.html">
+The Virtual Reading Center</A>
+<P>
+<DD>Mockup for testing interactive ophthalmologic research
+<P>
+
+<DT><A HREF="http://bitmed.ucsd.edu/text-repository/carf.html">
+Random Fields & Cellular Automata</A>
+<p>
+<DD>Background information on random fields with sample cellular
+automata <B>simulators</B>.
+<p>
+
+<DT><A HREF="http://bitmed.ucsd.edu/text-repository/bitmed-library.html">
+BITMed Library</A>
+<p>
+<DD>BITMed publications, slides, press releases, and access to 
+BITMed's FTP site.  We also added a small number of links on how
+to write hypertext.
+<p>
+
+<DT><A HREF="http://www.fest.com/Conferences/">
+Conferences</A>
+<p>
+<DD>Information concerning conferences on virtual reality, telemedicine,
+and other topics relating to BITMed.
+<p>
+
+<DT><A
+HREF="http://www.fest.com/"><B>TECHNOLOGY
+TRANSFER
+ZONE</B></A>
+<P>
+<DD>This newest addition to our server transfers various
+technologies
+developed in our laboratory into the market place.  Because it is so
+new, this section is still under construction.
+<P>
+
+<DT><A HREF="http://bitmed.ucsd.edu/text-repository/simulators.html">
+Simulator Index</A>
+<p>
+<DD>Index to all simulation software packages currently accessible through
+BITMed's WWW server including the 
+<B>interactive online simulators</B> run on the
+<A HREF="http://bitmed.ucsd.edu/text-repository/CDMDS.html">CDM-DS</A>.
+</DL>
+<P>
+
+
+<HR>
+<A href="http://bitmed.ucsd.edu/form-repository/comments.html">
+Leave comments.</A>
+<p>
+<A href="http://bitmed.ucsd.edu/form-repository/comments.html">
+Add your name to the BITMed mailing list.</A>
+<p>
+<A href="http://bitmed.ucsd.edu/text-repository/copyright.txt">
+(c) Copyright 1994 BITMed.</A> All rights reserved.<p>
+<p>
+Last updated on July 17, 1995 by hsieburg@ucsd.edu
+
+
+</BODY>
+</HTML>
