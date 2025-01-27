@@ -1,0 +1,49 @@
+# Streamlit Configuration
+app:
+  title: "LAIWYER 🇵🇱"
+  page_icon: "📚"
+  tabs:
+    - "Pytania🤔"
+    - "O Nas🤖"
+
+# Database Configuration
+database:
+  host: "localhost"
+  port: 5432
+  user: "username"
+  password: "password"
+  database_name: "laiwyer_db"
+
+# API Configuration
+api:
+  url: "http://localhost:11434/api/generate"
+  # model: "hf.co/speakleash/Bielik-11B-v2.3-Instruct-GGUF:Q4_K_M"
+  model: "hf.co/speakleash/Bielik-11B-v2.3-Instruct-GGUF-IQ-Imatrix:Q8_0"
+
+
+# Personalities File
+personalities_file: "templates/identities.json"
+
+# Prompt Template
+template: |
+  <s><|start_header_id|>system<|end_header_id|>
+
+  {system_instruction}<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+  Kontekst: {context_section}
+  Pytanie użytkownika: {user_query}
+  <|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+# Context Retrieval
+retrieval:
+  num_articles: 5
+  num_initial_candidates: 20
+  
+# Response Generation
+response_generation:
+  stream: true
+  delay_per_word: 0.05
+
+contact:
+  szymon: https://szymonmatuszewski.com/
+  adam: https://github.com/amajczyk
