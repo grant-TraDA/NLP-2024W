@@ -1,0 +1,701 @@
+"Niedobór prochów utrudnia walkę.
+Brak amunicji komplikuje działania bojowe.  
+Niewystarczająca ilość prochów utrudnia prowadzenie walki.  
+Ograniczone zapasy prochów stanowią przeszkodę w starciach.  
+Niedobór materiałów wybuchowych sprawia, że walka staje się trudniejsza.  
+Zbyt mała ilość prochów utrudnia efektywne prowadzenie walki.  
+==="
+"Kilka dni.
+Zaledwie kilka dni.  
+Parę dni.  
+Niewiele dni.  
+Trochę dni.  
+Kilka dni kalendarzowych.  
+==="
+"Skuteczniejsza obrona lub atak.
+Skuteczniejsze metody obrony lub ataku.
+Bardziej efektywna strategia defensywna lub ofensywna.
+Lepsze podejście do obrony lub ataku.
+Efektywniejsza taktyka obronna lub atakująca.
+Sprawniejsza obrona bądź ofensywa.
+==="
+"Wściekłość i frustracja.
+Złość i niezadowolenie.
+Gniew i rozczarowanie.
+Furie i frustracja.
+Zgorzknienie i irytacja.
+Wrogość i poczucie bezsilności.
+==="
+"Czoło pociemniało, żyły stały się widoczne.
+Czoło się zaciemniło, a żyły stały się zauważalne.
+Skóra na czole przyciemniała, a żyły zaczęły być widoczne.
+Czoło przybrało ciemniejszy odcień, a żyły stały się wyraźne.
+Czoło zyskało ciemniejszy kolor, podczas gdy żyły uwidoczniły się.
+Czoło ściemniało, a żyły zaczęły się wyróżniać.
+==="
+"Silna budowa, groźne rysy twarzy.
+Potężna sylwetka, niebezpieczne rysy na twarzy.
+Imponująca postura, złowrogie kontury twarzy.
+Solidna budowa ciała, przerażające cechy twarzy.
+Mocna figura, groźny wyraz twarzy.
+Wyrazista budowa, groźne rysy na obliczu.
+==="
+"Ironia i próba mobilizacji.
+Irony and an attempt to rally.
+Sarcasm and an effort to mobilize.
+A twist of irony and a push for mobilization.
+Ironical remarks and a call to action.
+A sense of irony coupled with a drive to mobilize.
+==="
+"Szukał swojego towarzysza broni.
+Poszukiwał swojego druha w walce.  
+Szukał partnera do walki.  
+Starał się znaleźć swojego towarzysza na polu bitwy.  
+Zgłaszał się o pomoc swojego przyjaciela w zbroi.  
+Próbował odnaleźć swojego wspólnika w boju.  
+==="
+"Dążył do obrony lub ratunku.
+Starał się zapewnić ochronę lub pomoc.  
+Pracował nad tym, aby obronić się lub ocalić.  
+Usiłował znaleźć sposób na zabezpieczenie lub uratowanie.  
+Dążył do zapewnienia wsparcia lub ratunku.  
+Zajmował się próbą obrony lub ocalenia.  
+==="
+"Irytacja i poczucie obowiązku.
+Frustracja i poczucie odpowiedzialności.
+Złość oraz obowiązkowość.
+Niepokój oraz zobowiązanie.
+Rozdrażnienie i świadomość obowiązku.
+Dyskomfort i potrzeba wypełnienia obowiązków.
+==="
+"Ojczyzna i honor.
+Kraj i duma.
+Naród i zasady honorowe.
+Dom rodzinny i szacunek.
+Własna ziemia i cześć.
+Patria i godność.
+==="
+"Wiśniowiecki.
+Wiśniowiecki.
+The name is Wiśniowiecki.
+Wiśniowiecki is the term.
+The term in question is Wiśniowiecki.
+Referring to Wiśniowiecki.
+==="
+"Panika i reorganizacja.
+Chaos i przestawienie.
+Zawirowania i przekształcenia.
+Zamieszanie i restrukturyzacja.
+Trwoga i zmiany organizacyjne.
+Niepokój i reorganizacja.
+==="
+"Dystans i akceptacja.
+Dystans i zgoda.
+Odległość i akceptacja.
+Oddalenie i przyjęcie.
+Dystans oraz akceptacja.
+Utrzymanie dystansu i akceptacja sytuacji.
+==="
+"Zrozumienie poświęcenia.
+Zrozumienie ofiarności.
+Uświadomienie sobie akceptacji poświęcenia.
+Zrozumienie idei poświęcenia.
+Przyjęcie znaczenia ofiary.
+Pojmowanie wartości poświęcenia.
+==="
+"Obrońca honoru.
+Obrońca godności.
+Strażnik zasady.
+Protector zasady.
+Obrońca wartości.
+Chwytający obronę.
+==="
+"Konie i wilki.
+Konie oraz wilki.
+Wilki i konie.
+Zwierzęta: konie i wilki.
+Ponieważ jedne są końmi, a drugie wilkami.
+Konie w towarzystwie wilków.
+==="
+"Obecność potrzebujących wsparcia.
+Obecność osób wymagających pomocy.
+Przybycie tych, którzy potrzebują wsparcia.
+Obecność ludzi w potrzebie.
+Pojawienie się osób, które potrzebują wsparcia.
+Obecność jednostek szukających pomocy.
+==="
+"Zmęczenie koni.
+Znużenie koni.
+Wycieńczenie koni.
+Wyczerpanie koni.
+Zmęczenie u koni.
+Osłabienie koni.
+==="
+"Zaklęcia są bezwartościowe.
+Zaklęcia nie mają żadnej wartości.
+Czarne sztuki są bez znaczenia.
+Magia jest nieprzydatna.
+Uroków nie można uznać za cenne.
+Zaklęcia są nic nie warte.
+==="
+"Odwaga i determinacja.
+Męstwo i uporczywość.  
+Śmiałość i wytrwałość.  
+Odważne podejście i silna motywacja.  
+Chęć do działania i niezłomność.  
+Zapał i silna wola.  
+==="
+"Sceptycyzm i pragmatyzm.
+Wątpliwości i podejście pragmatyczne.
+Krytycyzm i praktycyzm.
+Skeptycyzm oraz orientacja na praktyczne rozwiązania.
+Nieufność i pragmatyczna filozofia.
+Zwątpienie i pragmatyzm.
+==="
+"Chaos i potrzeba organizacji.
+Chaos wymaga struktury.
+Potrzebujemy porządku w zamęcie.
+Dezorganizacja stwarza potrzebę systematyzacji.
+W chaosie ujawnia się potrzeba organizacji.
+Kiedy panuje chaos, organizacja staje się niezbędna.
+==="
+"Szukał bezpieczeństwa.
+Poszukiwał poczucia bezpieczeństwa.  
+Pragnął znaleźć schronienie.  
+Starał się odnaleźć miejsce, gdzie czuje się bezpiecznie.  
+Chciał zdobyć poczucie ochrony.  
+Dążył do osiągnięcia stabilności i bezpieczeństwa.  
+==="
+"Dowcip i mobilizacja.
+Humor i zapał.
+Żart i entuzjazm.
+Śmiech i motywacja.
+Dowcip i energiczność.
+Lekkość i zaangażowanie.
+==="
+"Duma i wiara w zwycięstwo.
+Nadzieja i przekonanie o zwycięstwie.  
+Wiara w triumf i oczekiwanie na sukces.  
+Przekonanie i zaufanie w pozytywny wynik.  
+Optymizm i wiara w osiągnięcie zwycięstwa.  
+Zupełnie ufam w nasze zwycięstwo.  
+==="
+"Zasługa mądrych decyzji.
+Zasługa trafnych wyborów.
+Wynik sprytnych rozstrzygnięć.
+Zasługa roztropnych postanowień.
+Efekt inteligentnych decyzji.
+Uznanie dla rozsądnych decyzji.
+==="
+"Niepewność podróży.
+Niepewność związana z podróżą.
+Brak pewności podczas podróży.
+Niejasności dotyczące podróży.
+Wątpliwości w kontekście podróży.
+Zmienność i nieprzewidywalność podróży.
+==="
+"Schwytanie lub pokonanie.
+Zawieszenie lub przezwyciężenie.
+Wyzwolenie lub triumf.
+Uwolnienie albo zwycięstwo.
+Zmagać się lub osiągnąć sukces.
+Przezwyciężenie trudności lub ich rozwiązanie.
+==="
+"Tęsknota i obowiązek.
+Pragnienie i poczucie odpowiedzialności.  
+Żal i zobowiązanie.  
+Nostalgię łączy z obowiązkiem.  
+Tęsknota w zestawieniu z powinnością.  
+Uczucie pustki i lojalność wobec odpowiedzialności.  
+==="
+"Niebezpieczeństwo i napięcie.
+Zagrożenie i stres.
+Ryzyko oraz napięta sytuacja.
+Groźba i intensywność.
+Niepokój i ciśnienie.
+Niebezpieczna sytuacja i emocjonalne napięcie.
+==="
+"Bunt jest niepotrzebny.
+Kolorowy akcent jest zbędny.  
+Intensywne barwy są niepotrzebne.  
+Jaskrawe kolory nie są konieczne.  
+Użycie kolorów jest nieuzasadnione.  
+Ożywienie kolorystyczne jest zbędne.  
+==="
+"Centralna osoba sceny.
+Ključna figura na scenie.  
+Główna postać w przedstawieniu.  
+Najważniejsza osoba w tej sytuacji.  
+Osoba, która dominuje w centrum wydarzeń.  
+Osobliwość, która przyciąga uwagę na scenie.
+==="
+"Pokonani lub schwytani.
+Zatrzymani lub unieszkodliwieni.
+Ujęci lub zlikwidowani.
+Pojmani lub eliminowani.
+Aresztowani lub straceni.
+Złapani lub pokonani.
+==="
+"Kilku szlachciców.
+Nieliczni przedstawiciele szlachty.
+Grupa kilku szlachciców.
+Kilku członków arystokracji.
+Zgromadzenie paru szlachciców.
+Spora liczba szlachciców.
+==="
+"Chaos i odwaga.
+Anarchy and bravery.
+Turmoil and courage.
+Disorder and valor.
+Confusion and fearlessness.
+Mayhem and boldness.
+==="
+"Walka i przetrwanie.
+Walka i umiejętność przeżycia.
+Zmagania i sztuka przetrwania.
+Potyczka i zdolność do utrzymania się przy życiu.
+Starcie i walka o przetrwanie.
+Konflikt i dążenie do przeżycia.
+==="
+"Obrona za wszelką cenę.
+Obrona bez względu na konsekwencje.  
+Zatrzymanie wroga za wszelką cenę.  
+Przeciwdziałanie za wszelką cenę.  
+Ochrona za wszelką sprawą.  
+Walka o obronę z całą mocą.  
+==="
+"Odwaga i waleczność.
+Męstwo i determinacja.
+Odwaga oraz zapał w działaniu.
+Śmiałość i heroizm.
+Chęć do stawiania czoła wyzwaniom.
+Waleczność i spirit of bravery.
+==="
+"Jeden z buntowników.
+Jeden z rebelów.
+Jeden z powstańców.
+Jeden z opornych.
+Jeden z działaczy.
+Jeden z protestujących.
+==="
+"Objęcie władzy nad dziedziałą.
+Przejęcie kontroli nad dziedziną.  
+Zyskanie władzy w danym obszarze.  
+Nabycie dominacji w określonym zakresie.  
+Uzyskanie rządów nad daną dyscypliną.  
+Obejście kierownictwa w tej dziedzinie.  
+==="
+"Walczące postacie.
+Zmagające się postaci.
+Osoby w walce.
+Konfrontujące się postacie.
+Postaci w konflikcie.
+Postacie prowadzące walkę.
+==="
+"Symboliczne nakrycie.
+Symboliczne ustawienie stołu.
+Symboliczne przykrycie.
+Symboliczne pokrycie.
+Symboliczna dekoracja nakrycia.
+Symboliczne nakrycie stołu.
+==="
+"Chaos i determinacja.
+Zamieszanie i zdecydowanie.
+Niespójność i siła woli.
+Anarchia i determinacja.
+Bałagan i determinacja.
+Chaos i stanowczość.
+==="
+"Ucieczka Tatarów.
+Tatarów ucieczka.  
+Ucieczka Tatarów.  
+Zbieganie Tatarów.  
+Ucieczka, którą podjęli Tatarzy.  
+Tatarzy opuszczają miejsce.  
+==="
+"Wołoskie chorągwie.
+Chorągwie wołoskie.
+Wołosi i ich flagi.
+Flagi Wołochów.
+Sztandary wołoskie.
+Wołoskie sztandary.
+==="
+"Kilkadziesiąt koni.
+Kilkanaście koni.  
+Około pięćdziesięciu koni.  
+Nieco ponad dziesięć koni.  
+Pełno koni, dokładnie kilkadziesiąt.  
+Zgrupowanie koni, w liczbie kilkudziesięciu.  
+==="
+"Naraziłby się na niebezpieczeństwo.
+Mógłby narażać się na ryzyko.
+Byłby w niebezpieczeństwie.
+Ryzykowałby swoje bezpieczeństwo.
+Narażałby się na zagrożenie.
+Znalazłby się w sytuacji niebezpiecznej.
+==="
+"Przekleństwo wobec wroga.
+Klątwa rzucona na nieprzyjaciela.
+Przekleństwo skierowane przeciwko wrogowi.
+Złorzeczenie wobec adwersarza.
+Rzucenie przekleństwa na wroga.
+Klątwa wymierzona w przeciwnika.
+==="
+"Frustracja i rezygnacja.
+Zniecierpliwienie i poddanie się.
+Rozczarowanie i utrata nadziei.
+Wściekłość i brak determinacji.
+Zniechęcenie i wycofanie się.
+Niezadowolenie i rezygnacja.
+==="
+"Do obozu.
+Do obozu.
+Do obozu.
+Do obozu.
+Do obozu.
+Do obozu.
+==="
+"Zbadać sytuację i podjąć decyzje.
+Przeanalizować okoliczności i wyciągnąć wnioski.  
+Ocenić sytuację i podjąć odpowiednie kroki.  
+Zbadać warunki i ustalić działania.  
+Zbadać okoliczności i podjąć odpowiednią decyzję.  
+Zrealizować analizę sytuacji i wybrać najlepsze rozwiązanie.
+==="
+"Nieprzyjazne miejsce.
+To jest wrogie otoczenie.
+Miejsce budzące niechęć.
+Niezbyt gościnne otoczenie.
+Niekorzystna lokalizacja.
+Przestrzeń, która nie sprzyja przyjaznym relacjom.
+==="
+"Towarzysze zanieśli Bohuna.
+Towarzysze przenieśli Bohuna.  
+Bohuna zabrali jego towarzysze.  
+Bohuna odebrali jego kompanie.  
+Przyjaciele podnieśli Bohuna.  
+Bohun został uniesiony przez swoich towarzyszy.  
+==="
+"Rozeszli się lub kontynuowali działania.
+Rozdysponowali się lub poszli dalej z działaniami.  
+Rozeszli się lub trwały dalsze działania.  
+Oddalili się lub podjęli kontynuację działań.  
+Zmienili miejsce lub kontynuowali swoje aktywności.  
+Rozpierzchli się lub kontynuowali swoje zajęcia.  
+==="
+"Do innej izby.
+Przenieś się do innego pokoju.
+Udać się do innej komnaty.
+Wejdź do innej izby.
+Zmień lokum na inny pokój.
+Przejdź do innego pomieszczenia.
+==="
+"Uczestnicy modlitwy.
+Osoby biorące udział w modlitwie.
+Ludzie uczestniczący w modlitwie.
+Modlący się.
+Uczestnicy ceremonii modlitewnej.
+Ci, którzy modlą się wspólnie.
+==="
+"Odprawiał modły.
+Oddawał się modlitwie.  
+Wznosił modły.  
+Modlił się.  
+Praktykował modlitwę.  
+Zajmował się modlitwą.  
+==="
+"Podczas oblężenia.
+W trakcie oblężenia.  
+W czasie oblężenia.  
+Podczas trwającego oblężenia.  
+W okresie oblężenia.  
+W czasie kiedy miało miejsce oblężenie.  
+==="
+"Ciężkie i nieprzyjazne.
+Trudne i wrogie.  
+Uciążliwe i nieprzyjemne.  
+Niegodne i nieżyczliwe.  
+Poważne i nieufne.  
+Złożone i nieprzyjacielskie.
+==="
+"Zmęczenie i poświęcenie.
+Wycz exhausted and dedicated.
+Znużenie i oddanie.
+Zmęczenie oraz zaangażowanie.
+Trwoga i poświęcenie.
+Wyczerpanie i oddanie sprawie.
+==="
+"Determinacja i troska o losy.
+Zaangażowanie i dbałość o przyszłość.
+Decydująca postawa i opieka nad sytuacją.
+Motywacja i zainteresowanie wynikami.
+Zdecydowanie oraz ochrona interesów.
+Determinacja i troskliwość dotycząca przyszłości.
+==="
+"Nie, był wyczerpany.
+Nie, był zmęczony.  
+Nie, czuł się wyczerpany.  
+Nie, miał dość sił.  
+Nie, był totalnie bez energii.  
+Nie, doświadczył dużego zmęczenia.  
+==="
+"Zastanawiał się nad dalszymi działaniami.
+Rozmyślał o kolejnych krokach, które powinien podjąć.
+Analizował, jakie działania mógłby podjąć w przyszłości.
+Myślał o tym, jakie decyzje będą następne.
+Kontemplował nad możliwościami dalszego postępowania.
+Ustalal plan dotyczący przyszłych działań.
+==="
+"Przygotował ekwipunek.
+Zorganizował sprzęt.
+Spakował niezbędne akcesoria.
+Uczynił zakupy wyposażenia.
+Zgromadził potrzebne materiały.
+Przygotował niezbędny asortyment.
+==="
+"Został zrabowany.
+Doszło do kradzieży.
+Uległ zaborowi.
+Został okradziony.
+Został pozbawiony swoich rzeczy.
+Został napadnięty i odarty z dobytku.
+==="
+"Kozacy.
+Cossacks.
+The Cossack warriors.
+Members of the Cossack community.
+Cossack people.
+The Cossack faction.
+==="
+"Złość i smutek.
+Wkurzenie i żal.
+Gniew oraz smutek.
+Złość oraz przygnębienie.
+Frustracja i tępota.
+Rozdrażnienie i smutek.
+==="
+"Tatarzy.
+Tatar people.
+The Tatar community.
+Tatars.
+Members of the Tatar ethnicity.
+The Tatar ethnic group.
+==="
+"Gniew i determinacja.
+Złość i postanowienie.
+Wściekłość i zaangażowanie.
+Furia i zdecydowanie.
+Pasja i resolutność.
+Oburzenie i determinacja.
+==="
+"Rozstrzygnięcie pojedynku.
+Zakończenie starcia.
+Wynik konfrontacji.
+Rozstrzyganie walki.
+Efekt pojedynku.
+Ostateczny rezultat pojedynku.
+==="
+"Mobilizacja i poświęcenie.
+Zaangażowanie i oddanie.
+Wysiłek i poświęcenie.
+Aktywność i oddanie sprawie.
+Mobilizacja oraz determinacja.
+Wytrwałość i gotowość do poświęceń.
+==="
+"Czuł się niedoceniony.
+Miał poczucie, że nie jest doceniany.  
+Odczuwał brak uznania.  
+Czuł, że jego wysiłki są pomijane.  
+Miał wrażenie, że nie jest szanowany.  
+Doświadczał uczucia niedocenienia.  
+==="
+"Poprzednie grupy.
+Wcześniejsze zespoły.
+Starsze grupy.
+Uprzednie grupy.
+Grupy z przeszłości.
+Dawniejsze grupy.
+==="
+"Tak. Sure! Here are five different paraphrases of the sentence ""Tak"":
+
+1. Thanks.
+Thank you.
+Much appreciated.
+I appreciate it.
+Grateful for that.
+==="
+"Potencjalnych zdrajców.
+Możliwi zdrajcy.  
+Potencjalni buntownicy.  
+Osoby, które mogą zdradzić.  
+Ewentualni zdrajcy.  
+Możliwość zdrady przez niektóre osoby.
+==="
+"Obawy przed klęską.
+Strach przed porażką.
+Lęk przed niepowodzeniem.
+Obawy przed nieudanym wynikiem.
+Niepokój o możliwość przegranej.
+Zmartwienie o potencjalną klęskę.
+==="
+"Wiedzy o strategii.
+Zrozumienie strategii.
+Informacje na temat strategii.
+Wiedza na temat strategii.
+Znajomość strategii.
+Umiejętności związane ze strategią.
+==="
+"Kara śmierci.
+Kara śmierci.  
+Wyrok śmierci.  
+Egzekucja.  
+Zasądzenie kary śmierci.  
+Ukaranie śmiercią.  
+==="
+"Napięcie i niepewność.
+Stres i brak pewności.
+Napięta atmosfera i obawy.
+Presja i wątpliwość.
+Zmartwienie i niejasność.
+Niepokój i brak stabilności.
+==="
+"Odgłosy działań.
+Dźwięki aktywności.
+Hałasy czynności.
+Szumy działań.
+Odgłosy aktywności.
+Dźwięki realizacji.
+==="
+"Rycerze i sprzęt.
+Kawalerowie oraz ich ekwipunek.  
+Rycerze i ich wyposażenie.  
+Ekwipunek rycerzy.  
+Sprzęt i rycerstwo.  
+Rycerskie uzbrojenie i osprzęt.  
+==="
+"Kozacy.
+The Cossacks.
+Cossack warriors.
+Members of the Cossack community.
+The Cossack people.
+Cossack fighters.
+==="
+"Wymierzenie kary.
+Nakładanie kary.  
+Orzeczenie odpowiedniej sankcji.  
+Wydanie wyroku.  
+Ustanowienie kary.  
+Zastosowanie wymierzonej kary.  
+==="
+"Gniew i frustracja.
+Złość i niezadowolenie.
+Furie i poczucie rozczarowania.
+Wściekłość oraz frustracja.
+Zgorzknienie i irytacja.
+Gniewność i rozczarowanie.
+==="
+"Chęć konfrontacji.
+Pragnienie zetknięcia się z kimś.  
+Gotowość do starcia.  
+Zamiar skonfrontowania się.  
+Aspiracja do zmierzenia się.  
+Potrzeba stawienia czoła.
+==="
+"Wizyta Jeremiego.
+Odwiedziny Jeremiego.
+Przybycie Jeremiego.
+Spotkanie z Jeremim.
+Przyjazd Jeremiego.
+Wizytacja Jeremiego.
+==="
+"Na Ukrainę.
+Do Ukrainy.
+W kierunku Ukrainy.
+Na teren Ukrainy.
+W stronę Ukrainy.
+W podróż do Ukrainy.
+==="
+"Duma i ulga.
+Radość i ulga.
+Szczęście i wytchnienie.
+Zadowolenie i spokój.
+Ukojenie i euforia.
+Przyjemność i odprężenie.
+==="
+"Wyzwolenie i szacunek.
+Uwolnienie i uznanie.  
+Emancypacja i godność.  
+Libertacja i podziw.  
+Wyzwolenie i honor.  
+Odkupienie i respekty.  
+==="
+"Zmiana sytuacji.
+Zmiana okoliczności.
+Przemiana sytuacji.
+Nowa sytuacja.
+Alteracja warunków.
+Modyfikacja stanu rzeczy.
+==="
+"Cicha refleksja.
+Spokojna kontemplacja.  
+Cicha medytacja.  
+Dyskretna introspekcja.  
+Uważna refleksja.  
+Stonowane rozmyślanie.
+==="
+"Parskanie koni.
+Měřění koní.
+Zkoumání koní.
+Posuzování koní.
+Hodnocení koní.
+Analýza koní.
+==="
+"Niepokój i nadzieja.
+Lęk i optymizm.
+Obawy i pozytywne oczekiwania.
+Bezsilność i wiarę w lepsze jutro.
+Drżenie i perspektywa przyszłości.
+Zaniepokojenie i pragnienie zmian.
+==="
+"Piękno i determinacja.
+Urok i wytrwałość.  
+Estetyka i siła woli.  
+Wspaniałość oraz zdecydowanie.  
+Atrakcyjność i niezłomność.  
+Urodę i zapał.  
+==="
+"Zainteresowanie i zaufanie.
+Zafascynowanie i pewność.  
+Ciekawość i wiara.  
+Pasja i zaufanie.  
+Zainteresowanie oraz przekonanie.  
+Fascynacja i ufność.  
+==="
+"Długo, ale skutecznie.
+Trwa to długo, ale przynosi efekty.  
+Mija sporo czasu, ale rezultaty są zauważalne.  
+Zajmuje to wiele czasu, lecz efekty są satysfakcjonujące.  
+Proces jest czasochłonny, jednak daje pozytywne wyniki.  
+Choć trwa to długo, skutki są w pełni widoczne.  
+==="
+"Morderstwa i rabunki.
+Zbrodnie i kradzieże.
+Zabójstwa oraz kradzieże.
+Morderstwa i przestępstwa rabunkowe.
+Zbrodnie przeciwko życiu i własności.
+Zgony w wyniku morderstw oraz działania rabunkowe.
+==="
+"Przegrani dowódcy.
+Pokonani liderzy.
+Dowódcy, którzy ponieśli porażkę.
+Liderzy, którzy zostali pokonani.
+Dowódcy, którzy przegrali.
+Osoby na czołowych stanowiskach, które nie odniosły sukcesu.
+==="
+"Z Rzeczypospolitej.
+From the Commonwealth.  
+Of the Republic.  
+From the Rzeczpospolita.  
+Pertaining to the Republic.  
+Out of the Commonwealth.  
+==="
