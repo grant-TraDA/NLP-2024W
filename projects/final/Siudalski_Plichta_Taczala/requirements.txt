@@ -1,0 +1,17 @@
+numpy
+pandas
+beautifulsoup4
+nltk
+chardet
+matplotlib
+seaborn
+wordcloud
+pytesseract
+pdf2image
+transformers
+torch
+gpt4all[cuda]
+flair
+tqdm
+fuzzywuzzy
+python-Levenshtein
