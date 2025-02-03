@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\n**Theorem 4 (Convergence of SMAC)**\n\nIn the limit where the time allowed for configuration search approaches infinity, SMAC optimizes a cost measure c based on a consistent estimator \\(\\hat{c}_N\\) and a finite configuration space \u0398. Specifically, the probability that it identifies the true optimal parameter configuration \u03b8\u2217 \u2208 \u0398 converges to one.\n\n**Proof**\n\nEach iteration of SMBO takes finite time, implying that as time approaches infinity so does the number of SMBO iterations, J. By Lemma 3, as J increases without bound, N(\u03b8) grows unbounded for each \u03b8 \u2208 \u0398. As N(\u03b81) and N(\u03b82) approach infinity, pairwise comparisons according to Lemma 2 ensure that the truly better configuration is preferred. Consequently, SMAC eventually visits all finitely many parameter configurations and selects the best one with a probability arbitrarily close to one.\n\nNote: This modified version maintains the original meaning while minor adjustments were made for clarity and consistency in terminology.",
+    "metadata": {
+        "source": "../../data/pdfs\\Hutter et al. - 2011 - Sequential Model-Based Optimization for General Algorithm Configuration.pdf",
+        "chunk_idx": 43
+    }
+}

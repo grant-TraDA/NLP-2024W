@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\nThe LR statistic can be expressed as: LR(k) \u2261 \u2212 klog(|\u02c6\u03a31(k)|) \u2212 (T \u2212 k) log( |\u02c6\u03a32(k)|), where T is the sample size.\n\nTo test against the null hypothesis for an unknown T1, we employ the supremum LR statistic:\n\nsup-LR\u2261 sup\n[\u01ebT ]\u2264k\u2264[(1\u2212\u01eb)T ]\nLR(k),\nwhere \u01eb\u2208 (0,0.5).\n\nThe identification condition (3.1) is chosen for computational convenience; however, the LR test can be used under any valid identification condition, as explained in the Appendix.\n\n3.1 Assumptions\n\nTo study the limiting null distribution of the LR test statistics, we make the following standard assumptions for the approximate factor model that allow for the functional central limit theorem.\n\nAssumption 1. E(||ft||4) < M < \u221e, E(ftf\u2032t) = \u03a3F , where \u03a3F is positive definite, and T^\u22121 \u2211[\u03c0T]\nt=1 ftf\u2032t \u2192p\n\u03c0\u03a3F uniformly for \u03c0\u2208 [0,1].\n\nAssumption 2. Let \u03bb'i be the i-th row of \u039b. ||\u03bbi|| \u2264 \u00af\u03bb < \u221e for i = 1 ,\u00b7 \u00b7 \u00b7 ,N, and || N^\u22121 \u039b'\u039b \u2212 \u03a3\u039b || \u2192 0",
+    "metadata": {
+        "source": "../../data/pdfs\\KS_likehood_test.pdf",
+        "chunk_idx": 19
+    }
+}

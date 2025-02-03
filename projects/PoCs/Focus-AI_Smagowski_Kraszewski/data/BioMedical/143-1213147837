@@ -1,0 +1,58 @@
+<HTML>
+
+<HEAD>
+<TITLE>Online Mendelian Inheritance in Man (OMIM)</TITLE>
+</HEAD>
+
+<BODY>
+
+<IMG SRC="/omim/images/logo5.gif" ALT="OMIM">
+<H1> Online Mendelian Inheritance in Man </H1>
+
+<P><EM>A Catalog of Human Genes and Genetic Disorders</EM></P>
+<DL>
+
+<DT><STRONG>Searching the OMIM Database</STRONG>
+	<DD><A HREF="/omim-bin/omim/bin/omimq">Using Fill-in Forms</A>
+	<DD><A HREF="/omim-bin/omim/bin/omimq/1">Using Key Words</A>
+	<DD><A HREF="/omim/docs/gene_maps.html">Using Gene Maps</A>
+	<DD><A HREF="/omim/docs/query_help.html">Query Help</A>
+
+<P>
+<DT><STRONG>Announcements</STRONG>
+	<DD><A HREF="/omim/docs/faculty.html">News Items (26-June-95)</A>
+	<DD><A HREF="/omim/docs/new_entries.html">New Entries (Weekly)</A>
+	<DD><A HREF="/omim/docs/new_struct.html">Restructured Entries (Weekly)</A>
+        <DD><A HREF="/omim/docs/update_entries.html">Updated Entries (Weekly)</A> 
+	<DD><A HREF="http://www.ornl.gov/TechResources/Human_Genome/home.html#hgn">Human Genome News</A>
+
+<P>
+<DT><STRONG>Submitting Information to OMIM</STRONG>
+	<DD><A HREF="/omim/docs/editorial_policy.html">Editorial Policy</A>
+	<DD><A HREF="/omim/docs/editorial_policy.html#fillin">Using Fill-in Forms</A>
+<P>
+<DT><STRONG>About OMIM</STRONG>
+	<DD><A HREF="/omim/docs/in_brief.html">In Brief</A>
+	<DD><A HREF="/omim-bin/omim/bin/omimx?000000">The OMIM Editorial Board</A>
+	<DD><A HREF="/omim/docs/omim-ref.html">Citing OMIM</A> 
+	<DD><A HREF="/omim/docs/omim-funding.html">Copyright and Funding
+ Information</A>
+	<DD><A HREF="/omim/docs/tech.html">Technical Background</A> 
+<P>
+<DT><A name="resource"><STRONG>Resources for OMIM Users</STRONG></A>
+	<DD><A HREF="/omim/docs/helix.html">Research and Diagnostic Laboratories</A>
+	<DD><A HREF="/omim/docs/alliance.html">Patient Support Groups</A>
+	<DD><A HREF="/omim/docs/genetics_ed.html">Genetics Education</A>
+	<DD><A HREF="/omim/docs/med_resources.html">Other Internet Medical Resources</A> 
+<P>
+<DT><STRONG>Related Resources</STRONG>
+<DD><A HREF="/gdb/docs/gdbhome.html">The Genome Data Base</A>
+	<DD><A HREF="http://www.gdb.org/hopkins.html">Johns Hopkins University Bioinformatics WWW Server</A>
+        <DD><A HREF="/gdb/docs/genomic_links.html">Human Genome Project Internet Resources</A> 
+<P>
+<DT><STRONG><A HREF="/omim-bin/omim/bin/omim-mail.pl">How to Contact Us</A></STRONG>
+</DL>
+
+</BODY>
+
+</HTML>

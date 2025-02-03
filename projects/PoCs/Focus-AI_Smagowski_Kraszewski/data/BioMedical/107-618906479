@@ -1,0 +1,58 @@
+<TITLE>Medical Physics Welcome Page</TITLE>
+<body>
+<IMG SRC="wwwtitle.gif" align=middle> <br>
+
+<p>
+Welcome to the Medical Physics World Wide Web (WWW) information system,
+providing access to both local information and from other
+sources around the world.
+<hr>
+<a href="Research/Computing/computing_research_exhibit.html"><img src="Research/Computing/comp_title_logo_button.gif"></a>
+<a href="Research/Nucl_Med/nm_top_level.html"><img src="Research/Nucl_Med/nm_logo_button.gif"></a>
+<p>
+<hr>
+The Medical Physics
+<a href="http://www.biomed.abdn.ac.uk/Research/"> <i><b>Research Exhibit</b></i></a> is a slowly
+developing demonstration of current departmental research activities.
+Following this <a href="http://www.biomed.abdn.ac.uk/people.html"> People in the Department. </a> link will
+take you a list of people with home pages.
+<p>
+
+<img alt="" src="gif/gball.gif">
+<a href="whats-new.html">What's New</a> is a list arranged chronologically.
+<ul>
+  <li><a href="cra/"> Archive services and anonymous FTP area</a>.
+  <li>All our <a href="all-forms.html">Forms and surveys</a>.
+  <li>Some <a href="cra/links.html">places of interest</a> to visit.
+  <li><a href="cra/stats.html">Stats for this server</a>
+</ul>
+
+<h2><img alt="" src="gif/gball.gif">General Department Information</h2>
+<ul>
+  <li><a href="msc/">Course Stuff</a> -  Information relating to MSc courses
+       and general teaching (eg. Timetable, Projects on offer etc.)
+  <li>The <a href="phone.html">
+       Departmental Phone List </a> and bleep directory.
+  <li><a href="http://sysb.abdn.ac.uk/"> 
+       Aberdeen University Computing Centre WWW Server. </a>
+  <li><a href="Computing/george/ccm001.html"> 
+       Summary of Computing Centre meeting, 15/3/95</a>
+</ul>
+
+<h2><img alt="" src="gif/pinkball.gif">Past Messages of the Day - <I>Bio-Medical Physics Only</I></h2>
+
+Read about <a href="dcn/">Workstation information here</a> and  <a href="dcn/pc/changes.html">PC information here</a>.
+
+<hr>
+Comments, ideas or problems? Please fill in <a href="comment-form.html">this 
+comment form</a>. 
+
+<p>
+<Address>The Archive Team &lt;webmaster@biomed.abdn.ac.uk&gt;</Address>
+<p>
+<pre><b>Bio-Medical Physics and Bio-Engineering Department,
+Aberdeen University, Aberdeen, AB9 2ZD, SCOTLAND.</b></pre>
+<!-- hhmts start -->
+Last modified: Wed Feb 22 11:36:27 1995
+<!-- hhmts end -->
+</body>

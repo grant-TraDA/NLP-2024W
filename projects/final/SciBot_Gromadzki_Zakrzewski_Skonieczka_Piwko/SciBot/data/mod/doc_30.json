@@ -1,0 +1,7 @@
+{
+    "page_content": "Appendix C.C. Conditional Factor Models with Assumptions\n\nThe traditional linear factor model assumes that a limited number of risk factors, derived from characteristic managed portfolios, can capture the Systematic Risk Factor (SDF). The majority of studies on conditional factor models rely on characteristic managed portfolios, requiring similar assumptions as those in unconditional SDF models presented in Section C.C.A. Additionally, this setup imposes that excess returns of characteristic managed portfolios follow a factor structure:\n\nR\u02dct,i = F\u02dct\u03b2\u22a4i + et,i i= 1,..., Nbasis, t = 1,...,T (A.3)\n\nObserved factors can be fundamental, such as the Fama-French factor model by Fama and French (2015), or latent asset pricing factors estimated from unconditional moments of R\u02dct via PCA or its improvement RP-PCA by Lettau and Pelger (2020). The weights of the tangency portfolio, spanned by F\u02dct, are given by:\n\n\u03c9\u02dcF = \u03a3\u22121\nF E[F\u02dc]\n(A.4)\n\nwhere E[F\u02dc] and \u03a3F are the mean and variance-covariance matrix of F\u02dct. The implied SDF is then expressed as:\n\nMt = 1 \u2212 \u03c9\u22a4\nF (\nF\u02dct \u2212 E t[ F\u02dct])",
+    "metadata": {
+        "source": "../../data/pdfs\\KS_deep_learning_in_asset_pricing.pdf",
+        "chunk_idx": 178
+    }
+}

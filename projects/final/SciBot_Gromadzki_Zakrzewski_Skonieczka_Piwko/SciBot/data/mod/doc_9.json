@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\nA common issue in risk premium estimation from two-pass regressions arises when a redundant factor, to which test assets have zero exposure, is included in the model. This can distort the estimated risk premia (Kleibergen, 2009). Furthermore, standard inference methods may fail if betas are relatively small or collinear with each other, even if individual factors are strong predictors of returns. In practice, many test assets exhibit limited sensitivity to macroeconomic shocks, exacerbating this issue.\n\nMoreover, the same problem occurs when factors are highly correlated (i.e., redundant) in terms of explaining expected return variation. This is a relevant concern given the numerous factor discovery efforts in the literature, which have identified hundreds of candidate factors. However, many of these factors are close cousins and do not provide additional explanatory power for cross-sectional returns.\n\nWhen beta estimates approach zero, estimation errors dominate the true signal, leading to an error-in-variables problem (Kleibergen, 2009). To address this issue, several uniformly valid test statistics have been proposed for risk premia over all values of beta. Although these tests offer robustness benefits, they come at the cost of reduced power when weak factors exist.",
+    "metadata": {
+        "source": "../../data/pdfs\\KS_facor_models_annual_review.pdf",
+        "chunk_idx": 57
+    }
+}

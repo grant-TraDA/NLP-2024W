@@ -1,0 +1,7 @@
+{
+    "page_content": "14\u201319 June 2020.\n\nArazo, E.; Ortego, D.; Albert, P. ; O\u2019Connor, N.E.; McGuinness, K.\nDeep Semi-Supervised Learning: Challenges with Pseudo-Labeling and Confirmation Bias.\nIn Proceedings of the 2020 International Joint Conference on Neural Networks (IJCNN), Glasgow, UK,\n19\u201324 July 2020; pp. 1\u20138. [CrossRef]\n\n240. Pan, S.J.; Yang, Q.\nTransfer Learning in Action: A Review.\nIEEE Trans. Knowl. Data Eng. 2010, 22, 1345\u20131359. [CrossRef]\n241. Raghu, M.; Zhang, C.; Kleinberg, J.; Bengio, S.\nTransfusion: Unlocking the Secrets of Transfer Learning for Medical Imaging Tasks.\narXiv 2019, arXiv:1902.07208.\n\n242. He, K.; Girshick, R.; Dollar, P.\nRevisiting ImageNet Pre-Training: New Perspectives and Limitations.\nIn Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, Korea,\n27 October\u20132 November 2019.\n\n243. DeVries, T.; Taylor, G.W.\nAugmenting Datasets in Feature Space: A Novel Approach to Enhance Model Performance.\narXiv 2017, arXiv:1702.05538.\n\n244. Simard, P. \nOptimizing Convolutional Neural Networks for Document Analysis Tasks: Best Practices and Techniques.\nIn Proceedings of the Seventh International Conference on Document Analysis and Recognition, Edinburgh, UK,\n6 August 2003",
+    "metadata": {
+        "source": "../../data/pdfs\\JP_remotesensing-13-04712-v2.pdf",
+        "chunk_idx": 171
+    }
+}

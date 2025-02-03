@@ -1,0 +1,17 @@
+streamlit
+openai
+audio_recorder_streamlit
+streamlit-float
+
+PyMuPDF
+nltk
+pyyaml
+tqdm
+
+sentence_transformers
+chromadb
+spacy
+cupy-cuda12x
+torch
+
+flask

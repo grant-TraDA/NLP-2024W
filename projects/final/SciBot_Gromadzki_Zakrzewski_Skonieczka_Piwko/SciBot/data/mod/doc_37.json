@@ -1,0 +1,7 @@
+{
+    "page_content": "12 Variants for the Current Iteration: The Significance of Diversity among Low-Level Meta-Heuristics such as PSO, DE, GA and CMA-ES is Emphasized in [23]. Research highlights the value of utilizing diverse low-level meta-heuristics, including the Artificial Bee Colony (ABC) and Krill Herd (KH), which can be employed as low-level optimizers [24]. The selection of a particular optimizer for an agent is based on its ranking relative to its fitness performance. A novel approach called hyperSPAM was introduced in [25], combining CMA-ES as the initial search algorithm with S and Rosenbrock (R) algorithms as second-phase low-level optimizers during hyper-heuristic search.\n\nThe authors propose a hyper-heuristic framework, an extension of their previous work on algorithm hybridization [26\u201329]. Their first paper explored the possibility of finding an optimal team of optimization agents based on Belbin's Team Roles Inventory. The second article presented the initial version of GAPSO as a hybrid of various PSO and DE methods. Subsequent publications examined the impact and behavior of model-based optimization methods within hyper-heuristic frameworks [30-32].",
+    "metadata": {
+        "source": "../../data/pdfs\\1-s2.0-S1568494622007712-main.pdf",
+        "chunk_idx": 7
+    }
+}

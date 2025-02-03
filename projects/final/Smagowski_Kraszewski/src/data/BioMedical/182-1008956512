@@ -1,0 +1,242 @@
+<html> 
+<title>HealthNet Home Page</title>
+<IMG ALIGN=TOP SRC = "healthnet/hnetlogo.gif"></A>
+
+<H1>HealthNet Projects Home Page</H1>
+
+Welcome to the <I><B>HealthNet Projects Home Page</B></I>. HealthNet a
+demonstration project undertaken by Industry Canada to help highlight the
+potential of existing communications technologies that can be applied
+toward the development of a health care
+
+
+information infrastructure for Canada. 
+<p>
+
+<hr>
+
+Bienvenue au <I><B>Projet de démonstration réseau santé</B></I>.
+HealthNet est un projet pilote entrepris par Industrie Canada en vue d'aider à démontrer le potentiel des technologies de communication existantes, pouvant être appliqué à la mise au
+point d'une infrastructure relative à l'information en santé pour le Canada.
+<p>
+
+As well as partnering with and encouraging communication among key players
+the HealthNet projects attempt to highlight the potential of existing
+technologies to aid in the provision of all aspects of health care
+services and research.  <p> For background information on the HealthNet
+Internet based projects: The HealthNet Community Access Pilot (CAP)
+HealthNet to GO!!, the HealthNet Developers Kit, the HealthNet WWW
+Demonstration Pilot, and the HealthNet listserv select for <a
+href="/healthnet/background.html">background info</a> or the <a href
+="healthnet/faq.html">HealthNet FAQ</a>.
+
+<p>
+
+<h2>Contents</h2>
+
+<ul>
+<li><a href="#htogo">HealthNet to GO!</a>
+<li><a href="#hwww">HealthNet World Wide Web Demonstration Project.</a>
+<li><a href="#hlist">HealthNet Listserv</a>
+</ul>
+
+<p>
+
+<hr>
+
+<h2>Comments and Questions</h2>
+
+To send comments or questions to the HealthNet developers please use the
+<a href= "healthnet/hdevelfm.html">Send Comments to Developers</a> form,
+or see <a href= "healthnet/hdevelop.html">HealthNet Developers</a> for
+more information. 
+
+<hr> 
+
+<h2>HealthNet Projects</h2>
+
+<a name="htogo"></a>
+
+<h3>HealthNet to GO!</h3>
+
+HealthNet to GO! is an exercise to optimize currently available Internet
+tools for the health community. It consists of a number of different
+packages which can be easily installed and allow the health Internet user
+to easily access a number of different health related sites.
+
+<i><b>Important !!! Disclaimer</b></i>:  HealthNet to GO! is <b>NOT</b> a
+commercial product, is <b>NOT</b> for resale purposes, is <b>NOT</b>
+supported and we take <b>NO</b> responsiblity for any problems it may
+cause.  It is a reconfiguration of different currently available Internet
+software to "point" to health related content around the Internet. 
+HealthNet to GO! and the related projects with the goal of enabling users
+to make better use of the content that is currently available to them. <p>
+
+It is currently available for Windows 3.1x formats and assumes that the
+user either has access to SLIP (or SLIP like access - through something
+like <a href="http://marketplace.com">TIA</a>), or a direct connection via
+a LAN and is thus capable of using Windows 3.1x interfaces to access the Internet.
+
+<p>
+
+It is hoped that by providing easier installation and preconfigured
+pointers that new health users on the Internet will be able to start using
+Internet to be able to assist them in their work. <p>
+
+<b>HealthNet to GO is available in a number of formats</b>
+<p>
+<b>a) FORMAT1: The full "plug and play format"</b>
+<p>
+HealthNet to Go! has an easy plug and play install package and should be installed from three 1.44M, 3.5" Diskettes.  
+<p>
+This package includes**:
+
+<ul>
+<li>Netscape WWW browser, preconfigured to point at different health sites around the Internet, (under bookmark menu item).
+<li>Viewers for images, mpeg and quicktime movies preconfigured to work with Netscape
+<li> Trumpet Newsreader and Emailer preconfigured to point at Newsgroups around the Internet
+<li>Telnet client preconfigured to work with Netscape
+<li> SLIP dialer client for Windows
+
+</ul>
+
+(** all software are currently available freeware or shareware products)
+<p>
+To install HealthNet to Go from an FTP site follow the instructions below:
+<p>
+<b>WARNING</b>:  If you are already using Netscape this format will copy over the netscape.ini in your Windows directory to ensure that this will not cause you problems check your Windows directory and copyu any netscape.ini files to netscape2.ini (or any
+
+
+
+
+
+ other name) to ensure that any information there is saved.
+
+<p>
+1) ftp to  : <a href="ftp://hpb1.hwc.ca/pub/healthnet">hpb1.hwc.ca</a> or <a href="ftp://ftp.uncc.edu/cmc/hlthnet">ftp.uncc.edu</a> (login as anonymous, password is your Internet address)
+<p>
+2) If you are using an FTP client change directory to: pub/healthnet (for hpb1) or  cmc/hlthnet for (uncc.edu)
+<p>
+3) make sure your client is set to binary mode (eg type bin).
+<p>
+4a) get disk1.zip<br>
+4b) get disk2.zip<br>
+4c) get disk3.zip<br>
+<p>
+5) Transfer files to PC hard drive
+<p>
+6) make sure pkunzip is available.  (if you don't have it is available at <a href="ftp://hpb1.hwc.ca/pub/healthnet">hpb1.hwc.ca</a> in /pub/healthnet)
+<p>
+6) Place empty disk in drive A
+<p>
+7) pkunzip -d disk1.zip a: (make sure you use -d command)
+<p>
+8) Place second empty disk in drive A
+<p>
+9) pkunzip -d disk2.zip a:
+<p>
+10) Place third empty disk in drive A
+<p>
+11) pkunzip -d disk3.zip a:
+<p>
+---------------<p>
+User should now have complete installtion disks
+<p>
+Go into Windows 3.1x<br>
+1) Place disk 1 in drive A<br>
+2) From program manager in windows 3.1x use the run command
+	a:setup
+<p>
+Many thanks to Ben Bohren, Medical Informatics Group, UNCC, for programming the Installation package.
+<p>
+Wish list: (to come)
+<p>
+Help Files<br>
+Interactive Install to preconfigure SLIP etc ....<br>
+Availablity in other formats Mac, dos etc ... <br>
+<p>
+<b>b) FORMAT 2: Netscape bookmark file</b>
+<p>
+If you are already using Netscape and have the viewers preconfigured as you wish, then you can the hlthmark.htm file which is a Netscape bookmark file configured to point to health care sites.
+
+<p>
+Instructions
+<p>
+1) ftp to  : <a href="ftp://hpb1.hwc.ca/pub/healthnet">hpb1.hwc.ca</a> (login as anonymous, password is your Internet address)
+<p>
+2) If you are using an FTP client change directory to: pub/healthnet
+<p>
+3) Get file hlthmark.htm
+<p>
+4) Copy file into the directory where Netscape is located (eg: netscape).
+<p>
+5) If you want to use it as a bookmark file go to Preferences under Options pull down menu, and under Directories, Applications and News, choose hlthmark.htm as your Bookmark file.
+<p>
+<b>c) FORMAT 3: Mosaic.ini File</b>
+<p>
+<b>COMING SOON</b>
+<p>
+<hr>
+
+<a name="hwww"></a>
+<h2>HealthNet World Wide Web Demonstration Project</h2>
+
+The <I><B>HealthNet WWW Demonstration Project</B></I> is a demonstration project undertaken by the Communications Development Directorate of Industry Canada to help highlight the potential of existing communications technologies that can be applied toward
+
+
+
+
+
+ the development of a health  information infrastructure for Canada. 
+
+<p>
+
+The HealthNet WWW Demonstration Project is one of several Internet based HealthNet projects.  It's goal is to provide a single window point of access to health care resources on the Internet in order to provide easier access to health resources and demons
+
+
+
+
+
+trate the innovative ways in which many health groups are using currently available "information highway" technologies.
+
+The <b>HealthNet WWW Demo</b> is now available at a number of sites around the Internet. 
+<p>
+<p>
+<b>Main Site</b>
+<p>
+<a href = "http://hpb1.hwc.ca/healthnet/">Health Canada - HPB1 Server</a>
+<p>
+<b>Mirror Sites</b>
+<p>
+<a href = "http://debra.dgbt.doc.ca/~mike/healthnet/">Communications Research Centre - Debra Server</a><p>
+<hr>
+<a name="hlist"></a>
+<h2>HealthNet ListServ</h2>
+
+For updates on the <I>HealthNet Projects</I> or to keep up on other topics
+related to health care networking in Canada subscribe to the
+<b>HealthNet listserv</b>.  Send a message to:
+
+<a href="mailto:listserv@calvin.dgbt.doc.ca">listserv@calvin.dgbt.doc.ca</a><p>
+
+(If you are using the "Netscape Browser" with the e-mail address you want to receive this information at you can subscribe by selecting the hotlink)
+
+With the message: 
+<p>
+subscribe healthnet <i>Your Name</i> 
+<p>
+in the body of the text.
+<hr>
+
+For information on  these or other HealthNet projects, please contact.
+<p>
+Michael Pluscauskas <br>
+Communications Development Directorate, Industry Canada<br>
+Ottawa, Canada<br>
+(613) 990-3305<br>
+<a href="mailto:mike@debra.dgbt.doc.ca">mike@debra.dgbt.doc.ca</a><br>
+
+
+
+
+

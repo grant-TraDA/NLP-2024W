@@ -1,0 +1,7 @@
+{
+    "page_content": "Despite differing fundamentally from the NFL (No Free Lunch) theorems a priori, our work highlights an alternative framework that focuses on the performance of algorithms over specific problem domains rather than examining individual algorithms across various problems. This variant has significant implications for computational complexity theory, as discussed in [5].\n\nFuture research directions are clear, with a pressing need to develop practical applications of these novel ideas. Can the geometric perspective be leveraged to create new optimization methods that can be implemented in real-world settings? We posit that the answer is affirmative, and as Markov random field models of landscapes continue to gain traction, this framework should see increased adoption.\n\nAPPENDIX A\n\nNFL PROOF FOR STATIC COST FUNCTIONS\n\nWe demonstrate that has no dependence on . The conceptual simplicity of the proof belies its complexity due to meticulous bookkeeping. Intuitively, by summing over all , we ensure that an algorithm's past performance does not influence its future performance. Consequently, under such a sum, all algorithms perform equally.\n\nThe proof is inductive, with the base case resting on and the inductive step splitting into two independent components: and . Each part is evaluated separately, yielding the desired outcome.",
+    "metadata": {
+        "source": "../../data/pdfs\\Wolpert i Macready - 1997 - No free lunch theorems for optimization.pdf",
+        "chunk_idx": 52
+    }
+}

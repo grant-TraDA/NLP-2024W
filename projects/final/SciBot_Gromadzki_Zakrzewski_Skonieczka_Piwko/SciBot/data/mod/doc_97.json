@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\nThe widely used L1 Loss function is defined as:\n\nL1(y\u2217, y) = \n\nThis function is commonly employed in regression problems and is also referred to as mean absolute error (MAE).\n\nIn contrast, the L2 (MSE) Loss function is given by:\n\nL2(y\u2217, y) = \n\u2211m i=1 (\nyi \u2212 y\u2217i\n)2\n\nThis function is also frequently used in regression problems and is known as mean square error (MSE).\n\nFor multi-class classification tasks, a common loss function is the Softmax + Cross-Entropy Loss:\n\nL(y\u2217, y) = \u2212\u2211 \ni \u2208 [1, m] yi log(\ny\u2217i\n)\nThis function is often used as an alternative to MSE in CNN models.\n\nThe training process of the network relies heavily on the update of the network parameters through gradient descent. This is achieved by first computing the gradient of the objective function (loss function) with respect to the network parameters using a first-order derivative, and then updating the learning parameters of each layer based on this information.",
+    "metadata": {
+        "source": "../../data/pdfs\\JP_remotesensing-13-04712-v2.pdf",
+        "chunk_idx": 20
+    }
+}

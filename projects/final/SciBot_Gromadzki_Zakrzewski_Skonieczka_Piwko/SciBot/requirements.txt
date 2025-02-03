@@ -1,0 +1,10 @@
+streamlit
+streamlit_chat
+tqdm
+transformers==4.37.2
+langchain_community
+langchain_ollama
+langchain
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
+huggingface-hub==0.20.3

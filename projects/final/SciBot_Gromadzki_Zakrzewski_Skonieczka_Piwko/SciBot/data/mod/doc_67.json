@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the modified document:\n\nOur experiments demonstrate that Rithm will rapidly discover an optimal solution.\n\nThese findings validate the advantages of using a combined algorithm, as evident from the graph showing that performance can be enhanced by approximately 30% with reduced risk.\n\nWe also investigated whether constructing an efficient portfolio for this specific graph would yield favorable results. The portfolio was designed for two independent algorithms with identical discrete bimodal distributions (p = 0.7 and T = 10). Each point on the curve in Fig.1 represents the risk and performance of the \"portfolio\" algorithm when the fraction f1 ranges from 0 to 1: endpoint A marks f1 \u2192 1 or f2 \u2192 0, while endpoint B marks f1 = f2 = 1/2. The solid segment corresponds to the efficient frontier, indicating a trade-off between expected solution time and performance.\n\nFig.1: Expected Solution Time vs Risk for Two Independent Algorithms\n\nFig. 2 illustrates the relationship between risk (solid) and expected solution time (dashed) versus fraction f1 for the situation depicted in Fig.1.\n\nFig.3 shows an empirical probability distribution of the Brelaz heuristic applied to a specific 100-node graph-coloring problem with connectivity < 3.5, based on 10,000 trials using different random seeds.\n\nFig.4: Experimental Performance vs Risk",
+    "metadata": {
+        "source": "../../data/pdfs\\Huberman et al. - 1997 - An Economics Approach to Hard Computational Problems.pdf",
+        "chunk_idx": 14
+    }
+}

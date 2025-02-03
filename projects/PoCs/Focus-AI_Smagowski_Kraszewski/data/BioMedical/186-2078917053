@@ -1,0 +1,45 @@
+<HTML> 
+<header> 
+<!-- --> 
+<!-- Thank you for viewing our source.  All of the publicly-accessible--> 
+<!-- documents on our server are, as with any document under the Berne --> 
+<!-- Convention, copyrighted.  Duplication is prohibited, with the   --> 
+<!-- express exception of caching WWW servers.  Note that linking to   --> 
+<!-- us, or using the links we list elsewhere, is not considered  --> 
+<!-- duplication. --> 
+<!-- --> 
+<!--webmaster@mole.uvm.edu --> 
+
+<TITLE>UVM: The University of Vermont</TITLE> 
+</header> 
+
+<body> 
+<table border>
+
+<th colspan=2><h1>The University of Vermont</h1></th>
+<tr>
+<th><a href=/aboutuvm/Welcome.html>Welcome to UVM!<br></a></th>
+<th rowspan=6><a href=/webmaster/photo.html><img 
+src=http://mole.uvm.edu/webmaster/home0.gif alt="(Campus Photos)"><br></a></th>
+</tr>
+
+<tr><th><a href=uvmdetail.html>UVM in Detail<br></a></th></tr>
+<tr><th><A href=directory.html>UVM Student/Faculty/Staff Directory<br></a></th></tr>
+<tr><th><a href=uvmspecial.html>UVM Special Projects<br></a></th></tr>
+<tr><th><a href=uvmnew.html>What's New?<br></a></th></tr>
+<tr><th><a href=explore.html>Exploring the World Wide Web<br></a></th></tr>
+
+</table>
+
+<HR>
+
+<IMG SRC="/webmaster/www.uvm.edu.gif" align = "left" alt="Copyright 1995 University of Vermont and others. All rights reserved.">
+<H6>Brought to you through the courtesy
+of  <A HREF="/cit/">Computing and Information Technology, University of
+Vermont.</A>
+Copyright &#169; 1995 The University of Vermont and others.  All rights reserved.</H6>
+<address>
+<a href=mailto:webmaster@uvm.edu>webmaster@uvm.edu</a>
+6-26-95</address>
+</body>
+</HTML> 

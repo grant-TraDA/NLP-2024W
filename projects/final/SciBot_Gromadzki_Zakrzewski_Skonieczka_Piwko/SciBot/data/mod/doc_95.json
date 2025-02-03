@@ -1,0 +1,7 @@
+{
+    "page_content": "Here is the rephrased document:\n\nIn three out of four configuration scenarios where BasicILS was given sufficient time to perform multiple iterations of ILS, its performance on the training set significantly outperformed that of SimpleLS. This finding suggests that the search space exhibits underlying structure that can be effectively leveraged by local search algorithms, as well as potential local minima that may impede the effectiveness of iterative improvement techniques.\n\nTraining performance (penalized average runtime, in CPU seconds)\nScenario Default RandomSearch(100) BasicILS(100) p-value\nSA P S-SWGCP 19.93 \u00b10.46 0.38 \u00b1 0.19 0.94\nSP E A R-SWGCP 10.61 \u00b17.02 6.78 \u00b1 1.73 0.18\nSA P S-QCP 12.71 \u00b13.96 3.19 \u00b1 1.19 <0.00001 (significant difference)\nSP E A R-QCP 2.77 \u00b10.58 0.36 \u00b1 0.39 0.008 (significant difference)\nCP L E X-RE G I O N S100 1.61 \u00b11.45 0.72 \u00b1 0.45 <0.00001 (significant difference)\n\nTable 4: Comparison of RandomSearch(100) and BasicILS(100), both without adaptive capping. The table presents training performance metrics (penalized average runtime over N = 100 training instances, in CPU seconds). Both approaches achieved substantially better results compared to the default configuration.",
+    "metadata": {
+        "source": "../../data/pdfs\\Hutter et al. - 2009 - ParamILS An Automatic Algorithm Configuration Framework.pdf",
+        "chunk_idx": 71
+    }
+}

@@ -1,0 +1,1112 @@
+response,review,model,hamming_distance,levenshtein_distance,bert_metric,jaccard_distance,rouge_score,bleu_score
+"```json
+{
+    ""product_category"": ""Electric bicycle"",
+    ""product_attributes"": [
+        ""Battery performance"",
+        ""Speed limit"",
+        ""Range""
+    ],
+    ""other_keywords"": [
+        ""driving calmly"",
+        ""not exceeding 30 km/h"",
+        ""60-70km""
+    ]
+}
+```","{'review_content': 'The main thing: on the battery itself, driving calmly, not exceeding 30 km/h, you can do 60-70km.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['battery', 'calmly', '30 km/h', '60-70km'], 'other_keywords': ['battery', 'calmly']}}",Qwen/Qwen2.5-7B-Instruct,91,65,0.8758355975151062,0.3548387096774194,0.4,0.4214790445164097
+"```json
+{
+        ""product_category"": ""Electric bicycle"",
+        ""product_attributes"": [
+            ""Looks as described"",
+            ""Perfect ride"",
+            ""Feels powerful""
+        ],
+        ""other_keywords"": [
+            ""sensational"",
+            ""battery range"",
+            ""perfectly""
+        ]
+}
+```","{'review_content': 'Super contact, the bike looks like in the pictures plus accessories, the first sensational ride, I do not yet know what range on the battery but you ride perfectly, feel the power.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['contact', 'bike', 'pictures', 'accessories', 'sensational', 'ride', 'range', 'battery', 'ride', 'power'], 'other_keywords': ['battery', 'accessories', 'sensational', 'super', 'power']}}",Qwen/Qwen2.5-7B-Instruct,122,85,0.8381572961807251,0.16666666666666663,0.0,0.408455489050079
+"```json
+{
+        ""product_category"": {
+            ""type"": ""string"",
+            ""enum"": [""Electric bicycle"", ""Refrigirator"", ""The Blocks"", ""Others""]
+        },
+        ""product_attributes"": [
+            ""Great"",
+            ""Will see how it works""
+        ],
+        ""other_keywords"": [
+            ""okay""
+        ]
+}
+```
+
+Given the review, the product category seems to be ""Electric bicycle"" as the review mentions ""bike"". The product attributes are noted as ""Great"" and ""Will see how it works"", and the keyword ""okay"" is also included.","{'review_content': ""The bike is great. We'll see how it works, but I think it'll be okay"", 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['bike', 'great', 'works', 'okay'], 'other_keywords': ['great', 'okay']}}",Qwen/Qwen2.5-7B-Instruct,47,34,0.8485807776451111,0.35,0.14285714285714285,0.34841078412949844
+"```json
+{
+        ""product_category"": {
+            ""type"": ""Refrigerator""
+        },
+        ""product_attributes"": [
+            ""Super"",
+            ""works well"",
+            ""keeps fruits and vegetables fresh"",
+            ""longer保鲜时间""
+        ],
+        ""other_keywords"": [
+            ""recommend"",
+            ""description matches""
+        ]
+}
+```","{'review_content': 'Super refrigerator and actually it works fruits and vegetables can fly much longer while keeping fresh as it works in the description I recommend', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'fruits', 'vegetables', 'fresh', 'description', 'recommend'], 'other_keywords': ['super', 'fresh', 'recommend']}}",Qwen/Qwen2.5-7B-Instruct,90,53,0.8161721229553223,0.25,0.09523809523809525,0.6124170678765057
+"```json
+{
+        ""product_category"": {
+            ""type"": ""Refrigerator""
+        },
+        ""product_attributes"": [
+            ""Very capauous"",
+            ""super muted"",
+            ""advertised refrigerators"",
+            ""legated Korean manufacturer beats on the head""
+        ],
+        ""other_keywords"": [
+            ""capauous"",
+            ""muted"",
+            ""Korean manufacturer"",
+            ""beats on the head""
+        ]
+}
+```","{'review_content': 'Very capauous refrigerator, super muted advertised refrigerators of the legated Korean manufacturer beats on the head!', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'capauous', 'muted', 'Korean'], 'other_keywords': ['capauous', 'muted', 'Korean']}}",Qwen/Qwen2.5-7B-Instruct,144,104,0.8687325119972229,0.25,0.14285714285714285,0.38275046544227187
+"```json
+{
+        ""product_category"": {
+            ""type"": ""Refrigerator""
+        },
+        ""product_attributes"": [
+            ""recently purchased"",
+            ""currently not recommended""
+        ],
+        ""other_keywords"": [
+            ""recent"",
+            ""recommendation""
+        ]
+}
+```","{'review_content': ""I've had the Refrigerator recently, but for now, I can only recommend it."", 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['Refrigerator', 'recommend'], 'other_keywords': ['recently', 'recommend']}}",Qwen/Qwen2.5-7B-Instruct,64,36,0.88347989320755,0.19999999999999996,0.36363636363636365,0.5171328454790413
+"```json
+{
+        ""product_category"": ""Others"",
+        ""product_attributes"": [
+            ""architecture"",
+            ""impressive"",
+            ""folding""
+        ],
+        ""other_keywords"": [
+            ""whole series"",
+            ""great""
+        ]
+}
+```","{'review_content': 'The whole series of architecture is great, it makes an impression after folding.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['series', 'architecture', 'great', 'impression', 'folding'], 'other_keywords': ['great', 'impression']}}",Qwen/Qwen2.5-7B-Instruct,69,37,0.8586856722831726,0.25,0.14285714285714288,0.5646472372943465
+"```json
+{
+        ""product_category"": {
+            ""type"": ""string"",
+            ""enum"": [""The Blocks""]
+        },
+        ""product_attributes"": [
+            ""Many elements are movable"",
+            ""refined"",
+            ""aesthetic""
+        ],
+        ""other_keywords"": [
+            ""LEGO bricks"",
+            ""great"",
+            ""recommend""
+        ]
+}
+```","{'review_content': 'Great LEGO bricks. Many elements are movable, everything is refined and aesthetic. I really recommend it.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['LEGO bricks', 'movable', 'refined', 'aesthetic', 'recommend'], 'other_keywords': ['movable', 'refined', 'aesthetic', 'recommend']}}",Qwen/Qwen2.5-7B-Instruct,93,52,0.8619468808174133,0.18518518518518523,0.28571428571428564,0.5546783603497192
+"```json
+{
+        ""product_category"": {
+            ""type"": ""string"",
+            ""value"": ""The Blocks""
+        },
+        ""product_attributes"": [
+            ""super set"",
+            ""super two models"",
+            ""large number of blocks"",
+            ""detail and mapping at the highest level""
+        ],
+        ""other_keywords"": [
+            ""son is pleased""
+        ]
+}
+```","{'review_content': 'Super set with super two models. A large number of blocks. Detail and mapping at the highest level. The son is pleased.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['set', 'models', 'large', 'blocks', 'detail', 'mapping', 'highest', 'pleased'], 'other_keywords': ['super', 'large', 'highest', 'pleased']}}",Qwen/Qwen2.5-7B-Instruct,108,60,0.8804134726524353,0.20833333333333337,0.125,0.5678133735400909
+"```json
+{
+        ""product_category"": ""Electric bicycle"",
+        ""product_attributes"": [
+            ""Battery life""
+        ],
+        ""other_keywords"": [
+            ""Driving range"",
+            ""30 km/h"",
+            ""60-70 km""
+        ]
+}
+``` 
+","{'review_content': 'The main thing: on the battery itself, driving calmly, not exceeding 30 km/h, you can do 60-70km.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['battery', 'calmly', '30 km/h', '60-70km'], 'other_keywords': ['battery', 'calmly']}}",google/gemma-2-2b-it,54,35,0.9031684398651123,0.23076923076923073,0.380952380952381,0.5456857215677926
+"```json
+{
+        ""product_category"": ""Electric bicycle"",
+        ""product_attributes"": [
+            ""Super contact""
+        ],
+        ""other_keywords"": [
+            ""first sensational ride"",
+            ""feel the power"",
+            ""range on the battery""
+        ]
+}
+``` 
+","{'review_content': 'Super contact, the bike looks like in the pictures plus accessories, the first sensational ride, I do not yet know what range on the battery but you ride perfectly, feel the power.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['contact', 'bike', 'pictures', 'accessories', 'sensational', 'ride', 'range', 'battery', 'ride', 'power'], 'other_keywords': ['battery', 'accessories', 'sensational', 'super', 'power']}}",google/gemma-2-2b-it,128,77,0.8669227957725525,0.17391304347826086,0.06896551724137931,0.4251150025635586
+"```json
+{
+  ""product_category"": ""Others"",
+  ""product_attributes"": [
+    ""bike""
+  ],
+  ""other_keywords"": [
+    ""great"",
+    ""okay""
+  ]
+}
+``` 
+","{'review_content': ""The bike is great. We'll see how it works, but I think it'll be okay"", 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['bike', 'great', 'works', 'okay'], 'other_keywords': ['great', 'okay']}}",google/gemma-2-2b-it,47,31,0.9070877432823181,0.33333333333333337,0.4,0.23277794698657486
+"```json
+{
+        ""product_category"": ""Refrigirator"",
+        ""product_attributes"": [
+            ""Super refrigerator""
+        ],
+        ""other_keywords"": [
+            ""fruits and vegetables"",
+            ""fly much longer"",
+            ""keeping fresh"",
+            ""works in the description""
+        ]
+}
+``` 
+","{'review_content': 'Super refrigerator and actually it works fruits and vegetables can fly much longer while keeping fresh as it works in the description I recommend', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'fruits', 'vegetables', 'fresh', 'description', 'recommend'], 'other_keywords': ['super', 'fresh', 'recommend']}}",google/gemma-2-2b-it,84,54,0.8761114478111267,0.16000000000000003,0.08695652173913043,0.6225471201377226
+"```json
+{
+        ""product_category"": ""Refrigirator"",
+        ""product_attributes"": [
+            ""capauous""
+        ],
+        ""other_keywords"": [
+            ""super muted"",
+            ""advertised refrigerators"",
+            ""legated Korean manufacturer""
+        ]
+}
+``` 
+","{'review_content': 'Very capauous refrigerator, super muted advertised refrigerators of the legated Korean manufacturer beats on the head!', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'capauous', 'muted', 'Korean'], 'other_keywords': ['capauous', 'muted', 'Korean']}}",google/gemma-2-2b-it,72,53,0.8730554580688477,0.09999999999999998,0.0,0.5993283583114035
+"```json
+{
+  ""product_category"": ""Refrigirator"",
+  ""product_attributes"": [
+    ""Refrigerator""
+  ],
+  ""other_keywords"": [
+    ""recently""
+  ]
+}
+``` 
+","{'review_content': ""I've had the Refrigerator recently, but for now, I can only recommend it."", 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['Refrigerator', 'recommend'], 'other_keywords': ['recently', 'recommend']}}",google/gemma-2-2b-it,25,20,0.948692798614502,0.125,0.3333333333333333,0.5553063730019506
+"```json
+{
+  ""product_category"": ""Others"",
+  ""product_attributes"": [
+    ""architecture""
+  ],
+  ""other_keywords"": [
+    ""great"",
+    ""folding""
+  ]
+}
+``` 
+","{'review_content': 'The whole series of architecture is great, it makes an impression after folding.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['series', 'architecture', 'great', 'impression', 'folding'], 'other_keywords': ['great', 'impression']}}",google/gemma-2-2b-it,72,42,0.8540024757385254,0.2727272727272727,0.18181818181818182,0.26333593275255357
+"```json
+{
+        ""product_category"": ""The Blocks"",
+        ""product_attributes"": [
+            ""Great LEGO bricks""
+        ],
+        ""other_keywords"": [
+            ""movable"",
+            ""refined"",
+            ""aesthetic""
+        ]
+}
+``` 
+","{'review_content': 'Great LEGO bricks. Many elements are movable, everything is refined and aesthetic. I really recommend it.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['LEGO bricks', 'movable', 'refined', 'aesthetic', 'recommend'], 'other_keywords': ['movable', 'refined', 'aesthetic', 'recommend']}}",google/gemma-2-2b-it,82,50,0.9030929803848267,0.0,0.5555555555555556,0.4278476151719312
+"```json
+{
+        ""product_category"": ""The Blocks"",
+        ""product_attributes"": [
+            ""Super set"",
+            ""Super two models"",
+            ""Large number of blocks"",
+            ""Detail and mapping at the highest level""
+        ],
+        ""other_keywords"": [
+            ""son is pleased""
+        ]
+}
+``` 
+","{'review_content': 'Super set with super two models. A large number of blocks. Detail and mapping at the highest level. The son is pleased.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['set', 'models', 'large', 'blocks', 'detail', 'mapping', 'highest', 'pleased'], 'other_keywords': ['super', 'large', 'highest', 'pleased']}}",google/gemma-2-2b-it,100,58,0.8774703741073608,0.2222222222222222,0.18181818181818185,0.5509515531477199
+"```json
+{
+        ""product_category"": ""Electric bicycle"",
+        ""product_attributes"": [ ""battery"", ""range"", ""speed"" ],
+        ""other_keywords"": [ ""km/h"", ""km"", ""driving"", ""calmly"" ]
+}
+``` 
+
+
+**Explanation:**
+
+* **product_category:**  The review clearly discusses a battery range for a vehicle that operates at speeds under 30 km/h, strongly indicating an electric bicycle.
+* **product_attributes:**  We identify ""battery"", ""range"", and ""speed"" as key attributes discussed in the review.
+* **other_keywords:**  Words like ""km/h"", ""km"", ""driving"", and ""calmly"" provide context and further support the electric bicycle categorization. 
+
+
+Let me know if you have any other reviews you'd like me to analyze!
+","{'review_content': 'The main thing: on the battery itself, driving calmly, not exceeding 30 km/h, you can do 60-70km.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['battery', 'calmly', '30 km/h', '60-70km'], 'other_keywords': ['battery', 'calmly']}}",google/gemma-2-9b-it,53,23,0.8764551281929016,0.42307692307692313,0.2105263157894737,0.5512364500917013
+"```json
+{
+        ""product_category"": ""Electric bicycle"",
+        ""product_attributes"": [ ""looks like in the pictures"", ""accessories"", ""power"", ""battery"" ],
+        ""other_keywords"": [ ""super contact"", ""sensational ride"", ""range"" ]
+}
+``` 
+
+
+**Explanation:**
+
+* **product_category:** The review clearly mentions ""bike"" and ""battery,"" strongly indicating an electric bicycle.
+* **product_attributes:**  We extract attributes mentioned in the review:
+    * ""looks like in the pictures"" -  relates to visual appearance.
+    * ""accessories"" -  suggests the bike comes with additional components.
+    * ""power"" -  highlights the bike's motor performance.
+    * ""battery"" -  a key feature of electric bicycles.
+* **other_keywords:** These are phrases that provide context or sentiment:
+    * ""super contact"" -  likely refers to positive customer service.
+    * ""sensational ride"" -  expresses a positive experience.
+    * ""range"" -  a common concern for electric bike users. 
+
+
+
+Let me know if you have any other reviews you'd like me","{'review_content': 'Super contact, the bike looks like in the pictures plus accessories, the first sensational ride, I do not yet know what range on the battery but you ride perfectly, feel the power.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['contact', 'bike', 'pictures', 'accessories', 'sensational', 'ride', 'range', 'battery', 'ride', 'power'], 'other_keywords': ['battery', 'accessories', 'sensational', 'super', 'power']}}",google/gemma-2-9b-it,122,66,0.8749467134475708,0.04761904761904767,0.26666666666666666,0.6280782829342796
+"```json
+{
+        ""product_category"": ""Electric bicycle"",
+        ""product_attributes"": [""great"", ""okay""],
+        ""other_keywords"": [""works"", ""see how it""]
+}
+``` 
+
+
+**Explanation:**
+
+* **product_category:** The review clearly mentions a ""bike,"" strongly suggesting an ""Electric bicycle.""
+* **product_attributes:**  The reviewer uses ""great"" to describe the bike, indicating a positive attribute. ""Okay"" suggests a cautious optimism about its performance.
+* **other_keywords:**  Phrases like ""works"" and ""see how it""  highlight the reviewer's focus on the bike's functionality and their desire to assess its performance over time. 
+
+
+Let me know if you have any other reviews you'd like me to analyze!
+","{'review_content': ""The bike is great. We'll see how it works, but I think it'll be okay"", 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['bike', 'great', 'works', 'okay'], 'other_keywords': ['great', 'okay']}}",google/gemma-2-9b-it,41,23,0.9032577276229858,0.05882352941176472,0.14285714285714285,0.6585759858979173
+"```json
+{
+        ""product_category"": ""Refrigirator"",
+        ""product_attributes"": [ ""keeps fruits and vegetables fresh"", ""works as described"" ],
+        ""other_keywords"": [ ""super"", ""fly longer"" ]
+}
+``` 
+
+
+**Explanation:**
+
+* **product_category:** The review clearly states it's about a refrigerator.
+* **product_attributes:**  We identify two key attributes from the review:
+    * ""keeps fruits and vegetables fresh"" - This is a primary function highlighted.
+    * ""works as described"" -  Indicates the product meets expectations.
+* **other_keywords:**  Words like ""super"" and ""fly longer""  add emphasis and  describe the perceived benefits, though ""fly longer"" might be a figurative expression. 
+
+
+Let me know if you have any other reviews you'd like me to analyze!
+","{'review_content': 'Super refrigerator and actually it works fruits and vegetables can fly much longer while keeping fresh as it works in the description I recommend', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'fruits', 'vegetables', 'fresh', 'description', 'recommend'], 'other_keywords': ['super', 'fresh', 'recommend']}}",google/gemma-2-9b-it,74,41,0.8541463613510132,0.16666666666666663,0.09999999999999999,0.5634970430674004
+"```json
+{
+        ""product_category"": ""Refrigerator"",
+        ""product_attributes"": [ ""capauous"", ""muted"", ""legated Korean manufacturer"" ],
+        ""other_keywords"": [ ""beats on the head"" ]
+}
+``` 
+
+
+**Explanation:**
+
+* **product_category:** The review clearly states it's about a refrigerator.
+* **product_attributes:**  We identify these attributes from the review:
+    * ""capauous"" - likely a misspelling of ""spacious""
+    * ""muted"" -  referring to quiet operation
+    * ""legated Korean manufacturer"" -  indicates the brand origin
+* **other_keywords:**  ""beats on the head"" is a figurative expression suggesting the refrigerator outperforms others. 
+
+
+
+Let me know if you have any other reviews you'd like me to analyze!
+","{'review_content': 'Very capauous refrigerator, super muted advertised refrigerators of the legated Korean manufacturer beats on the head!', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'capauous', 'muted', 'Korean'], 'other_keywords': ['capauous', 'muted', 'Korean']}}",google/gemma-2-9b-it,60,43,0.8304654359817505,0.1428571428571429,0.25,0.5820613091487515
+"```json
+{
+        ""product_category"": ""Refrigerator"",
+        ""product_attributes"": [],
+        ""other_keywords"": [""recently"", ""recommend""]
+}
+``` 
+
+
+**Explanation:**
+
+* **product_category:** The review clearly states ""Refrigerator"".
+* **product_attributes:**  There are no specific attributes mentioned in the review.
+* **other_keywords:**  ""recently"" and ""recommend"" provide context about the reviewer's experience and opinion. 
+
+
+Let me know if you have any other reviews you'd like me to analyze!
+","{'review_content': ""I've had the Refrigerator recently, but for now, I can only recommend it."", 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['Refrigerator', 'recommend'], 'other_keywords': ['recently', 'recommend']}}",google/gemma-2-9b-it,42,22,0.8709233403205872,0.0,0.3333333333333333,0.476996800068188
+"```json
+{
+        ""product_category"": ""The Blocks"",
+        ""product_attributes"": [ ""architecture"", ""folding"" ],
+        ""other_keywords"": [ ""impression"" ]
+}
+``` 
+
+
+**Explanation:**
+
+* **product_category:** The review clearly mentions ""architecture"" and ""folding,"" strongly suggesting the product is a construction set like ""The Blocks.""
+* **product_attributes:**  ""architecture"" and ""folding"" are key attributes mentioned in the review, describing the product's design and functionality.
+* **other_keywords:** ""impression"" highlights the positive impact the product makes, indicating user satisfaction. 
+
+
+Let me know if you have any other reviews you'd like me to analyze!
+","{'review_content': 'The whole series of architecture is great, it makes an impression after folding.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['series', 'architecture', 'great', 'impression', 'folding'], 'other_keywords': ['great', 'impression']}}",google/gemma-2-9b-it,61,30,0.8901681303977966,0.0,0.16666666666666666,0.4670078003905535
+"```json
+{
+        ""product_category"": ""The Blocks"",
+        ""product_attributes"": [ ""movable elements"", ""refined"", ""aesthetic"" ],
+        ""other_keywords"": [ ""LEGO"", ""recommend"" ]
+}
+``` 
+","{'review_content': 'Great LEGO bricks. Many elements are movable, everything is refined and aesthetic. I really recommend it.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['LEGO bricks', 'movable', 'refined', 'aesthetic', 'recommend'], 'other_keywords': ['movable', 'refined', 'aesthetic', 'recommend']}}",google/gemma-2-9b-it,81,47,0.8984776139259338,0.0,0.2222222222222222,0.48786122888938294
+"```json
+{
+        ""product_category"": ""The Blocks"",
+        ""product_attributes"": [
+            ""super set"",
+            ""super two models"",
+            ""large number of blocks"",
+            ""detail and mapping at the highest level""
+        ],
+        ""other_keywords"": [
+            ""son is pleased""
+        ]
+}
+``` 
+
+
+**Explanation:**
+
+* **product_category:**  The review clearly mentions ""The Blocks"", indicating the product category.
+* **product_attributes:**  We extract descriptive phrases from the review that highlight specific features of the product:
+    * ""super set""
+    * ""super two models""
+    * ""large number of blocks""
+    * ""detail and mapping at the highest level""
+* **other_keywords:**  ""son is pleased"" conveys the positive user experience and is a relevant keyword. 
+
+
+
+Let me know if you have any other reviews you'd like me to analyze!
+","{'review_content': 'Super set with super two models. A large number of blocks. Detail and mapping at the highest level. The son is pleased.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['set', 'models', 'large', 'blocks', 'detail', 'mapping', 'highest', 'pleased'], 'other_keywords': ['super', 'large', 'highest', 'pleased']}}",google/gemma-2-9b-it,99,56,0.8804589509963989,0.125,0.18181818181818185,0.6199850770459219
+"Based on the review, I'll extract the relevant information and return it in the specified JSON format.
+
+Review: ""The main thing: on the battery itself, driving calmly, not exceeding 30 km/h, you can do 60-70km.""
+
+**Product Category**: Electric bicycle
+
+**Product Attributes**:
+- Calm driving
+- Speed: 30 km/h
+- Range: 60-70km
+
+**Other Keywords**:
+- Battery
+
+Here's the extracted data in the specified JSON format:
+
+```json
+{
+  ""product_category"": ""Electric bicycle"",
+  ""product_attributes"": [
+    ""Calm driving"",
+    ""Speed: 30 km/h"",
+    ""Range: 60-70km""
+  ],
+  ""other_keywords"": [
+    ""Battery""
+  ]
+}
+```
+
+Let me know if you'd like me to assist with anything else!","{'review_content': 'The main thing: on the battery itself, driving calmly, not exceeding 30 km/h, you can do 60-70km.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['battery', 'calmly', '30 km/h', '60-70km'], 'other_keywords': ['battery', 'calmly']}}",meta-llama/Llama-3.1-8B-Instruct,61,32,0.8756241202354431,0.33333333333333337,0.380952380952381,0.5202622369270588
+"Based on the review, I can help you generate a JSON object in the specified format.
+
+**Product Category**
+The product category is ""Electric bicycle"".
+
+**Product Attributes**
+The product attributes are:
+- Looks like in the pictures
+- Accessories
+- First sensational ride
+- Ride perfectly
+- Feel the power
+
+**Other Keywords**
+The other keywords are:
+- Battery
+
+Here's the JSON object in the specified format:
+
+```json
+{
+  ""product_category"": ""Electric bicycle"",
+  ""product_attributes"": [
+    ""Looks like in the pictures"",
+    ""Accessories"",
+    ""First sensational ride"",
+    ""Ride perfectly"",
+    ""Feel the power""
+  ],
+  ""other_keywords"": [
+    ""Battery""
+  ]
+}
+```
+
+Note: The range of the battery is not mentioned in the review, so it's not included in the JSON object.","{'review_content': 'Super contact, the bike looks like in the pictures plus accessories, the first sensational ride, I do not yet know what range on the battery but you ride perfectly, feel the power.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['contact', 'bike', 'pictures', 'accessories', 'sensational', 'ride', 'range', 'battery', 'ride', 'power'], 'other_keywords': ['battery', 'accessories', 'sensational', 'super', 'power']}}",meta-llama/Llama-3.1-8B-Instruct,121,72,0.8531012535095215,0.2962962962962963,0.1875,0.5263747991064432
+"Based on the review, I can create a JSON object that matches the given schema. Here's the result:
+
+```json
+{
+    ""product_category"": ""Others"",
+    ""product_attributes"": [
+        ""great"",
+        ""okay""
+    ],
+    ""other_keywords"": [
+        ""bike"",
+        ""works"",
+        ""electric"",
+        ""refrigerator""
+    ]
+}
+```
+
+Here's a breakdown of how I interpreted the review:
+
+* The product category is ""Others"" because the review doesn't explicitly mention a specific category like ""Electric bicycle"" or ""Refrigerator"".
+* The product attributes are the words ""great"", ""okay"" because they describe the product's qualities.
+* The other keywords are the words ""bike"", ""works"", ""electric"", and ""refrigerator"" because they're related to the product but not explicitly attributes.
+
+Note that the interpretation might vary depending on the context and the specific requirements of the schema.","{'review_content': ""The bike is great. We'll see how it works, but I think it'll be okay"", 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['bike', 'great', 'works', 'okay'], 'other_keywords': ['great', 'okay']}}",meta-llama/Llama-3.1-8B-Instruct,48,39,0.8692954182624817,0.21052631578947367,0.15384615384615383,0.5225610121697597
+"Based on the provided review, here's the JSON response in the specified format:
+
+```json
+{
+    ""product_category"": ""Refrigerator"",
+    ""product_attributes"": [
+        ""Super"",
+        ""works"",
+        ""fruits"",
+        ""vegetables"",
+        ""can fly"",
+        ""much longer"",
+        ""keeping fresh""
+    ],
+    ""other_keywords"": [
+        ""as it works in the description"",
+        ""I recommend""
+    ]
+}
+```
+
+However, some of the attributes in the review might not be relevant to the product category, such as ""can fly"" which is not a characteristic of a refrigerator. Here's a revised version of the JSON response, where I've removed the irrelevant attributes:
+
+```json
+{
+    ""product_category"": ""Refrigerator"",
+    ""product_attributes"": [
+        ""Super"",
+        ""works"",
+        ""fruits"",
+        ""vegetables"",
+        ""keeping fresh""
+    ],
+    ""other_keywords"": [
+        ""as it works in the description"",
+        ""I recommend""
+    ]
+}
+```
+
+Note that the ""much longer"" attribute is still present, as it could be related to the refrigerator's performance or the freshness of the fruits and vegetables it keeps. If you'd like","{'review_content': 'Super refrigerator and actually it works fruits and vegetables can fly much longer while keeping fresh as it works in the description I recommend', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'fruits', 'vegetables', 'fresh', 'description', 'recommend'], 'other_keywords': ['super', 'fresh', 'recommend']}}",meta-llama/Llama-3.1-8B-Instruct,106,65,0.8525435328483582,0.1923076923076923,0.07407407407407407,0.5368827560484505
+"Based on the review, I can extract the following information in the specified JSON format:
+
+```json
+{
+  ""product_category"": ""Refrigerator"",
+  ""product_attributes"": [
+    ""capauous"",
+    ""muted"",
+    ""advertised"",
+    ""beats""
+  ],
+  ""other_keywords"": [
+    ""legated"",
+    ""Korean"",
+    ""manufacturer""
+  ]
+}
+```
+
+However, the ""product_attributes"" array seems to be a collection of words that describe the product, rather than specific attributes. If we consider these words as attributes, the JSON would be:
+
+```json
+{
+  ""product_category"": ""Refrigerator"",
+  ""product_attributes"": [
+    ""capauous"",
+    ""muted"",
+    ""advertised"",
+    ""beats""
+  ],
+  ""other_keywords"": [
+    ""legated"",
+    ""Korean"",
+    ""manufacturer""
+  ]
+}
+```
+
+If we consider ""capauous"" and ""muted"" as negative attributes, the JSON would be:
+
+```json
+{
+  ""product_category"": ""Refrigerator"",
+  ""product_attributes"": [
+    {
+      ""attribute"": ""capauous"",
+      ""type"": ""negative""
+    },
+","{'review_content': 'Very capauous refrigerator, super muted advertised refrigerators of the legated Korean manufacturer beats on the head!', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'capauous', 'muted', 'Korean'], 'other_keywords': ['capauous', 'muted', 'Korean']}}",meta-llama/Llama-3.1-8B-Instruct,60,44,0.8367214202880859,0.1428571428571429,0.2857142857142857,0.5894078674936326
+"Based on the review, I can create a JSON object with the provided schema. 
+
+Here's the review again: 
+""I've had the Refrigerator recently, but for now, I can only recommend it.""
+
+From this review, we can infer the following:
+
+- `product_category`: Refrigerator
+- `product_attributes`: ['recently','recommend']
+- `other_keywords`: ['had', 'but', 'for', 'now', 'I', 'can', 'only']
+
+Here's the JSON object:
+
+```json
+{
+    ""product_category"": ""Refrigerator"",
+    ""product_attributes"": [
+        ""recently"",
+        ""recommend""
+    ],
+    ""other_keywords"": [
+        ""had"",
+        ""but"",
+        ""for"",
+        ""now"",
+        ""I"",
+        ""can"",
+        ""only""
+    ]
+}
+```
+
+Note that some of the words in the review could be considered as product attributes or other keywords, but for the purpose of this exercise, I've made the distinction based on the context of the review. 
+
+For example, 'had' and'recently' could be considered as product attributes, but in the context of the review, they seem to be more related to the user's experience rather than the","{'review_content': ""I've had the Refrigerator recently, but for now, I can only recommend it."", 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['Refrigerator', 'recommend'], 'other_keywords': ['recently', 'recommend']}}",meta-llama/Llama-3.1-8B-Instruct,42,32,0.8437632918357849,0.23809523809523814,0.15384615384615383,0.5914490506990323
+"Based on the review, I will extract the relevant information and return it in the specified JSON format.
+
+Review: ""The whole series of architecture is great, it makes an impression after folding.""
+
+Extracted information:
+
+- Product category: Not explicitly mentioned, but based on the context of ""architecture"" and ""folding"", I'm assuming it's related to ""The Blocks"".
+- Product attributes: 
+  - ""Whole series of architecture""
+  - ""Great""
+  - ""Makes an impression""
+  - ""After folding""
+- Other keywords: None
+
+JSON response:
+
+```json
+{
+    ""product_category"": {
+        ""type"": ""string"",
+        ""enum"": [""Electric bicycle"", ""Refrigerator"", ""The Blocks"", ""Others""],
+        ""value"": ""The Blocks""
+    },
+    ""product_attributes"": {
+        ""type"": ""array"",
+        ""items"": {
+            ""type"": ""string""
+        },
+        ""value"": [""Whole series of architecture"", ""Great"", ""Makes an impression"", ""After folding""]
+    },
+    ""other_keywords"": {
+        ""type"": ""array"",
+        ""items"": {
+            ""type"": ""string""
+        },
+        ""value"": []
+    }
+}
+```
+
+Note: The ""value","{'review_content': 'The whole series of architecture is great, it makes an impression after folding.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['series', 'architecture', 'great', 'impression', 'folding'], 'other_keywords': ['great', 'impression']}}",meta-llama/Llama-3.1-8B-Instruct,70,57,0.8268536329269409,0.4347826086956522,0.0,0.0690609088103598
+"Based on the review, I can help you create a JSON object in the specified format.
+
+The review mentions:
+- ""LEGO bricks"" which falls under the category ""The Blocks""
+- ""Many elements are movable"" which can be considered as a product attribute
+- ""everything is refined and aesthetic"" which can be considered as another product attribute
+- ""I really recommend it"" which does not provide any specific information but is a general recommendation
+
+Here's the JSON object:
+
+```json
+{
+    ""product_category"": ""The Blocks"",
+    ""product_attributes"": [
+        ""Many elements are movable"",
+        ""everything is refined and aesthetic""
+    ],
+    ""other_keywords"": []
+}
+```
+
+Note: The ""other_keywords"" array is empty as there are no other keywords mentioned in the review that do not fit into the ""product_attributes"" array. If you want to add a keyword like ""recommend"" which is not an attribute but a recommendation, you can add it to the ""other_keywords"" array.","{'review_content': 'Great LEGO bricks. Many elements are movable, everything is refined and aesthetic. I really recommend it.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['LEGO bricks', 'movable', 'refined', 'aesthetic', 'recommend'], 'other_keywords': ['movable', 'refined', 'aesthetic', 'recommend']}}",meta-llama/Llama-3.1-8B-Instruct,76,55,0.8508920073509216,0.2592592592592593,0.09523809523809525,0.45051799087313377
+"Based on the review, I will break down the information into the required JSON format.
+
+**Product Category**
+The review mentions ""Electric bicycle"" as the product category.
+
+**Product Attributes**
+The review mentions the following attributes:
+- Super set
+- Super two models
+- A large number of blocks
+- Detail and mapping at the highest level
+
+**Other Keywords**
+The review mentions the following keywords:
+- The son is pleased
+
+Here's the JSON format with the extracted information:
+
+```json
+{
+    ""product_category"": ""Electric bicycle"",
+    ""product_attributes"": [
+        ""Super set"",
+        ""Super two models"",
+        ""A large number of blocks"",
+        ""Detail and mapping at the highest level""
+    ],
+    ""other_keywords"": [
+        ""The son is pleased""
+    ]
+}
+```
+
+Please note that the ""Others"" category in the JSON schema is not used in this review. If you'd like to add it, I can update the JSON accordingly.","{'review_content': 'Super set with super two models. A large number of blocks. Detail and mapping at the highest level. The son is pleased.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['set', 'models', 'large', 'blocks', 'detail', 'mapping', 'highest', 'pleased'], 'other_keywords': ['super', 'large', 'highest', 'pleased']}}",meta-llama/Llama-3.1-8B-Instruct,125,71,0.8606788516044617,0.31034482758620685,0.05714285714285715,0.46291839634547644
+"Here is the review in JSON format based on the provided schema:
+
+```json
+{
+  ""product_category"": ""Electric bicycle"",
+  ""product_attributes"": [
+    ""battery"",
+    ""driving"",
+    ""speed""
+  ],
+  ""other_keywords"": [
+    ""30 km/h"",
+    ""60-70km"",
+    ""calmly""
+  ]
+}
+```
+
+Note that I've identified the key points of the review and categorized them accordingly. The product category is ""Electric bicycle"" as it's the main subject of the review. The product attributes include ""battery"", ""driving"", and ""speed"" as they are all related to the product's functionality. The other keywords include ""30 km/h"", ""60-70km"", and ""calmly"" as they provide more context about the review.","{'review_content': 'The main thing: on the battery itself, driving calmly, not exceeding 30 km/h, you can do 60-70km.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['battery', 'calmly', '30 km/h', '60-70km'], 'other_keywords': ['battery', 'calmly']}}",meta-llama/Llama-3.2-3B-Instruct,45,22,0.9051479697227478,0.23076923076923073,0.5,0.7091792509195047
+"Here's the review in JSON format:
+
+```json
+{
+  ""product_category"": ""Electric bicycle"",
+  ""product_attributes"": [""Super contact"", ""looks like in the pictures"", ""accessories"", ""first sensational ride"", ""feel the power""],
+  ""other_keywords"": [""bike"", ""battery"", ""range""]
+}
+```
+
+Explanation:
+- `product_category` is the category of the product, which is ""Electric bicycle"".
+- `product_attributes` are the attributes of the product, which include ""Super contact"", ""looks like in the pictures"", ""accessories"", ""first sensational ride"", and ""feel the power"". These are all descriptive phrases used to highlight the positive aspects of the product.
+- `other_keywords` are additional keywords that describe the product, which include ""bike"", ""battery"", and ""range"". These keywords provide more context about the product's features and performance.","{'review_content': 'Super contact, the bike looks like in the pictures plus accessories, the first sensational ride, I do not yet know what range on the battery but you ride perfectly, feel the power.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['contact', 'bike', 'pictures', 'accessories', 'sensational', 'ride', 'range', 'battery', 'ride', 'power'], 'other_keywords': ['battery', 'accessories', 'sensational', 'super', 'power']}}",meta-llama/Llama-3.2-3B-Instruct,127,75,0.855289876461029,0.13043478260869568,0.11764705882352941,0.6710000650128236
+"Based on the review, here's a JSON representation of the sentiment and keywords extracted from it:
+
+```json
+{
+  ""product_category"": ""Electric bicycle"",
+  ""product_attributes"": [],
+  ""other_keywords"": [""great"", ""will"", ""see"", ""how"", ""it'll"", ""be""]
+}
+```
+
+Explanation:
+
+- `product_category`: The category of the product mentioned in the review, which is an ""Electric bicycle"".
+- `product_attributes`: Since the review doesn't mention any specific attributes of the product, an empty array is used.
+- `other_keywords`: The review contains several keywords that convey the reviewer's sentiment, such as ""great"", ""will"", ""see"", ""how"", ""it'll"", and ""be"". These keywords are extracted to capture the reviewer's tone and uncertainty about the product's performance.","{'review_content': ""The bike is great. We'll see how it works, but I think it'll be okay"", 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['bike', 'great', 'works', 'okay'], 'other_keywords': ['great', 'okay']}}",meta-llama/Llama-3.2-3B-Instruct,42,24,0.8317930102348328,0.16666666666666663,0.0,0.4645058753812701
+"Here's the review in JSON format based on the provided schema:
+
+```json
+{
+    ""product_category"": ""Refrigirator"",
+    ""product_attributes"": [
+        ""Super refrigerator""
+    ],
+    ""other_keywords"": [
+        ""actually it works"",
+        ""fruits and vegetables can fly much longer"",
+        ""keeping fresh as it works""
+    ]
+}
+```
+
+Let me know if you need any further assistance!","{'review_content': 'Super refrigerator and actually it works fruits and vegetables can fly much longer while keeping fresh as it works in the description I recommend', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'fruits', 'vegetables', 'fresh', 'description', 'recommend'], 'other_keywords': ['super', 'fresh', 'recommend']}}",meta-llama/Llama-3.2-3B-Instruct,101,68,0.8581032156944275,0.16000000000000003,0.0,0.49468734872904996
+"Here's the review in a JSON format based on the given schema:
+
+```json
+{
+  ""product_category"": ""Refrigirator"",
+  ""product_attributes"": [
+    ""Very capauous"",
+    ""super muted"",
+    ""advertised"",
+    ""Korean manufacturer"",
+    ""legated""
+  ],
+  ""other_keywords"": [
+    ""beats on the head""
+  ]
+}
+```
+
+This JSON object represents the review, with the product category as a refrigerator, and the product attributes as the adjectives used to describe the refrigerator. The other keywords are the phrases that are not directly related to the product but still convey the reviewer's sentiment.","{'review_content': 'Very capauous refrigerator, super muted advertised refrigerators of the legated Korean manufacturer beats on the head!', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'capauous', 'muted', 'Korean'], 'other_keywords': ['capauous', 'muted', 'Korean']}}",meta-llama/Llama-3.2-3B-Instruct,76,53,0.8624024987220764,0.25,0.0,0.4391739160633774
+"Here is the review in JSON format:
+
+```json
+{
+  ""product_category"": ""Refrigirator"",
+  ""product_attributes"": [],
+  ""other_keywords"": [""recently""]
+}
+```
+
+Explanation:
+- The product category is ""Refrigirator"" as it's the main subject of the review.
+- The product attributes array is empty because there are no specific attributes mentioned in the review.
+- The other keywords array contains ""recently"" as it's the only other word that has any significance in the review.","{'review_content': ""I've had the Refrigerator recently, but for now, I can only recommend it."", 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['Refrigerator', 'recommend'], 'other_keywords': ['recently', 'recommend']}}",meta-llama/Llama-3.2-3B-Instruct,41,32,0.8707652688026428,0.125,0.0,0.21523050933639604
+"Based on the review, I can extract the following information:
+
+- Product Category: The review is about a series of architecture, so the category is ""The Blocks"".
+- Product Attributes: The review mentions that the series makes an impression after folding, so the attribute is ""folding"".
+- Other Keywords: There are no other keywords in the review.
+
+Here's the JSON representation of the extracted information:
+
+```json
+{
+    ""product_category"": ""The Blocks"",
+    ""product_attributes"": [""folding""],
+    ""other_keywords"": []
+}
+```
+
+Note that the ""product_attributes"" array contains only one attribute, but the schema allows for an array of attributes. If there are more attributes, they should be added to the array.","{'review_content': 'The whole series of architecture is great, it makes an impression after folding.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['series', 'architecture', 'great', 'impression', 'folding'], 'other_keywords': ['great', 'impression']}}",meta-llama/Llama-3.2-3B-Instruct,61,53,0.8768091201782227,0.2857142857142857,0.2,0.058541891451963514
+"Here's a JSON object based on the review:
+
+```json
+{
+    ""product_category"": ""The Blocks"",
+    ""product_attributes"": [
+        ""Great"",
+        ""LEGO bricks"",
+        ""movable"",
+        ""refined"",
+        ""aesthetic""
+    ],
+    ""other_keywords"": [
+        ""recommend""
+    ]
+}
+```
+
+This JSON object captures the following elements from the review:
+
+- Product category: ""The Blocks""
+- Product attributes: The reviewer's positive adjectives for the product (Great, LEGO bricks, movable, refined, aesthetic)
+- Other keywords: The reviewer's action (recommend)","{'review_content': 'Great LEGO bricks. Many elements are movable, everything is refined and aesthetic. I really recommend it.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['LEGO bricks', 'movable', 'refined', 'aesthetic', 'recommend'], 'other_keywords': ['movable', 'refined', 'aesthetic', 'recommend']}}",meta-llama/Llama-3.2-3B-Instruct,81,40,0.9175322651863098,0.0,0.631578947368421,0.5720918029503619
+"Here is the review in JSON format:
+
+```json
+{
+  ""product_category"": ""The Blocks"",
+  ""product_attributes"": [
+    ""super set"",
+    ""super two models"",
+    ""large number of blocks"",
+    ""detail and mapping at the highest level""
+  ],
+  ""other_keywords"": [""son pleased""]
+}
+```
+
+Explanation:
+
+- `product_category` is set to ""The Blocks"" as it is the category of the product being reviewed.
+- `product_attributes` is set to an array of strings that describe the attributes of the product. In this case, the attributes mentioned are ""super set"", ""super two models"", ""large number of blocks"", and ""detail and mapping at the highest level"".
+- `other_keywords` is set to an array of strings that are not necessarily attributes of the product, but are still relevant to the review. In this case, the keyword ""son pleased"" is mentioned, indicating that the child is satisfied with the product.","{'review_content': 'Super set with super two models. A large number of blocks. Detail and mapping at the highest level. The son is pleased.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['set', 'models', 'large', 'blocks', 'detail', 'mapping', 'highest', 'pleased'], 'other_keywords': ['super', 'large', 'highest', 'pleased']}}",meta-llama/Llama-3.2-3B-Instruct,96,58,0.8755569458007812,0.125,0.18749999999999997,0.635042591488241
+"{
+        ""product_category"": ""Electric bicycle"",
+        ""product_attributes"": [""battery performance at low speed""],
+        ""other_keywords"": [""range at 30 km/h"", ""60-70km range""]
+}","{'review_content': 'The main thing: on the battery itself, driving calmly, not exceeding 30 km/h, you can do 60-70km.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['battery', 'calmly', '30 km/h', '60-70km'], 'other_keywords': ['battery', 'calmly']}}",arcee-ai/Arcee-Spark,73,43,0.9058511257171631,0.2857142857142857,0.41666666666666663,0.4977310541852154
+"{
+    ""product_category"": ""Electric bicycle"",
+    ""product_attributes"": [
+        ""Super contact"",
+        ""looks like in the pictures"",
+        ""accessories included"",
+        ""sensational first ride"",
+        ""battery performance unknown"",
+        ""perfect riding experience"",
+        ""powerful feel""
+    ],
+    ""other_keywords"": [
+        ""impressed"",
+        ""recommendable"",
+        ""good value""
+    ]
+}","{'review_content': 'Super contact, the bike looks like in the pictures plus accessories, the first sensational ride, I do not yet know what range on the battery but you ride perfectly, feel the power.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['contact', 'bike', 'pictures', 'accessories', 'sensational', 'ride', 'range', 'battery', 'ride', 'power'], 'other_keywords': ['battery', 'accessories', 'sensational', 'super', 'power']}}",arcee-ai/Arcee-Spark,193,109,0.8486619591712952,0.23076923076923073,0.048780487804878044,0.445302393158624
+"{
+        ""product_category"": ""Electric bicycle"",
+        ""product_attributes"": [""The bike""],
+        ""other_keywords"": [""great"", ""works"", ""okay""]
+}","{'review_content': ""The bike is great. We'll see how it works, but I think it'll be okay"", 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['bike', 'great', 'works', 'okay'], 'other_keywords': ['great', 'okay']}}",arcee-ai/Arcee-Spark,39,16,0.8993857502937317,0.11111111111111116,0.4615384615384615,0.7346987523878461
+"{
+    ""product_category"": ""Refrigerator"",
+    ""product_attributes"": [""Super refrigerator"", ""keeps fruits and vegetables fresh longer"", ""works as described""],
+    ""other_keywords"": [""recommend""]
+}","{'review_content': 'Super refrigerator and actually it works fruits and vegetables can fly much longer while keeping fresh as it works in the description I recommend', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'fruits', 'vegetables', 'fresh', 'description', 'recommend'], 'other_keywords': ['super', 'fresh', 'recommend']}}",arcee-ai/Arcee-Spark,88,44,0.8444422483444214,0.125,0.09523809523809525,0.6541866838799537
+"{
+        ""product_category"": ""Refrigerator"",
+        ""product_attributes"": [
+            ""capacious"",
+            ""super muted advertised""
+        ],
+        ""other_keywords"": [
+            ""legated Korean manufacturer"",
+            ""beats on the head""
+        ]
+}","{'review_content': 'Very capauous refrigerator, super muted advertised refrigerators of the legated Korean manufacturer beats on the head!', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'capauous', 'muted', 'Korean'], 'other_keywords': ['capauous', 'muted', 'Korean']}}",arcee-ai/Arcee-Spark,75,53,0.8142129778862,0.18181818181818177,0.0,0.4327624147779052
+"{
+        ""product_category"": ""Refrigirator"",
+        ""product_attributes"": [],
+        ""other_keywords"": [""recently"", ""recommend""]
+}","{'review_content': ""I've had the Refrigerator recently, but for now, I can only recommend it."", 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['Refrigerator', 'recommend'], 'other_keywords': ['recently', 'recommend']}}",arcee-ai/Arcee-Spark,41,22,0.8968986868858337,0.0,0.3333333333333333,0.476996800068188
+"{
+    ""product_category"": ""The Blocks"",
+    ""product_attributes"": [""architecture"", ""folding""],
+    ""other_keywords"": [""great impression""]
+}","{'review_content': 'The whole series of architecture is great, it makes an impression after folding.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['series', 'architecture', 'great', 'impression', 'folding'], 'other_keywords': ['great', 'impression']}}",arcee-ai/Arcee-Spark,60,24,0.9010526537895203,0.0,0.4615384615384615,0.5928920455393963
+"{
+        ""product_category"": {
+            ""type"": ""string"",
+            ""enum"": [""Electric bicycle"", ""Refrigirator"", ""The Blocks"", ""Others""],
+            ""value"": ""The Blocks""
+        },
+        ""product_attributes"": {
+            ""type"": ""array"",
+            ""items"": {
+                ""type"": ""string""
+            },
+            ""value"": [
+                ""Great LEGO bricks"",
+                ""Many elements are movable"",
+                ""Everything is refined"",
+                ""Aesthetic""
+            ]
+        },
+        ""other_keywords"": {
+            ""type"": ""array"",
+            ""items"": {
+                ""type"": ""string""
+            },
+            ""value"": [
+                ""recommend it""
+            ]
+        }
+}","{'review_content': 'Great LEGO bricks. Many elements are movable, everything is refined and aesthetic. I really recommend it.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['LEGO bricks', 'movable', 'refined', 'aesthetic', 'recommend'], 'other_keywords': ['movable', 'refined', 'aesthetic', 'recommend']}}",arcee-ai/Arcee-Spark,94,73,0.8162959218025208,0.6071428571428572,0.0,2.6024417055002993e-155
+"{
+    ""product_category"": ""The Blocks"",
+    ""product_attributes"": [
+        ""super set"",
+        ""super two models"",
+        ""large number of blocks"",
+        ""detail"",
+        ""mapping"",
+        ""highest level""
+    ],
+    ""other_keywords"": [
+        ""son is pleased""
+    ]
+}","{'review_content': 'Super set with super two models. A large number of blocks. Detail and mapping at the highest level. The son is pleased.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['set', 'models', 'large', 'blocks', 'detail', 'mapping', 'highest', 'pleased'], 'other_keywords': ['super', 'large', 'highest', 'pleased']}}",arcee-ai/Arcee-Spark,90,45,0.8954766988754272,0.125,0.33333333333333337,0.681084585947265
+"Based on the provided review, here is the JSON format with the given schema:
+
+```json
+{
+    ""product_category"": ""Electric bicycle"",
+    ""product_attributes"": [
+        ""battery"",
+        ""driving speed"",
+        ""range""
+    ],
+    ""other_keywords"": [
+        ""calmly"",
+        ""not exceeding 30 km/h"",
+        ""60-70km""
+    ]
+}
+```","{'review_content': 'The main thing: on the battery itself, driving calmly, not exceeding 30 km/h, you can do 60-70km.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['battery', 'calmly', '30 km/h', '60-70km'], 'other_keywords': ['battery', 'calmly']}}",mistralai/Ministral-8B-Instruct-2410,74,49,0.8943972587585449,0.2857142857142857,0.4347826086956522,0.5385159669071419
+"{
+    ""product_category"": ""Electric bicycle"",
+    ""product_attributes"": [
+        ""battery"",
+        ""range"",
+        ""power""
+    ],
+    ""other_keywords"": [
+        ""accessories"",
+        ""first ride"",
+        ""sensational""
+    ]
+}","{'review_content': 'Super contact, the bike looks like in the pictures plus accessories, the first sensational ride, I do not yet know what range on the battery but you ride perfectly, feel the power.', 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['contact', 'bike', 'pictures', 'accessories', 'sensational', 'ride', 'range', 'battery', 'ride', 'power'], 'other_keywords': ['battery', 'accessories', 'sensational', 'super', 'power']}}",mistralai/Ministral-8B-Instruct-2410,126,82,0.8756972551345825,0.1428571428571429,0.0,0.34748168858619766
+"Based on the review, here's the JSON format:
+
+```json
+{
+    ""product_category"": ""Electric bicycle"",
+    ""product_attributes"": [""great"", ""okay""],
+    ""other_keywords"": [""bike"", ""works"", ""think""]
+}
+```","{'review_content': ""The bike is great. We'll see how it works, but I think it'll be okay"", 'golden_answer': {'product_category': 'Electic bicycle', 'product_attributes': ['bike', 'great', 'works', 'okay'], 'other_keywords': ['great', 'okay']}}",mistralai/Ministral-8B-Instruct-2410,40,24,0.9069627523422241,0.11111111111111116,0.15384615384615383,0.7222376738746301
+"Based on the review, here is the JSON format:
+
+```json
+{
+    ""product_category"": ""Refrigerator"",
+    ""product_attributes"": [""Super"", ""works"", ""fruits"", ""vegetables"", ""fresh""],
+    ""other_keywords"": [""actually"", ""it"", ""can"", ""fly"", ""much"", ""longer"", ""while"", ""keeping"", ""as"", ""it"", ""works"", ""in"", ""the"", ""description"", ""I"", ""recommend""]
+}
+```","{'review_content': 'Super refrigerator and actually it works fruits and vegetables can fly much longer while keeping fresh as it works in the description I recommend', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'fruits', 'vegetables', 'fresh', 'description', 'recommend'], 'other_keywords': ['super', 'fresh', 'recommend']}}",mistralai/Ministral-8B-Instruct-2410,121,76,0.8487856388092041,0.1923076923076923,0.13333333333333333,0.46786783841925483
+"Based on the provided review, here's the JSON format:
+
+```json
+{
+    ""product_category"": ""Refrigerator"",
+    ""product_attributes"": [""capacious"", ""muted""],
+    ""other_keywords"": [""advertised"", ""Korean"", ""manufacturer"", ""beats"", ""on"", ""the"", ""head""]
+}
+```","{'review_content': 'Very capauous refrigerator, super muted advertised refrigerators of the legated Korean manufacturer beats on the head!', 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['refrigerator', 'capauous', 'muted', 'Korean'], 'other_keywords': ['capauous', 'muted', 'Korean']}}",mistralai/Ministral-8B-Instruct-2410,64,47,0.8158991932868958,0.1428571428571429,0.0,0.5063658200796263
+"Based on the provided review, here is the JSON format with the given schema:
+
+```json
+{
+    ""product_category"": ""Refrigerator"",
+    ""product_attributes"": [],
+    ""other_keywords"": [""recently"", ""recommend""]
+}
+```","{'review_content': ""I've had the Refrigerator recently, but for now, I can only recommend it."", 'golden_answer': {'product_category': 'Refrigirator', 'product_attributes': ['Refrigerator', 'recommend'], 'other_keywords': ['recently', 'recommend']}}",mistralai/Ministral-8B-Instruct-2410,42,22,0.8709233403205872,0.0,0.3333333333333333,0.476996800068188
+"Based on the review, here's the JSON format:
+
+```json
+{
+    ""product_category"": ""The Blocks"",
+    ""product_attributes"": [""Architecture"", ""Folding""],
+    ""other_keywords"": [""Impression""]
+}
+```","{'review_content': 'The whole series of architecture is great, it makes an impression after folding.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['series', 'architecture', 'great', 'impression', 'folding'], 'other_keywords': ['great', 'impression']}}",mistralai/Ministral-8B-Instruct-2410,61,33,0.8817723393440247,0.20833333333333337,0.16666666666666666,0.3953345280428221
+"{
+    ""product_category"": ""The Blocks"",
+    ""product_attributes"": [""Great LEGO bricks"", ""Many elements are movable"", ""Everything is refined and aesthetic""],
+    ""other_keywords"": [""I really recommend it""]
+}","{'review_content': 'Great LEGO bricks. Many elements are movable, everything is refined and aesthetic. I really recommend it.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['LEGO bricks', 'movable', 'refined', 'aesthetic', 'recommend'], 'other_keywords': ['movable', 'refined', 'aesthetic', 'recommend']}}",mistralai/Ministral-8B-Instruct-2410,98,58,0.8594106435775757,0.1428571428571429,0.14285714285714285,0.5723300004406862
+"Based on the review, here's the JSON format:
+
+```json
+{
+    ""product_category"": ""The Blocks"",
+    ""product_attributes"": [
+        ""Super set"",
+        ""Super two models"",
+        ""Large number of blocks"",
+        ""Detail and mapping at the highest level""
+    ],
+    ""other_keywords"": [
+        ""The son is pleased""
+    ]
+}
+```","{'review_content': 'Super set with super two models. A large number of blocks. Detail and mapping at the highest level. The son is pleased.', 'golden_answer': {'product_category': 'The Blocks', 'product_attributes': ['set', 'models', 'large', 'blocks', 'detail', 'mapping', 'highest', 'pleased'], 'other_keywords': ['super', 'large', 'highest', 'pleased']}}",mistralai/Ministral-8B-Instruct-2410,104,57,0.8790923953056335,0.2222222222222222,0.17647058823529413,0.5337167725345563

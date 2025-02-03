@@ -1,0 +1,86 @@
+<HTML>
+<HEAD>
+<TITLE>Lateiner Dataspace Home Page</TITLE>
+<BASE HREF=http://www.dataspace.com/WWW/welcome.html>
+</HEAD>
+<BODY background="http://www.dataspace.com/WWW/images/texturen.jpg">
+<center>
+<iMG SRC = "ftp://ftp.near.net/member/dataspace/.../welcome.gif" ALT="Welcome to Lateiner Dataspace Labs" ALIGN=BOTTOM> 
+<BR>
+<I><B>Lateiner Dataspace: Visualization, Simulation, Dataspace</B></I>
+</center>
+<!==========================linebreak=============================>
+<hr>
+<center>
+<DL>
+<DT><A HREF="http://www.dataspace.com:84/cgi-bin/imagemap/ld-bar">
+<img src="http://www.dataspace.com/WWW/maps/ld-bar.gif" ismap></A>
+<DT>[ <A href="http://www.dataspace.com/">Home</A> ]
+[ <A href="http://www.dataspace.com/WWW/papers/Papers.html">Papers</A> ]
+[ <A href="http://www.dataspace.com/WWW/tech/TechReports.html">Tech Reports</A>
+]
+[ <A href="http://www.dataspace.com/WWW/documents/ftp.html">FTP Site</A> ]
+[ <A href="http://www.dataspace.com/WWW/documents/related.html">Related</A> ]
+[ <A href="http://www.dataspace.com:84/forms/comments.html">Comments</A> ]
+</DL>
+</center>
+<!==========================linebreak=============================>
+<hr>
+<H1>Lateiner Dataspace Corporation</H1>
+<BR>
+<p>
+The Lateiner Dataspace site contains 
+information pertaining to research being performed at Lateiner Dataspace
+on high-speed volume visualization, discrete physical simulation techniques,
+and Dataspace distributed datastructures.  We invite other sites to submit
+URL's on related information for incorporation into our subnet, and we
+also invite the submission of materials to include.<p>
+
+The mission of this site is to provide a reference point for information
+regarding Dataspace related items, where Dataspace is a dynamic, distributed
+voxel database.  This would include works dealing with the rendering of
+voxel data, manipulation and simulation of voxel models, and distributed
+computing algorithms.<p>
+
+After you have finished exploring our site, feel free to submit comments
+using our <A HREF=http://www.dataspace.com:84/forms/comments.html><I>
+Comments Form</I></A><p>
+
+Please use the text-based or image-based navigation scripts at the top
+of each page to explore our extensive World Wide Web offerings.
+<P>
+<h3>Update:</h3>
+<p>
+<a href=http://www.dataspace.com/WWW/vox-l.html>Vox-L Inc.</a> was one
+of the first companies to license Lateiner Dataspace's volume rendering
+technologies (the MRI images in the greeting banner were generated using
+these algorithms).  Vox-L's Visualizer software has incorporated Lateiner
+Dataspace technology since 1992.  In 1994, Vox-L licensed additional
+technology, including an embedded version of Dataspace TM (our high-speed
+volumetric object database) for use in the Vox-L Visualizer (incorporating
+the database to power Vox-L's segmentation and classification tools).  In
+addition, Vox-L recently licensed the Dataspace Object Manager to power the 
+communication between the Vox-L Visualizer and Vox-L Extension processes
+built using the Vox-L API 
+(see <a href=http://www.dataspace.com/WWW/vapi/VAPI-Developer.html>for more information</a>).
+<p>
+Vox-L Inc. has stated that their next goal is to license Dataspace
+simulation technology for incorporation into the Vox-L Visualizer to
+enable enhanced Virtual Surgery applications.  To learn more
+about Dataspace as a simulation environment and as a distributed
+metacomputing engine, read <b><i><a href=http://www.dataspace.com/WWW/documents/interview.html>Interview with Mathematician about Dataspace</a></i></b>. 
+
+
+<p>
+To learn more about licensing technology from Lateiner Dataspace,
+send mail to <A HREF="mailto:info@dataspace.com">info@dataspace.com</A>.
+<P>
+<!==========================linebreak=============================>
+<hr>
+<i><a href=http://www.dataspace.com/WWW/about.html>About the Dataspace.com
+World Wide Web server</a></i>
+<p>
+<BR>
+<A HREF=http://www.dataspace.com/WWW/copyright.html><I>(C) Copyright And Legal Notice</I></A>
+<ADDRESS><A NAME=JSL HREF=http://www.dataspace.com/WWW/people/lateiner.html> JSL</A></ADDRESS>
+</BODY>
